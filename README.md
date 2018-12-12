@@ -1,4 +1,4 @@
-# List of summer schools in machine learning (and related fields)
+# List of summer schools in machine learning + related fields
 
 Please note that the summer schools are arrange in reverse chronological order of dates i.e. the last one to be held is listed first.
 
