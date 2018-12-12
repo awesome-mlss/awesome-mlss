@@ -64,4 +64,7 @@ These are the summer schools which are held regularly :
 
 ### Blog
 
-- 
+- [An Insider's Look Into The Summer School Training The World's Top AI Researchers](https://www.forbes.com/sites/williamfalcon/2018/09/03/an-insiders-look-into-the-summer-school-training-the-worlds-top-ai-researchers/#99a8e7ba05f1) (CIFAR DLRL Summer School 2018)
+- [2018 Deep Learning And Reinforcement Learning Summer School](https://vectorinstitute.ai/2018/11/07/vector-institute-deep-learning-and-reinforcement-learning-2018-summer-school/) (CIFAR DLRL Summer School 2018)
+- [6 things I learned in the deep learning summer school](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school) (DL Summer School 2015)
+- [Attending the Lisbon Machine Learning Summer School](http://mfcabrera.com/blog/2014/7/25/lxmls-2014blogorg.html) (LxMLS 2014)
