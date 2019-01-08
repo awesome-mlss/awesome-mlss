@@ -1,18 +1,20 @@
 # List of summer schools in machine learning + related fields
 
-Please note that the summer schools are arrange in reverse chronological order of dates i.e. the last one to be held is listed first.
+NOTE:
+- The schools are arranged in reverse chronogical order by date 
+- Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
 ## 2019
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|NA|Yes
+[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|(₽1000-₽30000|Travel grants for people outside Moscow
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|NA|NA|NA
-[International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|Feb 2 (Early) to On-site|€310 (earliest) to €520 (on-site)|No
-[Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|NA|Yes
-[Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|NA|NA|NA
-[Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest| July 1 - July 6|March 29|NA|Yes
+[International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|Feb 2 (Early) to On-site|€310-€520|No
+[Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£500|Travel scholarships for students from developing countries
+[Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|Feb 22|€100-€700|No
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest| July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
@@ -52,7 +54,7 @@ These are the summer schools which are held regularly :
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
 - Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
 - Deep Learning Indaba Summer Schools : http://www.deeplearningindaba.com
-- Summer Schools on Computer Vision And Machine Learning (byIIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
+- Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
 
@@ -66,7 +68,6 @@ These are the summer schools which are held regularly :
 - [Will Sheffield organize a Gaussian Processes Summer School in 2018?](https://www.reddit.com/r/MachineLearning/comments/7v8wxn/d_will_sheffield_organize_a_gaussian_processes/)
 - [Videos of Deep|Bayes – Summer School on Bayesian Deep Learning](https://www.reddit.com/r/MachineLearning/comments/9dgnl3/r_videos_of_deepbayes_summer_school_on_bayesian/)
 - [Best deep learning/ML summer schools of 2018](https://www.reddit.com/r/MachineLearning/comments/85s9i8/d_best_deep_learningml_summer_schools_of_2018/)
-- 
 
 ### Blogs
 
