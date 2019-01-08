@@ -4,16 +4,17 @@ Please note that the summer schools are arrange in reverse chronological order o
 
 ## 2019
 
-Name|Location|Organiser|Dates|Deadline|Aid(Travel Grants etc)|Website
+Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-Deep\|Bayes Summer School|Moscow, Russia|Higher School Of Economics|Aug|Late March| Yes|http://deepbayes.ru/|
-Deep Learning Indaba 2019|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|http://www.deeplearningindaba.com/indaba-2019.html
-Deep Learning and Reinforcement Learning Summer School (DLRL 2019)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|NA|NA|https://dlrlsummerschool.ca
-Machine Leaning Summer School (MLSS London)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|Yes|https://sites.google.com/view/mlss-2019
-Vision Understanding and Machine Intelligence (VISUM 2019)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|NA|NA|http://visum.inesctec.pt
-Eastern European Machine Learning Summer School|Bucharest, Romania|Politehnica University of Bucharest| July 1 - July 6|March 29|Yes|https://www.eeml.eu
-AI and Games Summer School|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|http://school.gameaibook.org/
-Machine Leaning Summer School (MLSS Stellenbosch)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|https://mlssafrica.com/
+[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|NA|Yes
+[Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|NA|NA|NA
+[International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|Feb 2 (Early) to On-site|€310 (earliest) to €520 (on-site)|No
+[Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|NA|Yes
+[Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|NA|NA|NA
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest| July 1 - July 6|March 29|NA|Yes
+[AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
+[Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
 
 ## 2018
