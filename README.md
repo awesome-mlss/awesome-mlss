@@ -22,26 +22,26 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 
 ## 2018
 
-Name|Location|Organiser|Dates|Aid|Website|
-------|--|--|---|-|---|
-Summer School on Machine Learning and Data Science|Abuja, Nigeria|Data Science Africa|12 Nov - 16 Nov |NA|http://www.datascienceafrica.org/dsa2018abuja/
-Deep Learning Indaba 2018|Stellenbosch, South Africa| Deep Learning Indaba|Sep 9 - Sep 14|Yes|http://www.deeplearningindaba.com/2018.html
-Gaussian Process and Uncertainty Quantification Summer School (GPSS 2018)|Sheffield, UK|Sheffield University|Sep 3 - Sep 6| No|http://gpss.cc
-Machine Learning Summer School (MLSS Madrid)|Madrid, Spain|Universidad Autónoma de Madrid|27 Aug - 7 Sep|Yes|http://mlss.ii.uam.es/mlss2018
-Deep\|Bayes Summer School|Moscow, Russia|Higher School Of Economics|Aug 27 - Sep 1| Yes|http://deepbayes.ru/|
-Summer School on Statistical Relational Artificial Intelligence (ACAI 2018)|Ferrara, Italy|European Association for Artificial Intelligence|Aug 27 - Aug 31|Yes|http://acai2018.unife.it/
-Deep Learning and Reinforcement Learning Summer School (DLRL 2018)|Toronto, Canada|CIFAR, Vector Institute|July 25 - Aug 3| Yes|https://dlrlsummerschool.ca/home/|
-International Summer School on Deep Learning (DeepLearn Genoa)|Genova, Italy|University of Genova| July 23 - July 27|No|http://grammars.grlmc.com/DeepLearn2018|
-Transylvanian Machine Learning Summer School|Cluj-Napoca, Romania|Romanian Institute of Science and Technology| July 16 - July 22| Yes|https://tmlss.ro|
-Vision Understanding and Machine Intelligence (VISUM 2018)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 5 - July 13|NA|http://visum.inesctec.pt/visum-2018-6th-edition/
-Summer Schools on Computer Vision And Machine Learning|Hyderabad, India|IIIT Hyderabad| July 2 - July 14| No|http://cvit.iiit.ac.in/summerschoolseries/
-PRAIRIE AI Summer School|Grenoble, France|INRIA Grenoble| July 2 - July 6| Yes|https://project.inria.fr/paiss/|
-Machine Learning Summer School (MLSS Buenos Aires)|Buenos Aires, Argentina|TO ADD| June 18 - June 30|Yes|http://mlss2018.net.ar|
-Advanced Statistics and Data Mining Summer School|Madrid, Spain|Univ. Politécnica de Madrid| June 25 - July 3|No|http://dia.fi.upm.es/ASDM
-Data Science Summer School (DS<sup>3</sup>)|Paris, France|École Polytechnique| June 25 – June 29| No|http://www.ds3-datascience-polytechnique.fr|
-Lisbon Machine Learning School (LxMLS 2018)|Lisbon, Portugal|Instituto Superior Técnico| June 14 - June 21|Yes|http://lxmls.it.pt/2018/
-Summer School on Machine Learning and Data Science|Nyeri, Kenya|Data Science Africa| May 31 - June 6|NA|http://www.datascienceafrica.org/dsa2018/
-AI and Games Summer School|Crete (Chania), Greece|Georgios N. Yannakakis and Julian Togelius|May 28 - June 1|NA|NA|http://school.gameaibook.org/
+Name|Location|Organiser|Dates|Aid
+------|--|--|---|-
+[Summer School on Machine Learning and Data Science](http://www.datascienceafrica.org/dsa2018abuja/)|Abuja, Nigeria|Data Science Africa|12 Nov - 16 Nov |NA
+[Deep Learning Indaba 2018](http://www.deeplearningindaba.com/2018.html)|Stellenbosch, South Africa| Deep Learning Indaba|Sep 9 - Sep 14|Yes
+[Gaussian Process and Uncertainty Quantification Summer School (GPSS 2018)](http://gpss.cc)|Sheffield, UK|Sheffield University|Sep 3 - Sep 6|No
+[Machine Learning Summer School (MLSS Madrid)](http://mlss.ii.uam.es/mlss2018)|Madrid, Spain|Universidad Autónoma de Madrid|27 Aug - 7 Sep|Yes
+[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 27 - Sep 1| Yes
+[Summer School on Statistical Relational Artificial Intelligence (ACAI 2018)](http://acai2018.unife.it/)|Ferrara, Italy|European Association for Artificial Intelligence|Aug 27 - Aug 31|Yes
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2018)](https://dlrlsummerschool.ca/home/)|Toronto, Canada|CIFAR, Vector Institute|July 25 - Aug 3|Yes
+[International Summer School on Deep Learning (DeepLearn 2018)](http://grammars.grlmc.com/DeepLearn2018)|Genova, Italy|University of Genova| July 23 - July 27|No
+[Transylvanian Machine Learning Summer School](https://tmlss.ro)|Cluj-Napoca, Romania|Romanian Institute of Science and Technology| July 16 - July 22| Yes
+[Vision Understanding and Machine Intelligence (VISUM 2018)](http://visum.inesctec.pt/visum-2018-6th-edition)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 5 - July 13|NA
+[Summer Schools on Computer Vision And Machine Learning](http://cvit.iiit.ac.in/summerschoolseries)|Hyderabad, India|IIIT Hyderabad| July 2 - July 14| No
+[PRAIRIE AI Summer School](https://project.inria.fr/paiss)|Grenoble, France|INRIA Grenoble| July 2 - July 6| Yes
+[Machine Learning Summer School (MLSS Buenos Aires)](http://mlss2018.net.ar)|Buenos Aires, Argentina|TO ADD| June 18 - June 30|Yes
+[Advanced Statistics and Data Mining Summer School](http://dia.fi.upm.es/ASDM)|Madrid, Spain|Univ. Politécnica de Madrid| June 25 - July 3|No
+[Data Science Summer School (DS<sup>3</sup>)](http://www.ds3-datascience-polytechnique.fr)|Paris, France|École Polytechnique| June 25 – June 29| No
+[Lisbon Machine Learning School (LxMLS 2018)](http://lxmls.it.pt/2018)|Lisbon, Portugal|Instituto Superior Técnico| June 14 - June 21|Yes
+[Summer School on Machine Learning and Data Science](http://www.datascienceafrica.org/dsa2018)|Nyeri, Kenya|Data Science Africa| May 31 - June 6|NA
+[AI and Games Summer School](http://school.gameaibook.org)|Crete (Chania), Greece|Georgios N. Yannakakis and Julian Togelius|May 28 - June 1|NA|NA
 
 
 
