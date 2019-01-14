@@ -15,6 +15,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|Feb 22|€100-€700|No
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|NA|NA|NA
+[Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 29|NA|NA
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
