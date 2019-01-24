@@ -10,12 +10,12 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|(₽1000-₽30000)|Travel grants for people outside Moscow
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
-[Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|NA|NA|NA
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 15|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
 [International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|Feb 2 (Early) to On-site|€310-€520|No
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|Feb 22|€100-€700|No
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|NA|NA|NA
-[Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 29|NA|NA
+[Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 27|NA|NA
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
