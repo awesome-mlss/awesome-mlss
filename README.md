@@ -9,6 +9,8 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|(₽1000-₽30000)|Travel grants for people outside Moscow
+[Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
+[MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|April 6|NA|limited number of travel stipends and free registration fees will be available to students in need of financial support
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 15|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
 [International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|Feb 2 (Early) to On-site|€310-€520|No
