@@ -8,6 +8,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[North African Machine Leaning Summer School (NASSMA)](https:nassma-ml.org)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|$200 for students|limited number of travel grants and free registration is available to students in need of financial support
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|(₽1000-₽30000)|Travel grants for people outside Moscow
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
 [MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|April 6|NA|limited number of travel stipends and free registration fees will be available to students in need of financial support
