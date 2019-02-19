@@ -8,18 +8,19 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[North African Machine Leaning Summer School (NASSMA)](https:nassma-ml.org)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|$200 for students|limited number of travel grants and free registration is available to students in need of financial support
-[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug|Late March|(₽1000-₽30000)|Travel grants for people outside Moscow
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
-[MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|April 6|NA|limited number of travel stipends and free registration fees will be available to students in need of financial support
+[MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|April 6|NA|Limited number of travel stipends and free registration fees will be available to students in need of financial support
+[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 20 - Aug 25|April 15|(₽1000-₽30000)|Will provide a limited number of travel grants
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 22 (extended)|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
 [International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|March 2 (Early) to On-site|€310-€520|No
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries
+[Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|Feb 22|€100-€700|No
-[Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|NA|NA
+[Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
 [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 27|NA|NA
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
+[North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
