@@ -21,6 +21,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 27|NA|NA
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|TBA|TBA
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
