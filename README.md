@@ -26,7 +26,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Natural Language Processing with Deep Learning](https://sites.google.com/view/dlnlp2019/home)|Barcelona, Spain|UPC|June 26 - July 3|NA|NA|NA
 [Deep Learning For Vision](https://telecombcn-dl.github.io/2019-dlcv/)|Barcelona, Spain|UPC|June 25 - July 3|June 10|€429|No (Priority will be given to UPC students for registration)
 [North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
-[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|TBA|TBA
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|€256 - €1024|A limited number of scholarships will be provided.
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
 [Deep Learning For Medical Imaging](https://deepimaging2019.sciencesconf.org/)|Lyon, France|INSA Lyon|April 15 - April 19| Feb 20|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
