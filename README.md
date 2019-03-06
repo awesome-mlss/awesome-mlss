@@ -19,6 +19,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [2019 Deep Learning Summer School](http://ss.cs.tsinghua.edu.cn/)|Beijing, China|Tsinghua University|July 13 - July 26|April 15|$800|Campus accomodation will be given
 [Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
+[Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|NA|€270-€450|Limited financial support for students
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
 [International Summer School on Deep Learning](http://2019.dl-lab.eu/registration/registration-fee/)|Gdansk, Poland|Politechnika Gdańska|July 1 - July 5|Feb 28|€195-€245|NA
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
