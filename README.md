@@ -18,6 +18,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries
 [2019 Deep Learning Summer School](http://ss.cs.tsinghua.edu.cn/)|Beijing, China|Tsinghua University|July 13 - July 26|April 15|$800|Campus accomodation will be given
 [Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
+[International Computer Vision Summer School (ICVSS 2019)](http://iplab.dmi.unict.it/icvss2019/Home)|Sicily, Italy|University of Catania| July 7 - July 13|March 31|€525-€960|Provide prizes for poster presentation, reading group and essay competition
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
 [Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|NA|€270-€450|Limited financial support for students
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
@@ -71,6 +72,7 @@ These are the summer schools which are held regularly :
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
+- International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
 
 
 
