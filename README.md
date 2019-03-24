@@ -10,7 +10,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|mid-late March|NA|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
-[MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 6|€400-€1000|Full and partial (25%) stipends will be available to students with a strong profile and in need of financial support
+[Machine Learning Summer School (MLSS Moscow)](https://mlss2019.skoltech.ru)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 6|€400-€1000|Full & partial stipends for strong applications. Accomodation costs fully covered for the best applicants
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 20 - Aug 25|April 15|(₽1000-₽30000)|Will provide a limited number of travel grants
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|April 12|Free for students|Travel support (expected 200+)
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 22 (extended)|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
