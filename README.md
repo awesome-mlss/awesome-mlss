@@ -8,7 +8,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|mid-late March|NA|NA
+[Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss19/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|July 1 for early bird|£270-£750|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
 [Machine Learning Summer School (MLSS Moscow)](https://mlss2019.skoltech.ru)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 12|$400-$1000|Full & partial stipends for strong applications. Accomodation costs fully covered for the best applicants
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 20 - Aug 25|April 15|(₽1000-₽30000)|Will provide a limited number of travel grants
