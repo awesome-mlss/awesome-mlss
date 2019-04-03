@@ -30,6 +30,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Deep Learning For Vision](https://telecombcn-dl.github.io/2019-dlcv/)|Barcelona, Spain|UPC|June 25 - July 3|June 10|€429|No (Priority will be given to UPC students for registration)
 [Advanced Statistics and Data Mining Summer School 2019](http://www.dia.fi.upm.es/ASDM)|Madrid, Spain|UPM| June 24 - July 5|June 19|€250-€400 per course|NA
 [North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
+[BIG DIVE 8](https://www.bigdive.eu/big-dive-8/)|Torino,ITALY|TOP-IX Headquarters|June 17 – July 12|June 2|€750 - €1500|NA
 [Data Science Summer School (DS<sup>3</sup>)](http://www.ds3-datascience-polytechnique.fr)|Paris, France|École Polytechnique| June 24 – June 28|April 26|€150 - €1500|NA
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|€256 - €1024|A limited number of scholarships will be provided.
 [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
