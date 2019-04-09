@@ -32,7 +32,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
 [Data Science Summer School (DS<sup>3</sup>)](http://www.ds3-datascience-polytechnique.fr)|Paris, France|École Polytechnique| June 24 – June 28|April 26|€150 - €1500|NA
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|€256 - €1024|A limited number of scholarships will be provided.
-[AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
+[AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|Feb 28 for early bird|$500-$950|Unity is offering 6 scholarships to PhD students/Indie developers
 [Deep Learning For Medical Imaging](https://deepimaging2019.sciencesconf.org/)|Lyon, France|INSA Lyon|April 15 - April 19| Feb 20|NA|NA
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
