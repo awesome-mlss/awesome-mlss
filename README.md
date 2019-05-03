@@ -1,10 +1,19 @@
 # List of summer schools in machine learning + related fields
 
+## Table of Contents
+
+1. [2019 schools](#2019-summer-schools)
+2. [2018 schools](#2018-summer-schools)
+3. [Recurring Summer Schools](#recurring-summer-schools)
+4. [FAQs](#faqs)
+   1. [Reddit](#reddit)
+   2. [Blogs](#blogs)
+
 NOTE:
 - The schools are arranged in reverse chronogical order by date 
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
-## 2019
+## 2019 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
@@ -26,6 +35,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|April 2 for grant, May 15|€270-€450|Limited financial support for students
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
 [International Summer School on Deep Learning](http://2019.dl-lab.eu/registration/registration-fee/)|Gdansk, Poland|Politechnika Gdańska|July 1 - July 5|Feb 28|€195-€245|NA
+[Artificial Intelligence Summer School](https://www.summerschoolcentralesupelec.fr/about/artificial-intelligence/)|Paris, France|Centrale Supélec|July 1 - July 5|May 27|€1800|Registration fee includes accomodation in university dorms and travel passes
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 27|NA|NA
 [Natural Language Processing with Deep Learning](https://sites.google.com/view/dlnlp2019/home)|Barcelona, Spain|UPC|June 26 - July 3|NA|NA|NA
@@ -39,7 +49,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
 
-## 2018
+## 2018 Summer Schools
 
 Name|Location|Organiser|Dates|Aid
 ------|--|--|---|-
@@ -64,7 +74,7 @@ Name|Location|Organiser|Dates|Aid
 
 
 
-## Recurring Schools
+## Recurring Summer Schools 
 
 These are the summer schools which are held regularly :
 
@@ -81,7 +91,7 @@ These are the summer schools which are held regularly :
 
 
 
-# FAQs
+## FAQs
 
 ### Reddit
 
