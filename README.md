@@ -17,7 +17,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Khipu, Universidad de la Republica|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
+[Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Universidad de la Republica|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss19/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|July 1 for early bird|£270-£750|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
 [Machine Learning Summer School (MLSS Moscow)](https://mlss2019.skoltech.ru)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 31|6000₽, $400-$1000|Full & partial stipends for strong applications. Accomodation costs fully covered for the best applicants
