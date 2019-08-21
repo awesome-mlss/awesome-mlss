@@ -102,7 +102,7 @@ These are the summer schools which are held regularly :
 
 ### Blogs
 
-- [Probabilistic AI summer school: 5 reasons you must attend] (https://scholarleen.com/inspiration/probabilistic-ai-summer-school-5-reasons/) (ProbAI 2019)
+- [Probabilistic AI summer school: 5 reasons you must attend](https://scholarleen.com/inspiration/probabilistic-ai-summer-school-5-reasons/) (ProbAI 2019)
 - [My first summer school](https://www.stratosphereips.org/blog/2018/8/1/1st-transylvanian-machine-learning-summer-school) (TMLSS 2018)
 - [An Insider's Look Into The Summer School Training The World's Top AI Researchers](https://www.forbes.com/sites/williamfalcon/2018/09/03/an-insiders-look-into-the-summer-school-training-the-worlds-top-ai-researchers/#99a8e7ba05f1) (CIFAR DLRL Summer School 2018)
 - [2018 Deep Learning And Reinforcement Learning Summer School](https://vectorinstitute.ai/2018/11/07/vector-institute-deep-learning-and-reinforcement-learning-2018-summer-school/) (CIFAR DLRL Summer School 2018)
