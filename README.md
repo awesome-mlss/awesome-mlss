@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-1. [2019 schools](#2019-summer-schools)
-2. [2018 schools](#2018-summer-schools)
-3. [Recurring Summer Schools](#recurring-summer-schools)
-4. [FAQs](#faqs)
+1. [2020 schools](#2020-summer-schools)
+2. [2019 schools](#2019-summer-schools)
+3. [2018 schools](#2018-summer-schools)
+4. [Recurring Summer Schools](#recurring-summer-schools)
+5. [FAQs](#faqs)
    1. [Reddit](#reddit)
    2. [Blogs](#blogs)
 
@@ -13,6 +14,12 @@ NOTE:
 - The schools are arranged in reverse chronogical order by date 
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
+## 2020 Summer Schools
+
+Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
+------|--|--|---|--|-|-
+[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/)|Tübingen, Germany|Max Planck Institute for Intelligent Systems|June 28 - July 10|NA|NA|NA|
+[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-8|NA|NA|NA|
 ## 2019 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
