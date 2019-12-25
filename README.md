@@ -18,7 +18,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/)|Tübingen, Germany|Max Planck Institute for Intelligent Systems|June 28 - July 10|NA|NA|NA|
+[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
 [Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-8|NA|NA|NA|
 ## 2019 Summer Schools
 
