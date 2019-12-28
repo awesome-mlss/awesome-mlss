@@ -18,6 +18,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Southeast Asia Machine Learning School (SEA ML 2019)](https://sites.google.com/view/seamls/)|Jakarta, Indonesia|[SEA ML School Team](https://sites.google.com/view/seamls/contact)| July 8 - July 12|April 20|Free for students. US $200 for non-students|Travel/Accommodation support for students from Southeast Asia.
 [Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
 [Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-8|NA|NA|NA|
 ## 2019 Summer Schools
