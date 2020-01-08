@@ -18,8 +18,10 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
 [Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-8|NA|NA|NA|
+[Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|[The SEA MLS Team](https://sites.google.com/view/seamls/organizers)| July 2020|NA|NA|.
+[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
+
 ## 2019 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
