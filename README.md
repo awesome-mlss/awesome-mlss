@@ -38,6 +38,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 20 - Aug 25|April 15|(₽1000-₽30000)|Will provide a limited number of travel grants
 [Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|April 12|Free for students|Travel support (expected 200+)
 [#NGSchool2019: Machine Learning for Biomedicine](https://ngschool.eu/2019)|Bialobrzegi near Warsaw, Poland|[NGSchool Society](https://ngschool.eu/partners)|July 27 - Aug 3|May 1|€100 or €700|Fee covers full accommodation and boars costs, provided positive result of IVF application travel grants also available|
+[Human-Aligned AI Summer School](http://humanaligned.ai/)|Prague, Czech Republic|Charles Univeristy and CTU|July 25-28|June 25|€100-€200|Limited Financial Assistance
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 22 (extended)|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
 [International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|March 2 (Early) to On-site|€310-€520|No
 [Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/)|Los Angeles, USA|University of Southern California|July 17 – July 21| May 17| $300-$450| Fee includes accomodation in university dorms
