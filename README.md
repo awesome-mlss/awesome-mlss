@@ -18,8 +18,12 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-8|NA|NA|NA|
-[Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|[The SEA MLS Team](https://sites.google.com/view/seamls/organizers)| July 2020|NA|NA|.
+[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-9|April 30|NA|NA|
+[Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|August 2-28|March 15|~€2000 (includes logding+meals)
+[Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|SEA-MLS Team| July 2020|NA|NA|.
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Montreal, Canada|CIFAR, MILA|July 29 - Aug 6|Feb 22|NA|Limited financial support is available for students/postdocs
+[International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2019.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)|Krakow, Poland|EEML Team|July 6 - July 11|March 20|€100-€300|Based on financial considerations
 [Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
 [AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|Early Registration (until 1 March)|€435~€935|NA|
 
@@ -27,7 +31,6 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Deep Learning for Natural Language Processing](http://ixa2.si.ehu.es/deep_learning_seminar/index-jul2019.html)|San Sebastian, Spain|University of the Basque Country|July 3 - 5|July 1|184€|NA
 [Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Universidad de la República|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss19/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|July 1 for early bird|£270-£750|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
@@ -44,6 +47,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Southeast Asia Machine Learning School (SEA ML 2019)](https://sites.google.com/view/seamls/)|Jakarta, Indonesia|[SEA ML School Team](https://sites.google.com/view/seamls/contact)| July 8 - July 12|April 20|Free for students. US $200 for non-students|Travel/Accommodation support for students from Southeast Asia.
 [International Computer Vision Summer School (ICVSS 2019)](http://iplab.dmi.unict.it/icvss2019/Home)|Sicily, Italy|University of Catania| July 7 - July 13|March 31|€525-€960|Provide prizes for poster presentation, reading group and essay competition
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
+[Deep Learning for Natural Language Processing](http://ixa2.si.ehu.es/deep_learning_seminar/index-jul2019.html)|San Sebastian, Spain|University of the Basque Country|July 3 - 5|July 1|184€|NA
 [Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|April 2 for grant, May 15|€270-€450|Limited financial support for students
 [Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
 [International Summer School on Deep Learning](http://2019.dl-lab.eu/registration/registration-fee/)|Gdansk, Poland|Politechnika Gdańska|July 1 - July 5|Feb 28|€195-€245|NA
@@ -88,7 +92,7 @@ Name|Location|Organiser|Dates|Aid
 
 ## Recurring Summer Schools 
 
-These are the summer schools which are held regularly :
+These are the summer schools which are usually held every year :
 
 - CIFAR's Deep Learning And Reinforcement Learning Summer School : https://dlrlsummerschool.ca
 - Machine Learning Summer School (by Max Planck Institute, Tübingen) : http://mlss.cc/
