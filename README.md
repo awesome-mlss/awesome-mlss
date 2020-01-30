@@ -27,6 +27,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Deep Learning for Natural Language Processing](http://ixa2.si.ehu.es/deep_learning_seminar/index-jul2019.html)|San Sebastian, Spain|University of the Basque Country|July 3 - 5|July 1|184€|NA
 [Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Universidad de la República|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss19/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|July 1 for early bird|£270-£750|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
@@ -99,7 +100,7 @@ These are the summer schools which are held regularly :
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
 - International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
-
+- Deep Learning for Natural Language Processing: http://ixa2.si.ehu.es/deep_learning_seminar
 
 
 ## FAQs
