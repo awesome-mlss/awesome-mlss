@@ -26,6 +26,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Krakow, Poland|EEML Team|July 6 - July 11|March 20|€100-€300|Based on financial considerations
 [Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
 [AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|Early Registration (until 1 March)|€435~€935|NA|
+[Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|August 31 - September 5|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
 
 ## 2019 Summer Schools
 
