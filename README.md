@@ -19,6 +19,8 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Aug 31 - Sep 5|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
+[Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
+[Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
 [Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|Aug 3-9|April 30|NA|NA|
 [Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|Aug 2-28|March 15|~€2000 (includes logding+meals)
 [Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|SEA-MLS Team| July 2020|NA|NA|.
