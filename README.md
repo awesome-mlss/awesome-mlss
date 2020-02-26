@@ -18,19 +18,19 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|August 31 - September 5|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
-[Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|August 17-21|15 June|€200-€1000|NA
-[Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|August 10-14|15 June|€200-€1000|NA|
-[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-9|April 30|NA|NA|
-[Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|August 2-28|March 15|~€2000 (includes logding+meals)
+[Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Aug 31 - Sep 5|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
+[Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
+[Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
+[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|Aug 3-9|April 30|NA|NA|
+[Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|Aug 2-28|March 15|~€2000 (includes logding+meals)
 [Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|SEA-MLS Team| July 2020|NA|NA|.
-[Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Montreal, Canada|CIFAR, MILA|July 29 - Aug 6|Feb 22|NA|Limited financial support is available for students/postdocs
-[International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2019.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Montreal, Canada|CIFAR, MILA|July 29 - Aug 6|Feb 22|($700.00 - $1900.00)CAD|Limited financial support is available for students/postdocs
+[International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2020.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
 [Machine learning summer school in healthcare and biosciences](https://bumblekite.four-corp.com/)|ETH Zürich, Switzerland|Bumblekite|July 19 – July 28|March 15|$600-$2,900|Limited number of full and partial scholarships.
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Krakow, Poland|EEML Team|July 6 - July 11|March 20|€100-€300|Based on financial considerations
 [Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
-[AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|Early Registration (until 1 March)|€435~€935|NA|
-
+[AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|NA|€435~€935|NA|
+[North Africa Middle East Summer School (NASSMA 2020 Istanbul)](http://nassma-ml.org)|Istanbul, Turkey| NASSMA Team -  ITU |June 22-27|March 20|€200-€1000|Full/partial travel grants based on financial considerations for students.|
 ## 2019 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
