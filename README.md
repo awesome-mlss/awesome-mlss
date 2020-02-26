@@ -22,7 +22,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|August 3-9|April 30|NA|NA|
 [Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|August 2-28|March 15|~€2000 (includes logding+meals)
 [Southeast Asia Machine Learning School (SEA MLS 2020)](http://seamls.ai/)|Vietnam|SEA-MLS Team| July 2020|NA|NA|.
-[Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Montreal, Canada|CIFAR, MILA|July 29 - Aug 6|Feb 22|NA|Limited financial support is available for students/postdocs
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Montreal, Canada|CIFAR, MILA|July 29 - Aug 6|Feb 22|($700.00 - $1900.00)CAD|Limited financial support is available for students/postdocs
 [International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2019.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
 [Machine learning summer school in healthcare and biosciences](https://bumblekite.four-corp.com/)|ETH Zürich, Switzerland|Bumblekite|July 19 – July 28|March 15|$600-$2,900|Limited number of full and partial scholarships.
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)|Krakow, Poland|EEML Team|July 6 - July 11|March 20|€100-€300|Based on financial considerations
