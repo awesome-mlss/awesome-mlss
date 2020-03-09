@@ -18,6 +18,7 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Summer School on AI for Optical Networks and Neuromorphic Photonics for AI Acceleration](https://www.hhi.fraunhofer.de/summerschool-on-ai-and-photonics)|Berlin, Germany|Fraunhofer HHI|Jul 27 - Jul 31|May 31|€380|NA|
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Aug 31 - Sep 5|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
 [Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
 [Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
