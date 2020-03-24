@@ -32,6 +32,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|NA|€435~€935|NA|
 [North Africa Middle East Summer School (NASSMA 2020 Istanbul)](http://nassma-ml.org)|Istanbul, Turkey| NASSMA Team -  ITU |June 22-27|March 20|€200-€1000|Full/partial travel grants based on financial considerations for students.|
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12|March 26|€250 - €1000|A limited number of scholarships will be provided.|
+[Data Science Africa Summer School](http://www.datascienceafrica.org/dsa2020kampala/)|Kampala, Uganda| Data Science Africa | NA | NA | NA
 
 ## 2019 Summer Schools
 
