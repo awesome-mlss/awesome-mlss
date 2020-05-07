@@ -30,7 +30,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2020.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
 [Machine learning summer school in healthcare and biosciences](https://bumblekite.four-corp.com/)|ETH Zürich, Switzerland|Bumblekite|July 19 – July 28|March 15|$600-$2,900|Limited number of full and partial scholarships.
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 6 - July 11|April 20|Free | Based on financial considerations
-[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Tübingen, Germany|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|€280-€800|Full & partial travel awards for strong applications.|
+[Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Online|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|Free|Full & partial travel awards for strong applications.|
 [AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|NA|€435~€935|NA|
 [North Africa Middle East Summer School (NASSMA 2020 Istanbul)](http://nassma-ml.org)|Istanbul, Turkey| NASSMA Team -  ITU |June 22-27|March 20|€200-€1000|Full/partial travel grants based on financial considerations for students.|
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12|March 26|€250 - €1000|A limited number of scholarships will be provided.|
