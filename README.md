@@ -22,18 +22,18 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals, Oxford Saïd Business School|Aug 17 - Aug 22|April 30|£300-£1000|Limited number of scholarships aimed for full time students from developing countries and under-represented groups
 [Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
 [Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
-[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia|Telkom University|Aug 3-9|April 30|NA|NA|
-[Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|Aug 2-28|March 15|~€2000 (includes logding+meals)
+[Machine Learning Summer School (MLSS Indonesia)](https://mlss.telkomuniversity.ac.id)|Bandung, Indonesia (Virtual)|Telkom University|Aug 3-9|April 30|NA|NA|
+[Summer School on Statistical Physics and Machine Learning](http://leshouches2020.krzakala.org/)|Les Houches, France|École de physique des Houches|Aug 2-28 (Postponed to an undefined date)|March 15|~€2000 (includes logding+meals)
 [Summer School on AI for Optical Networks and Neuromorphic Photonics for AI Acceleration](https://www.hhi.fraunhofer.de/summerschool-on-ai-and-photonics)|Berlin, Germany|Fraunhofer HHI|Jul 27 - Jul 31|May 31|€380|NA|
-[Southeast Asia Machine Learning School (SeaMLS 2020)](https://www.seamls.ai/)|Vietnam|SEA-MLS Team|July 20-25|April 3|$200-$300 (free for students)|Some travel assistance (transportation + accomodation) for students.
+[Southeast Asia Machine Learning School (SeaMLS 2020)](https://www.seamls.ai/)|Vietnam|SEA-MLS Team|July 20-25 (Postponed to an undefined date)|April 3|$200-$300 (free for students)|Some travel assistance (transportation + accomodation) for students.
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2020)](https://dlrlsummerschool.ca)|Online/Cancelled|CIFAR, MILA|July 29 - Aug 6|Feb 22|700-1900 CAD|Limited financial support is available for students/postdocs
-[International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2020.irdta.eu/)|León, Guanajuato, Mexico|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
+[International Summer School on Deep Learning (DeepLearn 2020)](http://deeplearn2020.irdta.eu/)|León, Guanajuato, Mexico (Cancelled)|IRDTA|July 27 - July 31|Dec 29 (Early) to On-site|€310-€550|No
 [Machine learning summer school in healthcare and biosciences](https://bumblekite.four-corp.com/)|ETH Zürich, Switzerland|Bumblekite|July 19 – July 28|March 15|$600-$2,900|Limited number of full and partial scholarships.
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 6 - July 11|April 20|Free | Based on financial considerations
 [Machine Learning Summer School (MLSS Tübingen)](http://mlss.tuebingen.mpg.de/2020)|Online|[Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/)|June 28 - July 10|Feb 11|Free|Full & partial travel awards for strong applications.|
 [AI and Games Summer School](https://school.gameaibook.org/)|Copenhagen, Denmark|[modl.ai](https://modl.ai/)|June 22-26|NA|€435~€935|NA|
 [North Africa Middle East Summer School (NASSMA 2020 Istanbul)](http://nassma-ml.org)|Istanbul, Turkey| NASSMA Team -  ITU |June 22-27|March 20|€200-€1000|Full/partial travel grants based on financial considerations for students.|
-[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12|March 26|€250 - €1000|A limited number of scholarships will be provided.|
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12 (Postponed to 7-11 June 2021)|March 26|€250 - €1000|A limited number of scholarships will be provided.|
 [Data Science Africa Summer School](http://www.datascienceafrica.org/dsa2020kampala/)|Kampala, Uganda| Data Science Africa | June 22-26| April 15| NA|NA
 
 ## 2019 Summer Schools
