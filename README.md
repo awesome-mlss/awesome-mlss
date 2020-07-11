@@ -19,6 +19,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Jan 11 - 16, 2021|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
+[Tsinghua University Deep Learning summer school (for UNDERGRADUATE ONLY) 2020](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University,|June 29 - July 18, 2020|June 01, 2020|USD 390|Limited number of scholarships. 
 [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals, Oxford Saïd Business School|Aug 17 - Aug 22|April 30|£300-£1000|Limited number of scholarships aimed for full time students from developing countries and under-represented groups
 [Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
 [Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
