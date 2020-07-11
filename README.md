@@ -116,6 +116,7 @@ These are the summer schools which are usually held every year :
 
 - CIFAR's Deep Learning And Reinforcement Learning Summer School : https://dlrlsummerschool.ca
 - Machine Learning Summer School (by Max Planck Institute, Tübingen) : http://mlss.cc/
+- Tsinghua University Deep Learning Summer School (by Tsinghua University Beijing): http://ss.cs.tsinghua.edu.cn/index.html
 - Lisbon Machine Learning Summer School : http://lxmls.it.pt
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
 - Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
