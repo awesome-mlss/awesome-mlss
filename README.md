@@ -14,6 +14,11 @@ NOTE:
 - The schools are arranged in reverse chronogical order by date 
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
+## 2021 Summer Schools
+Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
+------|--|--|---|--|-|-
+[NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|
+
 ## 2020 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
