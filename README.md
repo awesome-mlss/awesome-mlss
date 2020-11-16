@@ -24,8 +24,9 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Jan 11 - 16, 2021|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
+[AI Summer School](https://sites.google.com/view/aisummerschool2020/)|Virtual|Google Research India|August 20-22, 2020|June 26|Free|NA
 [Tsinghua University Deep Learning summer school (for UNDERGRADUATE ONLY) 2020](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University,|June 29 - July 18, 2020|June 01, 2020|USD 390|Limited number of scholarships. 
-[Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals, Oxford Saïd Business School|Aug 17 - Aug 22|April 30|£300-£1000|Limited number of scholarships aimed for full time students from developing countries and under-represented groups
+[Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)|Oxford, UK (Virtual)|AI for Global Goals, Oxford Saïd Business School|Aug 17 - Aug 25|April 30|£30-£100|Limited number of scholarships aimed for full time students from developing countries and under-represented groups
 [Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
 [Summer School of Machine learning at Skoltech (SMILES 2020)](http://smiles.skoltech.ru)|Online|Skoltech|Aug 16-21|August 2|Free|NA
 [Deep Reinforcement Learning for Computer Games](http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games)|Joensuu, Finland|University of Eastern Finland|Aug 10-14|15 June|€200-€1000|NA
