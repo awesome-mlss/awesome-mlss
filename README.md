@@ -54,6 +54,8 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
    [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12 (Postponed to 7-11 June 2021)|March 26|€250 - €1000|A limited number of scholarships will be provided.|
    [Data Science Africa Summer School](http://www.datascienceafrica.org/dsa2020kampala/)|Kampala, Uganda| Data Science Africa | June 22-26| April 15| NA|NA
 
+</details>
+
 ## 2019 Summer Schools
 
 <details>
