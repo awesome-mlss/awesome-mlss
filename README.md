@@ -19,7 +19,7 @@ NOTE:
 ## 2021 Summer Schools
 
 <details>
-      <summary>Click to expand for 2020 summer schools</summary>
+      <summary>Click to expand for 2021 summer schools</summary>
 
 
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
