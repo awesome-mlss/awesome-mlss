@@ -17,9 +17,14 @@ NOTE:
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
 ## 2021 Summer Schools
-Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
+
+<details>
+      <summary>Click to expand for 2020 summer schools</summary>
+
+
+   Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-<<<<<<< HEAD
+
 [CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
 =======
@@ -28,7 +33,6 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
->>>>>>> upstream/master
 
 ## 2020 Summer Schools
 
