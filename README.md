@@ -20,7 +20,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
-[Deep Learning Theory Summer School at Princeton](hhttps://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|Applications Open|
+[Deep Learning Theory Summer School at Princeton](https://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|Applications Open|
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
