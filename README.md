@@ -24,6 +24,7 @@ NOTE:
 
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ------|--|--|---|--|-|-
 
 [CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
@@ -37,6 +38,8 @@ NOTE:
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Virtual|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 14 - June 18|March 31|€50 - €300|Scholarships available.|
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
 =======
+=======
+>>>>>>> d8b289338c65eec7b556959e4e83f6e416e8822e
    ------|--|--|---|--|-|-
    [CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
    [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
@@ -47,6 +50,9 @@ NOTE:
    [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
 
 </details>
+<<<<<<< HEAD
+>>>>>>> d8b289338c65eec7b556959e4e83f6e416e8822e
+=======
 >>>>>>> d8b289338c65eec7b556959e4e83f6e416e8822e
 
 ## 2020 Summer Schools
