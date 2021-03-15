@@ -13,7 +13,7 @@
 
 NOTE:
 - **Community Call For Contributions for 2021 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
-- The schools are arranged in reverse chronogical order by date 
+- The schools are arranged in reverse chronogical order by date
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
 ## 2021 Summer Schools
@@ -29,9 +29,11 @@ NOTE:
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
 =======
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
+[Deep Learning Theory Summer School at Princeton](https://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|Applications Open|
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Virtual|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 14 - June 18|March 31|€50 - €300|Scholarships available.|
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
 
 ## 2020 Summer Schools
@@ -44,7 +46,7 @@ NOTE:
    ------|--|--|---|--|-|-
    [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Jan 11 - 16, 2021|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
    [AI Summer School](https://sites.google.com/view/aisummerschool2020/)|Virtual|Google Research India|August 20-22, 2020|June 26|Free|NA
-   [Tsinghua University Deep Learning summer school (for UNDERGRADUATE ONLY) 2020](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University,|June 29 - July 18, 2020|June 01, 2020|USD 390|Limited number of scholarships. 
+   [Tsinghua University Deep Learning summer school (for UNDERGRADUATE ONLY) 2020](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University,|June 29 - July 18, 2020|June 01, 2020|USD 390|Limited number of scholarships.
    [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)|Oxford, UK (Virtual)|AI for Global Goals, Oxford Saïd Business School|Aug 17 - Aug 25|April 30|£30-£100|Limited number of scholarships aimed for full time students from developing countries and under-represented groups
    [Machine Learning for Speech](http://www.uef.fi/en/web/summerschool/machine-learning-for-speech)|Joensuu, Finland|University of Eastern Finland|Aug 17-21|15 June|€200-€1000|NA
    [Summer School of Machine learning at Skoltech (SMILES 2020)](http://smiles.skoltech.ru)|Online|Skoltech|Aug 16-21|August 2|Free|NA
@@ -113,7 +115,7 @@ NOTE:
 ## 2018 Summer Schools
 <details>
    <summary>Click to expand for 2018 summer schools</summary>
-  
+
    Name|Location|Organiser|Dates|Aid
    ------|--|--|---|-
    [Summer School on Machine Learning and Data Science](http://www.datascienceafrica.org/dsa2018abuja/)|Abuja, Nigeria|Data Science Africa|12 Nov - 16 Nov |NA
@@ -138,7 +140,7 @@ NOTE:
 </details>
 
 
-## Recurring Summer Schools 
+## Recurring Summer Schools
 
 These are the summer schools which are usually held every year :
 
