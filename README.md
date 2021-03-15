@@ -19,14 +19,11 @@ NOTE:
 ## 2021 Summer Schools
 
 <details>
-      <summary>Click to expand for 2021 summer schools</summary>
+      <summary>Click to expand for 2020 summer schools</summary>
 
 
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
-<<<<<<< HEAD
-<<<<<<< HEAD
-------|--|--|---|--|-|-
-
+   ------|--|--|---|--|-|-
 [CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
 =======
@@ -37,17 +34,13 @@ NOTE:
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Virtual|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 14 - June 18|March 31|€50 - €300|Scholarships available.|
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
-=======
-=======
-
-   ------|--|--|---|--|-|-
-   [CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
-   [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
-   [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
-   [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
-   [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
-   [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
-   [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
+[CVR – VISTA Vision Science](https://www.yorku.ca/cvr/summer-school/)|Canada, Virtual|York University Canada|July 05 - 09, 2021|26 March 2021|Free|Online and Free|+
+[NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|NA|Free|Online and entirely free|+
+[Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
+[International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
+[NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
 
 </details>
 
