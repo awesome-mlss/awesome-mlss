@@ -21,7 +21,7 @@ NOTE:
 ## 2021 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open: mid-May|N/A|N/A
+[Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open:  end of May|N/A|N/A
 [Leibniz Mathematical Modeling and Simulation Summer School 2021](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool20/)|N/A|Weierstrass Institute for Applied Analysis and Stochastics|Aug 23 - Aug 27|N/A|N/A|N/A
 [Summer School of Machine Learning at Skoltech (SMILES) 2021](https://smiles.skoltech.ru/school)|Online|Skoltech|Aug 15 - Aug 22|Aug 1|Free|N/A
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Online|AI for Global Goals, CIFAR, Deep Medicine Program at Oxford)|Aug 9 - Aug 20|April 30|£60 - £300|50% discount for low and middle income countries
