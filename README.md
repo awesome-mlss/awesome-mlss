@@ -2,14 +2,16 @@
 
 ## Table of Contents
 
-1. [2021 schools](#2021-summer-schools)
-2. [2020 schools](#2020-summer-schools)
-2. [2019 schools](#2019-summer-schools)
-3. [2018 schools](#2018-summer-schools)
-4. [Recurring Summer Schools](#recurring-summer-schools)
-5. [FAQs](#faqs)
-   1. [Reddit](#reddit)
-   2. [Blogs](#blogs)
+- [List of summer schools in machine learning + related fields](#list-of-summer-schools-in-machine-learning--related-fields)
+  - [Table of Contents](#table-of-contents)
+  - [2021 Summer Schools](#2021-summer-schools)
+  - [2020 Summer Schools](#2020-summer-schools)
+  - [2019 Summer Schools](#2019-summer-schools)
+  - [2018 Summer Schools](#2018-summer-schools)
+  - [Recurring Summer Schools](#recurring-summer-schools)
+  - [FAQs](#faqs)
+    - [Reddit](#reddit)
+    - [Blogs](#blogs)
 
 NOTE:
 - **Community Call For Contributions for 2021 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
@@ -19,12 +21,30 @@ NOTE:
 ## 2021 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open:  end of May|N/A|N/A
+[Leibniz Mathematical Modeling and Simulation Summer School 2021](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool20/)|N/A|Weierstrass Institute for Applied Analysis and Stochastics|Aug 23 - Aug 27|N/A|N/A|N/A
+[Summer School of Machine Learning at Skoltech (SMILES) 2021](https://smiles.skoltech.ru/school)|Online|Skoltech|Aug 15 - Aug 22|Aug 1|Free|N/A
+[Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Online|AI for Global Goals, CIFAR, Deep Medicine Program at Oxford)|Aug 9 - Aug 20|April 30|£60 - £300|50% discount for low and middle income countries
+[Neuromatch Academy-Deep Learning 2021](https://academy.neuromatch.io/home)| Online |Neuromatch|Aug 2 - Aug 20|May 7|N/A|financial aid is available
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
 [Deep Learning Theory Summer School at Princeton](https://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|N/A|
-[Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|April 15|N/A|N/A
+[Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
+[Human-aligned AI Virtual Summer School 2021](http://humanaligned.ai/index.html)|Online|Centre for Theoretical Study et al.|July or August|end of May (applications open)|N/A|N/A
+[4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)](https://acdl2021.icas.cc/)|Tuscany Italy, Virtual|ACDL Team|July 19 - July 23|May 14|€550(Onsite); €270(Online)|N/A.
+[London Geometry and Machine Learning(LOGML) Summer School](https://www.logml.ai/)|London, Virtual|LOGML Team|July 12 - July 16|May 31|£20|Scholarships available.
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
+[Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)| Online |LxMLS Team|July 7 - July 15|May 15|€50|free for students and researchers in public institutions
+[Neuromatch Academy-Computational Neuroscience 2021](https://academy.neuromatch.io/home)| Online |Neuromatch|July 5 - July 23|May 7|N/A|financial aid is available
+[PRAIRIE/MIAI Artificial Intelligence Summer School](https://project.inria.fr/paiss/)| Online |PRAIRIE & MIAI Institutes, France|July 5 - July 9|May 24|Free|N/A
+[Deep Learning for Natural Language Processing (8th edition) Summer School](http://ixa2.si.ehu.eus/deep_learning_seminar/)| Online |Ixa NLP research group|July 5 - July 9|June 27|€274|N/A
+[Artificial Intelligence and Games Summer School 2021](https://school.gameaibook.org/)| Online |modl.ai|July 5 - July 9|June 15|€150-€250|N/A
+[Vision Understanding & Machine Intelligence Summer School 2021 (VISUM 2021)](https://visum.inesctec.pt/)| Online |INESC TEC|July 2 - July 9|May 28|€75|N/A
+[ACM India Summer Schools 2021](https://india.acm.org/education/acm-india-summer-schools)|Virtual|ACM India|June 14 - June 25 (Shape Modelling); July 5 - July 16 (NLP)|May 18|N/A|N/A|
+[5th Summer School on Artificial Intelligence 2021](http://cvit.iiit.ac.in/summerschool2021/index.php)|Virtual|IIIT Hyderabad & IIT Kanpur|July 1 - July 31|N/A|N/A|N/A|
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Virtual|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 14 - June 18|March 31|€50 - €300|Scholarships available.|
+[Duke Machine Learning Virtual Summer School 2021](https://plus.datascience.duke.edu/mlvss2021)|Virtual|Duke University|June 14 - June 17|N/A|\$50.00(student); \$175.00(non-student)|N/A|
 [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
 
 ## 2020 Summer Schools
@@ -149,6 +169,8 @@ These are the summer schools which are usually held every year :
 - International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
 - Deep Learning for Natural Language Processing: http://ixa2.si.ehu.es/deep_learning_seminar
 - Nordic Probabilistic AI School (ProbAI): https://probabilistic.ai/
+- Vision Understanding & Machine Intelligence Summer School (VISUM): https://www.instagram.com/visumschool/?hl=en
+- Neuromatch Academy: https://academy.neuromatch.io/home
 
 ## FAQs
 
