@@ -33,6 +33,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [Human-aligned AI Virtual Summer School 2021](http://humanaligned.ai/index.html)|Online|Centre for Theoretical Study et al.|July or August|end of May (applications open)|N/A|N/A
 [4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)](https://acdl2021.icas.cc/)|Tuscany Italy, Virtual|ACDL Team|July 19 - July 23|May 14|€550(Onsite); €270(Online)|N/A.
+[Amazon ML Summer School](https://amazonmlsummerschoolindia.splashthat.com/)|Online|Amazon|July 9 - July 11|25th June|Free|N/A
 [London Geometry and Machine Learning(LOGML) Summer School](https://www.logml.ai/)|London, Virtual|LOGML Team|July 12 - July 16|May 31|£20|Scholarships available.
 [Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)| Online |LxMLS Team|July 7 - July 15|May 15|€50|free for students and researchers in public institutions
