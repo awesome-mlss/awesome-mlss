@@ -33,12 +33,11 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
 [Deep Learning Theory Summer School at Princeton](https://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|N/A|
 [International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
-[Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|April 15|N/A|N/A
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [Human-aligned AI Virtual Summer School 2021](http://humanaligned.ai/index.html)|Online|Centre for Theoretical Study et al.|July or August|end of May (applications open)|N/A|N/A
 [4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)](https://acdl2021.icas.cc/)|Tuscany Italy, Virtual|ACDL Team|July 19 - July 23|May 14|€550(Onsite); €270(Online)|N/A.
 [London Geometry and Machine Learning(LOGML) Summer School](https://www.logml.ai/)|London, Virtual|LOGML Team|July 12 - July 16|May 31|£20|Scholarships available.
-[Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|March 31|N/A|N/A
+[Eastern European Machine Learning Summer School](https://www.eeml.eu)| Online |EEML Team|July 7 - July 15|April 15|N/A|N/A
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)| Online |LxMLS Team|July 7 - July 15|May 15|€50|free for students and researchers in public institutions
 [Neuromatch Academy-Computational Neuroscience 2021](https://academy.neuromatch.io/home)| Online |Neuromatch|July 5 - July 23|May 7|N/A|financial aid is available
 [PRAIRIE/MIAI Artificial Intelligence Summer School](https://project.inria.fr/paiss/)| Online |PRAIRIE & MIAI Institutes, France|July 5 - July 9|May 24|Free|N/A
@@ -158,7 +157,10 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ## Recurring Summer Schools
 
 These are the summer schools which are usually held every year :
-
+- Mediterranean Machine Learning Summer School: https://m2lschool.org
+- Deep Learning Indaba: https://deeplearningindaba.com/
+- PRAIRIE/MIAI Artificial Intelligence Summer School (PAISS): https://project.inria.fr/paiss/
+- Eastern European Machine Learning Summer School (EEML): https://eeml.eu
 - Summer School of Machine Learning at Skoltech (SMILES): http://smiles.skoltech.ru
 - CIFAR's Deep Learning And Reinforcement Learning Summer School : https://dlrlsummerschool.ca
 - Machine Learning Summer School (by Max Planck Institute, Tübingen) : http://mlss.cc/
