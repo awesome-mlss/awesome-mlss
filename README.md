@@ -188,7 +188,7 @@ These are the summer schools which are usually held every year :
 - [Best deep learning/ML summer schools of 2018](https://www.reddit.com/r/MachineLearning/comments/85s9i8/d_best_deep_learningml_summer_schools_of_2018/)
 
 ### Blogs
-
+- [Attending the 2021 Eastern European Machine Learning Summer School](https://npbeck.github.io/me/2021/07/16/EEML2021.html) (EEML 2021)
 - [Probabilistic AI summer school: 5 reasons you must attend](https://scholarleen.com/inspiration/probabilistic-ai-summer-school-5-reasons/) (ProbAI 2019)
 - [My first summer school](https://www.stratosphereips.org/blog/2018/8/1/1st-transylvanian-machine-learning-summer-school) (TMLSS 2018)
 - [An Insider's Look Into The Summer School Training The World's Top AI Researchers](https://www.forbes.com/sites/williamfalcon/2018/09/03/an-insiders-look-into-the-summer-school-training-the-worlds-top-ai-researchers/#99a8e7ba05f1) (CIFAR DLRL Summer School 2018)
