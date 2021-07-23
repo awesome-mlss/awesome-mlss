@@ -32,7 +32,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Neuromatch Academy-Deep Learning 2021](https://academy.neuromatch.io/home)| Online |Neuromatch|Aug 2 - Aug 20|May 7|N/A|financial aid is available
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
 [Deep Learning Theory Summer School at Princeton](https://deep-learning-summer-school.princeton.edu/#Apply)|New Jersey, Virtual|Princeton University|July 27 - Aug 4, 2021|March 31, 2021 via email|N/A|N/A|
-[International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Las Palmas de Gran Canaria, Spain|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
+[International Summer School on Deep Learning (DeepLearn 2021)](https://irdta.eu/deeplearn2021s/)|Online|IRDTA|July 26 - July 30|Feb 24 (Early) to On-site|N/A|N/A
 [Deep Learning and Reinforcement Learning Summer School (DLRL 2021)](https://dlrl.ca/)|Announced|CIFAR|N/A|Feb (applications open)|N/A|N/A
 [Human-aligned AI Virtual Summer School 2021](http://humanaligned.ai/index.html)|Online|Centre for Theoretical Study et al.|July or August|end of May (applications open)|N/A|N/A
 [4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)](https://acdl2021.icas.cc/)|Tuscany Italy, Virtual|ACDL Team|July 19 - July 23|May 14|€550(Onsite); €270(Online)|N/A.
