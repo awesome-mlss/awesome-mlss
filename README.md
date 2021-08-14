@@ -21,6 +21,7 @@ NOTE:
 ## 2021 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Asian Machine Learning School (Online) 2021](http://www.acml-conf.org/2021/school/)|Online|Asian Machine Leraning Conference|Nov 8 - Nov 19|Open:  15 Sep|20 USD|N/A
 [Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open:  end of May|N/A|N/A
 [International Summer School on Situation Awareness in Cognitive Technologies 2021 (ISACT 2021)](http://isact.cogsy.de/)| Onsite | University of Magdeburg | Sep 06 - Sep 11 | July 19 | €350 | Travel grants available
 [2021 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications”](https://europe.acm.org/hpc-summer-school)|Online|Barcelona Supercomputing Center (BSC-CNS) and the Universitat Politècnica de Catalunya (UPC)|Aug 31 - Sep 3|Open: July 15th|Yes|Available
