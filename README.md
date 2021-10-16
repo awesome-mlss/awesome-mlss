@@ -21,6 +21,7 @@ NOTE:
 ## 2021 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[ACM India Online Winter Schools 2022](https://india.acm.org/education/acm-india-winter-schools-2022)|Online|ACM|Jan 3 - Jan 16|Nov 7| 750 INR (If selected)| N/A
 [Asian Machine Learning School (Online) 2021](http://www.acml-conf.org/2021/school/)|Online|Asian Machine Leraning Conference|Nov 8 - Nov 19|Open:  15 Sep|20 USD|N/A
 [Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open:  end of May|N/A|N/A
 [International Summer School on Situation Awareness in Cognitive Technologies 2021 (ISACT 2021)](http://isact.cogsy.de/)| Onsite | University of Magdeburg | Sep 06 - Sep 11 | July 19 | €350 | Travel grants available
