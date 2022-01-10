@@ -28,7 +28,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Leibniz Mathematical Modeling and Simulation Summer School 2021](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool20/)|N/A|Weierstrass Institute for Applied Analysis and Stochastics|Aug 23 - Aug 27|N/A|N/A|N/A
 [Artificial Intelligence and Data Science for Healthcare Innovation](http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/artificial-intelligence-and-data-science-for-healthcare-innovation/)|Online|Imperial College London|Aug 16 - Aug 27|N/A|N/A (Email Registration)|N/A
 [Summer School of Machine Learning at Skoltech (SMILES) 2021](https://smiles.skoltech.ru/school)|Online|Skoltech|Aug 15 - Aug 22|Aug 1|Free|N/A
-[Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Online|AI for Global Goals, CIFAR, Deep Medicine Program at Oxford)|Aug 9 - Aug 20|April 30|£60 - £300|50% discount for low and middle income countries
+[Oxford Machine Learning Summer School](https://www.oxfordml.school/)|St Catherine's College|AI for Global Goals)|Aug 7 - Aug 14|April 15|N/A|N/A
 [Imperial Data Science Online Summer School](http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/imperial-data-science-online-summer-school/)|Online|Imperial College London|Aug 2 - Aug 20|N/A|N/A (Email Registration)|N/A
 [Neuromatch Academy-Deep Learning 2021](https://academy.neuromatch.io/home)| Online |Neuromatch|Aug 2 - Aug 20|May 7|N/A|financial aid is available
 [Machine Learning Summer School (MLSS Taipei)](http://mlss.cc/)|Taipei, Taiwan|N/A)|Aug 2 - Aug 13|N/A|N/A|N/A
