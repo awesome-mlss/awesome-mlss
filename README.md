@@ -21,6 +21,7 @@ NOTE:
 ## 2021 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Auto ML (Online) Germany 2021](https://sites.google.com/view/automlschool21/home)|Online|Professors from Leibniz University ++ |Nov 8 - Nov 12|1st Octo|50 Euro - 100 Euro|Available for 5 students
 [Asian Machine Learning School (Online) 2021](http://www.acml-conf.org/2021/school/)|Online|Asian Machine Leraning Conference|Nov 8 - Nov 19|Open:  15 Sep|20 USD|N/A
 [Gaussian Process Summer Schools (GPSS) 2021](http://gpss.cc/)|Online|University Of Sheffield|Sep 13 - Sep 16|Open:  end of May|N/A|N/A
 [International Summer School on Situation Awareness in Cognitive Technologies 2021 (ISACT 2021)](http://isact.cogsy.de/)| Onsite | University of Magdeburg | Sep 06 - Sep 11 | July 19 | €350 | Travel grants available
