@@ -22,10 +22,11 @@ NOTE:
 ## 2022 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
-[Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16| April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
+[Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|St Catherine's College, Virtual(see notes)|AI for Global Goals|MLxHealth: Aug 7-14,<br>MLxFinance: Aug 11-14,<br>ML Fundamentals: June 29|April 15|[Fees(Screenshot)](https://i.imgur.com/VfszKu0.png)|Low income countries will get 50% discount.| MLxFinance and MLxHealth: Both on site and virutal, <br> MLFundatmetnals: Virtual only.
 [2022 Summer school on deep learning for medical imaging](https://event.fourwaves.com/32600610-b50a-4feb-b431-31ee1d773873/pages)|1111, Rue Notre-Dame Ouest Montréal, Québec Canada, H3C 1K3 |École de Technologie Supérieure (ETS), Montreal, Canada|July 4-8, 2022: Summer school|March 11, 2022|340CAN$ for students, 440CAN$ for non-students, 100CAN$ for virtual asynchronous participation |N/A |Free Registration before deadline|
-   
+[Machine Learning Summer Schools (MLSS)](https://mlss.mlinpl.org/)|Krakow, Poland|ML in PL Association|June 28 - July 12|TBD|TBD|N/A||
+
 ## 2021 Summer Schools
 <details>
       <summary>Click to expand for 2021 summer schools</summary>
