@@ -28,7 +28,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Lisbon Machine Learning Summer School (LxMLS 2022)](http://lxmls.it.pt/2022/)|Lisbon, Portugal|Instituto Superior Técnico|July 24-29|May 15|N/A|Scholarships available||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Amsterdam, The Netherlands|N/A|July 11-15|NA|Students: 500€, Professionals: 600€|N/A|Registration will be based on a "first come, first served" basis|
 [2022 Summer school on deep learning for medical imaging](https://event.fourwaves.com/32600610-b50a-4feb-b431-31ee1d773873/pages)|1111, Rue Notre-Dame Ouest Montréal, Québec Canada, H3C 1K3 |École de Technologie Supérieure (ETS), Montreal, Canada|July 4-8, 2022: Summer school|March 11, 2022|340CAN$ for students, 440CAN$ for non-students, 100CAN$ for virtual asynchronous participation |N/A |Free Registration before deadline|
-[Machine Learning Summer Schools (MLSS)](https://mlss.mlinpl.org/)|Krakow, Poland|ML in PL Association|June 28 - July 12|TBD|TBD|N/A||
+[Machine Learning Summer Schools (MLSS)](https://mlss.mlinpl.org/)|Krakow, Poland|ML in PL Association|June 27 - July 2|April 21|700PLN (150€)|Scholarships available||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 13-17|March 31|free|free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 31|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Helsinki, Finland|University of Helsinki|June 13-17|March 27|Students (including PhD): 250€, Academia: 500€, Industry: 1000€|Yes||
 
