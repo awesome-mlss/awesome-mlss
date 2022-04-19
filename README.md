@@ -23,7 +23,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
-[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|Aug 6-13|NA|NA|Full and Partial scholarships available
+[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|Aug 6-13|May 14|500 CHF for studetents, 900 CHF other|Full and Partial scholarships available
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|St Catherine's College, Virtual(see notes)|AI for Global Goals|MLxHealth: Aug 7-14,<br>MLxFinance: Aug 11-14,<br>ML Fundamentals: June 29|April 15|£80 - £900|Low income countries will get 50% discount.| MLxFinance and MLxHealth: Both on site and virutal, <br> MLFundatmetnals: Virtual only.
 [Lisbon Machine Learning Summer School (LxMLS 2022)](http://lxmls.it.pt/2022/)|Lisbon, Portugal|Instituto Superior Técnico|July 24-29|May 15|N/A|Scholarships available||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Amsterdam, The Netherlands|N/A|July 11-15|NA|Students: 500€, Professionals: 600€|N/A|Registration will be based on a "first come, first served" basis|
