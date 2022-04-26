@@ -33,6 +33,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Machine Learning Summer Schools (MLSS)](https://mlss.mlinpl.org/)|Krakow, Poland|ML in PL Association|June 27 - July 2|April 21|700PLN (150€)|Scholarships available||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 13-17|March 31|free|free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 31|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Helsinki, Finland|University of Helsinki|June 13-17|March 27|Students (including PhD): 250€, Academia: 500€, Industry: 1000€|Yes||
+[Deep Learning for Natural Language Processing summer course](https://ixa2.si.ehu.eus/deep_learning_seminar/)|San Sebastian, Spain|Ada Lovelace CS faculty, Universidad del País Vasco|July 4th-8th|First-come, first-served|274€,|||
 
 ## 2021 Summer Schools
 <details>
