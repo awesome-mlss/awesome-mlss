@@ -22,6 +22,7 @@ NOTE:
 ## 2022 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[Advances in Artificial Intelligence](https://aisummerschool.disco.unimib.it/home)|Como, Italy|University of Milano-Bicocca and RCAST The University of Tokyo|September 19-13|N/A|in presence: 450€, online: 200€, one day online: 100€|N/A||
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|Aug 6-13|May 14|500 CHF for studetents, 900 CHF other|Full and Partial scholarships available
