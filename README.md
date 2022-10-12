@@ -22,6 +22,7 @@ NOTE:
 ## 2022 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[International Autumn School on Situation Awareness in Cognitive Technologies 2022 (ISACT 2022)](http://isact.cogsy.de/)|Orlando, FL, USA|Otto von von Guericke University Magdeburg, Germany| November 16-19|October 30|Early registration fee: USD 250, Late registration fee: USD 310| Yes (application for grants open till 20th October)||
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
 [eXplainable AI Summer School](https://xaiss.eu/)|Delft, Netherlands|L3S Research Center & TU Delft|August 29 - September 02|N/A|400€ incl. VAT (19%)|N/A|4 ECTS credits can be earned. Registrations are limited to 70 people in total.
