@@ -31,7 +31,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 
 ## 2022 Summer Schools
 <details>
-      <summary>Click to expand for 2021 summer schools</summary>
+      <summary>Click to expand for 2022 summer schools</summary>
 	  
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
