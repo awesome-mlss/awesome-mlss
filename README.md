@@ -30,6 +30,9 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
 
 ## 2022 Summer Schools
+<details>
+      <summary>Click to expand for 2021 summer schools</summary>
+	  
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
@@ -49,6 +52,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Cardiff NLP Summer Workshop](https://www.cardiffnlpworkshop.org/)|Cardiff, Wales, UK|Cardiff NLP Group|June 30 - July 1|May 30||||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 13-17|March 31|free|free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 31|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Helsinki, Finland|University of Helsinki|June 13-17|March 27|Students (including PhD): 250€, Academia: 500€, Industry: 1000€|Yes||
+</details>
 
 ## 2021 Summer Schools
 <details>
