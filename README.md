@@ -4,6 +4,7 @@
 
 - [List of summer schools in machine learning + related fields](#list-of-summer-schools-in-machine-learning--related-fields)
   - [Table of Contents](#table-of-contents)
+  - [2023 Summer Schools](#2023-summer-schools)
   - [2022 Summer Schools](#2022-summer-schools)
   - [2021 Summer Schools](#2021-summer-schools)
   - [2020 Summer Schools](#2020-summer-schools)
@@ -18,6 +19,15 @@ NOTE:
 - **Community Call For Contributions for 2022 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
 - The schools are arranged in reverse chronogical order by date
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
+
+## 2023 Summer Schools
+Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
+------|--|---|----|--|-|-|----
+[Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|July 9-16|March 31|N/A||
+[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
+[Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
+[Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
 
 ## 2022 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
