@@ -28,6 +28,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
+[Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim, Norway|Norwegian University of Science and Technology|June 12-16|March 1|Yes|Yes|
 
 ## 2022 Summer Schools
 <details>
