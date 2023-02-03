@@ -27,6 +27,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
+[Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|June 5-9|April 23|Yes|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
 
 ## 2022 Summer Schools
