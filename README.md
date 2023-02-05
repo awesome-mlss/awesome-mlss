@@ -23,6 +23,7 @@ NOTE:
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|July 4-8|June 20||N/A|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|July 9-16|March 31|N/A||
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
