@@ -30,6 +30,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|August 14-18, 2023|Jan 31, 2023|No|Yes|
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|28th August - 2nd September 2023|28th February 2023|No|Yes|
+[International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
 
 
 ## 2022 Summer Schools
