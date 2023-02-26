@@ -215,7 +215,6 @@ These are the summer schools which are usually held every year :
 - Lisbon Machine Learning Summer School : http://lxmls.it.pt
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
 - Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
-- Deep Learning Indaba Summer Schools : http://www.deeplearningindaba.com
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
