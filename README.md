@@ -4,6 +4,7 @@
 
 - [List of summer schools in machine learning + related fields](#list-of-summer-schools-in-machine-learning--related-fields)
   - [Table of Contents](#table-of-contents)
+  - [2023 Summer Schools](#2023-summer-schools)
   - [2022 Summer Schools](#2022-summer-schools)
   - [2021 Summer Schools](#2021-summer-schools)
   - [2020 Summer Schools](#2020-summer-schools)
@@ -19,12 +20,31 @@ NOTE:
 - The schools are arranged in reverse chronogical order by date
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
+## 2023 Summer Schools
+Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
+------|--|---|----|--|-|-|----
+[Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|July 9-16|March 31|N/A||
+[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
+[Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
+[Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|June 5-9|April 23|Yes|No|
+[Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
+[Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|August 14-18, 2023|Jan 31, 2023|No|Yes|
+[Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|28th August - 2nd September 2023|28th February 2023|No|Yes|
+[International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
+[Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|12-16 June 2023|March 1|Yes|Yes|
+
+
 ## 2022 Summer Schools
+<details>
+      <summary>Click to expand for 2022 summer schools</summary>
+	  
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
-[European Summer School in Logic, Language and Information (ESSLLI)]([http://humanaligned.ai/index.html](https://nuigalwaydatascienceinstitute.clr.events/event/131959:esslli-2022))|Galway, Ireland|NUI Galway and Association for Logic, Language and Information (FoLLI)|August 08-19|Open|Starting from 60 Euros|Yes||
+[eXplainable AI Summer School](https://xaiss.eu/)|Delft, Netherlands|L3S Research Center & TU Delft|August 29 - September 02|N/A|400€ incl. VAT (19%)|N/A|4 ECTS credits can be earned. Registrations are limited to 70 people in total.
+[European Summer School in Logic, Language and Information (ESSLLI)](https://nuigalwaydatascienceinstitute.clr.events/event/131959:esslli-2022))|Galway, Ireland|NUI Galway and Association for Logic, Language and Information (FoLLI)|August 08-19|Open|Starting from 60 Euros|Yes||
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|Aug 6-13|May 14|500 CHF for studetents, 900 CHF other|Full and Partial scholarships available
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|St Catherine's College, Virtual(see notes)|AI for Global Goals|MLxHealth: Aug 7-14,<br>MLxFinance: Aug 11-14,<br>ML Fundamentals: June 29|April 15|£80 - £900|Low income countries will get 50% discount.| MLxFinance and MLxHealth: Both on site and virutal, <br> MLFundatmetnals: Virtual only.
 [Human-aligned AI Summer School](http://humanaligned.ai/index.html)|Prague, Czechia|Center for Theoretical Study, Charles University|August 4-7|June 19|250/150 €|Yes||
@@ -39,6 +59,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Cardiff NLP Summer Workshop](https://www.cardiffnlpworkshop.org/)|Cardiff, Wales, UK|Cardiff NLP Group|June 30 - July 1|May 30||||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 13-17|March 31|free|free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 31|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Helsinki, Finland|University of Helsinki|June 13-17|March 27|Students (including PhD): 250€, Academia: 500€, Industry: 1000€|Yes||
+</details>
 
 ## 2021 Summer Schools
 <details>
@@ -196,7 +217,6 @@ These are the summer schools which are usually held every year :
 - Lisbon Machine Learning Summer School : http://lxmls.it.pt
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
 - Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
-- Deep Learning Indaba Summer Schools : http://www.deeplearningindaba.com
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
