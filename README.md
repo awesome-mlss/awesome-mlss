@@ -28,10 +28,11 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|July 9-16|March 31|N/A||
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
+[MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|26 June - 1 July 2023|April 8|Yes|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
-[MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|26 June - 1 July 2023|April 8|Yes|Yes|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|12-16 June 2023|March 1|Yes|Yes|
+[Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|June 5-9|April 23|Yes|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
 
 
@@ -44,6 +45,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
 [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|AI Education Foundation| September 12-16|April 1|Students: free, Post-doc and faculty: 100€, Industry: 200€| Yes||
 [eXplainable AI Summer School](https://xaiss.eu/)|Delft, Netherlands|L3S Research Center & TU Delft|August 29 - September 02|N/A|400€ incl. VAT (19%)|N/A|4 ECTS credits can be earned. Registrations are limited to 70 people in total.
+[European Summer School in Logic, Language and Information (ESSLLI)](https://nuigalwaydatascienceinstitute.clr.events/event/131959:esslli-2022))|Galway, Ireland|NUI Galway and Association for Logic, Language and Information (FoLLI)|August 08-19|Open|Starting from 60 Euros|Yes||
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|Aug 6-13|May 14|500 CHF for studetents, 900 CHF other|Full and Partial scholarships available
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|St Catherine's College, Virtual(see notes)|AI for Global Goals|MLxHealth: Aug 7-14,<br>MLxFinance: Aug 11-14,<br>ML Fundamentals: June 29|April 15|£80 - £900|Low income countries will get 50% discount.| MLxFinance and MLxHealth: Both on site and virutal, <br> MLFundatmetnals: Virtual only.
 [Human-aligned AI Summer School](http://humanaligned.ai/index.html)|Prague, Czechia|Center for Theoretical Study, Charles University|August 4-7|June 19|250/150 €|Yes||
@@ -216,7 +218,6 @@ These are the summer schools which are usually held every year :
 - Lisbon Machine Learning Summer School : http://lxmls.it.pt
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
 - Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
-- Deep Learning Indaba Summer Schools : http://www.deeplearningindaba.com
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
 - Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
