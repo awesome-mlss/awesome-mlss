@@ -26,6 +26,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|28th August - 2nd September 2023|28th February 2023|No|Yes|
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|August 14-18, 2023|Jan 31, 2023|No|Yes|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|July 9-16|March 31|N/A||
+[AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|July 4-8|June 20||N/A|N/A
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|July 2 - 9|TBA||
 [Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|June 26 - July 5|February||N/A||
 [MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|26 June - 1 July 2023|April 8|Yes|Yes|
