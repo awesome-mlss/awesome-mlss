@@ -32,6 +32,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|26 June - 2 July 2023|April 8|Yes|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 26-30|March 15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
+[Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid (Spain)|Universidad Politécnica de Madrid|19-30 June 2023|June 14th |Yes|No|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|12-16 June 2023|March 1|Yes|Yes|
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|June 5-9|April 23|Yes|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023|Yes|Yes|
