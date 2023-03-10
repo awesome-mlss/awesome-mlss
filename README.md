@@ -28,7 +28,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|07/09 - 07/16|03/31|N/A||
 [AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|07/04 - 07/08|06/20||N/A|N/A
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|07/02 - 07/09|TBA||
-[Summer School on Reinforcement Learning in Amsterdam](http://rlsummerschool.com/)|Barcelona, Spain|N/A|06/26 - 07/05|February||N/A||
+[Summer School on Reinforcement Learning in Barcelona](http://rlsummerschool.com/)|Barcelona, Spain|N/A|06/26 - 07/05|February||N/A||
 [MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|06/26 - 07/02|04/08|Yes|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|06/26 - 06/30|03/15||free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 15|
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|06/26 - 06/30|03/15|Yes|No|
