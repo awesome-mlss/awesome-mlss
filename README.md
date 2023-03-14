@@ -2,21 +2,19 @@
 
 ## Table of Contents
 
-- [List of summer schools in machine learning + related fields](#list-of-summer-schools-in-machine-learning--related-fields)
-  - [Table of Contents](#table-of-contents)
-  - [2023 Summer Schools](#2023-summer-schools)
-  - [2022 Summer Schools](#2022-summer-schools)
-  - [2021 Summer Schools](#2021-summer-schools)
-  - [2020 Summer Schools](#2020-summer-schools)
-  - [2019 Summer Schools](#2019-summer-schools)
-  - [2018 Summer Schools](#2018-summer-schools)
-  - [Recurring Summer Schools](#recurring-summer-schools)
-  - [FAQs](#faqs)
-    - [Reddit](#reddit)
-    - [Blogs](#blogs)
+- [2023 Summer Schools](#2023-summer-schools)
+- [2022 Summer Schools](#2022-summer-schools)
+- [2021 Summer Schools](#2021-summer-schools)
+- [2020 Summer Schools](#2020-summer-schools)
+- [2019 Summer Schools](#2019-summer-schools)
+- [2018 Summer Schools](#2018-summer-schools)
+- [Recurring Summer Schools](#recurring-summer-schools)
+- [FAQs](#faqs)
+  - [Reddit](#reddit)
+  - [Blogs](#blogs)
 
 NOTE:
-- **Community Call For Contributions for 2022 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
+- **Community Call For Contributions for 2023 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
 - The schools are arranged in reverse chronogical order by date
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
