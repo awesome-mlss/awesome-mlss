@@ -1,4 +1,4 @@
-# List of summer schools in machine learning + related fields
+# Awesome Summer Schools in Machine learning
 
 ## Table of Contents
 
