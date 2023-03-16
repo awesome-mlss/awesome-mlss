@@ -34,7 +34,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|06/12 - 06/16|03/01|250€|Yes|
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
-[NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Norway|Norwegian Artificial Intelligence Research Consortium|12 - 17, June|March 2023||Yes|
+[NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Norway|Norwegian Artificial Intelligence Research Consortium|12-17, June|March 2023||Yes|
 
 
 ## 2022 Summer Schools
