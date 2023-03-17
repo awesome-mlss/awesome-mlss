@@ -25,7 +25,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|08/14 - 08/18|01/31||Yes|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|07/09 - 07/16|03/31|100€||
 [AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|07/04 - 07/08|06/20||N/A|
-[UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
+[UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school)|Zurich, Switzerland|Bumblekite|07/02 - 07/09|||
 [Summer School on Reinforcement Learning in Barcelona](http://rlsummerschool.com/)|Barcelona, Spain|N/A|06/26 - 07/05|February||200€||
 [MLSS on Applications in Science](https://mlss2023.mlinpl.org/)|Kraków, Poland|Jagiellonian University in Kraków, NCBR IDEAS, ML in PL|06/26 - 07/02|04/08|250€|Yes|
