@@ -33,8 +33,10 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|06/26 - 06/30|03/15|400€|No|
 [Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid (Spain)|Universidad Politécnica de Madrid|06/19 - 06/30|06/14|275€|No|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|06/12 - 06/16|03/01|250€|Yes|
+[NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023||Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
+
 
 
 ## 2022 Summer Schools
