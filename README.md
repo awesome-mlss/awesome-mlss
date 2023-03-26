@@ -23,6 +23,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 ------|--|---|----|--|-|-|----
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|08/28 - 09/02|02/28|0|Yes|
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|08/14 - 08/18|01/31||Yes|
+[Baxter Robot Revival by Deep Learning Application](https://apply.rtu.lv/courses/course/282-baxter-robot-revival-deep-learning-application)|Latvia, Riga|Riga Technical University|07/17 - 07/28|06/17|800€||
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|07/09 - 07/16|03/31|100€||
 [AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|07/04 - 07/08|06/20||N/A|
 [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
