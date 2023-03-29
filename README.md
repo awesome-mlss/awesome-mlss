@@ -33,6 +33,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|12-16 June 2023|March 1|Yes|Yes|
 [7th Summer School on Computational Interaction (CIX 2023)](https://cixschool2023.engin.umich.edu/registration/)|Ann Arbor, MI|University of Michigan, Ann Arbor|June 19 – 23, 2023|March 21|$450|-|
+[AI+Science Summer School](https://www.imsi.institute/activities/aiscience-summer-school-2023/)|Chicago, IL|DSI and IMSI at the University of Chicago|July 17-21, 2023|April 7, 2023|$50|Yes|
 
 
 ## 2022 Summer Schools
