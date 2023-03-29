@@ -32,6 +32,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|28th August - 2nd September 2023|28th February 2023|No|Yes|
 [International Summer School on AI and Games 2023](https://school.gameaibook.org/)|Cambridge UK|modl.ai and Microsoft Research|26-30 June 2023|15 March, 2023|Yes|No|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Trondheim (Norway)|Norwegian University of Science and Technology|12-16 June 2023|March 1|Yes|Yes|
+[7th Summer School on Computational Interaction (CIX 2023)](https://cixschool2023.engin.umich.edu/registration/)|Ann Arbor, MI|University of Michigan, Ann Arbor|June 19 – 23, 2023|March 21|$450|-|
 
 
 ## 2022 Summer Schools
