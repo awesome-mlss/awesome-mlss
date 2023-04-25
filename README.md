@@ -29,7 +29,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning](https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning)|Oxford, UK|Lady Margaret Hall|07/17- 08/04 | 05/08|GBP 1300|
 [AI+Science Summer School](https://www.imsi.institute/activities/aiscience-summer-school-2023/)|Chicago, USA|DSI and IMSI at the University of Chicago|07/17 - 07/21|04/07|50$|Yes|
 [Baxter Robot Revival by Deep Learning Application](https://apply.rtu.lv/courses/course/282-baxter-robot-revival-deep-learning-application)|Latvia, Riga|Riga Technical University|07/17 - 07/28|06/17|800€||
-[Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023]([http://www.ellis.eng.cam.ac.uk/cambridge-ellis-machine-learning-summer-school-2023/](https://www.ellis.eng.cam.ac.uk/summer-school/))|Cambridge, UK|Cambridge University| 07/17- 07/21 / 15 May|£0|Yes|
+[Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school/)|Cambridge, UK|Cambridge University| 07/17- 07/21 | 05/15 |£0|Yes|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|07/09 - 07/16|03/31|100€|
 [AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|07/04 - 07/08|06/20||N/A|
 [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
