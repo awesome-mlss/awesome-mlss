@@ -23,7 +23,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 ------|--|---|----|--|-|-|----
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|08/28 - 09/02|02/28|0|Yes|
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|08/14 - 08/18|01/31|0|Yes|
-[Machine Learning Research School](https://www.mlrs.ai/)|Bangkok, Thailand|Vidyasirimedhi Institute of Science and Technology, Chulalongkorn University, and Mahidol University|08/02 - 08/09|06/07|4000THB-10000THB|N/A|
+[Machine Learning Research School (MLRS)](https://www.mlrs.ai/)|Bangkok, Thailand|Vidyasirimedhi Institute of Science and Technology, Chulalongkorn University, and Mahidol University|08/02 - 08/09|06/07|4000THB-10000THB|N/A|
 [International Polytechnic machine learning summer school](https://summerschool.spbstu.ru/programs/machine_learning_theory_and_application/)|Russia|International Polytechnic summer & winter school|07/31- 08/11|07/20|30 000 RUB| 
 [European summer school in logic, language and information](https://2023.esslli.eu/)|Ljubljana, Slovenia|University of Ljubljana|07/31-08/11|06/01|490€-790€|Yes|
 [European Summer School on Artificial Intelligence](https://essai.si/)|Ljubljana, Slovenia|The University of Ljubljana and others|07/24-07/28|07/17|400€ - 1100€|N/A|
