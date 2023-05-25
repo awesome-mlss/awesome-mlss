@@ -28,6 +28,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [European summer school in logic, language and information](https://2023.esslli.eu/)|Ljubljana, Slovenia|University of Ljubljana|07/31-08/11|06/01|490€-790€|Yes|
 [European Summer School on Artificial Intelligence](https://essai.si/)|Ljubljana, Slovenia|The University of Ljubljana and others|07/24-07/28|07/17|400€ - 1100€|N/A|
 [Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning](https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning)|Oxford, UK|Lady Margaret Hall|07/17- 08/04 | 05/08|GBP 1300|
+[10th INTERNATIONAL GRAN CANARIA SCHOOL ON DEEP LEARNING](https://deeplearn.irdta.eu/2023su/)|Las Palmas de Gran Canaria, Spain|University of Las Palmas de Gran Canaria and Institute for Research Development, Training and Advice – IRDTA Brussels/London|07/17-07/21|Early registration: May 26 (Onsite registration possible) |490£-580£|NA|
 [AI+Science Summer School](https://www.imsi.institute/activities/aiscience-summer-school-2023/)|Chicago, USA|DSI and IMSI at the University of Chicago|07/17 - 07/21|04/07|50$|Yes|
 [Baxter Robot Revival by Deep Learning Application](https://apply.rtu.lv/courses/course/282-baxter-robot-revival-deep-learning-application)|Latvia, Riga|Riga Technical University|07/17 - 07/28|06/17|800€||
 [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school/)|Cambridge, UK|Cambridge University| 07/17- 07/21| 05/15|0£|Yes
@@ -46,7 +47,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023|0|Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
-[10th INTERNATIONAL GRAN CANARIA SCHOOL ON DEEP LEARNING](https://deeplearn.irdta.eu/2023su/)|Las Palmas de Gran Canaria, Spain|University of Las Palmas de Gran Canaria and Institute for Research Development, Training and Advice – IRDTA Brussels/London|07/17-07/21|Early registration: May 26 (Onsite registration possible) |490£-580£|NA|
+
 
 
 
