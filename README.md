@@ -33,6 +33,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [AI+Science Summer School](https://www.imsi.institute/activities/aiscience-summer-school-2023/)|Chicago, USA|DSI and IMSI at the University of Chicago|07/17 - 07/21|04/07|50$|Yes|
 [Baxter Robot Revival by Deep Learning Application](https://apply.rtu.lv/courses/course/282-baxter-robot-revival-deep-learning-application)|Latvia, Riga|Riga Technical University|07/17 - 07/28|06/17|800€||
 [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school/)|Cambridge, UK|Cambridge University| 07/17- 07/21| 05/15|0£|Yes
+[MoroccoAI Summer School](https://summerschool.morocco.ai/)|Ifrane, Morocco|MoroccoAI & Al Akhawayn University|07/17 - 07/21|06/23|500 - 2000 MAD|-|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia|EEML Team|07/09 - 07/16|03/31|100€|
 [AI-DLDA: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|University of Udine|07/04 - 07/08|06/20|0€-600€|N/A|
 [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
@@ -48,8 +49,6 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023|0|Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
-[MoroccoAI Summer School](https://summerschool.morocco.ai/)|Ifrane, Morocco|MoroccoAI & Al Akhawayn University|07/17 - 07/21|06/23|500 - 2000 MAD|-|
-
 
 
 
