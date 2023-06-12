@@ -48,6 +48,8 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023|0|Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
+[MoroccoAI Summer School](https://summerschool.morocco.ai/)|Ifrane, Morocco|MoroccoAI & Al Akhawayn University|07/17 - 07/21|06/23|500 - 2000 MAD|-|
+
 
 
 
