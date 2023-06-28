@@ -21,6 +21,7 @@ NOTE:
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[Zortify Summer School: The Future of Work (2023)](https://zortify.com/summer-school/)|Luxembourg, Luxembourg|Zortify|08/28 - 09/01|07/07|330€, 440€, 880€|TBA|
 [Mediterranean Machine Learning  Summer School (M2L)](https://www.m2lschool.org/home)|Thessaloniki, Greece|AI Education Foundation|08/28 - 09/02|02/28|0|Yes|
 [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)|Montreal, Canada|Climate Change AI|08/14 - 08/18|01/31|0|Yes|
 [Machine Learning Research School (MLRS)](https://www.mlrs.ai/)|Bangkok, Thailand|Vidyasirimedhi Institute of Science and Technology, Chulalongkorn University, and Mahidol University|08/02 - 08/09|06/07|4000THB-10000THB|N/A|
