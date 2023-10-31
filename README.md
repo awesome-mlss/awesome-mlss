@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [2024 Summer Schools](#2024-summer-schools)
 - [2023 Summer Schools](#2023-summer-schools)
 - [2022 Summer Schools](#2022-summer-schools)
 - [2021 Summer Schools](#2021-summer-schools)
@@ -14,9 +15,16 @@
   - [Blogs](#blogs)
 
 NOTE:
+- **Community Call For Contributions for 2024 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
 - **Community Call For Contributions for 2023 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
 - The schools are arranged in reverse chronogical order by date
-- Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
+- Regarding the fee: Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
+
+## 2024 Summer Schools
+Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
+------|--|---|----|--|-|-|----
+[Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
+
 
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
@@ -240,7 +248,7 @@ These are the summer schools which are usually held every year :
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
 - International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
 - Deep Learning for Natural Language Processing: http://ixa2.si.ehu.es/deep_learning_seminar
-- Nordic Probabilistic AI School (ProbAI): https://probabilistic.ai/
+- Probabilistic AI School (ProbAI): https://probabilistic.ai
 - Vision Understanding & Machine Intelligence Summer School (VISUM): https://www.instagram.com/visumschool/?hl=en
 - Neuromatch Academy: https://academy.neuromatch.io/home
 
