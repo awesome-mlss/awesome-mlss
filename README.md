@@ -24,6 +24,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US| Princeton University |08/06 - 08/15|03/01/2024|0|Yes - free accommodation and $500 travel reimbursement.|
 
 
 ## 2023 Summer Schools
