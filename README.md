@@ -24,7 +24,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
-
+[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich, Switzerland| FOUR |06/30 - 07/06| TBA | TBA | TBA |
 
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
@@ -232,6 +232,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 ## Recurring Summer Schools
 
 These are the summer schools which are usually held every year :
+- Machine Learning Summer School in healthcare and biosciences (by FOUR): https://www.bumblekite.co/
 - Mediterranean Machine Learning Summer School: https://m2lschool.org
 - Deep Learning Indaba: https://deeplearningindaba.com/
 - PRAIRIE/MIAI Artificial Intelligence Summer School (PAISS): https://project.inria.fr/paiss/
