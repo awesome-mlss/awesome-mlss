@@ -23,8 +23,8 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
-[Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich (Switzerland)| FOUR |06/30 - 07/06| TBA | TBA | TBA |
+[Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
 
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
