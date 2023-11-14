@@ -25,6 +25,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 ------|--|---|----|--|-|-|----
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich (Switzerland)| FOUR |06/30 - 07/06| TBA | TBA | TBA |
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
+[Oxford ML school](https://www.oxfordml.school/)|Oxford (UK)| AI for Global Goals & University of Oxford & Cifar |07/06 - 07/09 & 07/11 - 07/14|02/07/2024| £150-£950 |Yes|
 
 ## 2023 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
