@@ -26,7 +26,11 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich (Switzerland)| FOUR |06/30 - 07/06| TBA | TBA | TBA |
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
 
+
 ## 2023 Summer Schools
+<details>
+      <summary>Click to expand for 2023 summer schools</summary>
+	
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [Zortify Summer School: The Future of Work (2023)](https://zortify.com/summer-school/)|Luxembourg, Luxembourg|Zortify|08/28 - 09/01|07/07|330€, 440€, 880€|TBA|
@@ -59,6 +63,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
 
+</details>
 
 
 ## 2022 Summer Schools
