@@ -240,23 +240,17 @@ These are the summer schools which are usually held every year :
 - Machine Learning Summer School in healthcare and biosciences (by FOUR): https://www.bumblekite.co/
 - Mediterranean Machine Learning Summer School: https://m2lschool.org
 - Deep Learning Indaba: https://deeplearningindaba.com/
-- PRAIRIE/MIAI Artificial Intelligence Summer School (PAISS): https://project.inria.fr/paiss/
-- Eastern European Machine Learning Summer School (EEML): https://eeml.eu
 - Summer School of Machine Learning at Skoltech (SMILES): http://smiles.skoltech.ru
 - CIFAR's Deep Learning And Reinforcement Learning Summer School : https://dlrlsummerschool.ca
 - Machine Learning Summer School (by Max Planck Institute, Tübingen) : http://mlss.cc/
 - Tsinghua University Deep Learning Summer School (by Tsinghua University Beijing): http://ss.cs.tsinghua.edu.cn/index.html
 - Lisbon Machine Learning Summer School : http://lxmls.it.pt
 - Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
-- Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
-- Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
-- International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
 - Deep Learning for Natural Language Processing: http://ixa2.si.ehu.es/deep_learning_seminar
 - Probabilistic AI School (ProbAI): https://probabilistic.ai
-- Vision Understanding & Machine Intelligence Summer School (VISUM): https://www.instagram.com/visumschool/?hl=en
-- Neuromatch Academy: https://academy.neuromatch.io/home
+
 
 ## FAQs
 
