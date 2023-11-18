@@ -1,4 +1,4 @@
-# Awesome Summer Schools in Machine Learning + related fields
+# Awesome Summer (and winter) Schools in Machine Learning + related fields
 
 ## Table of Contents
 
