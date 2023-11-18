@@ -5,9 +5,7 @@
 - [2024 Summer Schools](#2024-summer-schools)
 - [2023 to 2018 Summer Schools](#previous-years-summer-schools)
 - [Recurring Summer Schools](#recurring-summer-schools)
-- [FAQs](#faqs)
-  - [Reddit](#reddit)
-  - [Blogs](#blogs)
+- [Blogs](#blogs)
 
 NOTE:
 - **Community Call For Contributions for 2024 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
@@ -229,16 +227,7 @@ These are the summer schools which are usually held every year :
 - Probabilistic AI School (ProbAI): https://probabilistic.ai
 
 
-## FAQs
-
-### Reddit
-
-
-- [Will Sheffield organize a Gaussian Processes Summer School in 2018?](https://www.reddit.com/r/MachineLearning/comments/7v8wxn/d_will_sheffield_organize_a_gaussian_processes/)
-- [Videos of Deep|Bayes – Summer School on Bayesian Deep Learning](https://www.reddit.com/r/MachineLearning/comments/9dgnl3/r_videos_of_deepbayes_summer_school_on_bayesian/)
-- [Best deep learning/ML summer schools of 2018](https://www.reddit.com/r/MachineLearning/comments/85s9i8/d_best_deep_learningml_summer_schools_of_2018/)
-
-### Blogs
+## Blogs
 - [Attending the 2021 Eastern European Machine Learning Summer School](https://npbeck.github.io/me/2021/07/16/EEML2021.html) (EEML 2021)
 - [Probabilistic AI summer school: 5 reasons you must attend](https://scholarleen.com/inspiration/probabilistic-ai-summer-school-5-reasons/) (ProbAI 2019)
 - [My first summer school](https://www.stratosphereips.org/blog/2018/8/1/1st-transylvanian-machine-learning-summer-school) (TMLSS 2018)
