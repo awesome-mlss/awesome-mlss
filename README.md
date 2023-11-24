@@ -27,6 +27,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 ## Previous Years Summer Schools
 <details>
       <summary>Click to expand for 2023 summer schools</summary>
+      
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [Zortify Summer School: The Future of Work (2023)](https://zortify.com/summer-school/)|Luxembourg, Luxembourg|Zortify|08/28 - 09/01|07/07|330€, 440€, 880€|TBA|
@@ -58,10 +59,12 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023|0|Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
+
 </details>
 
 <details>
       <summary>Click to expand for 2022 summer schools</summary>
+      
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
 [6th International Summer School on Resource-Aware Machine Learning (REAML 2022)](https://sfb876.tu-dortmund.de/summer-school-2022)|Dortmund, Germany|CRC 876 and AI group at TU Dortmund University| September 12-16|August 14|Early registration fee: EUR 420, Late registration fee: EUR 520| Yes||
@@ -82,10 +85,12 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
 [Cardiff NLP Summer Workshop](https://www.cardiffnlpworkshop.org/)|Cardiff, Wales, UK|Cardiff NLP Group|June 30 - July 1|May 30||||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, US|Princeton University|June 13-17|March 31|free|free acommodation and travel reimbursement|Full consideration will be given to applications completed by March 31|
 [Nordic Probabilistic AI School](https://probabilistic.ai/)|Helsinki, Finland|University of Helsinki|June 13-17|March 27|Students (including PhD): 250€, Academia: 500€, Industry: 1000€|Yes||
+
 </details>
 
 <details>
       <summary>Click to expand for 2021 summer schools</summary>
+      
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
    ------|--|--|---|--|-|-
    [Asian Machine Learning School (Online) 2021](http://www.acml-conf.org/2021/school/)|Online|Asian Machine Leraning Conference|Nov 8 - Nov 19|Open:  15 Sep|20 USD|N/A
@@ -117,10 +122,12 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
    [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Virtual|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 14 - June 18|March 31|€50 - €300|Scholarships available.|
    [Duke Machine Learning Virtual Summer School 2021](https://plus.datascience.duke.edu/mlvss2021)|Virtual|Duke University|June 14 - June 17|N/A|\$50.00(student); \$175.00(non-student)|N/A|
    [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/)|New York, Virtual|New York University|Jan 04 - 08, 2021|N/A|Free|Online and entirely free|
+
 </details>
 
 <details>
       <summary>Click to expand for 2020 summer schools</summary>
+      
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
    ------|--|--|---|--|-|-
    [Mediterranean Machine Learning  Summer School](https://www.m2lschool.org/)|Milan, Italy|NA|Jan 11 - 16, 2021|March 16|€100~€500|Limited funding is available for registration-fee waivers and travel/accommodation scholarships.|
@@ -143,10 +150,12 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
    [North Africa Middle East Summer School (NASSMA 2020 Istanbul)](http://nassma-ml.org)|Istanbul, Turkey| NASSMA Team -  ITU |June 22-27|March 20|€200-€1000|Full/partial travel grants based on financial considerations for students.|
    [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 8 - June 12 (Postponed to 7-11 June 2021)|March 26|€250 - €1000|A limited number of scholarships will be provided.|
    [Data Science Africa Summer School](http://www.datascienceafrica.org/dsa2020kampala/)|Kampala, Uganda| Data Science Africa | June 22-26| April 15| NA|NA
+
 </details>
 
 <details>
       <summary>Click to expand for 2019 summer schools</summary>
+      
    Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
    ------|--|--|---|--|-|-
    [Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Universidad de la República|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
@@ -184,10 +193,12 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
    [AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|Feb 28 for early bird|$500-$950|Unity is offering 6 scholarships to PhD students/Indie developers
    [Deep Learning For Medical Imaging](https://deepimaging2019.sciencesconf.org/)|Lyon, France|INSA Lyon|April 15 - April 19| Feb 20|NA|NA
    [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
+   
 </details>
 
 <details>
    <summary>Click to expand for 2018 summer schools</summary>
+      
    Name|Location|Organiser|Dates|Aid
    ------|--|--|---|-
    [Summer School on Machine Learning and Data Science](http://www.datascienceafrica.org/dsa2018abuja/)|Abuja, Nigeria|Data Science Africa|12 Nov - 16 Nov |NA
@@ -208,6 +219,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)| Not
    [Lisbon Machine Learning School (LxMLS 2018)](http://lxmls.it.pt/2018)|Lisbon, Portugal|Instituto Superior Técnico| June 14 - June 21|Yes
    [Summer School on Machine Learning and Data Science](http://www.datascienceafrica.org/dsa2018)|Nyeri, Kenya|Data Science Africa| May 31 - June 6|NA
    [AI and Games Summer School](http://school.gameaibook.org)|Crete (Chania), Greece|Georgios N. Yannakakis and Julian Togelius|May 28 - June 1|NA|NA
+   
 </details>
 
 
