@@ -17,11 +17,15 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
-[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |08/06 - 08/15|03/01/2024|0|Yes - free accommodation and $500 travel reimbursement.|
-[Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |07/15 - 07/20|End of March|TBA|Travel grants available on request | Application open: Early January 2024 |
-[Oxford ML school](https://www.oxfordml.school/)|Oxford (UK)| AI for Global Goals & University of Oxford & Cifar |07/06 - 07/09 & 07/11 - 07/14|02/07/2024| £150-£950 |Yes|
-[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich (Switzerland)| FOUR |06/30 - 07/06| TBA | TBA | TBA |
-[Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
+[Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - Sep 07|||
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |Aug 06 - Aug 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
+[Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - Jul 20|March|TBA|Travel grants available on request | Application open: Early January 2024 |
+[Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - Jul 17|
+[Oxford ML school](https://www.oxfordml.school/)|Oxford (UK)| AI for Global Goals & University of Oxford & Cifar |Jul 06 - Jul 09 & Jul 11 - Jul 14|Feb 07| £150-£950 |Yes|
+[Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich, Switzerland| Bumblekite |Jun 30 - Jul 06|Mar 06| TBA | TBA |
+[Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
+[Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
+[Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |Jan 29 - Feb 02|2023 Nov 24|~170-570 €|Yes|
 
 
 ## Previous Years Summer Schools
