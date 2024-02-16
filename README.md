@@ -17,6 +17,7 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|||
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - 20|March|TBA|Travel grants available on request | Application open: Early January 2024 |
