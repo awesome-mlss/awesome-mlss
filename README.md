@@ -20,6 +20,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - 20|March|TBA|Travel grants available on request | Application open: Early January 2024 |
+[DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence)](https://deeplearn.irdta.eu/2024/)|Porto - Maia, Portuga|Institute for Research Development, Training and Advice – IRDTA, Brussels/London |Jul 15 - 19|July 12|€430-€580| | Application open: Early January 2024 |
 [Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17 | Feb 16 | 800 CAD | Yes, for black and indigenous students |
 [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2024/)|Sicily, Italy|University of Catania|Jul 7 - 13|Mar 31|€575-€1000|
 [Oxford ML school](https://www.oxfordml.school/)|Oxford (UK)| AI for Global Goals & University of Oxford & Cifar |Jul 06 - 09 & Jul 11 - 14|Feb 07| £150-£950 |Yes|
