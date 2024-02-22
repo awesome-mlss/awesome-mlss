@@ -30,11 +30,11 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen (Denmark) | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
+[RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm (Sweden)|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Feb 29 | 0 | No |
 [Artificial Intelligence in Education](https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education)|Bergen, Norway|University of Bergen|June 03 - 13|
 [Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
 [Winter School on Foundation Models](https://amsterdam-fomo.github.io/)|Amsterdam, Nederlands| ELLIS |Mar 12 - 15|Feb 15|€250|Yes|
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |Jan 29 - Feb 02|Jan 23|~170-570 €|Yes|
-
 
 ## Previous Years Summer Schools
 <details>
