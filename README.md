@@ -17,7 +17,6 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
-[RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm (Sweden)|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Feb 29 | 0 | No |
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
 [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650|||
@@ -31,6 +30,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen (Denmark) | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
+[RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm (Sweden)|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Feb 29 | 0 | No |
 [Artificial Intelligence in Education](https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education)|Bergen, Norway|University of Bergen|June 03 - 13|
 [Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
 [Winter School on Foundation Models](https://amsterdam-fomo.github.io/)|Amsterdam, Nederlands| ELLIS |Mar 12 - 15|Feb 15|€250|Yes|
