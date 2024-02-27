@@ -17,6 +17,7 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|Apr 1|0|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton (US)| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
