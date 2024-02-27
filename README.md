@@ -35,8 +35,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
 [Winter School on Foundation Models](https://amsterdam-fomo.github.io/)|Amsterdam, Nederlands| ELLIS |Mar 12 - 15|Feb 15|€250|Yes|
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |Jan 29 - Feb 02|Jan 23|~170-570 €|Yes|
-[NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |June 10 - 14 | March 31st | -- | | 3 ECTS, 3 Courses in parallel: Course 1: Geometric Deep Learning, Course 2: DRE 7053 Generative Models, Course 3: Secure and Robust AI Model Development (DAT945)
-
+[NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |June 10 - 14 | March 31st | -- | | 3 ECTS, 3 Courses in parallel to choose from
 ## Previous Years Summer Schools
 <details>
       <summary>Click to expand for 2023 summer schools</summary>
