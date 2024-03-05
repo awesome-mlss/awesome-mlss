@@ -35,7 +35,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen (Denmark) | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
 [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |Jun 10 - 14 | March 31 | | | 3 ECTS, 3 Courses in parallel to choose from
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv2024)|Genova, Italy|University of Genoa|Jun 10-14|Apr 1|€50-300|
-[RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm (Sweden)|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Feb 29 | 0 | No |
+[RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm (Sweden)|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Mar 13 | 0 | No |
 [Artificial Intelligence in Education](https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education)|Bergen, Norway|University of Bergen|June 03 - 13|
 [Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
 [Winter School on Foundation Models](https://amsterdam-fomo.github.io/)|Amsterdam, Nederlands| ELLIS |Mar 12 - 15|Feb 15|€250|Yes|
