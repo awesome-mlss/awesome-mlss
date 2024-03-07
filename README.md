@@ -31,6 +31,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2024)|Genova, Italy|University of Genoa|Jun 25-28|Apr 1|€50-300|
 [Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|400-800€||
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
+[Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid, Spain |Universidad Politécnica de Madrid|Jun 17-28|Jun 14|300-1200€|No|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen (Denmark) | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
 [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |Jun 10 - 14 | March 31 | | | 3 ECTS, 3 Courses in parallel to choose from
@@ -257,6 +258,7 @@ These are the summer schools which are usually held every year :
 - Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
 - Deep Learning for Natural Language Processing: http://ixa2.si.ehu.es/deep_learning_seminar
 - Probabilistic AI School (ProbAI): https://probabilistic.ai
+- Madrid UPM Machine Learning and Advanced Statistics Summer School: http://dia.fi.upm.es/es/MLAS
 
 
 ## Blogs
