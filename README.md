@@ -17,6 +17,7 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)|Capri, Italy|University Federico II of Napoli|Sep 23-27|Apr 20|€ 675||
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|Apr 1|0|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
