@@ -44,6 +44,8 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Summer School for Large Language Models](http://ss.cs.tsinghua.edu.cn/index.html)|Beijing, China|Tsinghua University||Apr 1|800 USD
 [Winter School on Foundation Models](https://amsterdam-fomo.github.io/)|Amsterdam, Nederlands| ELLIS |Mar 12 - 15|Feb 15|€250|Yes|
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |Jan 29 - Feb 02|Jan 23|~170-570 €|Yes|
+[Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam (Nederlands)| University of Amsterdam |July 29 – August 2, 2024|May 15, 2024|€550 |No|
+
 
 ## Previous Years Summer Schools
 <details>
