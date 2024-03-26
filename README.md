@@ -34,6 +34,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2024)|Genova, Italy|University of Genoa|Jun 25-28|Apr 1|€50-300|
 [10th International Summer School on AI and Big Data](https://scads.ai/education/summer-schools/summer-school-2024/)|Leipzig, Germany|[ScaDS.AI Dresden/Leipzig (Center for Scalable Data Analytics and Artificial Intelligence)](https://scads.ai)|Jun 25-28|Jun 1|200 - 300 Euro| | Generative AI, Earth Science, Responsible AI, Mathematical Foundations of AI, Protein Engineering and AI
 [Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|400-800€||
+[Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2024)|Santa Cruz, US|Cooperative AI Fundation|Jun 19-23|April 26|$350 / $700||
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
 [Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid, Spain |Universidad Politécnica de Madrid|Jun 17-28|Jun 14|300-1200€|No|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
