@@ -30,7 +30,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17 | Feb 16 | 800 CAD | Yes, for black and indigenous students |
 [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2024/)|Sicily, Italy|University of Catania|Jul 7 - 13|Mar 31|€575-€1000|
 [Oxford ML school](https://www.oxfordml.school/)|Oxford, UK| AI for Global Goals & University of Oxford & Cifar |Jul 06 - 09 & Jul 11 - 14|Feb 07| £150-£950 |Yes|
-[Machine learning summer school in health, care and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich, Switzerland| Bumblekite |Jun 30 - Jul 06|April 10| TBA | TBA |
+[Machine learning summer school in health, care and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich, Switzerland| Bumblekite |Jun 30 - Jul 06|May 15 10| TBA | TBA |
 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2024)|Genova, Italy|University of Genoa|Jun 25-28|Apr 1|€50-300|
 [10th International Summer School on AI and Big Data](https://scads.ai/education/summer-schools/summer-school-2024/)|Leipzig, Germany|[ScaDS.AI Dresden/Leipzig (Center for Scalable Data Analytics and Artificial Intelligence)](https://scads.ai)|Jun 25-28|Jun 1|200 - 300 Euro| | Generative AI, Earth Science, Responsible AI, Mathematical Foundations of AI, Protein Engineering and AI
 [Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|400-800€||
