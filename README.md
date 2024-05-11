@@ -21,6 +21,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|Apr 1|0|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
+[Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
 [Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam, Nederlands| University of Amsterdam |Jul 29 – Aug 2|May 15|€550 |No|
 [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650|||
