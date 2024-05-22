@@ -21,6 +21,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Athens NLP (AθNLP)](https://athnlp.github.io/2024/)|Athens, Greece|[RC Athena](https://www.athena-innovation.gr/), [NCSR Demokritos](http://www.demokritos.gr/), [AUEB](https://www.dept.aueb.gr/en/cs), [Heriot-Watt University](https://www.hw.ac.uk/)|Sep 19-25|Jun 20|€ 300-500||
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|Apr 1|0|
+[ACM Summer School on HPC Computer Architectures for AI and Dedicated applications](https://europe.acm.org/seasonal-schools/hpc/2024)|Barcelona, Spain|Barcelona Supercomputing Center|Sep 2-6|Jun 15|No fee|Will cover accommodation, catering|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [ILCB Summer School](https://www.ilcb.fr/2024-2/)|Marseille, France|Institute of Language Communication and the Brain|Aug 26-30|Friday, May 24|Free|||
 [Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
