@@ -46,6 +46,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid, Spain |Universidad Politécnica de Madrid|Jun 17-28|Jun 14|300-1200€|No|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen, Denmark | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
+[Principles of Machine Learning for Bioinformatics](https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/)|Austin, Texas| UT Austin Center for Biomedical Research Support| June 17-21|-|Depends|No|
 [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |Jun 10 - 14 | March 31 | | | 3 ECTS, 3 Courses in parallel to choose from
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv2024)|Genova, Italy|University of Genoa|Jun 10-14|Apr 1|€50-300|
 [RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm, Sweden|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Mar 13 | 0 | No |
