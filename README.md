@@ -26,7 +26,8 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [ILCB Summer School](https://www.ilcb.fr/2024-2/)|Marseille, France|Institute of Language Communication and the Brain|Aug 26-30|May 24|0|||
 [Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
-[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University|Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
+[NSF Open AI Cellular workshop](https://www.openaicellular.org/2024-oaic-workshop)|Starkville, MS|OAIC|Aug 06 - 08|Jun 15|0|Yes|
 [35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/)|Leuven, Belgium|ESSLLI|Jul 29 – Aug 9|May 31|€550 |No|
 [Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam, Nederlands| University of Amsterdam |Jul 29 – Aug 2|May 15|€550 |No|
 [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650||
