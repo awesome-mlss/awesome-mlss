@@ -25,6 +25,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [ACM Summer School on HPC Computer Architectures for AI and Dedicated applications](https://europe.acm.org/seasonal-schools/hpc/2024)|Barcelona, Spain|Barcelona Supercomputing Center|Sep 2-6|Jun 15|0|Will cover accommodation, catering|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
 [ILCB Summer School](https://www.ilcb.fr/2024-2/)|Marseille, France|Institute of Language Communication and the Brain|Aug 26-30|May 24|0|||
+[Summer school on biomedical image analysis](https://biomed.compute.dtu.dk/)|Copenhagen, Denmark|DIKU, DTU, and AAU|Aug 12-16|Jun|5600 DKK|No||
 [Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University|Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
 [NSF Open AI Cellular workshop](https://www.openaicellular.org/2024-oaic-workshop)|Starkville, MS|OAIC|Aug 06 - 08|Jun 15|0|Yes|
