@@ -1,0 +1,787 @@
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Machine Learning Summer School Deadlines</title>
+<meta name="description" content="Countdowns to Machine Learning Summer School deadlines">
+<meta name="author" content="Shashank Shekhar">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716846832" media="screen,projection">
+
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716846832" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716846832" media="screen,projection">
+
+<link rel="shortcut icon" href="/static/img/favicon.png">
+
+<script type="text/javascript" src="/static/js/js-year-calendar.js"></script>
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/popper.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="/static/js/moment.min.js"></script>
+<script type="text/javascript" src="/static/js/moment-timezone-with-data.min.js"></script>
+<script type="text/javascript" src="/static/js/store.min.js"></script>
+<script type="text/javascript" src="/static/js/ouical.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap-multiselect.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+      <div style="vertical-align: middle; padding-top: 8px;">
+        <div>
+          <a class="navbar-brand" href="/" style="border-bottom: none; line-height: 0.1em;">
+          MLSS Deadlines<br><br>
+          </a>
+        </div>
+        <div style="color: white; font-size: x-small;">
+          by 
+          <a href="https://github.com/sshkhr">sshkhr</a> & <a href="https://github.com/gmberton">gmberton</a>
+        </div>
+      </div>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggler"
+      aria-controls="navbars-toggler" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar-toggler">
+      <ul class="navbar-nav mr-auto">
+        <li>
+          <a href="/" class="nav-link" style="border-bottom: none">Countdowns</a>
+        </li>
+        <li>
+          <a href="/calendar" class="nav-link" style="border-bottom: none;">Calendar</a>
+        </li>
+      </ul>
+      <div class="twitter-github-icons">
+        <a href="https://twitter.com/share" class="twitter-share-button"
+          data-text="Countdowns to Machine Learning Summer School deadlines"
+          data-show-count="false" style="font-size: 13px;">Tweet</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        &nbsp; &nbsp;
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=sshkhr&repo=awesome-mlss&type=star&count=true"
+          frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+      </div>
+    </div>
+  </div>
+</nav>
+    <div class="container">
+      <br>
+      <h1>Calendar Overview of Conference Deadlines and Dates</h1>
+      <div class="row">
+        <div class="meta col-sm-12">
+          Overview of deadlines and conference dates in a calendar.
+          Also, <a href="/">countdowns</a> to CV/NLP/ML/Robotics/AI conference deadlines.
+        </div>
+        <br>
+      </div>
+
+      <br>
+
+      <!-- Filter Form -->
+      <div class="row">
+        <form class="container">
+          <div class="row justify-content-center">
+            <div class="row align-items-md-center col-12 col-10-md">
+              <div class="col-12 col-md-5 filter-label">
+                <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
+                  Subject Filter:
+                </label>
+              </div>
+              <div class="col-12 col-md-6">
+                <select
+                  id="subject-select"
+                  name="subject-select"
+                  multiple="multiple"
+                  style="display: none"
+                >
+                  
+                  <option value="ML" id="ML-checkbox">
+                    Machine Learning (ML)
+                  </option>
+                  
+                  <option value="CV" id="CV-checkbox">
+                    Computer Vision (CV)
+                  </option>
+                  
+                  <option value="CG" id="CG-checkbox">
+                    Computer Graphics (CG)
+                  </option>
+                  
+                  <option value="NLP" id="NLP-checkbox">
+                    Natural Language Proc (NLP)
+                  </option>
+                  
+                  <option value="RO" id="RO-checkbox">
+                    Robotics (RO)
+                  </option>
+                  
+                  <option value="SP" id="SP-checkbox">
+                    Speech/SigProc (SP)
+                  </option>
+                  
+                  <option value="DM" id="DM-checkbox">
+                    Data Mining (DM)
+                  </option>
+                  
+                  <option value="AP" id="AP-checkbox">
+                    Automated Planning (AP)
+                  </option>
+                  
+                  <option value="KR" id="KR-checkbox">
+                    Knowledge Representation (KR)
+                  </option>
+                  
+                  <option value="HCI" id="HCI-checkbox">
+                    Human-Computer Interaction (HCI)
+                  </option>
+                  
+                  <option value="GenAI" id="GenAI-checkbox">
+                    Generative AI (GenAI)
+                  </option>
+                  
+                </select>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <br>
+      <div id="calendar-page" class="calendar-page"></div>
+
+      <div class="modal fade" id="event-modal">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Event</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <input type="hidden" name="event-index" />
+              <form class="form-horizontal">
+                <div class="form-group row">
+                  <label for="event-name" class="col-sm-4 control-label">Name</label>
+                  <div class="col-sm-8">
+                    <input id="event-name" name="event-name" type="text" class="form-control" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label for="event-location" class="col-sm-4 control-label">Location</label>
+                  <div class="col-sm-8">
+                    <input id="event-location" name="event-location" type="text" class="form-control" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label for="min-date" class="col-sm-4 control-label">Dates</label>
+                  <div class="col-sm-8">
+                    <div class="input-group input-daterange" data-provide="datepicker">
+                      <input id="min-date" name="event-start-date" type="text" class="form-control" />
+                      <div class="input-group-prepend input-group-append">
+                        <div class="input-group-text">to</div>
+                      </div>
+                      <input name="event-end-date" type="text" class="form-control" />
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">
+                Cancel
+              </button>
+              <button type="button" class="btn btn-primary" id="save-event">
+                Save
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="context-menu"></div>
+      <br>
+      <div class="row">
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: red;"></span> Deadlines
+        </div>
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: gray"></span> Today
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #ffd300"></span> Machine Learning
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #deff0a"></span> Computer Vision
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #0aefff"></span> Computer Graphics
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #147df5"></span> Natural Language Proc
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #0aff99"></span> Robotics
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #580aff"></span> Speech/SigProc
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #be0aff"></span> Data Mining
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #a432a8"></span> Automated Planning
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #32a855"></span> Knowledge Representation
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #a83232"></span> Human-Computer Interaction
+        </div>
+        
+        <div class="col-6 col-sm-4">
+          <span class="color-box" style="background-color: #a83232"></span> Generative AI
+        </div>
+        
+      </div>
+      <hr>
+      <footer>
+        <div class="row">
+  <div class="col-12 col-sm-12">
+    <a href="/">aideadlin.es</a>
+    was built and maintained from 2018 onwards by
+    <a href="https://twitter.com/abhshkdz">sshkhr</a>. It has been maintained by
+    <a href="https://github.com/gmberton">gmberton</a> since 2023.<br>
+  </div>
+</div>
+
+      </footer>
+
+    </div>
+
+
+
+    <script type="text/javascript" charset="utf-8">
+      let calendar = null;
+      var page_url = "/calendar"
+      var conf_list_all = [];
+
+      // Borrowed from https://github.com/moment/moment-timezone/issues/167
+// Adds support for time zones 'UTC-12'..'UTC+12'
+function addUtcTimeZones() {
+  // Moment.js uses the IANA timezone database, which supports generic time zones like 'Etc/GMT+1'.
+  // However, the signs for these time zones are inverted compared to ISO 8601.
+  // For more details, see https://github.com/moment/moment-timezone/issues/167
+  for (let offset = -12; offset <= 12; offset++) {
+    const posixSign = offset <= 0 ? "+" : "-";
+    const isoSign = offset >= 0 ? "+" : "-";
+    const link = `Etc/GMT${posixSign}${Math.abs(
+      offset
+    )}|UTC${isoSign}${Math.abs(offset)}`;
+    moment.tz.link(link);
+  }
+}
+
+function update_filtering(data) {
+  var page_url = "";
+  store.set("aideadlin.es-subs", data.subs);
+
+  $(".confItem").hide();
+  for (const j in data.all_subs) {
+    const s = data.all_subs[j];
+    const identifier = "." + s + "-conf";
+    if (data.subs.includes(s)) {
+      $(identifier).show();
+    }
+  }
+
+  if (subs.length == 0) {
+    window.history.pushState("", "", page_url);
+  } else {
+    window.history.pushState("", "", page_url + "/?sub=" + data.subs.join());
+  }
+}
+
+function createCalendarFromObject(data) {
+  return createCalendar({
+    options: {
+      class: "calendar-obj",
+
+      // You can pass an ID. If you don't, one will be generated for you
+      id: data.id,
+    },
+    data: {
+      // Event title
+      title: data.title,
+
+      // Event start date
+      start: data.date,
+
+      // Event duration
+      duration: 60,
+    },
+  });
+}
+
+      
+var subs = [];
+var _all_subs = [];
+// Get all subs
+var conf_type_data = [{"name":"Machine Learning","sub":"ML","color":"#ffd300"},{"name":"Computer Vision","sub":"CV","color":"#deff0a"},{"name":"Computer Graphics","sub":"CG","color":"#0aefff"},{"name":"Natural Language Proc","sub":"NLP","color":"#147df5"},{"name":"Robotics","sub":"RO","color":"#0aff99"},{"name":"Speech/SigProc","sub":"SP","color":"#580aff"},{"name":"Data Mining","sub":"DM","color":"#be0aff"},{"name":"Automated Planning","sub":"AP","color":"#a432a8"},{"name":"Knowledge Representation","sub":"KR","color":"#32a855"},{"name":"Human-Computer Interaction","sub":"HCI","color":"#a83232"},{"name":"Generative AI","sub":"GenAI","color":"#a83232"}];
+var sub2name = {}; var name2sub = {};
+for (var i = 0; i < conf_type_data.length; i++) {
+    _all_subs[i] = conf_type_data[i]['sub'];
+    sub2name[conf_type_data[i]['sub']] = conf_type_data[i]['name'];
+    name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
+}
+const all_subs = _all_subs;
+
+
+      // Multi-select handler
+$("#subject-select").multiselect({
+  includeSelectAllOption: true,
+  numberDisplayed: 5,
+  onChange: function (option, checked, select) {
+    var csub = $(option).val();
+    if (checked == true) {
+      if (subs.indexOf(csub) < 0) subs.push(csub);
+    } else {
+      var idx = subs.indexOf(csub);
+      if (idx >= 0) subs.splice(idx, 1);
+      // In case a conf with multiple types (including this type) is wrongly hid, show all confs with at least one checked type.
+      for (var i = 0; i < subs.length; i++) {
+        // $('.' + subs[i] + '-conf').show();
+      }
+    }
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  onSelectAll: function (options) {
+    subs = all_subs;
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  onDeselectAll: function (options) {
+    subs = [];
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  buttonText: function (options, select) {
+    if (options.length === 0) {
+      return "None selected";
+    } else {
+      var labels = [];
+      options.each(function () {
+        if ($(this).attr("value") !== undefined) {
+          labels.push($(this).attr("value"));
+        } else {
+          labels.push($(this).html());
+        }
+      });
+      return labels.join(", ") + "";
+    }
+  },
+  buttonTitle: function (options, select) {
+    return "";
+  },
+});
+
+      
+      // calendar data template
+      var calendar_data = {
+        clickDay: function (e) {
+          if (e.events.length > 0) {
+            for (var i in e.events) {
+              window.open("/conference?id=" + e.events[i].abbreviation, "_self")
+            }
+          }
+        },
+        mouseOnDay: function (e) {
+          if (e.events.length > 0) {
+            var content = "";
+
+            for (var i in e.events) {
+              var headline_color = "";
+              var break_html = '<hr>';
+
+              var location_html = '<img src="/static/img/072-location.svg" className="own-badge"/>&nbsp;' + e.events[i].location;
+              var date_html = '<img src="/static/img/084-calendar.svg" className="own-badge"/>&nbsp;' + e.events[i].date;
+
+              var badges_html = "";
+              var subs = e.events[i].subject.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                badges_html += '<span class="conf-sub conf-badge-small">' + sub + '</span>'
+              }
+              if (e.events[i].hindex != "") {
+                badges_html += '<span class="conf-h5 conf-badge-small">' + e.events[i].hindex + '</span>'
+              }
+
+              if (i == e.events.length - 1) {
+                break_html = '';
+              }
+
+
+              if (e.events[i].id.endsWith("deadline")) {
+                headline_color = 'deadline-text';
+              } else {
+              }
+              content +=
+                '<div class="event-tooltip-content">' +
+                '<div class="event-name ' + headline_color + '">' +
+                '<b>' + e.events[i].name + '</b>' + 
+                '</div>' +
+                '<div class="event-location">' +
+                location_html +
+                '<br>' +
+                date_html +
+                '<br>' +
+                badges_html +
+                '</div>' +
+                break_html +
+                '</div>';
+            }
+
+            $(e.element).popover({
+              trigger: "manual",
+              container: "body",
+              html: true,
+              content: content,
+            });
+
+            $(e.element).popover("show");
+          }
+        },
+        mouseOutDay: function (e) {
+          if (e.events.length > 0) {
+            $(e.element).popover("hide");
+          }
+        },
+        customDayRenderer: function (cellContent, currentDate) {
+          var today = new Date();
+          // render today
+          if (today.getFullYear() === currentDate.getFullYear() && today.getMonth() === currentDate.getMonth() && today.getDate() === currentDate.getDate()) {
+            cellContent.style = "background-color: gray;";
+          }
+        },
+        dayContextMenu: function (e) {
+          $(e.element).popover("hide");
+        },
+        dataSource: conf_list_all
+      }
+function load_conference_list() {
+  // Gather data
+  var conf_list_all = [];
+  
+    // add deadlines in red
+    conf_list_all.push({
+      id: "genaischool24-deadline",
+      abbreviation: "genaischool24",
+      name: "Paris Generative AI Autumn School 2024",
+      color: "red",
+      location: "Paris, France",
+      date: "October 21 - October 25, 2024",
+      hindex: "",
+      subject: "MLNLP",
+      startDate: Date.parse("2024-06-16 23:59:59"),
+      endDate: Date.parse("2024-06-16 23:59:59"),
+    });
+
+    // add Conferences in chosen color
+    
+      var color = "black";
+       // use first sub to choose color
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+      conf_list_all.push({
+        id: "genaischool24-conference",
+        abbreviation: "genaischool24",
+        name: "Paris Generative AI Autumn School 2024",
+        color: color,
+        location: "Paris, France",
+        date: "October 21 - October 25, 2024",
+        hindex: "",
+        subject: "MLNLP",
+        startDate: Date.parse("2024-10-21"),
+        endDate: Date.parse("2024-10-25"),
+      });
+    
+  
+    // add deadlines in red
+    conf_list_all.push({
+      id: "ieeeeurasips3p202424-deadline",
+      abbreviation: "ieeeeurasips3p202424",
+      name: "IEEE-EURASIP S3P 2024",
+      color: "red",
+      location: "Capri, Italy",
+      date: "September 23 - September 27, 2024",
+      hindex: "",
+      subject: "MLSP",
+      startDate: Date.parse("2024-04-20 23:59:59"),
+      endDate: Date.parse("2024-04-20 23:59:59"),
+    });
+
+    // add Conferences in chosen color
+    
+      var color = "black";
+       // use first sub to choose color
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+      conf_list_all.push({
+        id: "ieeeeurasips3p202424-conference",
+        abbreviation: "ieeeeurasips3p202424",
+        name: "IEEE-EURASIP S3P 2024",
+        color: color,
+        location: "Capri, Italy",
+        date: "September 23 - September 27, 2024",
+        hindex: "",
+        subject: "MLSP",
+        startDate: Date.parse("2024-09-23"),
+        endDate: Date.parse("2024-09-23"),
+      });
+    
+  
+    // add deadlines in red
+    conf_list_all.push({
+      id: "athensnlpaθnlp24-deadline",
+      abbreviation: "athensnlpaθnlp24",
+      name: "AθNLP 2024",
+      color: "red",
+      location: "Athens, Greece",
+      date: "September 19 - September 25, 2024",
+      hindex: "",
+      subject: "MLNLP",
+      startDate: Date.parse("2024-06-20 23:59:59"),
+      endDate: Date.parse("2024-06-20 23:59:59"),
+    });
+
+    // add Conferences in chosen color
+    
+      var color = "black";
+       // use first sub to choose color
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+      conf_list_all.push({
+        id: "athensnlpaθnlp24-conference",
+        abbreviation: "athensnlpaθnlp24",
+        name: "AθNLP 2024",
+        color: color,
+        location: "Athens, Greece",
+        date: "September 19 - September 25, 2024",
+        hindex: "",
+        subject: "MLNLP",
+        startDate: Date.parse("2024-09-19"),
+        endDate: Date.parse("2024-09-25"),
+      });
+    
+  
+    // add deadlines in red
+    conf_list_all.push({
+      id: "mediterraneanmachinelearningsummerschoolm2l24-deadline",
+      abbreviation: "mediterraneanmachinelearningsummerschoolm2l24",
+      name: "Mediterranean Machine Learning Summer School (M2L) 2024",
+      color: "red",
+      location: "Milan, Italy",
+      date: "September 9 - September 13, 2024",
+      hindex: "",
+      subject: "ML",
+      startDate: Date.parse("2024-03-21 23:59:59"),
+      endDate: Date.parse("2024-03-21 23:59:59"),
+    });
+
+    // add Conferences in chosen color
+    
+      var color = "black";
+       // use first sub to choose color
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+      conf_list_all.push({
+        id: "mediterraneanmachinelearningsummerschoolm2l24-conference",
+        abbreviation: "mediterraneanmachinelearningsummerschoolm2l24",
+        name: "Mediterranean Machine Learning Summer School (M2L) 2024",
+        color: color,
+        location: "Milan, Italy",
+        date: "September 9 - September 13, 2024",
+        hindex: "",
+        subject: "ML",
+        startDate: Date.parse("2024-09-09"),
+        endDate: Date.parse("2024-09-13"),
+      });
+    
+  
+
+  return conf_list_all;
+}
+
+function update_filtering(data) {
+  store.set('aideadlin.es-subs', data.subs);
+
+  conf_list = conf_list_all.filter(v => {
+    var commonValues = data.subs.filter(function (value) {
+      return v.subject.indexOf(value) > -1;
+    });
+    var subject_match = commonValues.length > 0;
+    return subject_match;
+  });
+
+  // rerender calendar
+  calendar_data['dataSource'] = conf_list;  // need to update only this
+  calendar = new Calendar("#calendar-page", calendar_data);
+
+  if (subs.length == 0) {
+    window.history.pushState('', '', page_url);
+  } else {
+    window.history.pushState('', '', page_url + '/?sub=' + data.subs.join());
+  }
+}  // overwrites update_filtering
+
+
+      $(function () {
+        // Get data from URL/Cache
+        // Get subjects from URL/Cache
+var url = new URL(window.location);
+subs = url.searchParams.get("sub");
+if (subs == undefined) {
+  subs = store.get("aideadlin.es-subs");
+} else {
+  subs = subs.toUpperCase().split(",");
+}
+
+// Apply selections
+if (subs == undefined) {
+  subs = all_subs;
+}
+$("#subject-select").multiselect("select", subs);
+update_filtering({ subs: subs, all_subs: all_subs });
+
+
+        conf_list_all = load_conference_list();
+        conf_list = conf_list_all;
+
+        // Render calendar
+        update_filtering({ subs: subs, all_subs: all_subs });
+      });
+
+
+      (function (i, s, o, g, r, a, m) {
+  i["GoogleAnalyticsObject"] = r;
+  (i[r] =
+    i[r] ||
+    function () {
+      (i[r].q = i[r].q || []).push(arguments);
+    }),
+    (i[r].l = 1 * new Date());
+  (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+  a.async = 1;
+  a.src = g;
+  m.parentNode.insertBefore(a, m);
+})(
+  window,
+  document,
+  "script",
+  "https://www.google-analytics.com/analytics.js",
+  "ga"
+);
+ga("create", "", "auto");
+ga("send", "pageview");
+
+    </script>
+  </body>
+</html>

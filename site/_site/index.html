@@ -1,0 +1,828 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Machine Learning Summer School Deadlines</title>
+<meta name="description" content="Countdowns to Machine Learning Summer School deadlines">
+<meta name="author" content="Shashank Shekhar">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716846832" media="screen,projection">
+
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716846832" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716846832" media="screen,projection">
+
+<link rel="shortcut icon" href="/static/img/favicon.png">
+
+<script type="text/javascript" src="/static/js/js-year-calendar.js"></script>
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/popper.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="/static/js/moment.min.js"></script>
+<script type="text/javascript" src="/static/js/moment-timezone-with-data.min.js"></script>
+<script type="text/javascript" src="/static/js/store.min.js"></script>
+<script type="text/javascript" src="/static/js/ouical.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap-multiselect.min.js"></script>
+
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+      <div style="vertical-align: middle; padding-top: 8px;">
+        <div>
+          <a class="navbar-brand" href="/" style="border-bottom: none; line-height: 0.1em;">
+          MLSS Deadlines<br><br>
+          </a>
+        </div>
+        <div style="color: white; font-size: x-small;">
+          by 
+          <a href="https://github.com/sshkhr">sshkhr</a> & <a href="https://github.com/gmberton">gmberton</a>
+        </div>
+      </div>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggler"
+      aria-controls="navbars-toggler" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar-toggler">
+      <ul class="navbar-nav mr-auto">
+        <li>
+          <a href="/" class="nav-link" style="border-bottom: none">Countdowns</a>
+        </li>
+        <li>
+          <a href="/calendar" class="nav-link" style="border-bottom: none;">Calendar</a>
+        </li>
+      </ul>
+      <div class="twitter-github-icons">
+        <a href="https://twitter.com/share" class="twitter-share-button"
+          data-text="Countdowns to Machine Learning Summer School deadlines"
+          data-show-count="false" style="font-size: 13px;">Tweet</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        &nbsp; &nbsp;
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=sshkhr&repo=awesome-mlss&type=star&count=true"
+          frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+      </div>
+    </div>
+  </div>
+</nav>
+    <div class="container">
+        <div class="page-header">
+            <div class="row">
+                <div class="col-12 col-sm-12">
+                  <h1>
+                    Machine Learning Summer School Deadlines 
+                  </h1>
+                </div>
+                <div class="meta col-12">
+                  Countdowns to Machine Learning Summer School deadlines.
+                  To add/edit a summer school, <a target="_blank" href="//github.com/sshkhr/awesome-mlss">send in a pull request</a>.
+                </div>
+            </div>
+            <br>
+            <div class="row">
+              <form class="container">
+                <div class="row justify-content-center">
+                  <div class="row align-items-md-center col-12 col-10-md">
+                    <div class="col-12 col-md-5 filter-label">
+                      <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
+                        Subject Filter:
+                      </label>
+                    </div>
+                    <div class="col-12 col-md-6">
+                      <select
+                        id="subject-select"
+                        name="subject-select"
+                        multiple="multiple"
+                        style="display: none"
+                      >
+                        
+                        <option value="ML" id="ML-checkbox">
+                          Machine Learning (ML)
+                        </option>
+                        
+                        <option value="CV" id="CV-checkbox">
+                          Computer Vision (CV)
+                        </option>
+                        
+                        <option value="CG" id="CG-checkbox">
+                          Computer Graphics (CG)
+                        </option>
+                        
+                        <option value="NLP" id="NLP-checkbox">
+                          Natural Language Proc (NLP)
+                        </option>
+                        
+                        <option value="RO" id="RO-checkbox">
+                          Robotics (RO)
+                        </option>
+                        
+                        <option value="SP" id="SP-checkbox">
+                          Speech/SigProc (SP)
+                        </option>
+                        
+                        <option value="DM" id="DM-checkbox">
+                          Data Mining (DM)
+                        </option>
+                        
+                        <option value="AP" id="AP-checkbox">
+                          Automated Planning (AP)
+                        </option>
+                        
+                        <option value="KR" id="KR-checkbox">
+                          Knowledge Representation (KR)
+                        </option>
+                        
+                        <option value="HCI" id="HCI-checkbox">
+                          Human-Computer Interaction (HCI)
+                        </option>
+                        
+                        <option value="GenAI" id="GenAI-checkbox">
+                          Generative AI (GenAI)
+                        </option>
+                        
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="row">
+              <div class="meta col-12">
+                <span class="local-timezone-hide">
+                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                  To view them in conference website timezones, click on them.
+                </span>
+              </div>
+              <div class="meta col-12">
+                You can optionally export all deadlines to
+                <a href="https://calendar.google.com/calendar/r?cid=http://localhost:4000/ai-deadlines.ics">Google Calendar</a> or
+                <a href="/ai-deadlines.ics">.ics</a>.
+              </div>
+            </div>
+        </div>
+        <div id="confs">
+        <div id="coming_confs">
+          
+          <div id="genaischool24" class="ConfItem  ML-conf  NLP-conf ">
+            <div class="row conf-row">
+                <div class="col-6">
+                  <span class="conf-title">
+                      <a title="Paris Generative AI Autumn School 2024 Details" href="/conference?id=genaischool24">Paris Generative AI Autumn School 2024</a>
+                  </span>
+                  <span class="conf-title-small">
+                      <a title="Paris Generative AI Autumn School 2024 Details" href="/conference?id=genaischool24">Paris Generative AI Autumn School '24</a>
+                  </span>
+                  <span class="conf-title-icon">
+                    <a title="Conference Website" href="https://www.genai-school.universite-paris-saclay.fr" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                  </span>
+                </div>
+                <div class="col-6">
+                  <span class="timer"></span>
+                  <span class="timer-small"></span>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-12 col-sm-6">
+                <div class="meta">
+                  <span class="conf-date">October 21 - October 25, 2024.</span>
+                  <span class="conf-place">
+                    
+                    <a href="http://maps.google.com/?q=Paris, France">Paris, France</a>.
+                    
+                  </span>
+                </div>
+                
+
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="deadline">
+                  <div>Deadline:
+                    <span class="deadline-time"></span>
+                  </div>
+                </div>
+                <div class="calendar"></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                
+                <span title="Click to only show ML conferences" data-sub="ML" class="conf-sub ML-tag"></span>
+                
+                <span title="Click to only show NLP conferences" data-sub="NLP" class="conf-sub NLP-tag"></span>
+                
+              </div>
+            </div>
+            <hr>
+          </div>
+          
+          <div id="ieeeeurasips3p202424" class="ConfItem  ML-conf  SP-conf ">
+            <div class="row conf-row">
+                <div class="col-6">
+                  <span class="conf-title">
+                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/conference?id=ieeeeurasips3p202424">IEEE-EURASIP S3P 2024</a>
+                  </span>
+                  <span class="conf-title-small">
+                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/conference?id=ieeeeurasips3p202424">IEEE-EURASIP S3P '24</a>
+                  </span>
+                  <span class="conf-title-icon">
+                    <a title="Conference Website" href="https://www.grip.unina.it/s3p2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                  </span>
+                </div>
+                <div class="col-6">
+                  <span class="timer"></span>
+                  <span class="timer-small"></span>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-12 col-sm-6">
+                <div class="meta">
+                  <span class="conf-date">September 23 - September 27, 2024.</span>
+                  <span class="conf-place">
+                    
+                    <a href="http://maps.google.com/?q=Capri, Italy">Capri, Italy</a>.
+                    
+                  </span>
+                </div>
+                
+
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="deadline">
+                  <div>Deadline:
+                    <span class="deadline-time"></span>
+                  </div>
+                </div>
+                <div class="calendar"></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                
+                <span title="Click to only show ML conferences" data-sub="ML" class="conf-sub ML-tag"></span>
+                
+                <span title="Click to only show SP conferences" data-sub="SP" class="conf-sub SP-tag"></span>
+                
+              </div>
+            </div>
+            <hr>
+          </div>
+          
+          <div id="athensnlpaθnlp24" class="ConfItem  ML-conf  NLP-conf ">
+            <div class="row conf-row">
+                <div class="col-6">
+                  <span class="conf-title">
+                      <a title="Athens NLP 2024 Summer School Details" href="/conference?id=athensnlpaθnlp24">AθNLP 2024</a>
+                  </span>
+                  <span class="conf-title-small">
+                      <a title="Athens NLP 2024 Summer School Details" href="/conference?id=athensnlpaθnlp24">AθNLP '24</a>
+                  </span>
+                  <span class="conf-title-icon">
+                    <a title="Conference Website" href="https://athnlp.github.io/2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                  </span>
+                </div>
+                <div class="col-6">
+                  <span class="timer"></span>
+                  <span class="timer-small"></span>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-12 col-sm-6">
+                <div class="meta">
+                  <span class="conf-date">September 19 - September 25, 2024.</span>
+                  <span class="conf-place">
+                    
+                    <a href="http://maps.google.com/?q=Athens, Greece">Athens, Greece</a>.
+                    
+                  </span>
+                </div>
+                
+
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="deadline">
+                  <div>Deadline:
+                    <span class="deadline-time"></span>
+                  </div>
+                </div>
+                <div class="calendar"></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                
+                <span title="Click to only show ML conferences" data-sub="ML" class="conf-sub ML-tag"></span>
+                
+                <span title="Click to only show NLP conferences" data-sub="NLP" class="conf-sub NLP-tag"></span>
+                
+              </div>
+            </div>
+            <hr>
+          </div>
+          
+          <div id="mediterraneanmachinelearningsummerschoolm2l24" class="ConfItem  ML-conf ">
+            <div class="row conf-row">
+                <div class="col-6">
+                  <span class="conf-title">
+                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/conference?id=mediterraneanmachinelearningsummerschoolm2l24">Mediterranean Machine Learning Summer School (M2L) 2024</a>
+                  </span>
+                  <span class="conf-title-small">
+                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/conference?id=mediterraneanmachinelearningsummerschoolm2l24">Mediterranean Machine Learning Summer School (M2L) '24</a>
+                  </span>
+                  <span class="conf-title-icon">
+                    <a title="Conference Website" href="https://www.m2lschool.org/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                    
+                    &ZeroWidthSpace;
+                  </span>
+                </div>
+                <div class="col-6">
+                  <span class="timer"></span>
+                  <span class="timer-small"></span>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-12 col-sm-6">
+                <div class="meta">
+                  <span class="conf-date">September 9 - September 13, 2024.</span>
+                  <span class="conf-place">
+                    
+                    <a href="http://maps.google.com/?q=Milan, Italy">Milan, Italy</a>.
+                    
+                  </span>
+                </div>
+                
+
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="deadline">
+                  <div>Deadline:
+                    <span class="deadline-time"></span>
+                  </div>
+                </div>
+                <div class="calendar"></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                
+                <span title="Click to only show ML conferences" data-sub="ML" class="conf-sub ML-tag"></span>
+                
+              </div>
+            </div>
+            <hr>
+          </div>
+          
+        </div>
+        <div id="past_confs">
+            <h1 id="past-events-title">Past Events</h1>
+            <div id="sort-order-checkbox">
+                  <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
+              </div>
+        </div>
+      </div>
+      <footer>
+            <div class="row">
+  <div class="col-12 col-sm-12">
+    <a href="/">aideadlin.es</a>
+    was built and maintained from 2018 onwards by
+    <a href="https://twitter.com/abhshkdz">sshkhr</a>. It has been maintained by
+    <a href="https://github.com/gmberton">gmberton</a> since 2023.<br>
+  </div>
+</div>
+
+      </footer>
+      <br><br>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+    $(function() {
+        // Make sure this is >= no. of subs
+        // Currently not used
+        var colors = ['#341f97', '#ee5253', '#2e86de',
+                      '#ff9f43', '#10ac84', '#222f3e']
+
+        
+        
+var subs = [];
+var _all_subs = [];
+// Get all subs
+var conf_type_data = [{"name":"Machine Learning","sub":"ML","color":"#ffd300"},{"name":"Computer Vision","sub":"CV","color":"#deff0a"},{"name":"Computer Graphics","sub":"CG","color":"#0aefff"},{"name":"Natural Language Proc","sub":"NLP","color":"#147df5"},{"name":"Robotics","sub":"RO","color":"#0aff99"},{"name":"Speech/SigProc","sub":"SP","color":"#580aff"},{"name":"Data Mining","sub":"DM","color":"#be0aff"},{"name":"Automated Planning","sub":"AP","color":"#a432a8"},{"name":"Knowledge Representation","sub":"KR","color":"#32a855"},{"name":"Human-Computer Interaction","sub":"HCI","color":"#a83232"},{"name":"Generative AI","sub":"GenAI","color":"#a83232"}];
+var sub2name = {}; var name2sub = {};
+for (var i = 0; i < conf_type_data.length; i++) {
+    _all_subs[i] = conf_type_data[i]['sub'];
+    sub2name[conf_type_data[i]['sub']] = conf_type_data[i]['name'];
+    name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
+}
+const all_subs = _all_subs;
+
+
+        // Borrowed from https://github.com/moment/moment-timezone/issues/167
+// Adds support for time zones 'UTC-12'..'UTC+12'
+function addUtcTimeZones() {
+  // Moment.js uses the IANA timezone database, which supports generic time zones like 'Etc/GMT+1'.
+  // However, the signs for these time zones are inverted compared to ISO 8601.
+  // For more details, see https://github.com/moment/moment-timezone/issues/167
+  for (let offset = -12; offset <= 12; offset++) {
+    const posixSign = offset <= 0 ? "+" : "-";
+    const isoSign = offset >= 0 ? "+" : "-";
+    const link = `Etc/GMT${posixSign}${Math.abs(
+      offset
+    )}|UTC${isoSign}${Math.abs(offset)}`;
+    moment.tz.link(link);
+  }
+}
+
+function update_filtering(data) {
+  var page_url = "";
+  store.set("aideadlin.es-subs", data.subs);
+
+  $(".confItem").hide();
+  for (const j in data.all_subs) {
+    const s = data.all_subs[j];
+    const identifier = "." + s + "-conf";
+    if (data.subs.includes(s)) {
+      $(identifier).show();
+    }
+  }
+
+  if (subs.length == 0) {
+    window.history.pushState("", "", page_url);
+  } else {
+    window.history.pushState("", "", page_url + "/?sub=" + data.subs.join());
+  }
+}
+
+function createCalendarFromObject(data) {
+  return createCalendar({
+    options: {
+      class: "calendar-obj",
+
+      // You can pass an ID. If you don't, one will be generated for you
+      id: data.id,
+    },
+    data: {
+      // Event title
+      title: data.title,
+
+      // Event start date
+      start: data.date,
+
+      // Event duration
+      duration: 60,
+    },
+  });
+}
+
+        // Multi-select handler
+$("#subject-select").multiselect({
+  includeSelectAllOption: true,
+  numberDisplayed: 5,
+  onChange: function (option, checked, select) {
+    var csub = $(option).val();
+    if (checked == true) {
+      if (subs.indexOf(csub) < 0) subs.push(csub);
+    } else {
+      var idx = subs.indexOf(csub);
+      if (idx >= 0) subs.splice(idx, 1);
+      // In case a conf with multiple types (including this type) is wrongly hid, show all confs with at least one checked type.
+      for (var i = 0; i < subs.length; i++) {
+        // $('.' + subs[i] + '-conf').show();
+      }
+    }
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  onSelectAll: function (options) {
+    subs = all_subs;
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  onDeselectAll: function (options) {
+    subs = [];
+    update_filtering({ subs: subs, all_subs: all_subs });
+  },
+  buttonText: function (options, select) {
+    if (options.length === 0) {
+      return "None selected";
+    } else {
+      var labels = [];
+      options.each(function () {
+        if ($(this).attr("value") !== undefined) {
+          labels.push($(this).attr("value"));
+        } else {
+          labels.push($(this).html());
+        }
+      });
+      return labels.join(", ") + "";
+    }
+  },
+  buttonTitle: function (options, select) {
+    return "";
+  },
+});
+
+
+        addUtcTimeZones();
+
+        try {
+          var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+          $('.local-timezone').text(local_timezone.toString());
+        }
+        catch(err) {
+          $('.local-timezone-hide').hide();
+        }
+
+        
+        
+        $('#genaischool24 .ML-tag').html(sub2name["ML"].toLocaleLowerCase());
+        
+        $('#genaischool24 .NLP-tag').html(sub2name["NLP"].toLocaleLowerCase());
+        
+        
+          // adjust date according to deadline timezone
+          var timezone = "UTC+1" ;
+          var confDate = moment.tz("2024-06-16 23:59:59", timezone);
+
+          // render countdown timer
+          $('#genaischool24 .timer').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+
+          // render countdown timer small
+          $('#genaischool24 .timer-small').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%Dd %H:%M:%S'));
+          });
+
+          // convert deadline to local timezone
+          try {
+            var localConfDate = moment.tz(confDate, local_timezone);
+            $('#genaischool24 .deadline-time').html(localConfDate.toString());
+          }
+          catch(err) {
+            console.log("Error converting to local timezone.");
+          }
+
+          // add calendar button
+          var myCalendar = createCalendarFromObject({
+            id:  'genaischool24',
+            title: 'Paris Generative AI Autumn School 2024 deadline',
+            date: confDate.toDate(),
+            duration: 60,
+          })
+          document.querySelector('#genaischool24 .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          diff = today.diff(confDate);
+
+          $('#genaischool24').attr("diff", diff)
+          if (diff > 0) {
+            $('#genaischool24').addClass('past');
+            $('#genaischool24').appendTo($("#past_confs"))
+            $('#genaischool24 .timer').replaceWith($('#genaischool24 .deadline'));
+            $('#genaischool24 .timer-small').replaceWith($('#genaischool24 .deadline'));
+            $('#genaischool24 .calendar').remove();
+          }
+        
+        
+        
+        $('#ieeeeurasips3p202424 .ML-tag').html(sub2name["ML"].toLocaleLowerCase());
+        
+        $('#ieeeeurasips3p202424 .SP-tag').html(sub2name["SP"].toLocaleLowerCase());
+        
+        
+          // adjust date according to deadline timezone
+          var timezone = "UTC+1" ;
+          var confDate = moment.tz("2024-04-20 23:59:59", timezone);
+
+          // render countdown timer
+          $('#ieeeeurasips3p202424 .timer').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+
+          // render countdown timer small
+          $('#ieeeeurasips3p202424 .timer-small').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%Dd %H:%M:%S'));
+          });
+
+          // convert deadline to local timezone
+          try {
+            var localConfDate = moment.tz(confDate, local_timezone);
+            $('#ieeeeurasips3p202424 .deadline-time').html(localConfDate.toString());
+          }
+          catch(err) {
+            console.log("Error converting to local timezone.");
+          }
+
+          // add calendar button
+          var myCalendar = createCalendarFromObject({
+            id:  'ieeeeurasips3p202424',
+            title: 'IEEE-EURASIP S3P 2024 deadline',
+            date: confDate.toDate(),
+            duration: 60,
+          })
+          document.querySelector('#ieeeeurasips3p202424 .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          diff = today.diff(confDate);
+
+          $('#ieeeeurasips3p202424').attr("diff", diff)
+          if (diff > 0) {
+            $('#ieeeeurasips3p202424').addClass('past');
+            $('#ieeeeurasips3p202424').appendTo($("#past_confs"))
+            $('#ieeeeurasips3p202424 .timer').replaceWith($('#ieeeeurasips3p202424 .deadline'));
+            $('#ieeeeurasips3p202424 .timer-small').replaceWith($('#ieeeeurasips3p202424 .deadline'));
+            $('#ieeeeurasips3p202424 .calendar').remove();
+          }
+        
+        
+        
+        $('#athensnlpaθnlp24 .ML-tag').html(sub2name["ML"].toLocaleLowerCase());
+        
+        $('#athensnlpaθnlp24 .NLP-tag').html(sub2name["NLP"].toLocaleLowerCase());
+        
+        
+          // adjust date according to deadline timezone
+          var timezone = "UTC+1" ;
+          var confDate = moment.tz("2024-06-20 23:59:59", timezone);
+
+          // render countdown timer
+          $('#athensnlpaθnlp24 .timer').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+
+          // render countdown timer small
+          $('#athensnlpaθnlp24 .timer-small').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%Dd %H:%M:%S'));
+          });
+
+          // convert deadline to local timezone
+          try {
+            var localConfDate = moment.tz(confDate, local_timezone);
+            $('#athensnlpaθnlp24 .deadline-time').html(localConfDate.toString());
+          }
+          catch(err) {
+            console.log("Error converting to local timezone.");
+          }
+
+          // add calendar button
+          var myCalendar = createCalendarFromObject({
+            id:  'athensnlpaθnlp24',
+            title: 'AθNLP 2024 deadline',
+            date: confDate.toDate(),
+            duration: 60,
+          })
+          document.querySelector('#athensnlpaθnlp24 .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          diff = today.diff(confDate);
+
+          $('#athensnlpaθnlp24').attr("diff", diff)
+          if (diff > 0) {
+            $('#athensnlpaθnlp24').addClass('past');
+            $('#athensnlpaθnlp24').appendTo($("#past_confs"))
+            $('#athensnlpaθnlp24 .timer').replaceWith($('#athensnlpaθnlp24 .deadline'));
+            $('#athensnlpaθnlp24 .timer-small').replaceWith($('#athensnlpaθnlp24 .deadline'));
+            $('#athensnlpaθnlp24 .calendar').remove();
+          }
+        
+        
+        
+        $('#mediterraneanmachinelearningsummerschoolm2l24 .ML-tag').html(sub2name["ML"].toLocaleLowerCase());
+        
+        
+          // adjust date according to deadline timezone
+          var timezone = "UTC+1" ;
+          var confDate = moment.tz("2024-03-21 23:59:59", timezone);
+
+          // render countdown timer
+          $('#mediterraneanmachinelearningsummerschoolm2l24 .timer').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+
+          // render countdown timer small
+          $('#mediterraneanmachinelearningsummerschoolm2l24 .timer-small').countdown(confDate.toDate(), function (event) {
+              $(this).html(event.strftime('%Dd %H:%M:%S'));
+          });
+
+          // convert deadline to local timezone
+          try {
+            var localConfDate = moment.tz(confDate, local_timezone);
+            $('#mediterraneanmachinelearningsummerschoolm2l24 .deadline-time').html(localConfDate.toString());
+          }
+          catch(err) {
+            console.log("Error converting to local timezone.");
+          }
+
+          // add calendar button
+          var myCalendar = createCalendarFromObject({
+            id:  'mediterraneanmachinelearningsummerschoolm2l24',
+            title: 'Mediterranean Machine Learning Summer School (M2L) 2024 deadline',
+            date: confDate.toDate(),
+            duration: 60,
+          })
+          document.querySelector('#mediterraneanmachinelearningsummerschoolm2l24 .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          diff = today.diff(confDate);
+
+          $('#mediterraneanmachinelearningsummerschoolm2l24').attr("diff", diff)
+          if (diff > 0) {
+            $('#mediterraneanmachinelearningsummerschoolm2l24').addClass('past');
+            $('#mediterraneanmachinelearningsummerschoolm2l24').appendTo($("#past_confs"))
+            $('#mediterraneanmachinelearningsummerschoolm2l24 .timer').replaceWith($('#mediterraneanmachinelearningsummerschoolm2l24 .deadline'));
+            $('#mediterraneanmachinelearningsummerschoolm2l24 .timer-small').replaceWith($('#mediterraneanmachinelearningsummerschoolm2l24 .deadline'));
+            $('#mediterraneanmachinelearningsummerschoolm2l24 .calendar').remove();
+          }
+        
+        
+
+        // Sort coming_confs and past_confs
+        $("#coming_confs .ConfItem").sort(function (a, b) {
+          return $(b).attr('diff') - $(a).attr('diff');
+        }).appendTo($("#coming_confs"));
+
+        $("#sort-order-checkbox input").on("click", function() {
+          if ($("#sort-order-checkbox input").is(":checked")) {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(a).attr('diff') - $(b).attr('diff');
+            }).appendTo($("#past_confs"));
+          } else {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(b).attr('diff') - $(a).attr('diff');
+            }).appendTo($("#past_confs"));
+          }
+        });
+
+        // Get subjects from URL/Cache
+var url = new URL(window.location);
+subs = url.searchParams.get("sub");
+if (subs == undefined) {
+  subs = store.get("aideadlin.es-subs");
+} else {
+  subs = subs.toUpperCase().split(",");
+}
+
+// Apply selections
+if (subs == undefined) {
+  subs = all_subs;
+}
+$("#subject-select").multiselect("select", subs);
+update_filtering({ subs: subs, all_subs: all_subs });
+
+
+        // Event handler on sub badge click
+        $('.conf-sub').click(function (e) {
+            var csub = $(this).data('sub');
+            subs = [csub];
+            $("#subject-select").multiselect('deselect', all_subs);
+            $("#subject-select").multiselect('select', subs);
+            update_filtering({ subs: subs, all_subs: all_subs});
+        });
+
+    });
+    (function (i, s, o, g, r, a, m) {
+  i["GoogleAnalyticsObject"] = r;
+  (i[r] =
+    i[r] ||
+    function () {
+      (i[r].q = i[r].q || []).push(arguments);
+    }),
+    (i[r].l = 1 * new Date());
+  (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+  a.async = 1;
+  a.src = g;
+  m.parentNode.insertBefore(a, m);
+})(
+  window,
+  document,
+  "script",
+  "https://www.google-analytics.com/analytics.js",
+  "ga"
+);
+ga("create", "", "auto");
+ga("send", "pageview");
+
+    </script>
+  </body>
+</html>
