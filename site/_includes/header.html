@@ -27,13 +27,14 @@
       </ul>
       <div class="twitter-github-icons">
         <a href="https://twitter.com/share" class="twitter-share-button"
-          data-text="{{ site.description }}{% if site.twitter.hashtag %} #{{ site.twitter.hashtag }}{% endif %}"
-          data-show-count="false" style="font-size: 13px;">Tweet</a>
+          data-text="{{ site.description }}"
+          data-hashtags="{% if site.twitter.hashtag %} #{{ site.twitter.hashtag }}{% endif %}"
+          data-size="large"
+          data-show-count="false" style="font-size: 30px;">Tweet</a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         &nbsp; &nbsp;
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true"
-          frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+          <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true&size=large" 
+          frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
       </div>
     </div>
   </div>
