@@ -7,11 +7,11 @@
 <title>Machine Learning Summer School Deadlines</title>
 <meta name="description" content="Countdowns to Machine Learning Summer School deadlines">
 <meta name="author" content="Shashank Shekhar">
-<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716846832" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716908205" media="screen,projection">
 
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716846832" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716846832" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716908205" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716908205" media="screen,projection">
 
 <link rel="shortcut icon" href="/static/img/favicon.png">
 
@@ -58,12 +58,13 @@
       <div class="twitter-github-icons">
         <a href="https://twitter.com/share" class="twitter-share-button"
           data-text="Countdowns to Machine Learning Summer School deadlines"
-          data-show-count="false" style="font-size: 13px;">Tweet</a>
+          data-hashtags=""
+          data-size="large"
+          data-show-count="false" style="font-size: 30px;">Tweet</a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         &nbsp; &nbsp;
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user=sshkhr&repo=awesome-mlss&type=star&count=true"
-          frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+          <iframe src="https://ghbtns.com/github-btn.html?user=sshkhr&repo=awesome-mlss&type=star&count=true&size=large" 
+          frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
       </div>
     </div>
   </div>
@@ -139,10 +140,12 @@
         <footer>
           <div class="row">
   <div class="col-12 col-sm-12">
-    <a href="/">aideadlin.es</a>
+    <a href="/">mlssdeadlin.es</a>
     was built and maintained from 2018 onwards by
     <a href="https://twitter.com/abhshkdz">sshkhr</a>. It has been maintained by
-    <a href="https://github.com/gmberton">gmberton</a> since 2023.<br>
+    <a href="https://github.com/gmberton">gmberton</a> since 2023.
+    <br>This website was inspired (and originally coded) by the fantastic <a href="https://aideadlin.es">aideadlin.es</a>. 
+    <br>We assume no guarantee for correctness, please correct any mistakes you may find by <a href="https://github.com/sshkhr/awesome-mlss/">submitting a pull request</a>.
   </div>
 </div>
 
@@ -157,7 +160,7 @@
 var subs = [];
 var _all_subs = [];
 // Get all subs
-var conf_type_data = [{"name":"Machine Learning","sub":"ML","color":"#ffd300"},{"name":"Computer Vision","sub":"CV","color":"#deff0a"},{"name":"Computer Graphics","sub":"CG","color":"#0aefff"},{"name":"Natural Language Proc","sub":"NLP","color":"#147df5"},{"name":"Robotics","sub":"RO","color":"#0aff99"},{"name":"Speech/SigProc","sub":"SP","color":"#580aff"},{"name":"Data Mining","sub":"DM","color":"#be0aff"},{"name":"Automated Planning","sub":"AP","color":"#a432a8"},{"name":"Knowledge Representation","sub":"KR","color":"#32a855"},{"name":"Human-Computer Interaction","sub":"HCI","color":"#a83232"},{"name":"Generative AI","sub":"GenAI","color":"#a83232"}];
+var conf_type_data = [{"color":"#ffd300","name":"Machine Learning","sub":"ML"},{"color":"#deff0a","name":"Computer Vision","sub":"CV"},{"color":"#0aefff","name":"Computer Graphics","sub":"CG"},{"color":"#147df5","name":"Natural Language Proc","sub":"NLP"},{"color":"#0aff99","name":"Robotics","sub":"RO"},{"color":"#580aff","name":"Speech/SigProc","sub":"SP"},{"color":"#be0aff","name":"Data Mining","sub":"DM"},{"color":"#a432a8","name":"Automated Planning","sub":"AP"},{"color":"#32a855","name":"Knowledge Representation","sub":"KR"},{"color":"#a83232","name":"Human-Computer Interaction","sub":"HCI"},{"color":"#ff0000","name":"Generative AI","sub":"GenAI"},{"color":"#ea2874","name":"ML Hardware","sub":"HW"},{"color":"#52092b","name":"AI For Games","sub":"AI4Games"},{"color":"#7f1e53","name":"Cognitive Science","sub":"CogSci"},{"color":"#fbeeb0","name":"ML Theory","sub":"Theory"},{"color":"#0074ea","name":"ML for Biology","sub":"Bio"},{"color":"#9035db","name":"Logic","sub":"Log"},{"color":"#a470c3","name":"Neuroscience","sub":"Neuro"},{"color":"#60fd7a","name":"Efficient Machine Learning","sub":"EML"},{"color":"#91d99b","name":"Reinforcement Learning","sub":"RL"},{"color":"#3dcd55","name":"ML for Health","sub":"Health"},{"color":"#d87e73","name":"ML for Science","sub":"ML4Science"},{"color":"#3049de","name":"Responsible AI","sub":"RAI"}];
 var sub2name = {}; var name2sub = {};
 for (var i = 0; i < conf_type_data.length; i++) {
     _all_subs[i] = conf_type_data[i]['sub'];
@@ -185,7 +188,7 @@ function addUtcTimeZones() {
 
 function update_filtering(data) {
   var page_url = "";
-  store.set("aideadlin.es-subs", data.subs);
+  store.set("mlssdeadlin.es-subs", data.subs);
 
   $(".confItem").hide();
   for (const j in data.all_subs) {
@@ -296,10 +299,10 @@ function createCalendarFromObject(data) {
               
             }
         
-            if (conf == "ieeeeurasips3p202424") {
+            if (conf == "ies2024") {
 
               $('#conf-title-href').text("IEEE-EURASIP S3P 2024");
-              $('#conf-title-href').attr('href', "/conference?id=ieeeeurasips3p202424");
+              $('#conf-title-href').attr('href', "/conference?id=ies2024");
               // set badges
               var subs = 'MLSP'.split(',');
               for (let i = 0; i < subs.length; i++) {
@@ -333,7 +336,7 @@ function createCalendarFromObject(data) {
 
                 // add calendar 
                 var conferenceDeadlineCalendar = createCalendarFromObject({
-                  id:  'ieeeeurasips3p202424',
+                  id:  'ies2024',
                   title: 'IEEE-EURASIP S3P 2024 deadline',
                   date: confDeadline.toDate(),
                   duration: 60,
@@ -418,10 +421,10 @@ function createCalendarFromObject(data) {
               
             }
         
-            if (conf == "mediterraneanmachinelearningsummerschoolm2l24") {
+            if (conf == "m2l2024") {
 
               $('#conf-title-href').text("Mediterranean Machine Learning Summer School (M2L) 2024");
-              $('#conf-title-href').attr('href', "/conference?id=mediterraneanmachinelearningsummerschoolm2l24");
+              $('#conf-title-href').attr('href', "/conference?id=m2l2024");
               // set badges
               var subs = 'ML'.split(',');
               for (let i = 0; i < subs.length; i++) {
@@ -455,8 +458,2143 @@ function createCalendarFromObject(data) {
 
                 // add calendar 
                 var conferenceDeadlineCalendar = createCalendarFromObject({
-                  id:  'mediterraneanmachinelearningsummerschoolm2l24',
+                  id:  'm2l2024',
                   title: 'Mediterranean Machine Learning Summer School (M2L) 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "ahaml2024") {
+
+              $('#conf-title-href').text("Applied Harmonic Analysis and Machine Learning 2024");
+              $('#conf-title-href').attr('href', "/conference?id=ahaml2024");
+              // set badges
+              var subs = 'MLSP'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("September 2 - September 9, 2024");
+              $('#conf-place').text("Genova, Italy");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Genova, Italy")
+              $('#conf-website').text("https://malga.unige.it/education/schools/ahaml2024");
+              $('#conf-website').attr('href', "https://malga.unige.it/education/schools/ahaml2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Applied Harmonic Analysis and Machine Learning2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Applied Harmonic Analysis and Machine Learning 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-07-21 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'ahaml2024',
+                  title: 'Applied Harmonic Analysis and Machine Learning 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "acmhpc2024") {
+
+              $('#conf-title-href').text("HPC Computer Architectures for AI and Dedicated Applications 2024");
+              $('#conf-title-href').attr('href', "/conference?id=acmhpc2024");
+              // set badges
+              var subs = 'MLHW'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("September 2 - September 6, 2024");
+              $('#conf-place').text("Barcelona, Spain");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Barcelona, Spain")
+              $('#conf-website').text("https://europe.acm.org/seasonal-schools/hpc/2024");
+              $('#conf-website').attr('href', "https://europe.acm.org/seasonal-schools/hpc/2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #HPC Computer Architectures for AI and Dedicated Applications2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-06-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'acmhpc2024',
+                  title: 'HPC Computer Architectures for AI and Dedicated Applications 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "dlindaba2024") {
+
+              $('#conf-title-href').text("Deep Learning Indaba 2024");
+              $('#conf-title-href').attr('href', "/conference?id=dlindaba2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("September 1 - September 7, 2024");
+              $('#conf-place').text("Dakar, Senegal");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Dakar, Senegal")
+              $('#conf-website').text("https://deeplearningindaba.com");
+              $('#conf-website').attr('href', "https://deeplearningindaba.com");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Deep Learning Indaba2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Deep Learning Indaba 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-12 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'dlindaba2024',
+                  title: 'Deep Learning Indaba 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "iss2024") {
+
+              $('#conf-title-href').text("ILCB Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=iss2024");
+              // set badges
+              var subs = 'CogSciNLP'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 26 - August 30, 2024");
+              $('#conf-place').text("Marseille, France");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Marseille, France")
+              $('#conf-website').text("https://www.ilcb.fr/2024-2/");
+              $('#conf-website').attr('href', "https://www.ilcb.fr/2024-2/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #ILCB Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Institute of Language, Communication and Brain Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-24 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'iss2024',
+                  title: 'ILCB Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "acss2024") {
+
+              $('#conf-title-href').text("Analytical Connectionism Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=acss2024");
+              // set badges
+              var subs = 'MLCogSci'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 12 - August 23, 2024");
+              $('#conf-place').text("New York, USA");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=New York, USA")
+              $('#conf-website').text("https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US");
+              $('#conf-website').attr('href', "https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Analytical Connectionism Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Analytical Connectionism Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-17 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'acss2024',
+                  title: 'Analytical Connectionism Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "pmltss2024") {
+
+              $('#conf-title-href').text("Princeton Machine Learning Theory Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=pmltss2024");
+              // set badges
+              var subs = 'MLTheory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 06 - August 15, 2024");
+              $('#conf-place').text("Princeton, USA");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Princeton, USA")
+              $('#conf-website').text("https://mlschool.princeton.edu/");
+              $('#conf-website').attr('href', "https://mlschool.princeton.edu/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Princeton Machine Learning Theory Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Princeton Machine Learning Theory Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'pmltss2024',
+                  title: 'Princeton Machine Learning Theory Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "nsoacw2024") {
+
+              $('#conf-title-href').text("NSF Open AI Cellular workshop 2024");
+              $('#conf-title-href').attr('href', "/conference?id=nsoacw2024");
+              // set badges
+              var subs = 'MLBio'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 06 - August 08, 2024");
+              $('#conf-place').text("Starkville, MS");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Starkville, MS")
+              $('#conf-website').text("https://www.openaicellular.org/2024-oaic-workshop");
+              $('#conf-website').attr('href', "https://www.openaicellular.org/2024-oaic-workshop");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #NSF Open AI Cellular workshop2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("NSF Open AI Cellular workshop 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-06-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'nsoacw2024',
+                  title: 'NSF Open AI Cellular workshop 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "essil2024") {
+
+              $('#conf-title-href').text("35th European Summer School in Logic 2024");
+              $('#conf-title-href').attr('href', "/conference?id=essil2024");
+              // set badges
+              var subs = 'Log'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 29 - August 09, 2024");
+              $('#conf-place').text("Leuven, Belgium");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Leuven, Belgium")
+              $('#conf-website').text("https://2024.esslli.eu/");
+              $('#conf-website').attr('href', "https://2024.esslli.eu/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #35th European Summer School in Logic2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("35th European Summer School in Logic, Language and Information 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-31 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'essil2024',
+                  title: '35th European Summer School in Logic 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "mbncss2024") {
+
+              $('#conf-title-href').text("Model-Based Neuroscience and Cognition Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=mbncss2024");
+              // set badges
+              var subs = 'CogSciNeuro'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 29 - August 02, 2024");
+              $('#conf-place').text("Amsterdam, Nederlands");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Amsterdam, Nederlands")
+              $('#conf-website').text("https://modelbasedneurosci.com/");
+              $('#conf-website').attr('href', "https://modelbasedneurosci.com/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Model-Based Neuroscience and Cognition Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Model-Based Neuroscience and Cognition Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'mbncss2024',
+                  title: 'Model-Based Neuroscience and Cognition Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "vsss2024") {
+
+              $('#conf-title-href').text("Vision and Sports Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=vsss2024");
+              // set badges
+              var subs = 'MLCV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 22 - July 27, 2024");
+              $('#conf-place').text("Prague, Czechia");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Prague, Czechia")
+              $('#conf-website').text("https://cmp.felk.cvut.cz/summerschool2024");
+              $('#conf-website').attr('href', "https://cmp.felk.cvut.cz/summerschool2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Vision and Sports Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Vision and Sports Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-04-30 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'vsss2024',
+                  title: 'Vision and Sports Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "ssaa2024") {
+
+              $('#conf-title-href').text("Summer School on Affordable AI 2024");
+              $('#conf-title-href').attr('href', "/conference?id=ssaa2024");
+              // set badges
+              var subs = 'MLEML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 22 - July 26, 2024");
+              $('#conf-place').text("Bonn, Germany");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Bonn, Germany")
+              $('#conf-website').text("https://saai2024.github.io/");
+              $('#conf-website').attr('href', "https://saai2024.github.io/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Summer School on Affordable AI2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Summer School on Affordable AI 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-29 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'ssaa2024',
+                  title: 'Summer School on Affordable AI 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "eemlss2024") {
+
+              $('#conf-title-href').text("Eastern European Machine Learning Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=eemlss2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 15 - July 20, 2024");
+              $('#conf-place').text("Novi Sad, Serbia");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Novi Sad, Serbia")
+              $('#conf-website').text("https://www.eeml.eu/");
+              $('#conf-website').attr('href', "https://www.eeml.eu/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Eastern European Machine Learning Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Eastern European Machine Learning Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-29 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'eemlss2024',
+                  title: 'Eastern European Machine Learning Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "d11isdl2024") {
+
+              $('#conf-title-href').text("DeepLearn 2024 11th International School on Deep Learning 2024");
+              $('#conf-title-href').attr('href', "/conference?id=d11isdl2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 15 - July 19, 2024");
+              $('#conf-place').text("Porto - Maia, Portugal");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Porto - Maia, Portugal")
+              $('#conf-website').text("https://deeplearn.irdta.eu/2024/");
+              $('#conf-website').attr('href', "https://deeplearn.irdta.eu/2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #DeepLearn 2024 11th International School on Deep Learning2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-07-12 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'd11isdl2024',
+                  title: 'DeepLearn 2024 11th International School on Deep Learning 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "acvss2024") {
+
+              $('#conf-title-href').text("African Computer Vision Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=acvss2024");
+              // set badges
+              var subs = 'MLCV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 14 - July 24, 2024");
+              $('#conf-place').text("Nairobi, Kenya");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Nairobi, Kenya")
+              $('#conf-website').text("https://www.acvss.ai/");
+              $('#conf-website').attr('href', "https://www.acvss.ai/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #African Computer Vision Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("African Computer Vision Summer School (ACVSS) 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'acvss2024',
+                  title: 'African Computer Vision Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "dlrlss2024") {
+
+              $('#conf-title-href').text("Deep Learning and Reinforcement Learning Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=dlrlss2024");
+              // set badges
+              var subs = 'MLRL'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 08 - July 17, 2024");
+              $('#conf-place').text("Toronto, Canada");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Toronto, Canada")
+              $('#conf-website').text("https://dlrl.ca/");
+              $('#conf-website').attr('href', "https://dlrl.ca/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Deep Learning and Reinforcement Learning Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Deep Learning and Reinforcement Learning Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-02-16 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'dlrlss2024',
+                  title: 'Deep Learning and Reinforcement Learning Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "icvs2024") {
+
+              $('#conf-title-href').text("International Computer Vision Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=icvs2024");
+              // set badges
+              var subs = 'CV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 07 - July 13, 2024");
+              $('#conf-place').text("Sicily, Italy");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Sicily, Italy")
+              $('#conf-website').text("https://iplab.dmi.unict.it/icvss2024/");
+              $('#conf-website').attr('href', "https://iplab.dmi.unict.it/icvss2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #International Computer Vision Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("International Computer Vision Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-31 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'icvs2024',
+                  title: 'International Computer Vision Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "omls2024") {
+
+              $('#conf-title-href').text("Oxford ML school 2024");
+              $('#conf-title-href').attr('href', "/conference?id=omls2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 06 - July 09, 2024");
+              $('#conf-place').text("Oxford, UK");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Oxford, UK")
+              $('#conf-website').text("https://www.oxfordml.school/");
+              $('#conf-website').attr('href', "https://www.oxfordml.school/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Oxford ML school2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Oxford ML school 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-02-07 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'omls2024',
+                  title: 'Oxford ML school 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "hiasaiss2024") {
+
+              $('#conf-title-href').text("HIAS AI Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=hiasaiss2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 01 - July 03, 2024");
+              $('#conf-place').text("Athens, Greece");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Athens, Greece")
+              $('#conf-website').text("https://hellenic-ias.org/aicourse2024/");
+              $('#conf-website').attr('href', "https://hellenic-ias.org/aicourse2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #HIAS AI Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("HIAS AI Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-07-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'hiasaiss2024',
+                  title: 'HIAS AI Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "mlssh2024") {
+
+              $('#conf-title-href').text("Machine Learning Summer School In Health 2024");
+              $('#conf-title-href').attr('href', "/conference?id=mlssh2024");
+              // set badges
+              var subs = 'MLHealthBio'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 30 - July 06, 2024");
+              $('#conf-place').text("Zürich, Switzerland");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Zürich, Switzerland")
+              $('#conf-website').text("https://www.bumblekite.co/summer-school-24");
+              $('#conf-website').attr('href', "https://www.bumblekite.co/summer-school-24");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Machine Learning Summer School In Health2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Machine learning summer school in health, care and biosciences 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'mlssh2024',
+                  title: 'Machine Learning Summer School In Health 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "mlcc2024") {
+
+              $('#conf-title-href').text("Machine Learning Crash Course 2024");
+              $('#conf-title-href').attr('href', "/conference?id=mlcc2024");
+              // set badges
+              var subs = 'ML'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 25 - June 28, 2024");
+              $('#conf-place').text("Genova, Italy");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Genova, Italy")
+              $('#conf-website').text("https://malga.unige.it/education/schools/mlcc2024");
+              $('#conf-website').attr('href', "https://malga.unige.it/education/schools/mlcc2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Machine Learning Crash Course2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Machine Learning Crash Course 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-04-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'mlcc2024',
+                  title: 'Machine Learning Crash Course 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "ssaibd2024") {
+
+              $('#conf-title-href').text("10th International Summer School on AI and Big Data 2024");
+              $('#conf-title-href').attr('href', "/conference?id=ssaibd2024");
+              // set badges
+              var subs = 'MLGenAIML4ScienceRAITheory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 25 - June 28, 2024");
+              $('#conf-place').text("Leipzig, Germany");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Leipzig, Germany")
+              $('#conf-website').text("https://scads.ai/education/summer-schools/summer-school-2024/");
+              $('#conf-website').attr('href', "https://scads.ai/education/summer-schools/summer-school-2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #10th International Summer School on AI and Big Data2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("10th International Summer School on AI and Big Data 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-05-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'ssaibd2024',
+                  title: '10th International Summer School on AI and Big Data 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "gmss2024") {
+
+              $('#conf-title-href').text("Generative Modeling Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=gmss2024");
+              // set badges
+              var subs = 'MLGenAI'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 24 - June 28, 2024");
+              $('#conf-place').text("Eindhoven, Netherlands");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Eindhoven, Netherlands")
+              $('#conf-website').text("https://gemss.ai/2024/");
+              $('#conf-website').attr('href', "https://gemss.ai/2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Generative Modeling Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Generative Modeling Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-31 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'gmss2024',
+                  title: 'Generative Modeling Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "cass2024") {
+
+              $('#conf-title-href').text("Cooperative AI Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=cass2024");
+              // set badges
+              var subs = 'MLRLRO'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 19 - June 23, 2024");
+              $('#conf-place').text("Santa Cruz, US");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Santa Cruz, US")
+              $('#conf-website').text("https://www.cooperativeai.com/summer-school/summer-school-2024");
+              $('#conf-website').attr('href', "https://www.cooperativeai.com/summer-school/summer-school-2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Cooperative AI Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Cooperative AI Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-04-26 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'cass2024',
+                  title: 'Cooperative AI Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "inpl2024") {
+
+              $('#conf-title-href').text("Information, Noise and Physics of Life 2024");
+              $('#conf-title-href').attr('href', "/conference?id=inpl2024");
+              // set badges
+              var subs = 'ML4ScienceTheory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 17 - June 28, 2024");
+              $('#conf-place').text("Nis, Serbia");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Nis, Serbia")
+              $('#conf-website').text("https://indico.ictp.it/event/10484/overview");
+              $('#conf-website').attr('href', "https://indico.ictp.it/event/10484/overview");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Information, Noise and Physics of Life2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Information, Noise and Physics of Life 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-02-20 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'inpl2024',
+                  title: 'Information, Noise and Physics of Life 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "upmlasss2024") {
+
+              $('#conf-title-href').text("Madrid UPM Machine Learning and Advanced Statistics Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=upmlasss2024");
+              // set badges
+              var subs = 'Theory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 17 - June 28, 2024");
+              $('#conf-place').text("Madrid, Spain");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Madrid, Spain")
+              $('#conf-website').text("http://dia.fi.upm.es/es/MLAS");
+              $('#conf-website').attr('href', "http://dia.fi.upm.es/es/MLAS");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Madrid UPM Machine Learning and Advanced Statistics Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Madrid UPM Machine Learning and Advanced Statistics Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-06-14 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'upmlasss2024',
+                  title: 'Madrid UPM Machine Learning and Advanced Statistics Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "aag2024") {
+
+              $('#conf-title-href').text("Artificial Intelligence and Games 2024");
+              $('#conf-title-href').attr('href', "/conference?id=aag2024");
+              // set badges
+              var subs = 'MLAI4Games'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 17 - June 21, 2024");
+              $('#conf-place').text("Valletta, Malta");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Valletta, Malta")
+              $('#conf-website').text("https://school.gameaibook.org/");
+              $('#conf-website').attr('href', "https://school.gameaibook.org/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Artificial Intelligence and Games2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Artificial Intelligence and Games 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-31 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'aag2024',
+                  title: 'Artificial Intelligence and Games 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "npas2024") {
+
+              $('#conf-title-href').text("Nordic Probabilistic AI School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=npas2024");
+              // set badges
+              var subs = 'Theory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 17 - June 21, 2024");
+              $('#conf-place').text("Copenhagen, Denmark");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Copenhagen, Denmark")
+              $('#conf-website').text("https://nordic.probabilistic.ai/");
+              $('#conf-website').attr('href', "https://nordic.probabilistic.ai/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Nordic Probabilistic AI School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Nordic Probabilistic AI School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'npas2024',
+                  title: 'Nordic Probabilistic AI School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "pmlb2024") {
+
+              $('#conf-title-href').text("Principles of Machine Learning for Bioinformatics 2024");
+              $('#conf-title-href').attr('href', "/conference?id=pmlb2024");
+              // set badges
+              var subs = 'Bio'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 17 - June 21, 2024");
+              $('#conf-place').text("Austin, Texas");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Austin, Texas")
+              $('#conf-website').text("https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/");
+              $('#conf-website').attr('href', "https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Principles of Machine Learning for Bioinformatics2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Principles of Machine Learning for Bioinformatics 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-06-17 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'pmlb2024',
+                  title: 'Principles of Machine Learning for Bioinformatics 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "nsrs2024") {
+
+              $('#conf-title-href').text("Norwegian AI Summer Research School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=nsrs2024");
+              // set badges
+              var subs = 'MLTheory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 10 - June 14, 2024");
+              $('#conf-place').text("Kristiansand, Norway");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Kristiansand, Norway")
+              $('#conf-website').text("https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html");
+              $('#conf-website').attr('href', "https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Norwegian AI Summer Research School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Norwegian Artificial Intelligence Summer Research School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-31 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'nsrs2024',
+                  title: 'Norwegian AI Summer Research School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "dlcvs2024") {
+
+              $('#conf-title-href').text("Deep Learning and Computer Vision School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=dlcvs2024");
+              // set badges
+              var subs = 'MLCV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 10 - June 14, 2024");
+              $('#conf-place').text("Genova, Italy");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Genova, Italy")
+              $('#conf-website').text("https://malga.unige.it/education/schools/dlcv2024");
+              $('#conf-website').attr('href', "https://malga.unige.it/education/schools/dlcv2024");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Deep Learning and Computer Vision School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Deep Learning and Computer Vision School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-04-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'dlcvs2024',
+                  title: 'Deep Learning and Computer Vision School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "rplss2024") {
+
+              $('#conf-title-href').text("RPL Summer School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=rplss2024");
+              // set badges
+              var subs = 'MLRO'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 09 - June 14, 2024");
+              $('#conf-place').text("Stockholm, Sweden");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Stockholm, Sweden")
+              $('#conf-website').text("https://summer-school.rpl.eecs.kth.se");
+              $('#conf-website').attr('href', "https://summer-school.rpl.eecs.kth.se");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #RPL Summer School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("RPL Summer School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-03-13 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'rplss2024',
+                  title: 'RPL Summer School 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "aiie2024") {
+
+              $('#conf-title-href').text("Artificial Intelligence in Education 2024");
+              $('#conf-title-href').attr('href', "/conference?id=aiie2024");
+              // set badges
+              var subs = 'MLRAI'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("June 03 - June 13, 2024");
+              $('#conf-place').text("Bergen, Norway");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Bergen, Norway")
+              $('#conf-website').text("https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education");
+              $('#conf-website').attr('href', "https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Artificial Intelligence in Education2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Artificial Intelligence in Education 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-02-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'aiie2024',
+                  title: 'Artificial Intelligence in Education 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "ssfllm2024") {
+
+              $('#conf-title-href').text("Summer School for Large Language Models 2024");
+              $('#conf-title-href').attr('href', "/conference?id=ssfllm2024");
+              // set badges
+              var subs = 'MLGenAI'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 06 - July 18, 2024");
+              $('#conf-place').text("Beijing, China");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Beijing, China")
+              $('#conf-website').text("http://ss.cs.tsinghua.edu.cn/index.html");
+              $('#conf-website').attr('href', "http://ss.cs.tsinghua.edu.cn/index.html");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Summer School for Large Language Models2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Summer School for Large Language Models 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-04-01 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'ssfllm2024',
+                  title: 'Summer School for Large Language Models 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "wsfm2024") {
+
+              $('#conf-title-href').text("Winter School on Foundation Models 2024");
+              $('#conf-title-href').attr('href', "/conference?id=wsfm2024");
+              // set badges
+              var subs = 'MLGenAI'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("March 12 - March 15, 2024");
+              $('#conf-place').text("Amsterdam, Nederlands");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Amsterdam, Nederlands")
+              $('#conf-website').text("https://amsterdam-fomo.github.io/");
+              $('#conf-website').attr('href', "https://amsterdam-fomo.github.io/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Winter School on Foundation Models2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Winter School on Foundation Models");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-02-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'wsfm2024',
+                  title: 'Winter School on Foundation Models 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "tpas2024") {
+
+              $('#conf-title-href').text("Tropical Probabilistic AI School 2024");
+              $('#conf-title-href').attr('href', "/conference?id=tpas2024");
+              // set badges
+              var subs = 'MLTheory'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("January 29 - February 02, 2024");
+              $('#conf-place').text("Rio de Janeiro, Brazil");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Rio de Janeiro, Brazil")
+              $('#conf-website').text("https://tropical.probabilistic.ai/");
+              $('#conf-website').attr('href', "https://tropical.probabilistic.ai/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Tropical Probabilistic AI School2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Tropical Probabilistic AI School 2024");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "UTC+1" ;
+                var confDeadline = moment.tz("2024-01-23 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'tpas2024',
+                  title: 'Tropical Probabilistic AI School 2024 deadline',
                   date: confDeadline.toDate(),
                   duration: 60,
                 })
