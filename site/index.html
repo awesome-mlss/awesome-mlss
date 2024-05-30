@@ -1,67 +1,76 @@
 ---
 ---
 
-
 <html>
-  <head>
+<head>
     {% include head.html %}
-  </head>
-  <body>
+</head>
+<body>
     {% include header.html %}
     <div class="container">
         <div class="page-header">
             <div class="row">
-                <div class="col-12 col-sm-12">
-                  <h1>
-                    {{ site.title }} 
-                  </h1>
-                </div>
-                <div class="meta col-12">
-                  {{ site.description }}.
-                  To add/edit a summer school, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                <div class="col-12">
+                    <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
+                        <h2 style="font-size: 2em; text-align: left; width: 100%;">
+                            {{ site.title }}
+                        </h2>
+                        <p style="font-size: 1.5em;">
+                          {{ site.description }}
+                        </p>
+                        <div class="row">
+                            <div style="text-align: left; font-weight: lighter;" class="col-12 col-md-8">
+                              <span class="local-timezone-hide">
+                                This community tool serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
+                                <br>
+                                <br>
+                                The dates are made available as countdowns, in local timezones and even as a Google calendar below!
+                                <br>
+                                <br>
+                                Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                                To view them in conference website timezones, click on them.
+                              </span>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <div class="d-flex justify-content-end">
+                                    <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ai-deadlines.ics" class="btn btn-outline-danger mx-1">
+                                        <i class="fa fa-google" aria-hidden="true"></i> Add to Google Calendar
+                                    </a>
+                                    <a href="/ai-deadlines.ics" class="btn btn-outline-primary mx-1">
+                                        <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> Get the iCal
+                                    </a>
+                                    <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}" class="btn btn-outline-dark mx-1">
+                                        Contribute a school on Github
+                                    </a>
+                                </div>
+                                <hr>
+                                <div class="d-flex justify-content-end">
+                                  <form class="container">
+                                      <div class="row">
+                                          <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
+                                              <div class="filter-label" style="text-align: left;">
+                                                  <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
+                                                      Filter by topic:
+                                                  </label>
+                                              </div>
+                                          </div>
+                                          <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
+                                              <select id="subject-select" name="subject-select" multiple="multiple">
+                                                  {% for type in site.data.types %}
+                                                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
+                                                      {{type.name}} ({{type.sub}})
+                                                  </option>
+                                                  {% endfor %}
+                                              </select>
+                                          </div>
+                                      </div>
+                                  </form>
+                              </div>                                                            
+                        </div>
+                    </div>
                 </div>
             </div>
             <br>
-            <div class="row">
-              <form class="container">
-                <div class="row justify-content-center">
-                  <div class="row align-items-md-center col-12 col-10-md">
-                    <div class="col-12 col-md-5 filter-label">
-                      <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
-                        Subject Filter:
-                      </label>
-                    </div>
-                    <div class="col-12 col-md-6">
-                      <select
-                        id="subject-select"
-                        name="subject-select"
-                        multiple="multiple"
-                        style="display: none"
-                      >
-                        {% for type in site.data.types %}
-                        <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
-                          {{type.name}} ({{type.sub}})
-                        </option>
-                        {% endfor %}
-                      </select>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
-            <div class="row">
-              <div class="meta col-12">
-                <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
-                </span>
-              </div>
-              <div class="meta col-12">
-                You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ai-deadlines.ics">Google Calendar</a> or
-                <a href="/ai-deadlines.ics">.ics</a>.
-              </div>
-            </div>
         </div>
         <div id="confs">
         <div id="coming_confs">
