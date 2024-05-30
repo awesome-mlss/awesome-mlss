@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
-PRODID:-//{{ site.domain }}//ai-deadlines//EN
+PRODID:-//{{ site.domain }}//mlss-deadlines//EN
 X-PUBLISHED-TTL:PT1H
 {%- for conf in site.data.summerschools -%}
 {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
