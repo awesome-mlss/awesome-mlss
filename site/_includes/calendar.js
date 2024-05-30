@@ -4,7 +4,7 @@
         clickDay: function (e) {
           if (e.events.length > 0) {
             for (var i in e.events) {
-              window.open("{{site.baseurl}}/conference?id=" + e.events[i].abbreviation, "_self")
+              window.open("{{site.baseurl}}/summerschool?id=" + e.events[i].abbreviation, "_self")
             }
           }
         },
@@ -84,7 +84,7 @@
 function load_conference_list() {
   // Gather data
   var conf_list_all = [];
-  {% for conf in site.data.conferences %}
+  {% for conf in site.data.summerschools %}
     // add deadlines in red
     conf_list_all.push({
       id: "{{conf.id}}-deadline",

@@ -1,5 +1,5 @@
 ---
-permalink:  /conference/
+permalink:  /summerschool/
 ---
 
 <html>
@@ -97,11 +97,11 @@ permalink:  /conference/
           $('.local-timezone-hide').hide();
         }
 
-        {% for conf in site.data.conferences %}
+        {% for conf in site.data.summerschools %}
             if (conf == "{{ conf.id }}") {
 
               $('#conf-title-href').text("{{conf.title}} {{conf.year}}");
-              $('#conf-title-href').attr('href', "/conference?id={{conf.id}}");
+              $('#conf-title-href').attr('href', "/summerschool?id={{conf.id}}");
               // set badges
               var subs = '{{conf.sub}}'.split(',');
               for (let i = 0; i < subs.length; i++) {
