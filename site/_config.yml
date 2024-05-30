@@ -1,8 +1,8 @@
 title: Machine Learning Summer School Deadlines
-description: Countdowns to Machine Learning Summer School deadlines
+description: A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world
 author: Shashank Shekhar
 
-domain: "aideadlin.es"
+domain: "awesome-mlss.netlify.app"
 baseurl: ""
 
 twitter_hashtag: machinelearning
