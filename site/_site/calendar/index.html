@@ -6,13 +6,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <title>Machine Learning Summer School Deadlines</title>
-<meta name="description" content="Countdowns to Machine Learning Summer School deadlines">
+<meta name="description" content="A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world">
 <meta name="author" content="Shashank Shekhar">
-<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716908205" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1717078681" media="screen,projection">
 
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716908205" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716908205" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1717078681" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1717078681" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap-multiselect.min.css">
 
 <link rel="shortcut icon" href="/static/img/favicon.png">
 
@@ -57,10 +58,13 @@
         <li>
           <a href="/calendar" class="nav-link" style="border-bottom: none;">Calendar</a>
         </li>
+        <li>
+          <a href="/calendar" class="nav-link" style="border-bottom: none;">Recurring</a>
+        </li>
       </ul>
       <div class="twitter-github-icons">
         <a href="https://twitter.com/share" class="twitter-share-button"
-          data-text="Countdowns to Machine Learning Summer School deadlines"
+          data-text="A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world"
           data-hashtags=""
           data-size="large"
           data-show-count="false" style="font-size: 30px;">Tweet</a>
@@ -361,7 +365,7 @@
       <footer>
         <div class="row">
   <div class="col-12 col-sm-12">
-    <a href="/">mlssdeadlin.es</a>
+    <a href="/">awesome-mlss.netlify.app</a>
     was built and maintained from 2018 onwards by
     <a href="https://twitter.com/abhshkdz">sshkhr</a>. It has been maintained by
     <a href="https://github.com/gmberton">gmberton</a> since 2023.
@@ -399,7 +403,7 @@ function addUtcTimeZones() {
 
 function update_filtering(data) {
   var page_url = "";
-  store.set("mlssdeadlin.es-subs", data.subs);
+  store.set("awesome-mlss.netlify.app-subs", data.subs);
 
   $(".confItem").hide();
   for (const j in data.all_subs) {
@@ -455,21 +459,17 @@ const all_subs = _all_subs;
       // Multi-select handler
 $("#subject-select").multiselect({
   includeSelectAllOption: true,
-  numberDisplayed: 5,
+  numberDisplayed: 1,
   onChange: function (option, checked, select) {
     var csub = $(option).val();
-    if (checked == true) {
-      if (subs.indexOf(csub) < 0) subs.push(csub);
+    if (checked) {
+      if (!subs.includes(csub)) subs.push(csub);
     } else {
       var idx = subs.indexOf(csub);
       if (idx >= 0) subs.splice(idx, 1);
-      // In case a conf with multiple types (including this type) is wrongly hid, show all confs with at least one checked type.
-      for (var i = 0; i < subs.length; i++) {
-        // $('.' + subs[i] + '-conf').show();
-      }
     }
     update_filtering({ subs: subs, all_subs: all_subs });
-  },
+  },  
   onSelectAll: function (options) {
     subs = all_subs;
     update_filtering({ subs: subs, all_subs: all_subs });
@@ -478,21 +478,7 @@ $("#subject-select").multiselect({
     subs = [];
     update_filtering({ subs: subs, all_subs: all_subs });
   },
-  buttonText: function (options, select) {
-    if (options.length === 0) {
-      return "None selected";
-    } else {
-      var labels = [];
-      options.each(function () {
-        if ($(this).attr("value") !== undefined) {
-          labels.push($(this).attr("value"));
-        } else {
-          labels.push($(this).html());
-        }
-      });
-      return labels.join(", ") + "";
-    }
-  },
+  
   buttonTitle: function (options, select) {
     return "";
   },
@@ -504,7 +490,7 @@ $("#subject-select").multiselect({
         clickDay: function (e) {
           if (e.events.length > 0) {
             for (var i in e.events) {
-              window.open("/conference?id=" + e.events[i].abbreviation, "_self")
+              window.open("/summerschool?id=" + e.events[i].abbreviation, "_self")
             }
           }
         },
@@ -3671,7 +3657,7 @@ function load_conference_list() {
 }
 
 function update_filtering(data) {
-  store.set('mlssdeadlin.es-subs', data.subs);
+  store.set('awesome-mlss.netlify.app-subs', data.subs);
 
   conf_list = conf_list_all.filter(v => {
     var commonValues = data.subs.filter(function (value) {
@@ -3699,7 +3685,7 @@ function update_filtering(data) {
 var url = new URL(window.location);
 subs = url.searchParams.get("sub");
 if (subs == undefined) {
-  subs = store.get("mlssdeadlin.es-subs");
+  subs = store.get("awesome-mlss.netlify.app-subs");
 } else {
   subs = subs.toUpperCase().split(",");
 }

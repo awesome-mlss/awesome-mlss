@@ -96,7 +96,7 @@ def query_yes_no(question, default="no"):
 
 # Sort:
 
-with open("../_data/conferences.yml", 'r') as stream:
+with open("../_data/summerschools.yml", 'r') as stream:
     try:
         data = yaml.load(stream, Loader=Loader)
         print("Initial Sorting:")

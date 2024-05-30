@@ -1,17 +1,18 @@
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <title>Machine Learning Summer School Deadlines</title>
-<meta name="description" content="Countdowns to Machine Learning Summer School deadlines">
+<meta name="description" content="A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world">
 <meta name="author" content="Shashank Shekhar">
-<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716908205" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1717078681" media="screen,projection">
 
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716908205" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716908205" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1717078681" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1717078681" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap-multiselect.min.css">
 
 <link rel="shortcut icon" href="/static/img/favicon.png">
 
@@ -26,8 +27,8 @@
 <script type="text/javascript" src="/static/js/ouical.min.js"></script>
 <script type="text/javascript" src="/static/js/bootstrap-multiselect.min.js"></script>
 
-  </head>
-  <body>
+</head>
+<body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
       <div style="vertical-align: middle; padding-top: 8px;">
@@ -54,10 +55,13 @@
         <li>
           <a href="/calendar" class="nav-link" style="border-bottom: none;">Calendar</a>
         </li>
+        <li>
+          <a href="/calendar" class="nav-link" style="border-bottom: none;">Recurring</a>
+        </li>
       </ul>
       <div class="twitter-github-icons">
         <a href="https://twitter.com/share" class="twitter-share-button"
-          data-text="Countdowns to Machine Learning Summer School deadlines"
+          data-text="A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world"
           data-hashtags=""
           data-size="large"
           data-show-count="false" style="font-size: 30px;">Tweet</a>
@@ -72,145 +76,155 @@
     <div class="container">
         <div class="page-header">
             <div class="row">
-                <div class="col-12 col-sm-12">
-                  <h1>
-                    Machine Learning Summer School Deadlines 
-                  </h1>
-                </div>
-                <div class="meta col-12">
-                  Countdowns to Machine Learning Summer School deadlines.
-                  To add/edit a summer school, <a target="_blank" href="//github.com/sshkhr/awesome-mlss">send in a pull request</a>.
+                <div class="col-12">
+                    <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
+                        <h2 style="font-size: 2em; text-align: left; width: 100%;">
+                            Machine Learning Summer School Deadlines
+                        </h2>
+                        <p style="font-size: 1.5em;">
+                          A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world
+                        </p>
+                        <div class="row">
+                            <div style="text-align: left; font-weight: lighter;" class="col-12 col-md-8">
+                              <span class="local-timezone-hide">
+                                This community tool serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
+                                <br>
+                                <br>
+                                The dates are made available as countdowns, in local timezones and even as a Google calendar below!
+                                <br>
+                                <br>
+                                Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                                To view them in conference website timezones, click on them.
+                              </span>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <div class="d-flex justify-content-end">
+                                    <a href="https://calendar.google.com/calendar/r?cid=awesome-mlss.netlify.app/mlss-deadlines.ics" class="btn btn-outline-danger mx-1">
+                                        <i class="fa fa-google" aria-hidden="true"></i> Add to Google Calendar
+                                    </a>
+                                    <a href="/mlss-deadlines.ics" class="btn btn-outline-primary mx-1">
+                                        <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> Get the iCal
+                                    </a>
+                                    <a target="_blank" href="//github.com/sshkhr/awesome-mlss" class="btn btn-outline-dark mx-1">
+                                        Contribute a school on Github
+                                    </a>
+                                </div>
+                                <hr>
+                                <div class="d-flex justify-content-end">
+                                  <form class="container">
+                                      <div class="row">
+                                          <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
+                                              <div class="filter-label" style="text-align: left;">
+                                                  <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
+                                                      Filter by topic:
+                                                  </label>
+                                              </div>
+                                          </div>
+                                          <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
+                                              <select id="subject-select" name="subject-select" multiple="multiple">
+                                                  
+                                                  <option value="ML" id="ML-checkbox">
+                                                      Machine Learning (ML)
+                                                  </option>
+                                                  
+                                                  <option value="CV" id="CV-checkbox">
+                                                      Computer Vision (CV)
+                                                  </option>
+                                                  
+                                                  <option value="CG" id="CG-checkbox">
+                                                      Computer Graphics (CG)
+                                                  </option>
+                                                  
+                                                  <option value="NLP" id="NLP-checkbox">
+                                                      Natural Language Proc (NLP)
+                                                  </option>
+                                                  
+                                                  <option value="RO" id="RO-checkbox">
+                                                      Robotics (RO)
+                                                  </option>
+                                                  
+                                                  <option value="SP" id="SP-checkbox">
+                                                      Speech/SigProc (SP)
+                                                  </option>
+                                                  
+                                                  <option value="DM" id="DM-checkbox">
+                                                      Data Mining (DM)
+                                                  </option>
+                                                  
+                                                  <option value="AP" id="AP-checkbox">
+                                                      Automated Planning (AP)
+                                                  </option>
+                                                  
+                                                  <option value="KR" id="KR-checkbox">
+                                                      Knowledge Representation (KR)
+                                                  </option>
+                                                  
+                                                  <option value="HCI" id="HCI-checkbox">
+                                                      Human-Computer Interaction (HCI)
+                                                  </option>
+                                                  
+                                                  <option value="GenAI" id="GenAI-checkbox">
+                                                      Generative AI (GenAI)
+                                                  </option>
+                                                  
+                                                  <option value="HW" id="HW-checkbox">
+                                                      ML Hardware (HW)
+                                                  </option>
+                                                  
+                                                  <option value="AI4Games" id="AI4Games-checkbox">
+                                                      AI For Games (AI4Games)
+                                                  </option>
+                                                  
+                                                  <option value="CogSci" id="CogSci-checkbox">
+                                                      Cognitive Science (CogSci)
+                                                  </option>
+                                                  
+                                                  <option value="Theory" id="Theory-checkbox">
+                                                      ML Theory (Theory)
+                                                  </option>
+                                                  
+                                                  <option value="Bio" id="Bio-checkbox">
+                                                      ML for Biology (Bio)
+                                                  </option>
+                                                  
+                                                  <option value="Log" id="Log-checkbox">
+                                                      Logic (Log)
+                                                  </option>
+                                                  
+                                                  <option value="Neuro" id="Neuro-checkbox">
+                                                      Neuroscience (Neuro)
+                                                  </option>
+                                                  
+                                                  <option value="EML" id="EML-checkbox">
+                                                      Efficient Machine Learning (EML)
+                                                  </option>
+                                                  
+                                                  <option value="RL" id="RL-checkbox">
+                                                      Reinforcement Learning (RL)
+                                                  </option>
+                                                  
+                                                  <option value="Health" id="Health-checkbox">
+                                                      ML for Health (Health)
+                                                  </option>
+                                                  
+                                                  <option value="ML4Science" id="ML4Science-checkbox">
+                                                      ML for Science (ML4Science)
+                                                  </option>
+                                                  
+                                                  <option value="RAI" id="RAI-checkbox">
+                                                      Responsible AI (RAI)
+                                                  </option>
+                                                  
+                                              </select>
+                                          </div>
+                                      </div>
+                                  </form>
+                              </div>                                                            
+                        </div>
+                    </div>
                 </div>
             </div>
             <br>
-            <div class="row">
-              <form class="container">
-                <div class="row justify-content-center">
-                  <div class="row align-items-md-center col-12 col-10-md">
-                    <div class="col-12 col-md-5 filter-label">
-                      <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
-                        Subject Filter:
-                      </label>
-                    </div>
-                    <div class="col-12 col-md-6">
-                      <select
-                        id="subject-select"
-                        name="subject-select"
-                        multiple="multiple"
-                        style="display: none"
-                      >
-                        
-                        <option value="ML" id="ML-checkbox">
-                          Machine Learning (ML)
-                        </option>
-                        
-                        <option value="CV" id="CV-checkbox">
-                          Computer Vision (CV)
-                        </option>
-                        
-                        <option value="CG" id="CG-checkbox">
-                          Computer Graphics (CG)
-                        </option>
-                        
-                        <option value="NLP" id="NLP-checkbox">
-                          Natural Language Proc (NLP)
-                        </option>
-                        
-                        <option value="RO" id="RO-checkbox">
-                          Robotics (RO)
-                        </option>
-                        
-                        <option value="SP" id="SP-checkbox">
-                          Speech/SigProc (SP)
-                        </option>
-                        
-                        <option value="DM" id="DM-checkbox">
-                          Data Mining (DM)
-                        </option>
-                        
-                        <option value="AP" id="AP-checkbox">
-                          Automated Planning (AP)
-                        </option>
-                        
-                        <option value="KR" id="KR-checkbox">
-                          Knowledge Representation (KR)
-                        </option>
-                        
-                        <option value="HCI" id="HCI-checkbox">
-                          Human-Computer Interaction (HCI)
-                        </option>
-                        
-                        <option value="GenAI" id="GenAI-checkbox">
-                          Generative AI (GenAI)
-                        </option>
-                        
-                        <option value="HW" id="HW-checkbox">
-                          ML Hardware (HW)
-                        </option>
-                        
-                        <option value="AI4Games" id="AI4Games-checkbox">
-                          AI For Games (AI4Games)
-                        </option>
-                        
-                        <option value="CogSci" id="CogSci-checkbox">
-                          Cognitive Science (CogSci)
-                        </option>
-                        
-                        <option value="Theory" id="Theory-checkbox">
-                          ML Theory (Theory)
-                        </option>
-                        
-                        <option value="Bio" id="Bio-checkbox">
-                          ML for Biology (Bio)
-                        </option>
-                        
-                        <option value="Log" id="Log-checkbox">
-                          Logic (Log)
-                        </option>
-                        
-                        <option value="Neuro" id="Neuro-checkbox">
-                          Neuroscience (Neuro)
-                        </option>
-                        
-                        <option value="EML" id="EML-checkbox">
-                          Efficient Machine Learning (EML)
-                        </option>
-                        
-                        <option value="RL" id="RL-checkbox">
-                          Reinforcement Learning (RL)
-                        </option>
-                        
-                        <option value="Health" id="Health-checkbox">
-                          ML for Health (Health)
-                        </option>
-                        
-                        <option value="ML4Science" id="ML4Science-checkbox">
-                          ML for Science (ML4Science)
-                        </option>
-                        
-                        <option value="RAI" id="RAI-checkbox">
-                          Responsible AI (RAI)
-                        </option>
-                        
-                      </select>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
-            <div class="row">
-              <div class="meta col-12">
-                <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
-                </span>
-              </div>
-              <div class="meta col-12">
-                You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid=/ai-deadlines.ics">Google Calendar</a> or
-                <a href="/ai-deadlines.ics">.ics</a>.
-              </div>
-            </div>
         </div>
         <div id="confs">
         <div id="coming_confs">
@@ -219,13 +233,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Paris Generative AI Autumn School 2024 Details" href="/conference?id=genaischool24">Paris Generative AI Autumn School 2024</a>
+                      <a title="Paris Generative AI Autumn School 2024 Details" href="/summerschool?id=genaischool24">Paris Generative AI Autumn School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Paris Generative AI Autumn School 2024 Details" href="/conference?id=genaischool24">Paris Generative AI Autumn School '24</a>
+                      <a title="Paris Generative AI Autumn School 2024 Details" href="/summerschool?id=genaischool24">Paris Generative AI Autumn School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.genai-school.universite-paris-saclay.fr" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.genai-school.universite-paris-saclay.fr" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -276,13 +292,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/conference?id=ies2024">IEEE-EURASIP S3P 2024</a>
+                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/summerschool?id=ies2024">IEEE-EURASIP S3P 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/conference?id=ies2024">IEEE-EURASIP S3P '24</a>
+                      <a title="IEEE-EURASIP Summer School on Signal Processing 2024 Details" href="/summerschool?id=ies2024">IEEE-EURASIP S3P '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.grip.unina.it/s3p2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.grip.unina.it/s3p2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -333,13 +351,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Athens NLP 2024 Summer School Details" href="/conference?id=athensnlpaθnlp24">AθNLP 2024</a>
+                      <a title="Athens NLP 2024 Summer School Details" href="/summerschool?id=athensnlpaθnlp24">AθNLP 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Athens NLP 2024 Summer School Details" href="/conference?id=athensnlpaθnlp24">AθNLP '24</a>
+                      <a title="Athens NLP 2024 Summer School Details" href="/summerschool?id=athensnlpaθnlp24">AθNLP '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://athnlp.github.io/2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://athnlp.github.io/2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -390,13 +410,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/conference?id=m2l2024">Mediterranean Machine Learning Summer School (M2L) 2024</a>
+                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/summerschool?id=m2l2024">Mediterranean Machine Learning Summer School (M2L) 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/conference?id=m2l2024">Mediterranean Machine Learning Summer School (M2L) '24</a>
+                      <a title="Mediterranean Machine Learning Summer School (M2L) 2024 Details" href="/summerschool?id=m2l2024">Mediterranean Machine Learning Summer School (M2L) '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.m2lschool.org/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.m2lschool.org/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -445,13 +467,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Applied Harmonic Analysis and Machine Learning 2024 Details" href="/conference?id=ahaml2024">Applied Harmonic Analysis and Machine Learning 2024</a>
+                      <a title="Applied Harmonic Analysis and Machine Learning 2024 Details" href="/summerschool?id=ahaml2024">Applied Harmonic Analysis and Machine Learning 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Applied Harmonic Analysis and Machine Learning 2024 Details" href="/conference?id=ahaml2024">Applied Harmonic Analysis and Machine Learning '24</a>
+                      <a title="Applied Harmonic Analysis and Machine Learning 2024 Details" href="/summerschool?id=ahaml2024">Applied Harmonic Analysis and Machine Learning '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://malga.unige.it/education/schools/ahaml2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://malga.unige.it/education/schools/ahaml2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -502,13 +526,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024 Details" href="/conference?id=acmhpc2024">HPC Computer Architectures for AI and Dedicated Applications 2024</a>
+                      <a title="ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024 Details" href="/summerschool?id=acmhpc2024">HPC Computer Architectures for AI and Dedicated Applications 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024 Details" href="/conference?id=acmhpc2024">HPC Computer Architectures for AI and Dedicated Applications '24</a>
+                      <a title="ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024 Details" href="/summerschool?id=acmhpc2024">HPC Computer Architectures for AI and Dedicated Applications '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://europe.acm.org/seasonal-schools/hpc/2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://europe.acm.org/seasonal-schools/hpc/2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -563,13 +589,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Deep Learning Indaba 2024 Details" href="/conference?id=dlindaba2024">Deep Learning Indaba 2024</a>
+                      <a title="Deep Learning Indaba 2024 Details" href="/summerschool?id=dlindaba2024">Deep Learning Indaba 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Deep Learning Indaba 2024 Details" href="/conference?id=dlindaba2024">Deep Learning Indaba '24</a>
+                      <a title="Deep Learning Indaba 2024 Details" href="/summerschool?id=dlindaba2024">Deep Learning Indaba '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://deeplearningindaba.com" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://deeplearningindaba.com" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -618,13 +646,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Institute of Language, Communication and Brain Summer School 2024 Details" href="/conference?id=iss2024">ILCB Summer School 2024</a>
+                      <a title="Institute of Language, Communication and Brain Summer School 2024 Details" href="/summerschool?id=iss2024">ILCB Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Institute of Language, Communication and Brain Summer School 2024 Details" href="/conference?id=iss2024">ILCB Summer School '24</a>
+                      <a title="Institute of Language, Communication and Brain Summer School 2024 Details" href="/summerschool?id=iss2024">ILCB Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.ilcb.fr/2024-2/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.ilcb.fr/2024-2/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -675,13 +705,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Analytical Connectionism Summer School 2024 Details" href="/conference?id=acss2024">Analytical Connectionism Summer School 2024</a>
+                      <a title="Analytical Connectionism Summer School 2024 Details" href="/summerschool?id=acss2024">Analytical Connectionism Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Analytical Connectionism Summer School 2024 Details" href="/conference?id=acss2024">Analytical Connectionism Summer School '24</a>
+                      <a title="Analytical Connectionism Summer School 2024 Details" href="/summerschool?id=acss2024">Analytical Connectionism Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -732,13 +764,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Princeton Machine Learning Theory Summer School 2024 Details" href="/conference?id=pmltss2024">Princeton Machine Learning Theory Summer School 2024</a>
+                      <a title="Princeton Machine Learning Theory Summer School 2024 Details" href="/summerschool?id=pmltss2024">Princeton Machine Learning Theory Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Princeton Machine Learning Theory Summer School 2024 Details" href="/conference?id=pmltss2024">Princeton Machine Learning Theory Summer School '24</a>
+                      <a title="Princeton Machine Learning Theory Summer School 2024 Details" href="/summerschool?id=pmltss2024">Princeton Machine Learning Theory Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://mlschool.princeton.edu/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://mlschool.princeton.edu/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -789,13 +823,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="NSF Open AI Cellular workshop 2024 Details" href="/conference?id=nsoacw2024">NSF Open AI Cellular workshop 2024</a>
+                      <a title="NSF Open AI Cellular workshop 2024 Details" href="/summerschool?id=nsoacw2024">NSF Open AI Cellular workshop 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="NSF Open AI Cellular workshop 2024 Details" href="/conference?id=nsoacw2024">NSF Open AI Cellular workshop '24</a>
+                      <a title="NSF Open AI Cellular workshop 2024 Details" href="/summerschool?id=nsoacw2024">NSF Open AI Cellular workshop '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.openaicellular.org/2024-oaic-workshop" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.openaicellular.org/2024-oaic-workshop" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -846,13 +882,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="35th European Summer School in Logic, Language and Information 2024 Details" href="/conference?id=essil2024">35th European Summer School in Logic 2024</a>
+                      <a title="35th European Summer School in Logic, Language and Information 2024 Details" href="/summerschool?id=essil2024">35th European Summer School in Logic 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="35th European Summer School in Logic, Language and Information 2024 Details" href="/conference?id=essil2024">35th European Summer School in Logic '24</a>
+                      <a title="35th European Summer School in Logic, Language and Information 2024 Details" href="/summerschool?id=essil2024">35th European Summer School in Logic '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://2024.esslli.eu/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://2024.esslli.eu/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -901,13 +939,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Model-Based Neuroscience and Cognition Summer School 2024 Details" href="/conference?id=mbncss2024">Model-Based Neuroscience and Cognition Summer School 2024</a>
+                      <a title="Model-Based Neuroscience and Cognition Summer School 2024 Details" href="/summerschool?id=mbncss2024">Model-Based Neuroscience and Cognition Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Model-Based Neuroscience and Cognition Summer School 2024 Details" href="/conference?id=mbncss2024">Model-Based Neuroscience and Cognition Summer School '24</a>
+                      <a title="Model-Based Neuroscience and Cognition Summer School 2024 Details" href="/summerschool?id=mbncss2024">Model-Based Neuroscience and Cognition Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://modelbasedneurosci.com/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://modelbasedneurosci.com/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -958,13 +998,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Vision and Sports Summer School 2024 Details" href="/conference?id=vsss2024">Vision and Sports Summer School 2024</a>
+                      <a title="Vision and Sports Summer School 2024 Details" href="/summerschool?id=vsss2024">Vision and Sports Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Vision and Sports Summer School 2024 Details" href="/conference?id=vsss2024">Vision and Sports Summer School '24</a>
+                      <a title="Vision and Sports Summer School 2024 Details" href="/summerschool?id=vsss2024">Vision and Sports Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://cmp.felk.cvut.cz/summerschool2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://cmp.felk.cvut.cz/summerschool2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1015,13 +1057,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Summer School on Affordable AI 2024 Details" href="/conference?id=ssaa2024">Summer School on Affordable AI 2024</a>
+                      <a title="Summer School on Affordable AI 2024 Details" href="/summerschool?id=ssaa2024">Summer School on Affordable AI 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Summer School on Affordable AI 2024 Details" href="/conference?id=ssaa2024">Summer School on Affordable AI '24</a>
+                      <a title="Summer School on Affordable AI 2024 Details" href="/summerschool?id=ssaa2024">Summer School on Affordable AI '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://saai2024.github.io/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://saai2024.github.io/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1072,13 +1116,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Eastern European Machine Learning Summer School 2024 Details" href="/conference?id=eemlss2024">Eastern European Machine Learning Summer School 2024</a>
+                      <a title="Eastern European Machine Learning Summer School 2024 Details" href="/summerschool?id=eemlss2024">Eastern European Machine Learning Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Eastern European Machine Learning Summer School 2024 Details" href="/conference?id=eemlss2024">Eastern European Machine Learning Summer School '24</a>
+                      <a title="Eastern European Machine Learning Summer School 2024 Details" href="/summerschool?id=eemlss2024">Eastern European Machine Learning Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.eeml.eu/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.eeml.eu/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1131,13 +1177,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024 Details" href="/conference?id=d11isdl2024">DeepLearn 2024 11th International School on Deep Learning 2024</a>
+                      <a title="DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024 Details" href="/summerschool?id=d11isdl2024">DeepLearn 2024 11th International School on Deep Learning 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024 Details" href="/conference?id=d11isdl2024">DeepLearn 2024 11th International School on Deep Learning '24</a>
+                      <a title="DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024 Details" href="/summerschool?id=d11isdl2024">DeepLearn 2024 11th International School on Deep Learning '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://deeplearn.irdta.eu/2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://deeplearn.irdta.eu/2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1186,13 +1234,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="African Computer Vision Summer School (ACVSS) 2024 Details" href="/conference?id=acvss2024">African Computer Vision Summer School 2024</a>
+                      <a title="African Computer Vision Summer School (ACVSS) 2024 Details" href="/summerschool?id=acvss2024">African Computer Vision Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="African Computer Vision Summer School (ACVSS) 2024 Details" href="/conference?id=acvss2024">African Computer Vision Summer School '24</a>
+                      <a title="African Computer Vision Summer School (ACVSS) 2024 Details" href="/summerschool?id=acvss2024">African Computer Vision Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.acvss.ai/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.acvss.ai/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1243,13 +1293,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Deep Learning and Reinforcement Learning Summer School 2024 Details" href="/conference?id=dlrlss2024">Deep Learning and Reinforcement Learning Summer School 2024</a>
+                      <a title="Deep Learning and Reinforcement Learning Summer School 2024 Details" href="/summerschool?id=dlrlss2024">Deep Learning and Reinforcement Learning Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Deep Learning and Reinforcement Learning Summer School 2024 Details" href="/conference?id=dlrlss2024">Deep Learning and Reinforcement Learning Summer School '24</a>
+                      <a title="Deep Learning and Reinforcement Learning Summer School 2024 Details" href="/summerschool?id=dlrlss2024">Deep Learning and Reinforcement Learning Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://dlrl.ca/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://dlrl.ca/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1300,13 +1352,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="International Computer Vision Summer School 2024 Details" href="/conference?id=icvs2024">International Computer Vision Summer School 2024</a>
+                      <a title="International Computer Vision Summer School 2024 Details" href="/summerschool?id=icvs2024">International Computer Vision Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="International Computer Vision Summer School 2024 Details" href="/conference?id=icvs2024">International Computer Vision Summer School '24</a>
+                      <a title="International Computer Vision Summer School 2024 Details" href="/summerschool?id=icvs2024">International Computer Vision Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://iplab.dmi.unict.it/icvss2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://iplab.dmi.unict.it/icvss2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1355,13 +1409,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Oxford ML school 2024 Details" href="/conference?id=omls2024">Oxford ML school 2024</a>
+                      <a title="Oxford ML school 2024 Details" href="/summerschool?id=omls2024">Oxford ML school 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Oxford ML school 2024 Details" href="/conference?id=omls2024">Oxford ML school '24</a>
+                      <a title="Oxford ML school 2024 Details" href="/summerschool?id=omls2024">Oxford ML school '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.oxfordml.school/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.oxfordml.school/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1410,13 +1466,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="HIAS AI Summer School 2024 Details" href="/conference?id=hiasaiss2024">HIAS AI Summer School 2024</a>
+                      <a title="HIAS AI Summer School 2024 Details" href="/summerschool?id=hiasaiss2024">HIAS AI Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="HIAS AI Summer School 2024 Details" href="/conference?id=hiasaiss2024">HIAS AI Summer School '24</a>
+                      <a title="HIAS AI Summer School 2024 Details" href="/summerschool?id=hiasaiss2024">HIAS AI Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://hellenic-ias.org/aicourse2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://hellenic-ias.org/aicourse2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1469,13 +1527,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Machine learning summer school in health, care and biosciences 2024 Details" href="/conference?id=mlssh2024">Machine Learning Summer School In Health 2024</a>
+                      <a title="Machine learning summer school in health, care and biosciences 2024 Details" href="/summerschool?id=mlssh2024">Machine Learning Summer School In Health 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Machine learning summer school in health, care and biosciences 2024 Details" href="/conference?id=mlssh2024">Machine Learning Summer School In Health '24</a>
+                      <a title="Machine learning summer school in health, care and biosciences 2024 Details" href="/summerschool?id=mlssh2024">Machine Learning Summer School In Health '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.bumblekite.co/summer-school-24" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.bumblekite.co/summer-school-24" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1528,13 +1588,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Machine Learning Crash Course 2024 Details" href="/conference?id=mlcc2024">Machine Learning Crash Course 2024</a>
+                      <a title="Machine Learning Crash Course 2024 Details" href="/summerschool?id=mlcc2024">Machine Learning Crash Course 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Machine Learning Crash Course 2024 Details" href="/conference?id=mlcc2024">Machine Learning Crash Course '24</a>
+                      <a title="Machine Learning Crash Course 2024 Details" href="/summerschool?id=mlcc2024">Machine Learning Crash Course '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://malga.unige.it/education/schools/mlcc2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://malga.unige.it/education/schools/mlcc2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1583,13 +1645,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="10th International Summer School on AI and Big Data 2024 Details" href="/conference?id=ssaibd2024">10th International Summer School on AI and Big Data 2024</a>
+                      <a title="10th International Summer School on AI and Big Data 2024 Details" href="/summerschool?id=ssaibd2024">10th International Summer School on AI and Big Data 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="10th International Summer School on AI and Big Data 2024 Details" href="/conference?id=ssaibd2024">10th International Summer School on AI and Big Data '24</a>
+                      <a title="10th International Summer School on AI and Big Data 2024 Details" href="/summerschool?id=ssaibd2024">10th International Summer School on AI and Big Data '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://scads.ai/education/summer-schools/summer-school-2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://scads.ai/education/summer-schools/summer-school-2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1646,13 +1710,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Generative Modeling Summer School 2024 Details" href="/conference?id=gmss2024">Generative Modeling Summer School 2024</a>
+                      <a title="Generative Modeling Summer School 2024 Details" href="/summerschool?id=gmss2024">Generative Modeling Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Generative Modeling Summer School 2024 Details" href="/conference?id=gmss2024">Generative Modeling Summer School '24</a>
+                      <a title="Generative Modeling Summer School 2024 Details" href="/summerschool?id=gmss2024">Generative Modeling Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://gemss.ai/2024/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://gemss.ai/2024/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1703,13 +1769,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Cooperative AI Summer School 2024 Details" href="/conference?id=cass2024">Cooperative AI Summer School 2024</a>
+                      <a title="Cooperative AI Summer School 2024 Details" href="/summerschool?id=cass2024">Cooperative AI Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Cooperative AI Summer School 2024 Details" href="/conference?id=cass2024">Cooperative AI Summer School '24</a>
+                      <a title="Cooperative AI Summer School 2024 Details" href="/summerschool?id=cass2024">Cooperative AI Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.cooperativeai.com/summer-school/summer-school-2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.cooperativeai.com/summer-school/summer-school-2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1762,13 +1830,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Information, Noise and Physics of Life 2024 Details" href="/conference?id=inpl2024">Information, Noise and Physics of Life 2024</a>
+                      <a title="Information, Noise and Physics of Life 2024 Details" href="/summerschool?id=inpl2024">Information, Noise and Physics of Life 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Information, Noise and Physics of Life 2024 Details" href="/conference?id=inpl2024">Information, Noise and Physics of Life '24</a>
+                      <a title="Information, Noise and Physics of Life 2024 Details" href="/summerschool?id=inpl2024">Information, Noise and Physics of Life '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://indico.ictp.it/event/10484/overview" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://indico.ictp.it/event/10484/overview" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1819,13 +1889,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Madrid UPM Machine Learning and Advanced Statistics Summer School 2024 Details" href="/conference?id=upmlasss2024">Madrid UPM Machine Learning and Advanced Statistics Summer School 2024</a>
+                      <a title="Madrid UPM Machine Learning and Advanced Statistics Summer School 2024 Details" href="/summerschool?id=upmlasss2024">Madrid UPM Machine Learning and Advanced Statistics Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Madrid UPM Machine Learning and Advanced Statistics Summer School 2024 Details" href="/conference?id=upmlasss2024">Madrid UPM Machine Learning and Advanced Statistics Summer School '24</a>
+                      <a title="Madrid UPM Machine Learning and Advanced Statistics Summer School 2024 Details" href="/summerschool?id=upmlasss2024">Madrid UPM Machine Learning and Advanced Statistics Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="http://dia.fi.upm.es/es/MLAS" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="http://dia.fi.upm.es/es/MLAS" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1874,13 +1946,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Artificial Intelligence and Games 2024 Details" href="/conference?id=aag2024">Artificial Intelligence and Games 2024</a>
+                      <a title="Artificial Intelligence and Games 2024 Details" href="/summerschool?id=aag2024">Artificial Intelligence and Games 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Artificial Intelligence and Games 2024 Details" href="/conference?id=aag2024">Artificial Intelligence and Games '24</a>
+                      <a title="Artificial Intelligence and Games 2024 Details" href="/summerschool?id=aag2024">Artificial Intelligence and Games '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://school.gameaibook.org/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://school.gameaibook.org/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1931,13 +2005,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Nordic Probabilistic AI School 2024 Details" href="/conference?id=npas2024">Nordic Probabilistic AI School 2024</a>
+                      <a title="Nordic Probabilistic AI School 2024 Details" href="/summerschool?id=npas2024">Nordic Probabilistic AI School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Nordic Probabilistic AI School 2024 Details" href="/conference?id=npas2024">Nordic Probabilistic AI School '24</a>
+                      <a title="Nordic Probabilistic AI School 2024 Details" href="/summerschool?id=npas2024">Nordic Probabilistic AI School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://nordic.probabilistic.ai/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://nordic.probabilistic.ai/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -1986,13 +2062,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Principles of Machine Learning for Bioinformatics 2024 Details" href="/conference?id=pmlb2024">Principles of Machine Learning for Bioinformatics 2024</a>
+                      <a title="Principles of Machine Learning for Bioinformatics 2024 Details" href="/summerschool?id=pmlb2024">Principles of Machine Learning for Bioinformatics 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Principles of Machine Learning for Bioinformatics 2024 Details" href="/conference?id=pmlb2024">Principles of Machine Learning for Bioinformatics '24</a>
+                      <a title="Principles of Machine Learning for Bioinformatics 2024 Details" href="/summerschool?id=pmlb2024">Principles of Machine Learning for Bioinformatics '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2041,13 +2119,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Norwegian Artificial Intelligence Summer Research School 2024 Details" href="/conference?id=nsrs2024">Norwegian AI Summer Research School 2024</a>
+                      <a title="Norwegian Artificial Intelligence Summer Research School 2024 Details" href="/summerschool?id=nsrs2024">Norwegian AI Summer Research School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Norwegian Artificial Intelligence Summer Research School 2024 Details" href="/conference?id=nsrs2024">Norwegian AI Summer Research School '24</a>
+                      <a title="Norwegian Artificial Intelligence Summer Research School 2024 Details" href="/summerschool?id=nsrs2024">Norwegian AI Summer Research School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2102,13 +2182,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Deep Learning and Computer Vision School 2024 Details" href="/conference?id=dlcvs2024">Deep Learning and Computer Vision School 2024</a>
+                      <a title="Deep Learning and Computer Vision School 2024 Details" href="/summerschool?id=dlcvs2024">Deep Learning and Computer Vision School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Deep Learning and Computer Vision School 2024 Details" href="/conference?id=dlcvs2024">Deep Learning and Computer Vision School '24</a>
+                      <a title="Deep Learning and Computer Vision School 2024 Details" href="/summerschool?id=dlcvs2024">Deep Learning and Computer Vision School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://malga.unige.it/education/schools/dlcv2024" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://malga.unige.it/education/schools/dlcv2024" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2159,13 +2241,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="RPL Summer School 2024 Details" href="/conference?id=rplss2024">RPL Summer School 2024</a>
+                      <a title="RPL Summer School 2024 Details" href="/summerschool?id=rplss2024">RPL Summer School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="RPL Summer School 2024 Details" href="/conference?id=rplss2024">RPL Summer School '24</a>
+                      <a title="RPL Summer School 2024 Details" href="/summerschool?id=rplss2024">RPL Summer School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://summer-school.rpl.eecs.kth.se" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://summer-school.rpl.eecs.kth.se" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2216,13 +2300,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Artificial Intelligence in Education 2024 Details" href="/conference?id=aiie2024">Artificial Intelligence in Education 2024</a>
+                      <a title="Artificial Intelligence in Education 2024 Details" href="/summerschool?id=aiie2024">Artificial Intelligence in Education 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Artificial Intelligence in Education 2024 Details" href="/conference?id=aiie2024">Artificial Intelligence in Education '24</a>
+                      <a title="Artificial Intelligence in Education 2024 Details" href="/summerschool?id=aiie2024">Artificial Intelligence in Education '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2273,13 +2359,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Summer School for Large Language Models 2024 Details" href="/conference?id=ssfllm2024">Summer School for Large Language Models 2024</a>
+                      <a title="Summer School for Large Language Models 2024 Details" href="/summerschool?id=ssfllm2024">Summer School for Large Language Models 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Summer School for Large Language Models 2024 Details" href="/conference?id=ssfllm2024">Summer School for Large Language Models '24</a>
+                      <a title="Summer School for Large Language Models 2024 Details" href="/summerschool?id=ssfllm2024">Summer School for Large Language Models '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="http://ss.cs.tsinghua.edu.cn/index.html" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="http://ss.cs.tsinghua.edu.cn/index.html" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2330,13 +2418,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Winter School on Foundation Models Details" href="/conference?id=wsfm2024">Winter School on Foundation Models 2024</a>
+                      <a title="Winter School on Foundation Models Details" href="/summerschool?id=wsfm2024">Winter School on Foundation Models 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Winter School on Foundation Models Details" href="/conference?id=wsfm2024">Winter School on Foundation Models '24</a>
+                      <a title="Winter School on Foundation Models Details" href="/summerschool?id=wsfm2024">Winter School on Foundation Models '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://amsterdam-fomo.github.io/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://amsterdam-fomo.github.io/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2387,13 +2477,15 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="Tropical Probabilistic AI School 2024 Details" href="/conference?id=tpas2024">Tropical Probabilistic AI School 2024</a>
+                      <a title="Tropical Probabilistic AI School 2024 Details" href="/summerschool?id=tpas2024">Tropical Probabilistic AI School 2024</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="Tropical Probabilistic AI School 2024 Details" href="/conference?id=tpas2024">Tropical Probabilistic AI School '24</a>
+                      <a title="Tropical Probabilistic AI School 2024 Details" href="/summerschool?id=tpas2024">Tropical Probabilistic AI School '24</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="https://tropical.probabilistic.ai/" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    &ZeroWidthSpace;
+                    <a title="Conference Website" href="https://tropical.probabilistic.ai/" target="_blank"><img src="/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
                     &ZeroWidthSpace;
                     
                     &ZeroWidthSpace;
@@ -2451,7 +2543,7 @@
       <footer>
             <div class="row">
   <div class="col-12 col-sm-12">
-    <a href="/">mlssdeadlin.es</a>
+    <a href="/">awesome-mlss.netlify.app</a>
     was built and maintained from 2018 onwards by
     <a href="https://twitter.com/abhshkdz">sshkhr</a>. It has been maintained by
     <a href="https://github.com/gmberton">gmberton</a> since 2023.
@@ -2503,7 +2595,7 @@ function addUtcTimeZones() {
 
 function update_filtering(data) {
   var page_url = "";
-  store.set("mlssdeadlin.es-subs", data.subs);
+  store.set("awesome-mlss.netlify.app-subs", data.subs);
 
   $(".confItem").hide();
   for (const j in data.all_subs) {
@@ -2545,21 +2637,17 @@ function createCalendarFromObject(data) {
         // Multi-select handler
 $("#subject-select").multiselect({
   includeSelectAllOption: true,
-  numberDisplayed: 5,
+  numberDisplayed: 1,
   onChange: function (option, checked, select) {
     var csub = $(option).val();
-    if (checked == true) {
-      if (subs.indexOf(csub) < 0) subs.push(csub);
+    if (checked) {
+      if (!subs.includes(csub)) subs.push(csub);
     } else {
       var idx = subs.indexOf(csub);
       if (idx >= 0) subs.splice(idx, 1);
-      // In case a conf with multiple types (including this type) is wrongly hid, show all confs with at least one checked type.
-      for (var i = 0; i < subs.length; i++) {
-        // $('.' + subs[i] + '-conf').show();
-      }
     }
     update_filtering({ subs: subs, all_subs: all_subs });
-  },
+  },  
   onSelectAll: function (options) {
     subs = all_subs;
     update_filtering({ subs: subs, all_subs: all_subs });
@@ -2568,21 +2656,7 @@ $("#subject-select").multiselect({
     subs = [];
     update_filtering({ subs: subs, all_subs: all_subs });
   },
-  buttonText: function (options, select) {
-    if (options.length === 0) {
-      return "None selected";
-    } else {
-      var labels = [];
-      options.each(function () {
-        if ($(this).attr("value") !== undefined) {
-          labels.push($(this).attr("value"));
-        } else {
-          labels.push($(this).html());
-        }
-      });
-      return labels.join(", ") + "";
-    }
-  },
+  
   buttonTitle: function (options, select) {
     return "";
   },
@@ -4636,7 +4710,7 @@ $("#subject-select").multiselect({
 var url = new URL(window.location);
 subs = url.searchParams.get("sub");
 if (subs == undefined) {
-  subs = store.get("mlssdeadlin.es-subs");
+  subs = store.get("awesome-mlss.netlify.app-subs");
 } else {
   subs = subs.toUpperCase().split(",");
 }
