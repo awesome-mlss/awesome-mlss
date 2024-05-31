@@ -24,3 +24,28 @@
 <script type="text/javascript" src="{{ "/static/js/store.min.js" | prepend:site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/static/js/ouical.min.js" | prepend:site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/static/js/bootstrap-multiselect.min.js" |prepend:site.baseurl }}"></script>
+
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@{{ site.twitter_username }}">
+<meta name="twitter:creator" content="@{{ page.author }}">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.largeimage %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.largeimage }}">
+{% else %}
+{% if page.image %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
+{% endif %}
+<!-- end of Twitter cards -->
