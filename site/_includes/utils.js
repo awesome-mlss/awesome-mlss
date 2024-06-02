@@ -16,6 +16,8 @@ function addUtcTimeZones() {
 
 function update_filtering(data) {
   var page_url = "{{site.baseurl}}";
+  var currentPath = window.location.pathname; 
+  currentPath = currentPath.replace(/\/+$/, '/')
   store.set("{{site.domain}}-subs", data.subs);
 
   $(".confItem").hide();
@@ -28,9 +30,9 @@ function update_filtering(data) {
   }
 
   if (subs.length == 0) {
-    window.history.pushState("", "", page_url);
+    window.history.pushState("", "", currentPath);
   } else {
-    window.history.pushState("", "", page_url + "/?sub=" + data.subs.join());
+    window.history.pushState("", "", currentPath + "?sub=" + data.subs.join());
   }
 }
 

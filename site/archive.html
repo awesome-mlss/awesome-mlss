@@ -1,4 +1,6 @@
 ---
+permalink: /archive/
+
 title: Archive Of Previous Summer Schools
 summary: Archive of previous summer schools that took place before the current year.
 author: awesome-mlss
@@ -82,58 +84,27 @@ author: awesome-mlss
         <div id="confs">
         <div id="past_confs">
           <h1 id="past-events-title">Archival Schools</h1>
-            <!-- <div id="sort-order-checkbox">
-              <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
-            </div> -->
-          {% for conf in site.data.archive %}
-          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
-            <div class="row conf-row">
-                <div class="col-6">
-                  <span class="conf-title">
-                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/archivesummerschool?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
-                  </span>
-                  <span class="conf-title-small">
-                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/archivesummerschool?id={{ conf.id }}">{{conf.title}} '{{conf.year | slice: -2, 3}}</a>
-                  </span>
-                  <span class="conf-title-icon">
-                    <a title="Conference Website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
-                    &ZeroWidthSpace;
-                    <a title="Conference Website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
-                    &ZeroWidthSpace;
-                  </span>
-                </div>
+          An archive of machine learning summer schools that took place before the current year.
+          <br>
+          To view schools from a particular year, click on the year below to expand the archive.
+          <br>
+          <br>
+          {% for year in (2018..2023) reversed %}
+          <div class="panel-heading" style="background-color: #f7f7f7; padding: 10px; border-radius: 5px; margin-bottom: 10px; border: 1px solid #ccc;">
+            <h2 class="panel-title">
+              <a data-toggle="collapse" href="#collapse{{ year }}"> {{ year }} Schools</a>
+              </h2>
             </div>
-            <div class="row">
-              <div class="col-12 col-sm-6">
-                <div class="meta">
-                  <span class="conf-date">{{conf.date}}.</span>
-                  <span class="conf-place">
-                    {% if conf.place == "Online" %}
-                    <a href="#">{{conf.place}}</a>.
-                    {% else %}
-                    <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>.
-                    {% endif %}
-                  </span>
-                </div>
-                {% if conf.note %}
-                  <div class="note">
-                      <b>Note: </b>{{conf.note}}
-                  </div>
+            <div id="collapse{{ year }}" class="panel-collapse collapse">
+              <div class="panel-body">
+                {% for conf in site.data.archive %}
+                {% if conf.year == year %}
+                  {% include archive_item.html conf=conf site=site %}
                 {% endif %}
-
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-12">
-                {% for sub in conf.sub %}
-                <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
                 {% endfor %}
               </div>
             </div>
-            <hr>
-          </div>
-          {% endfor %}
-        </div>
+            {% endfor %}
       </div>
       <footer>
             {% include footer.html %}
