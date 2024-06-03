@@ -1,3 +1,5 @@
+🎉 **Announcement:** We now have a brand new website [awesome-mlss.com](https://awesome-mlss.com/) with details of all summer schools, countdowns to deadlines, as well as handy calendar links. We will release the source code for the website soon, with updated instructions on how to contribute summer schools to awesome-mlss. Stay tuned!
+ 
 # Awesome Summer (and winter) Schools in Machine Learning + related fields
 
 ## Table of Contents
