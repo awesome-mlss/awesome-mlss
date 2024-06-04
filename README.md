@@ -39,7 +39,8 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - 20|March 29|€ 100-400|Travel grants available on request | Application open: Early January 2024 |
 [DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence)](https://deeplearn.irdta.eu/2024/)|Porto - Maia, Portugal|Institute for Research Development, Training and Advice – IRDTA, Brussels/London |Jul 15 - 19|July 12|€430-€580| | Application open: Early January 2024 |
 [African Computer Vision Summer School (ACVSS)](https://www.acvss.ai/)|Nairobi, Kenya|DAIR, Inria, CSIRO, UBC, Dedan Kimathi University, Ontario Tech, ISTA, Naver Labs, Microsoft|Jul 14-24|Mar 15|$0-1500|Yes|
-[Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17 | Feb 16 | 800 CAD | Yes, for black and indigenous students |
+[Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17|Feb 16|800 CAD|Yes, for black and indigenous students|
+[Deep Learning and Medical Imaging Summer School](http://digital-health.one/dlmi/2024/)|Kharagpur, India|IIT Kharagpur|Jul 8 - 13|Jun 13|₹3,540.00 (depends)|-|
 [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2024/)|Sicily, Italy|University of Catania|Jul 7 - 13|Mar 31|€575-€1000|
 [Amazon ML Summer School India](https://amazonmlsummerschoolindia.splashthat.com/)|Virtual (Only for Indian students)|Amazon|Jul 6-28|Jun 21|Free|-|
 [Oxford ML school](https://www.oxfordml.school/)|Oxford, UK| AI for Global Goals & University of Oxford & Cifar |Jul 06 - 09 & Jul 11 - 14|Feb 07| £150-£950 |Yes|
