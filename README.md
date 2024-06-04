@@ -23,6 +23,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)|Capri, Italy|University Federico II of Napoli|Sep 23-27|Apr 20|€ 675||
 [Athens NLP (AθNLP)](https://athnlp.github.io/2024/)|Athens, Greece|[RC Athena](https://www.athena-innovation.gr/), [NCSR Demokritos](http://www.demokritos.gr/), [AUEB](https://www.dept.aueb.gr/en/cs), [Heriot-Watt University](https://www.hw.ac.uk/)|Sep 19-25|Jun 20|€ 300-500||
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
+[Gaussian Process Summer School 2024](https://gpss.cc/gpss24/)|Manchester, UK|Gaussian Process Summer School|Sep 9-12|Jun 28|£300|No|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|0|
 [ACM Summer School on HPC Computer Architectures for AI and Dedicated applications](https://europe.acm.org/seasonal-schools/hpc/2024)|Barcelona, Spain|Barcelona Supercomputing Center|Sep 2-6|Jun 15|0|Will cover accommodation, catering|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
