@@ -19,9 +19,11 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[CIFAR Neuroscience of Consciousness Winter School](https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school/)|Mexico,  Mexico|CIFAR|December 19 - 21|July 12|N/A|Travel and accommodation will be paid||
 [Paris Generative AI summer school 2024](https://www.genai-school.universite-paris-saclay.fr/)|Paris, France|Université Paris-Saclay|October 21 - 25|June 16|€ 100 - 500|N/A|
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)|Capri, Italy|University Federico II of Napoli|Sep 23-27|Apr 20|€ 675||
 [Athens NLP (AθNLP)](https://athnlp.github.io/2024/)|Athens, Greece|[RC Athena](https://www.athena-innovation.gr/), [NCSR Demokritos](http://www.demokritos.gr/), [AUEB](https://www.dept.aueb.gr/en/cs), [Heriot-Watt University](https://www.hw.ac.uk/)|Sep 19-25|Jun 20|€ 300-500||
+[Inria-DFKI European Summer School on AI (IDESSAI 2024)](https://www.m2lschool.org](http://idessai.eu/)|Saarbrücken, Germany|DFKI and Inria|Sep 9-13|Before July End|€ 230|Yes|
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
 [Gaussian Process Summer School 2024](https://gpss.cc/gpss24/)|Manchester, UK|Gaussian Process Summer School|Sep 9-12|Jun 28|£300|No|
 [Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|0|
