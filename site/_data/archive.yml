@@ -50,10 +50,10 @@
   end: 2018-09-07
   sub: ['ML']
   note:
-- title: Deep\|Bayes Summer School
+- title: Deep|Bayes Summer School
   year: 2018
   id: dbss2018 
-  full_name: Deep\|Bayes Summer School 2018
+  full_name: Deep|Bayes Summer School 2018
   link: http://deepbayes.ru
   deadline: TBA
   timezone: UTC+1
@@ -297,10 +297,10 @@
   end: 2019-09-06
   sub: ['ML']
   note:
-- title: Deep\|Bayes Summer School
+- title: Deep|Bayes Summer School
   year: 2019
   id: dbss2019
-  full_name:  Deep\|Bayes Summer School 2019
+  full_name:  Deep|Bayes Summer School 2019
   link: http://deepbayes.ru/
   deadline: '2019-04-15 23:59:59'
   timezone: UTC+1
