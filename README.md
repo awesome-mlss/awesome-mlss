@@ -33,7 +33,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Summer school on biomedical image analysis](https://biomed.compute.dtu.dk/)|Copenhagen, Denmark|DIKU, DTU, and AAU|Aug 12-16|Jun|5600 DKK|No||
 [Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University|Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
-[NSF Open AI Cellular workshop](https://www.openaicellular.org/2024-oaic-workshop)|Starkville, MS|OAIC|Aug 06 - 08|Jun 15|0|Yes|
+[NSF Open AI Cellular workshop](https://www.openaicellular.org/2024-oaic-workshop)|Starkville (MS), USA|OAIC|Aug 06 - 08|Jun 15|0|Yes|
 [35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/)|Leuven, Belgium|ESSLLI|Jul 29 – Aug 9|May 31|€550 |No|
 [Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam, Nederlands| University of Amsterdam |Jul 29 – Aug 2|May 15|€550 |No|
 [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650||
@@ -51,12 +51,12 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2024)|Genova, Italy|University of Genoa|Jun 25-28|Apr 1|€50-300|
 [10th International Summer School on AI and Big Data](https://scads.ai/education/summer-schools/summer-school-2024/)|Leipzig, Germany|[ScaDS.AI Dresden/Leipzig (Center for Scalable Data Analytics and Artificial Intelligence)](https://scads.ai)|Jun 25-28|Jun 1|200 - 300 Euro| | Generative AI, Earth Science, Responsible AI, Mathematical Foundations of AI, Protein Engineering and AI
 [Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|400-800€||
-[Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2024)|Santa Cruz, US|Cooperative AI Fundation|Jun 19-23|April 26|$350 / $700||
+[Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2024)|Santa Cruz, USA|Cooperative AI Fundation|Jun 19-23|April 26|$350 / $700||
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
 [Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid, Spain |Universidad Politécnica de Madrid|Jun 17-28|Jun 14|300-1200€|No|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen, Denmark | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
-[Principles of Machine Learning for Bioinformatics](https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/)|Austin, Texas| UT Austin Center for Biomedical Research Support| June 17-21|-|Depends|No|
+[Principles of Machine Learning for Bioinformatics](https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/)|Austin, USA| UT Austin Center for Biomedical Research Support| June 17-21|-|Depends|No|
 [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |Jun 10 - 14 | March 31 | | | 3 ECTS, 3 Courses in parallel to choose from
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv2024)|Genova, Italy|University of Genoa|Jun 10-14|Apr 1|€50-300|
 [RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm, Sweden|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Mar 13 | 0 | No |
