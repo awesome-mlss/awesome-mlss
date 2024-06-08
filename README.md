@@ -4,16 +4,22 @@
 
 ## Table of Contents
 
+- [2025 Summer Schools](#2025-summer-schools)
 - [2024 Summer Schools](#2024-summer-schools)
 - [2023 to 2018 Summer Schools](#previous-years-summer-schools)
 - [Recurring Summer Schools](#recurring-summer-schools)
 - [Blogs](#blogs)
 
 NOTE:
-- **Community Call For Contributions for 2024 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
+- **Community Call For Contributions for 2025/2024 summer schools:** Please open pull requests for any summer schools you come across! Thank you :)
 - The schools are arranged in **reverse chronological order by date**
 - Regarding the fee: Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 - Recurring Summer Schools can also be added to each year's list
+
+## 2025 Summer Schools
+Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
+------|--|---|----|--|-|-|----
+[NLDL 2025 Winter School](https://www.nldl.org/program/winter-school)|Tromsø, Norway|NORA Research School|January 6 - 10|-|-|
 
 
 ## 2024 Summer Schools
