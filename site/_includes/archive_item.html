@@ -1,0 +1,48 @@
+<!-- _includes/conf_item.html -->
+<div id="{{ conf.id }}" class="ConfItem {% for sub in conf.sub %} {{ sub }}-conf {% endfor %}">
+    <div class="row conf-row">
+        <div class="col-6">
+            <span class="conf-title">
+                <a title="{% if conf.full_name %}{{ conf.full_name }}{% else %}Deadline{% endif %} Details"
+                   href="{{ site.baseurl }}/archivesummerschool?id={{ conf.id }}">{{ conf.title }} {{ conf.year }}</a>
+            </span>
+            <span class="conf-title-small">
+                <a title="{% if conf.full_name %}{{ conf.full_name }}{% else %}Deadline{% endif %} Details"
+                   href="{{ site.baseurl }}/archivesummerschool?id={{ conf.id }}">{{ conf.title }} '{{ conf.year | slice: -2, 3 }}</a>
+            </span>
+            <span class="conf-title-icon">
+                <a title="Conference Website" href="{{ conf.link }}" target="_blank"><img src="{{ site.baseurl }}/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                &ZeroWidthSpace;
+                <a title="Conference Website" href="{{ conf.link }}" target="_blank"><img src="{{ site.baseurl }}/static/img/x-2.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                &ZeroWidthSpace;
+            </span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-sm-6">
+            <div class="meta">
+                <span class="conf-date">{{ conf.date }}.</span>
+                <span class="conf-place">
+                    {% if conf.place == "Online" %}
+                        <a href="#">{{ conf.place }}</a>.
+                    {% else %}
+                        <a href="http://maps.google.com/?q={{ conf.place }}">{{ conf.place }}</a>.
+                    {% endif %}
+                </span>
+            </div>
+            {% if conf.note %}
+                <div class="note">
+                    <b>Note: </b>{{ conf.note }}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            {% for sub in conf.sub %}
+                <span title="Click to only show {{ sub }} conferences" data-sub="{{ sub }}" class="conf-sub {{ sub }}-tag"></span>
+            {% endfor %}
+        </div>
+    </div>
+    <hr>
+</div>

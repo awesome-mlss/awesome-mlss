@@ -1,0 +1,175 @@
+---
+permalink: /archive/
+
+title: Archive Of Previous Summer Schools
+summary: Archive of previous summer schools that took place before the current year.
+author: awesome-mlss
+---
+
+<html>
+<head>
+    {% include head.html %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8115933863612298"
+     crossorigin="anonymous"></script>
+</head>
+{% include gtag.html %}
+
+<body>
+    {% include header.html %}
+    <div class="container">
+        <div class="page-header">
+            <div class="row">
+                <div class="col-12">
+                    <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
+                        <h2 style="font-size: 2em; text-align: left; width: 100%;">
+                            {{ site.title }}
+                        </h2>
+                        <p style="font-size: 1.5em;">
+                          {{ site.description }}
+                        </p>
+                        <div class="row">
+                            <div style="text-align: left; font-weight: lighter;" class="col-12 col-md-8">
+                              <span class="local-timezone-hide">
+                                This community tool serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
+                                <br>
+                                <br>
+                                The dates are made available as countdowns, in local timezones and even as a Google calendar below!
+                                <br>
+                                <br>
+                                Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                                To view them in conference website timezones, click on them.
+                              </span>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <div class="d-flex justify-content-end">
+                                    <a href="https://calendar.google.com/calendar/r?cid={{ site.domain }}/mlss-deadlines.ics" class="btn btn-outline-danger mx-1">
+                                        <i class="fa fa-google" aria-hidden="true"></i> Add to Google Calendar
+                                    </a>
+                                    <a href="/mlss-deadlines.ics" class="btn btn-outline-primary mx-1">
+                                        <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> Get the iCal
+                                    </a>
+                                    <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}" class="btn btn-outline-dark mx-1">
+                                        Contribute a school on Github
+                                    </a>
+                                </div>
+                                <hr>
+                                <div class="d-flex justify-content-end">
+                                  <form class="container">
+                                      <div class="row">
+                                          <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
+                                              <div class="filter-label" style="text-align: left;">
+                                                  <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
+                                                      Filter by topic:
+                                                  </label>
+                                              </div>
+                                          </div>
+                                          <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
+                                              <select id="subject-select" name="subject-select" multiple="multiple">
+                                                  {% for type in site.data.types %}
+                                                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
+                                                      {{type.name}} ({{type.sub}})
+                                                  </option>
+                                                  {% endfor %}
+                                              </select>
+                                          </div>
+                                      </div>
+                                  </form>
+                              </div>                                                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+        </div>
+        <div id="confs">
+        <div id="past_confs">
+          <h1 id="past-events-title">Archival Schools</h1>
+          An archive of machine learning summer schools that took place before the current year.
+          <br>
+          To view schools from a particular year, click on the year below to expand the archive.
+          <br>
+          <br>
+          {% for year in (2018..2023) reversed %}
+          <div class="panel-heading" style="background-color: #f7f7f7; padding: 10px; border-radius: 5px; margin-bottom: 10px; border: 1px solid #ccc;">
+            <h2 class="panel-title">
+              <a data-toggle="collapse" href="#collapse{{ year }}"> {{ year }} Schools</a>
+              </h2>
+            </div>
+            <div id="collapse{{ year }}" class="panel-collapse collapse">
+              <div class="panel-body">
+                {% for conf in site.data.archive %}
+                {% if conf.year == year %}
+                  {% include archive_item.html conf=conf site=site %}
+                {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+            {% endfor %}
+      </div>
+      <footer>
+            {% include footer.html %}
+      </footer>
+      <br><br>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+      
+    $(function() {
+        // Make sure this is >= no. of subs
+        // Currently not used
+        var colors = ['#341f97', '#ee5253', '#2e86de',
+                      '#ff9f43', '#10ac84', '#222f3e']
+
+        
+        {% include load_data.js %}
+        {% include utils.js %}
+        {% include multiselect_handler.js %}
+
+        addUtcTimeZones();
+
+        try {
+          var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+          $('.local-timezone').text(local_timezone.toString());
+        }
+        catch(err) {
+          $('.local-timezone-hide').hide();
+        }
+
+        {% for conf in site.data.archive %}
+        {% for sub in conf.sub %}
+        $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
+        {% endfor %}
+        var confDate = moment("{{conf.start}}", "YYYY-MM-DD");
+        var today = moment();
+        diff = today.diff(confDate, 'days');
+        $('#{{conf.id}}').attr("diff", diff);
+        {% endfor %}
+
+        // Sort coming_confs and past_confs
+
+        $("#sort-order-checkbox input").on("click", function() {
+          if ($("#sort-order-checkbox input").is(":checked")) {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(a).attr('diff') - $(b).attr('diff');
+            }).appendTo($("#past_confs"));
+          } else {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(b).attr('diff') - $(a).attr('diff');
+            }).appendTo($("#past_confs"));
+          }
+        });
+
+        {% include handle_url_retrieval.js %}
+
+        // Event handler on sub badge click
+        $('.conf-sub').click(function (e) {
+            var csub = $(this).data('sub');
+            subs = [csub];
+            $("#subject-select").multiselect('deselect', all_subs);
+            $("#subject-select").multiselect('select', subs);
+            update_filtering({ subs: subs, all_subs: all_subs});
+        });
+
+    });
+    </script>
+  </body>
+</html>

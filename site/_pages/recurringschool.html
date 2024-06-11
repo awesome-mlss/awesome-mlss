@@ -1,0 +1,71 @@
+---
+permalink:  /recurringschool/
+
+title: Recurring Summer School
+summary: Detailed view of a specific recurring summer school.
+author: awesome-mlss
+---
+<!DOCTYPE html>
+<html>
+    <head>
+      {% include head.html %}
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8115933863612298"
+       crossorigin="anonymous"></script>
+    </head>
+    {% include gtag.html %}
+    
+    <body>
+    {% include header.html %}
+    <div class="container">
+        <div class="page-header" id="school-title">
+        <div class="row">
+            <div class="col-sm-12">
+            <h1>{{ page.title }}</h1>
+            </div>
+        </div>
+        </div>
+        <div id="page-content">
+        <div id="school-key-facts" class="row">
+            <div class="col-12 col-md-6">
+            <div>
+                <img src="/static/img/203-earth.svg" class="badge-link" alt="Earth Icon" width="16" height="16" />
+                <a target="_blank" href="{{ page.website }}">{{ page.website }}</a>
+            </div>
+            {% if page.twitter %}
+                <div>
+                <img src="/static/img/407-twitter.svg" class="badge-link" alt="Twitter icon" width="16" height="16" />
+                <a target="_blank" href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
+                </div>
+            {% endif %}
+            </div>
+        </div>
+        <hr />
+        <div id="all_school_sessions">
+            {% for session in page.sessions %}
+            <div id="{{ session.name | slugify: 'latin' }}-{{ session.year }}"
+                class="SessionItem">
+                <div class="row session-row">
+                <div class="col-12">
+                    <span class="session-title">
+                    <a title="More Details"
+                        href="{{site.baseurl}}/recurringschool/{{session.name | slugify: 'latin'}}-{{session.year}}/">
+                        {{ session.name }} {{ session.year }}
+                    </a>
+                    </span>
+                    <span class="session-title-icon">
+                    <a title="Official Website" href="{{ session.link }}" target="_blank"><img src="/static/img/203-earth.svg"
+                        class="badge-link" alt="Link to Official Website" width="16" height="16" /></a>
+                    &ZeroWidthSpace;
+                    </span>
+                </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        </div>
+        <footer>
+        {% include footer.html %}
+        </footer>
+    </div>
+    </body>
+</html>

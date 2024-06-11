@@ -1,0 +1,1911 @@
+- title: Summer School on Machine Learning and Data Science
+  year: 2018
+  id: ssmlds2018
+  full_name: Summer School on Machine Learning and Data Science 2018
+  link: http://www.datascienceafrica.org/dsa2018abuja/
+  deadline: TBA
+  timezone: UTC+1
+  place: Abuja, Nigeria
+  date: November 12 - November 16, 2018
+  start: 2018-11-12
+  end: 2018-11-16
+  sub: ['ML']
+  note:
+- title: Deep Learning Indaba 
+  year: 2018
+  id: dli2018
+  full_name: Deep Learning Indaba 2018
+  link: http://www.deeplearningindaba.com/2018.html
+  deadline: TBA
+  timezone: UTC+1
+  place: Stellenbosch, South Africa
+  date: September 9 - September 14, 2018
+  start: 2018-09-09
+  end: 2018-09-14
+  sub: ['ML']
+  note:
+- title: Gaussian Process and Uncertainty Quantification Summer School 
+  year: 2018
+  id: gpuqss2018
+  full_name: Gaussian Process and Uncertainty Quantification Summer School (GPSS 2018)
+  link: http://gpss.cc
+  deadline: TBA
+  timezone: UTC+1
+  place: Sheffield, UK
+  date: September 03 - September 06, 2018
+  start: 2018-09-03
+  end: 2018-09-06
+  sub: ['ML', 'Theory']
+  note:
+- title: Machine Learning Summer School 
+  year: 2018
+  id: mlss2018
+  full_name: Machine Learning Summer School (MLSS Madrid) 2018
+  link: http://mlss.ii.uam.es/mlss
+  deadline: TBA
+  timezone: UTC+1
+  place: Madrid, Spain
+  date: August 27 - September 07, 2018
+  start: 2018-08-27
+  end: 2018-09-07
+  sub: ['ML']
+  note:
+- title: Deep|Bayes Summer School
+  year: 2018
+  id: dbss2018 
+  full_name: Deep|Bayes Summer School 2018
+  link: http://deepbayes.ru
+  deadline: TBA
+  timezone: UTC+1
+  place: Moscow, Russia
+  date: August 27 - September 01, 2018
+  start: 2018-08-27
+  end: 2018-09-01
+  sub: ['ML', 'Theory']
+  note:
+- title: Summer School on Statistical Relational Artificial Intelligence
+  year: 2018
+  id: sssrai2018
+  full_name: Summer School on Statistical Relational Artificial Intelligence (ACAI 2018)
+  link: http://acai2018.unife.it/
+  deadline: TBA
+  timezone: UTC+1
+  place: Ferrara, Italy
+  date: August 27 - August 31, 2018
+  start: 2018-08-27
+  end: 2018-08-31
+  sub: ['ML', 'Theory']
+  note:
+- title: Deep Learning and Reinforcement Learning Summer School
+  year: 2018
+  id: dlrlss2018
+  full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2018)
+  link: https://dlrlsummerschool.ca/home/
+  deadline: TBA
+  timezone: UTC+1
+  place: Toronto, Canada
+  date: July 25 - August 03, 2018
+  start: 2018-07-25
+  end: 2018-08-03
+  sub: ['ML', 'RL']
+  note:
+- title: International Summer School on Deep Learning
+  year: 2018
+  id: issdl2018
+  full_name: International Summer School on Deep Learning (DeepLearn 2018)
+  link: http://grammars.grlmc.com/DeepLearn2018
+  deadline: TBA
+  timezone: UTC+1
+  place: Genova, Italy
+  date: July 23 - July 27, 2018
+  start: 2018-07-23
+  end: 2018-07-27
+  sub: ['ML']
+  note:
+- title: Transylvanian Machine Learning Summer School
+  year: 2018
+  id: tmlss2018
+  full_name: Transylvanian Machine Learning Summer School 2018
+  link: https://tmlss.ro
+  deadline: TBA
+  timezone: UTC+1
+  place: Cluj-Napoca, Romania
+  date: July 16 - July 22, 2018
+  start: 2018-07-16
+  end: 2018-07-22
+  sub: ['ML']
+  note:
+- title: Vision Understanding and Machine Intelligence 
+  year: 2018
+  id: vumi2018
+  full_name: Vision Understanding and Machine Intelligence (VISUM 2018)
+  link: http://visum.inesctec.pt/visum-2018-6th-edition
+  deadline: TBA
+  timezone: UTC+1
+  place: Porto, Portugal
+  date: July 05 - July 13, 2018
+  start: 2018-07-05
+  end: 2018-07-13
+  sub: ['ML', 'CV']
+  note:
+- title: Summer Schools on Computer Vision And Machine Learning
+  year: 2018
+  id: sscvml2018
+  full_name: Summer Schools on Computer Vision And Machine Learning 2018
+  link: (http://cvit.iiit.ac.in/summerschoolseries)
+  deadline: TBA
+  timezone: UTC+1
+  place: Hyderabad, India
+  date: July 02 - July 14, 2018
+  start: 2018-07-02
+  end: 2018-07-014
+  sub: ['ML', 'CV']
+  note:
+- title: PRAIRIE AI Summer School
+  year: 2018
+  id: pass2018
+  full_name: PRAIRIE AI Summer School 2018
+  link: (https://project.inria.fr/paiss)
+  deadline: TBA
+  timezone: UTC+1
+  place: Grenoble, France
+  date: July 02 - July 06, 2018
+  start: 2018-07-02
+  end: 2018-07-06
+  sub: ['ML']
+  note:
+- title: Machine Learning Summer School 
+  year: 2018
+  id: mlss2018
+  full_name: Machine Learning Summer School (MLSS Buenos Aires) 2018
+  link: http://mlss2018.net.ar
+  deadline: TBA
+  timezone: UTC+1
+  place: Buenos Aires, Argentina
+  date: June 18 - June 30, 2018
+  start: 2018-06-18
+  end: 2018-06-30
+  sub: ['ML']
+  note:
+- title: Advanced Statistics and Data Mining Summer School
+  year: 2018
+  id: asdmss2018
+  full_name: Advanced Statistics and Data Mining Summer School 2018
+  link: http://dia.fi.upm.es/ASDM
+  deadline: TBA
+  timezone: UTC+1
+  place: Madrid, Spain
+  date: June 25 - July 03, 2018
+  start: 2018-06-25
+  end: 2018-07-03
+  sub: ['ML', 'Theory']
+  note:
+- title: Data Science Summer School
+  year: 2018
+  id: dsss2018
+  full_name: Data Science Summer School (DS<sup>3</sup>) 2018
+  link: http://www.ds3-datascience-polytechnique.fr
+  deadline: TBA
+  timezone: UTC+1
+  place: Paris, France
+  date: June 25 - June 29, 2018
+  start: 2018-06-25
+  end: 2018-06-29
+  sub: ['ML']
+  note:
+- title: Lisbon Machine Learning School
+  year: 2018
+  id: lmls2018
+  full_name: Lisbon Machine Learning School (LxMLS 2018)
+  link: http://lxmls.it.pt/2018
+  deadline: TBA
+  timezone: UTC+1
+  place: Lisbon, Portugal
+  date: June 14 - June 21, 2018
+  start: 2018-06-14
+  end: 2018-06-21
+  sub: ['ML']
+  note:
+- title: Summer School on Machine Learning and Data Science
+  year: 2018
+  id: ssmlds2018
+  full_name: Summer School on Machine Learning and Data Science 2018
+  link: http://www.datascienceafrica.org/dsa2018
+  deadline: TBA
+  timezone: UTC+1
+  place: Nyeri, Kenya
+  date: May 31 - June 06, 2018
+  start: 2018-05-31
+  end: 2018-06-06
+  sub: ['ML']
+  note:
+- title: AI and Games Summer School
+  year: 2018
+  id: agss2018
+  full_name: AI and Games Summer School 2018
+  link: http://school.gameaibook.org
+  deadline: TBA
+  timezone: UTC+1
+  place: Crete (Chania), Greece
+  date: May 28 - June 01, 2018
+  start: 2018-05-28
+  end: 2018-06-01
+  sub: ['ML','AI4Games']
+  note:
+- title: Khipu Latin American Meeting In Artificial Intelligence
+  year: 2019
+  id: klmai2019
+  full_name:  Khipu Latin American Meeting In Artificial Intelligence 2019
+  link: http://www.khipu.ai/
+  deadline: '2019-06-28 23:59:59'
+  timezone: UTC+1
+  place: Montevideo, Uruguay
+  date: November 11 - November 15, 2019
+  start: 2019-11-11
+  end: 2019-11-15
+  sub: ['ML']
+  note:
+- title: PRAIRIE AI Summer School
+  year: 2019
+  id: paiss2019
+  full_name:  PRAIRIE AI Summer School 2019
+  link: https://project.inria.fr/paiss
+  deadline: '2019-09-06 23:59:59'
+  timezone: UTC+1
+  place: Paris, France
+  date: October 03 - October 05, 2019
+  start: 2019-10-03
+  end: 2019-10-05
+  sub: ['ML']
+  note:
+- title: Gaussian Process and Uncertainty Quantification Summer School
+  year: 2019
+  id: gpuqss2019
+  full_name: Gaussian Process and Uncertainty Quantification Summer School 2019
+  link: http://gpss.cc/gpss19/
+  deadline: '2019-07-01 23:59:59'
+  timezone: UTC+1
+  place: Sheffield, UK
+  date: September 09 - September 12, 2019
+  start: 2019-09-12
+  end: 2019-09-09
+  sub: ['ML']
+  note:
+- title: Deep Learning in NLP Summer School
+  year: 2019
+  id: dlnss2019
+  full_name:  Deep Learning in NLP Summer School 2019
+  link: https://dlinnlp.github.io/index.html
+  deadline: TBA
+  timezone: UTC+1
+  place: Varna, Bulgaria
+  date: August 29 - August 30, 2019
+  start: 2019-08-29
+  end: 2019-08-30
+  sub: ['ML', 'NLP']
+  note:
+- title: Machine Learning Summer School 
+  year: 2019
+  id: mlss2019
+  full_name: Machine Learning Summer School (MLSS Moscow) 2019
+  link: https://mlss2019.skoltech.ru
+  deadline: '2019-05-31 23:59:59'
+  timezone: UTC+1
+  place: Moscow, Russia
+  date: August 26 - September 06, 2019
+  start: 2019-08-26
+  end: 2019-09-06
+  sub: ['ML']
+  note:
+- title: Deep|Bayes Summer School
+  year: 2019
+  id: dbss2019
+  full_name:  Deep|Bayes Summer School 2019
+  link: http://deepbayes.ru/
+  deadline: '2019-04-15 23:59:59'
+  timezone: UTC+1
+  place: Moscow, Russia
+  date: August 20 - August 25, 2019
+  start: 2019-08-20
+  end: 2019-08-25
+  sub: ['ML']
+  note:
+- title: Deep Learning Indaba 
+  year: 2019
+  id: dli2019
+  full_name: Deep Learning Indaba 2019
+  link: http://www.deeplearningindaba.com/indaba-2019.html
+  deadline: '2019-04-12 23:59:59'
+  timezone: UTC+1
+  place: Kenyatta, Kenya
+  date: August 25 - August 31, 2019
+  start: 2019-08-25
+  end: 2019-08-31
+  sub: ['ML']
+  note:
+- title: NGSchool - Machine Learning for Biomedicine
+  year: 2019
+  id: ngs2019
+  full_name: NGSchool - Machine Learning for Biomedicine 2019
+  link: https://ngschool.eu/2019
+  deadline: '2019-05-01 23:59:59'
+  timezone: UTC+1
+  place: Bialobrzegi near Warsaw, Poland
+  date: July 27 - August 03, 2019
+  start: 2019-07-27
+  end: 2019-07-03
+  sub: ['ML']
+  note:
+- title: Human-Aligned AI Summer School
+  year: 2019
+  id: hass2019
+  full_name:  Human-Aligned AI Summer School 2019
+  link: http://humanaligned.ai/
+  deadline: '2019-06-25 23:59:59'
+  timezone: UTC+1
+  place: Prague, Czech Republic
+  date: July 27 - July 28, 2019
+  start: 2019-07-27
+  end: 2019-07-28
+  sub: ['ML']
+  note:
+- title: Deep Learning and Reinforcement Learning Summer School 
+  year: 2019
+  id: dlrlss2019
+  full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2019)
+  link: https://dlrlsummerschool.ca
+  deadline: '2019-02-22 23:59:59'
+  timezone: UTC+1
+  place: Edmonton, Canada
+  date: July 24 - August 02, 2019
+  start: 2019-07-24
+  end: 2019-08-02
+  sub: ['ML']
+  note:
+- title: International Summer School on Deep Learning
+  year: 2019
+  id: issdl2019
+  full_name: International Summer School on Deep Learning (DeepLearn 2019)
+  link: http://deeplearn2019.irdta.eu/
+  deadline: '2019-03-02 23:59:59'
+  timezone: UTC+1
+  place: Warsaw, Poland
+  date: July 22 - July 26, 2019
+  start: 2019-07-22
+  end: 2019-07-26
+  sub: ['ML']
+  note:
+- title: Summer School on Cognitive Robotics 
+  year: 2019
+  id: sscr2019
+  full_name: Summer School on Cognitive Robotics 2019
+  link: https://sites.usc.edu/cognitive-robotics/
+  deadline: '2019-05-17 23:59:59'
+  timezone: UTC+1
+  place: Los Angeles, USA
+  date: July 17 - July 21, 2019
+  start: 2019-07-17
+  end: 2019-07-21
+  sub: ['ML', 'RO', 'CogSci']
+  note:
+- title: Machine Leaning Summer School
+  year: 2019
+  id: mlss2019
+  full_name: Machine Leaning Summer School (MLSS London) 2019
+  link: https://sites.google.com/view/mlss-2019)
+  deadline: '2019-01-31 23:59:59'
+  timezone: UTC+1
+  place: London, UK
+  date: July 15 - July 26, 2019
+  start: 2019-07-15
+  end: 2019-07-26
+  sub: ['ML']
+  note:
+- title: Deep Learning Summer School
+  year: 2019
+  id: dlss2019
+  full_name: 2019 Deep Learning Summer School
+  link: http://ss.cs.tsinghua.edu.cn/
+  deadline: '2019-04-15 23:59:59'
+  timezone: UTC+1
+  place: Beijing, China
+  date: July 13 - July 26, 2019
+  start: 2019-07-13
+  end: 2019-07-26
+  sub: ['ML']
+  note:
+- title: Lisbon Machine Learning School 
+  year: 2019
+  id: lmls2019
+  full_name: Lisbon Machine Learning School (LxMLS 2019)
+  link: http://lxmls.it.pt/2019/
+  deadline: '2019-03-31 23:59:59'
+  timezone: UTC+1
+  place: Lisbon, Portugal
+  date: July 11 - July 18, 2019
+  start: 2019-07-11
+  end: 2019-07-18
+  sub: ['ML']
+  note:
+- title: Southeast Asia Machine Learning School
+  year: 2019
+  id: samls2019
+  full_name: Southeast Asia Machine Learning School (SEA ML 2019)
+  link: https://sites.google.com/view/seamls/
+  deadline: '2019-04-20 23:59:59'
+  timezone: UTC+1
+  place: Jakarta, Indonesia
+  date: July 08 - July 12, 2019
+  start: 2019-07-08
+  end: 2019-07-12
+  sub: ['ML']
+  note:
+- title: Machine Learning Summer School in The Netherlands
+  year: 2019
+  id: mlsstn2019
+  full_name: Machine Learning Summer School in The Netherlands 2019
+  link: https://bigml.com/events/machine-learning-summer-school-in-the-netherlands-2019
+  deadline: '2019-07-01 23:59:59'
+  timezone: UTC+1
+  place: Breukelen, The Netherlands
+  date: July 08 - July 11, 2019
+  start: 2019-07-08
+  end: 2019-07-11
+  sub: ['ML']
+  note:
+- title: International Computer Vision Summer School
+  year: 2019
+  id: icvss2019
+  full_name: International Computer Vision Summer School (ICVSS 2019)
+  link: http://iplab.dmi.unict.it/icvss2019/Home
+  deadline: '2019-03-31 23:59:59'
+  timezone: UTC+1
+  place: Sicily, Italy
+  date: July 07- July 13, 2019
+  start: 2019-07-07
+  end: 2019-07-13
+  sub: ['ML', 'CV']
+  note:
+- title: Vision Understanding and Machine Intelligence
+  year: 2019
+  id: vumi2019
+  full_name: Vision Understanding and Machine Intelligence (VISUM 2019)
+  link: http://visum.inesctec.pt
+  deadline: '2019-03-22 23:59:59'
+  timezone: UTC+1
+  place: Porto, Portugal
+  date: July 04 - July 12, 2019
+  start: 2019-07-04
+  end: 2019-07-12
+  sub: ['ML', 'CV']
+  note:
+- title: Deep Learning for Natural Language Processing
+  year: 2019
+  id: dlnlp2019
+  full_name: Deep Learning for Natural Language Processing 2019
+  link: http://ixa2.si.ehu.es/deep_learning_seminar/index-jul2019.html
+  deadline: '2019-07-01 23:59:59'
+  timezone: UTC+1
+  place: San Sebastian, Spain
+  date: July 03 - July 05, 2019
+  start: 2019-07-03
+  end: 2019-07-05
+  sub: ['ML', 'NLP']
+  note:
+- title: Hellenic Artificial Intelligence Summer School
+  year: 2019
+  id: haiss2019
+  full_name: Hellenic Artificial Intelligence Summer School 2019
+  link: http://acai2019.tuc.gr/
+  deadline: '2019-04-02 23:59:59'
+  timezone: UTC+1
+  place: Chania, Crete, Greece
+  date: July 01 - July 05, 2019
+  start: 2019-07-01
+  end: 2019-07-05
+  sub: ['ML']
+  note:
+- title: Reinforcement Learning Summer School
+  year: 2019
+  id: rlss2019
+  full_name: Reinforcement Learning Summer School 2019
+  link: https://project.inria.fr/rlss/
+  deadline: '2019-03-15 23:59:59'
+  timezone: UTC+1
+  place: Lille, France
+  date: July 01 - July 12, 2019
+  start: 2019-07-01
+  end: 2019-07-012
+  sub: ['ML', 'RL']
+  note:
+- title: International Summer School on Deep Learning
+  year: 2019
+  id: issdl2019
+  full_name:  International Summer School on Deep Learning 2019
+  link: http://2019.dl-lab.eu/registration/registration-fee/
+  deadline: '2019-02-28 23:59:59'
+  timezone: UTC+1
+  place: Gdansk, Poland
+  date: July 01 - July 05, 2019
+  start: 2019-07-01
+  end: 2019-07-05
+  sub: ['ML']
+  note:
+- title: Artificial Intelligence Summer School
+  year: 2019
+  id: aiss2019
+  full_name: Artificial Intelligence Summer School 2019
+  link: https://www.summerschoolcentralesupelec.fr/about/artificial-intelligence/
+  deadline: '2019-05-17 23:59:59'
+  timezone: UTC+1
+  place: Paris, France
+  date: July 01 - July 05, 2019
+  start: 2019-07-01
+  end: 2019-07-05
+  sub: ['ML']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2019
+  id: eemlss2019
+  full_name: Eastern European Machine Learning Summer School 2019
+  link: https://www.eeml.eu
+  deadline: '2019-03-29 23:59:59'
+  timezone: UTC+1
+  place: Bucharest, Romania
+  date: July 01 - July 06, 2019
+  start: 2019-07-01
+  end: 2019-07-06
+  sub: ['ML']
+  note:
+- title: Summer School on Intrinsically Motivated Open-Ended Learning
+  year: 2019
+  id: ssimoel2019
+  full_name: Summer School on Intrinsically Motivated Open-Ended Learning 2019
+  link: (http://www.goal-robots.eu/announcements/events/summer-school-2019-2)
+  deadline: '2019-01-27 23:59:59'
+  timezone: UTC+1
+  place: Frankfurt, Germany
+  date: June 27 - July 03, 2019
+  start: 2019-06-27
+  end: 2019-07-03
+  sub: ['ML', 'RL']
+  note:
+- title: Natural Language Processing with Deep Learning
+  year: 2019
+  id: nlpdl2019
+  full_name: Natural Language Processing with Deep Learning Summer School
+  link: https://sites.google.com/view/dlnlp2019/home
+  deadline: TBA
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: June 26 - July 03, 2019
+  start: 2019-06-26
+  end: 2019-07-03
+  sub: ['ML', 'NLP']
+  note:
+- title: Deep Learning For Vision
+  year: 2019
+  id: dlv2019
+  full_name: Deep Learning For Vision 2019
+  link: https://telecombcn-dl.github.io/2019-dlcv/
+  deadline: '2019-06-10 23:59:59'
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: June 25 - July 03, 2019
+  start: 2019-06-25
+  end: 2019-07-03
+  sub: ['ML', 'CV']
+  note:
+- title: Advanced Statistics and Data Mining Summer School 
+  year: 2019
+  id: asdmss2019
+  full_name: Advanced Statistics and Data Mining Summer School 2019
+  link: http://www.dia.fi.upm.es/ASDM
+  deadline: '2019-06-19 23:59:59'
+  timezone: UTC+1
+  place: Benguerir, Morocco
+  date: June 24 - July 05, 2019
+  start: 2019-06-24
+  end: 2019-07-05
+  sub: ['ML', 'Theory']
+  note:
+- title: Data Science Summer School
+  year: 2019
+  id: dsss2019
+  full_name: Data Science Summer School (DS<sup>3</sup>) 2019
+  link: http://www.ds3-datascience-polytechnique.fr
+  deadline: '2019-04-26 23:59:59'
+  timezone: UTC+1
+  place: Paris, France
+  date: June 24 - June 29, 2019
+  start: 2019-06-24
+  end: 2019-06-29
+  sub: ['ML']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2019
+  id: npas2019
+  full_name: Nordic Probabilistic AI School (ProbAI) 2019
+  link: https://probabilistic.ai/
+  deadline: '2019-03-31 23:59:59'
+  timezone: UTC+1
+  place: Trondheim, Norway
+  date: June 03 - June 07, 2019
+  start: 2019-06-03
+  end: 2019-06-07
+  sub: ['ML', 'Theory']
+  note:
+- title: AI and Games Summer School
+  year: 2019
+  id: agss2019
+  full_name:  AI and Games Summer School 2019
+  link: http://school.gameaibook.org
+  deadline: '2019-02-28 23:59:59'
+  timezone: UTC+1
+  place: New York, USA
+  date: May 27 - May 31, 2019
+  start: 2019-05-27
+  end: 2019-05-31
+  sub: ['ML', 'AI4Games']
+  note:
+- title: Deep Learning For Medical Imaging
+  year: 2019
+  id: dlmi2019
+  full_name: Deep Learning For Medical Imaging 2019
+  link: https://deepimaging2019.sciencesconf.org/
+  deadline: '2019-02-20 23:59:59'
+  timezone: UTC+1
+  place: Lyon, France
+  date: April 15 - April 19, 2019
+  start: 2019-04-15
+  end: 2019-04-19
+  sub: ['ML', 'Health', 'CV']
+  note:
+- title: Machine Leaning Summer School
+  year: 2019
+  id: mlss2019
+  full_name: Machine Leaning Summer School
+  link: https://mlssafrica.com/
+  deadline: '2019-11-16 23:59:59'
+  timezone: UTC+1
+  place: Stellenbosch, South Africa
+  date: January 07 - January 18, 2019
+  start: 2019-01-07
+  end: 2019-01-18
+  sub: ['ML']
+  note:
+- title: Mediterranean Machine Learning Summer School
+  year: 2020
+  id: mmlss2020
+  full_name: Mediterranean Machine Learning  Summer School 2020
+  link: https://www.m2lschool.org/
+  deadline: '2020-03-16 23:59:59'
+  timezone: UTC+1
+  place: Milan, Italy
+  date: January 11 - January 16, 2021
+  start: 2020-1-11
+  end: 2020-01-16
+  sub: ['ML']
+  note:
+- title: AI Summer School
+  year: 2020
+  id: ass2020
+  full_name:  AI Summer School 2020
+  link: https://sites.google.com/view/aisummerschool2020/
+  deadline: '2020-06-26 23:59:59'
+  timezone: UTC+1
+  place: Virtual
+  date: August 20 - August 22, 2020
+  start: 2020-08-20
+  end: 2020-08-22
+  sub: ['ML']
+  note:
+- title: Tsinghua University Deep Learning summer school
+  year: 2020
+  id: tudlss2020
+  full_name: Tsinghua University Deep Learning summer school (for UNDERGRADUATE ONLY) 2020
+  link: http://ss.cs.tsinghua.edu.cn/index.html
+  deadline: '2020-06-01 23:59:59'
+  timezone: UTC+1
+  place: Beijing, China
+  date: June 29 - July 18, 2020
+  start: 2020-06-29
+  end: 2020-07-18
+  sub: ['ML']
+  note:
+- title: Oxford Machine Learning Summer School 
+  year: 2020
+  id: omlss2020
+  full_name: Oxford Machine Learning Summer School 2020
+  link: https://www.oxfordml.school/
+  deadline: '2020-04-30 23:59:59'
+  timezone: UTC+1
+  place: Oxford, UK (Virtual)
+  date: August 17 - August 25, 2020
+  start: 2020-08-17
+  end: 2020-08-25
+  sub: ['ML']
+  note:
+- title: Machine Learning for Speech
+  year: 2020
+  id: mls2020
+  full_name: Machine Learning for Speech 2020
+  link: http://www.uef.fi/en/web/summerschool/machine-learning-for-speech
+  deadline: '2020-06-15 23:59:59'
+  timezone: UTC+1
+  place: Joensuu, Finland
+  date: August 10 - August 14, 2020
+  start: 2020-08-10
+  end: 2020-08-14
+  sub: ['ML', 'SP']
+  note:
+- title: Summer School of Machine learning at Skoltech
+  year: 2020
+  id: ssmls2020
+  full_name: Summer School of Machine learning at Skoltech (SMILES 2020)
+  link: http://smiles.skoltech.ru
+  deadline: '2020-08-02 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: August 16 - August 21, 2020
+  start: 2020-08-16
+  end: 2020-08-21
+  sub: ['ML']
+  note:
+- title: Deep Reinforcement Learning for Computer Games
+  year: 2020
+  id: drlcg2020
+  full_name: Deep Reinforcement Learning for Computer Games 2020
+  link: http://www.uef.fi/en/web/summerschool/deep-reinforcement-learning-for-computer-games
+  deadline: '2020-06-15 23:59:59'
+  timezone: UTC+1
+  place: Joensuu, Finland
+  date: August 10 - August 14, 2020
+  start: 2020-08-10
+  end: 2020-08-14
+  sub: ['ML', 'RL', 'AI4Games']
+  note:
+- title: Machine Learning Summer School 
+  year: 2020
+  id: mlss2020
+  full_name: Machine Learning Summer School (MLSS Indonesia) 2020
+  link: https://mlss.telkomuniversity.ac.id
+  deadline: '2020-04-30 23:59:59'
+  timezone: UTC+1
+  place: Bandung, Indonesia (Virtual)
+  date: August 03 - August 09, 2020
+  start: 2020-08-03
+  end: 2020-08-09
+  sub: ['ML']
+  note:
+- title: Summer School on Statistical Physics and Machine Learning
+  year: 2020
+  id: ssspml2020
+  full_name: Summer School on Statistical Physics and Machine Learning 2020
+  link: http://leshouches2020.krzakala.org/
+  deadline: '2020-03-15 23:59:59'
+  timezone: UTC+1
+  place: Les Houches, France
+  date: August 02 - August 28, 2020
+  start: 2020-08-02
+  end: 2020-08-28
+  sub: ['ML', 'ML4Science']
+  note:
+- title: Summer School on AI for Optical Networks and Neuromorphic Photonics for AI Acceleration
+  year: 2020
+  id: sson2020
+  full_name: Summer School on AI for Optical Networks and Neuromorphic Photonics for AI Acceleration 2020
+  link: https://www.hhi.fraunhofer.de/summerschool-on-ai-and-photonics
+  deadline: '2020-05-31 23:59:59'
+  timezone: UTC+1
+  place: Berlin, Germany
+  date: July 27 - July 31, 2020
+  start: 2020-07-27
+  end: 2020-07-31
+  sub: ['ML', 'HW']
+  note:
+- title: Southeast Asia Machine Learning School
+  year: 2020
+  id: samls2020
+  full_name: Southeast Asia Machine Learning School (SeaMLS 2020)
+  link: https://www.seamls.ai/
+  deadline: '2020-04-03 23:59:59'
+  timezone: UTC+1
+  place: Vietnam
+  date: July 20 - July 25, 2020
+  start: 2020-07-20
+  end: 2020-07-25
+  sub: ['ML']
+  note:
+- title: Deep Learning and Reinforcement Learning Summer School
+  year: 2020
+  id: dlrlss2020
+  full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2020)
+  link: https://dlrlsummerschool.ca
+  deadline: '2020-02-22 23:59:59'
+  timezone: UTC+1
+  place: Online/Cancelled
+  date: July 26 - August 06, 2020
+  start: 2020-07-26
+  end: 2020-08-06
+  sub: ['ML']
+  note:
+- title: International Summer School on Deep Learning
+  year: 2020
+  id: iss2020
+  full_name: International Summer School on Deep Learning (DeepLearn 2020)
+  link: http://deeplearn2020.irdta.eu/
+  deadline: '2020-12-29 23:59:59'
+  timezone: UTC+1
+  place: León, Guanajuato, Mexico (Cancelled)
+  date: July 27 - July 31, 2020
+  start: 2020-07-27
+  end: 2020-07-31
+  sub: ['ML']
+  note:
+- title: Machine learning summer school in healthcare and biosciences
+  year: 2020
+  id: mls2020
+  full_name:  Machine learning summer school in healthcare and biosciences 2020
+  link: https://bumblekite.four-corp.com/
+  deadline: '2020-03-15 23:59:59'
+  timezone: UTC+1
+  place: ETH Zürich, Switzerland
+  date: July 19 - July 28, 2020
+  start: 2020-07-19
+  end: 2020-07-28
+  sub: ['ML']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2020
+  id: eem2020
+  full_name: Eastern European Machine Learning Summer School 2020
+  link: https://www.eeml.eu
+  deadline: '2020-04-20 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 06 - July 11, 2020
+  start: 2020-07-06
+  end: 2020-07-11
+  sub: ['ML']
+  note:
+- title: Machine Learning Summer School 
+  year: 2020
+  id: ml2020
+  full_name: Machine Learning Summer School (MLSS Tübingen)
+  link: http://mlss.tuebingen.mpg.de/2020)
+  deadline: '2020-02-11 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: June 28 - July 10, 2020
+  start: 2020-06-28
+  end: 2020-07-10
+  sub: ['ML']
+  note:
+- title: AI and Games Summer School
+  year: 2020
+  id: ag2020
+  full_name: AI and Games Summer School 2020
+  link: https://school.gameaibook.org/
+  deadline: TBA
+  timezone: UTC+1
+  place: Copenhagen, Denmark
+  date: June 22 - June 26, 2020
+  start: 2020-06-22
+  end: 2020-06-26
+  sub: ['ML', 'AI4Games']
+  note:
+- title: North Africa Middle East Summer School
+  year: 2020
+  id: na2020
+  full_name: North Africa Middle East Summer School (NASSMA 2020 Istanbul) 2020
+  link: http://nassma-ml.org
+  deadline: '2020-03-20 23:59:59'
+  timezone: UTC+1
+  place: Istanbul, Turkey
+  date: June 22 - June 27, 2020
+  start: 2020-06-22
+  end: 2020-06-27
+  sub: ['ML']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2020
+  id: npa2020
+  full_name: Nordic Probabilistic AI School (ProbAI) 2020
+  link: https://probabilistic.ai/
+  deadline: '2020-03-26 23:59:59'
+  timezone: UTC+1
+  place: Trondheim, Norway
+  date: June 08 - June 12, 2020
+  start: 2020-06-08
+  end: 2020-06-12
+  sub: ['ML', 'Theory']
+  note:
+- title: Data Science Africa Summer School
+  year: 2020
+  id: dsa2020
+  full_name: Data Science Africa Summer School 2020
+  link: http://www.datascienceafrica.org/dsa2020kampala/
+  deadline: '2020-04-15 23:59:59'
+  timezone: UTC+1
+  place: Kampala, Uganda
+  date: June 22 - June 26, 2020
+  start: 2020-06-22
+  end: 2020-06-26
+  sub: ['ML']
+  note:
+- title: Asian Machine Learning School 
+  year: 2021
+  id: ls2021
+  full_name: Asian Machine Learning School (Online) 2021
+  link: http://www.acml-conf.org/2021/school/
+  deadline: '2021-09-15 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: November 8 - November 19, 2021
+  start: 2021-11-08
+  end: 2021-11-19
+  sub: ['ML']
+  note:
+- title: Gaussian Process Summer School
+  year: 2021
+  id: gps2021
+  full_name: Gaussian Process Summer Schools (GPSS) 2021
+  link: http://gpss.cc/
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: September 13 - September 16, 2021
+  start: 2021-09-13
+  end: 2021-09-16
+  sub: ['ML', 'Theory']
+  note:
+- title: International Summer School on Situation Awareness in Cognitive Technologies
+  year: 2021
+  id: act2021
+  full_name: International Summer School on Situation Awareness in Cognitive Technologies 2021 (ISACT 2021)
+  link: http://isact.cogsy.de/
+  deadline: '2021-07-19 23:59:59'
+  timezone: UTC+1
+  place: Onsite
+  date: September 06 - September 11, 2021
+  start: 2021-09-06
+  end: 2021-09-11
+  sub: ['ML', 'CogSci']
+  note:
+- title: 2021 ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications
+  year: 2021
+  id: da2021
+  full_name: 2021 ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications
+  link: https://europe.acm.org/hpc-summer-school
+  deadline: '2021-07-15 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: August 31 - September 03, 2021
+  start: 2021-08-31
+  end: 2021-09-03
+  sub: ['ML', 'HW']
+  note:
+- title: Leibniz Mathematical Modeling and Simulation Summer School 
+  year: 2021
+  id: mm2021
+  full_name: Leibniz Mathematical Modeling and Simulation Summer School 2021
+  link: https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool20/
+  deadline: TBA
+  timezone: UTC+1
+  place: //
+  date: August 23 - August 27, 2021
+  start: 2021-08-23
+  end: 2021-08-27
+  sub: ['ML']
+  note:
+- title: Artificial Intelligence and Data Science for Healthcare Innovation
+  year: 2021
+  id: hi2021
+  full_name:  Artificial Intelligence and Data Science for Healthcare Innovation 2021
+  link: http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/artificial-intelligence-and-data-science-for-healthcare-innovation/
+  deadline: '//'
+  timezone: UTC+1
+  place: Online
+  date: August 16 - August 27, 2021
+  start: 2021-08-16
+  end: 2021-08-27
+  sub: ['ML', 'Health']
+  note:
+- title: Summer School of Machine Learning at Skoltech 
+  year: 2021
+  id: ls2021
+  full_name: Summer School of Machine Learning at Skoltech (SMILES) 2021
+  link: https://smiles.skoltech.ru/school
+  deadline: '2021-08-01 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: August 15 - August 22, 2021
+  start: 2021-08-115
+  end: 2021-08-22
+  sub: ['ML']
+  note:
+- title: Oxford Machine Learning Summer School
+  year: 2021
+  id: om2021
+  full_name: Oxford Machine Learning Summer School 2021
+  link: https://www.oxfordml.school/
+  deadline: '2021-04-15 23:59:59'
+  timezone: UTC+1
+  place: St Catherine's College
+  date: August 07 - August 14, 2021
+  start: 2021-08-07
+  end: 2021-08-14
+  sub: ['ML']
+  note:
+- title: Imperial Data Science Online Summer School
+  year: 2021
+  id: ids2021
+  full_name: Imperial Data Science Online Summer School 2021 
+  link: http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/imperial-data-science-online-summer-school/
+  deadline: TBA
+  timezone: UTC+1
+  place: Online
+  date: August 02 - August 20, 2021
+  start: 2021-08-02
+  end: 2021-08-20
+  sub: ['ML']
+  note:
+- title: Neuromatch Academy-Deep Learning 
+  year: 2021
+  id: na2021
+  full_name: Neuromatch Academy-Deep Learning 2021
+  link: https://academy.neuromatch.io/home
+  deadline: '2021-05-07 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: August 02 - August 20, 2021
+  start: 2021-08-02
+  end: 2021-08-20
+  sub: ['Neuro']
+  note:
+- title: Machine Learning Summer School
+  year: 2021
+  id: ms2021
+  full_name: Machine Learning Summer School (MLSS Taipei) 2021
+  link: http://mlss.cc/
+  deadline: TBA
+  timezone: UTC+1
+  place: Taipei, Taiwan
+  date: August 02 - August 13, 2021
+  start: 2021-08-02
+  end: 2021-08-13
+  sub: ['ML']
+  note:
+- title: Deep Learning Theory Summer School at Princeton
+  year: 2021
+  id: ts2021
+  full_name: Deep Learning Theory Summer School at Princeton 2021
+  link: https://deep-learning-summer-school.princeton.edu/#Apply
+  deadline: '2021-03-31 23:59:59'
+  timezone: UTC+1
+  place: New Jersey, Virtual
+  date: July 27 - August 13, 2021
+  start: 2021-07-27
+  end: 2021-08-13
+  sub: ['ML', 'Theory']
+  note:
+- title: International Summer School on Deep Learning
+  year: 2021
+  id: sl2021
+  full_name: International Summer School on Deep Learning (DeepLearn 2021
+  link: https://irdta.eu/deeplearn2021s/
+  deadline: '2021-02-24 23:59:59'
+  timezone: UTC+1
+  place: Las Palmas de Gran Canaria, Spain
+  date: July 26 - July 30, 2021
+  start: 2021-07-26
+  end: 2021-07-30
+  sub: ['ML']
+  note:
+- title: Deep Learning and Reinforcement Learning Summer School 
+  year: 2021
+  id: ds2021
+  full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2021)
+  link: https://dlrl.ca/
+  deadline: '2021-02-01 23:59:59'
+  timezone: UTC+1
+  place: Edmonton, Canada
+  date: July 26 - July 31, 2021
+  start: 2021-07-26
+  end: 2021-07-31
+  sub: ['ML']
+  note:
+- title: Human-aligned AI Virtual Summer School 
+  year: 2021
+  id: ha2021
+  full_name: Human-aligned AI Virtual Summer School 2021
+  link: http://humanaligned.ai/index.html
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 01 - August 01, 2021
+  start: 2021-07-01
+  end: 2021-08-01
+  sub: ['ML']
+  note:
+- title: 4th Advanced Online & Onsite Course on Data Science & Machine Learning
+  year: 2021
+  id: ao2021
+  full_name: 4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)
+  link: https://acdl2021.icas.cc/
+  deadline: '2021-05-14 23:59:59'
+  timezone: UTC+1
+  place: Tuscany Italy, Virtual
+  date: July 19 - July 23, 2021
+  start: 2021-07-19
+  end: 2021-07-23
+  sub: ['ML']
+  note:
+- title: London Geometry and Machine Learning
+  year: 2021
+  id: lg2021
+  full_name: London Geometry and Machine Learning(LOGML) Summer School 2021
+  link: https://www.logml.ai/
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC+1
+  place: London, Virtual
+  date: July 12 - July 16, 2021
+  start: 2021-07-12
+  end: 2021-07-16
+  sub: ['ML', 'Theory']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2021
+  id: ee2021
+  full_name: Eastern European Machine Learning Summer School 2021
+  link: https://www.eeml.eu
+  deadline: '2021-04-15 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 07 - July 15, 2021
+  start: 2021-07-07
+  end: 2021-07-15
+  sub: ['ML']
+  note:
+- title: Lisbon Machine Learning Summer School
+  year: 2021
+  id: ll2021
+  full_name: Lisbon Machine Learning Summer School 2021
+  link: http://lxmls.it.pt/2021/
+  deadline: '2021-05-15 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 07 - July 15, 2021
+  start: 2021-07-07
+  end: 2021-07-15
+  sub: ['ML']
+  note:
+- title: Neuromatch Academy-Computational Neuroscience 
+  year: 2021
+  id: cn2021
+  full_name: Neuromatch Academy-Computational Neuroscience 2021
+  link: https://academy.neuromatch.io/home
+  deadline: '2021-05-07 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 05 - July 23, 2021
+  start: 2021-07-05
+  end: 2021-07-23
+  sub: ['Neuro']
+  note:
+- title: PRAIRIE/MIAI Artificial Intelligence Summer School
+  year: 2021
+  id: pa2021
+  full_name: PRAIRIE/MIAI Artificial Intelligence Summer School 2021
+  link: https://project.inria.fr/paiss/
+  deadline: '2021-05-24 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 05 - July 23, 2021
+  start: 2021-07-05
+  end: 2021-07-23
+  sub: ['ML']
+  note:
+- title: Deep Learning for Natural Language Processing 
+  year: 2021
+  id: nl2021
+  full_name: Deep Learning for Natural Language Processing (8th edition) Summer School 2021
+  link: http://ixa2.si.ehu.eus/deep_learning_seminar/
+  deadline: '2021-06-27 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 05 - July 09, 2021
+  start: 2021-07-05
+  end: 2021-05-09
+  sub: ['ML', 'NLP']
+  note:
+- title: Vision Understanding & Machine Intelligence Summer School
+  year: 2021
+  id: vi2021
+  full_name: Vision Understanding & Machine Intelligence Summer School 2021 (VISUM 2021)
+  link: https://visum.inesctec.pt/
+  deadline: '2021-05-28 23:59:59'
+  timezone: UTC+1
+  place: Online
+  date: July 05 - July 09, 2021
+  start: 2021-07-05
+  end: 2021-07-09
+  sub: ['ML', 'CV']
+  note:
+- title: ACM India Summer Schools 
+  year: 2021
+  id: ai2021
+  full_name: ACM India Summer Schools 2021 
+  link: https://india.acm.org/education/acm-india-summer-schools
+  deadline: '2021-05-18 23:59:59'
+  timezone: UTC+1
+  place: Virtual
+  date: June 14 - June 25, 2021
+  start: 2021-06-14
+  end: 2021-06-25
+  sub: ['ML']
+  note:
+- title: 5th Summer School on Artificial Intelligence
+  year: 2021
+  id: si2021
+  full_name: 5th Summer School on Artificial Intelligence 2021
+  link: http://cvit.iiit.ac.in/summerschool2021/index.php
+  deadline: TBA'
+  timezone: UTC+1
+  place: Virtual	
+  date: July 01 - July 31, 2021
+  start: 2021-07-01
+  end: 2021-07-31
+  sub: ['ML']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2021
+  id: nps2021
+  full_name: Nordic Probabilistic AI School (ProbAI)
+  link: https://probabilistic.ai/
+  deadline: '2021-03-31 23:59:59'
+  timezone: UTC+1
+  place: Virtual
+  date: June 14 - June 17, 2021
+  start: 2021-06-14
+  end: 2021-06-17
+  sub: ['ML', 'Theory']
+  note:
+- title: Duke Machine Learning Virtual Summer School
+  year: 2021
+  id: dl2021
+  full_name: Duke Machine Learning Virtual Summer School 2021
+  link: https://plus.datascience.duke.edu/mlvss2021
+  deadline: TBA
+  timezone: UTC+1
+  place: Virtual
+  date: June 14- June 17, 2021
+  start: 2021-06-14
+  end: 2021-06-17
+  sub: ['ML']
+  note:
+- title: NYU AI School
+  year: 2021
+  id: nyu2021
+  full_name:  NYU AI School 2021
+  link: https://nyu-mll.github.io/nyu-ai-school-2021/
+  deadline: '2021-00-00 23:59:59'
+  timezone: UTC+1
+  place: New York, Virtual
+  date: Jan 04 - Jan 08, 2021
+  start: 2021-01-04
+  end: 2021-01-08
+  sub: ['ML']
+  note:
+- title: 6th International Summer School on Resource-Aware Machine Learning
+  year: 2022
+  id: rm2021
+  full_name: 6th International Summer School on Resource-Aware Machine Learning (REAML 2022)
+  link: https://sfb876.tu-dortmund.de/summer-school-2022
+  deadline: '2022-08-14 23:59:59'
+  timezone: UTC+1
+  place: Dortmund, Germany
+  date: September 12 - September 16, 2022
+  start: 2022-09-12
+  end: 2022-09-16
+  sub: ['ML', 'EML']
+  note:
+- title: Mediterranean Machine Learning Summer School
+  year: 2022
+  id: mss2022
+  full_name: Mediterranean Machine Learning  Summer School 2022
+  link: https://www.m2lschool.org/
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC+1
+  place: Milan, Italy
+  date: September 12 - September 16, 2022
+  start: 2022-09-12
+  end: 2022-09-16
+  sub: ['ML']
+  note:
+- title: eXplainable AI Summer School
+  year: 2022
+  id: ea2022
+  full_name: eXplainable AI Summer School 2022
+  link: https://xaiss.eu/
+  deadline: TBA
+  timezone: UTC+1
+  place: Delft, Netherlands
+  date: August 12 - September 02, 2022
+  start: 2022-08-12
+  end: 2022-09-02
+  sub: ['ML']
+  note:
+- title: European Summer School in Logic, Language and Information 
+  year: 2022
+  id: el2022
+  full_name: European Summer School in Logic, Language and Information (ESSLLI)
+  link: https://nuigalwaydatascienceinstitute.clr.events/event/131959:esslli-2022
+  deadline: TBA
+  timezone: UTC+1
+  place: Galway, Ireland
+  date: August 08 - August 13, 2022
+  start: 2022-08-08
+  end: 2022-08-13
+  sub: ['Log', 'NLP']
+  note:
+- title: Machine learning summer school in healthcare and biosciences
+  year: 2022
+  id: sb2021
+  full_name: Machine learning summer school in healthcare and biosciences 2022
+  link: https://www.bumblekite.co/summer-school
+  deadline: '2022-05-14 23:59:59'
+  timezone: UTC+1
+  place: St Catherine's College, Virtual(see notes)
+  date: August 06 - August 13, 2022
+  start: 2022-08-06
+  end: 2022-08-013
+  sub: ['ML', 'Health', 'Bio']
+  note:
+- title: Oxford Machine Learning Summer School
+  year: 2022
+  id: om2022
+  full_name: Oxford Machine Learning Summer School 2022
+  link: https://www.oxfordml.school/
+  deadline: '2022-06-15 23:59:59'
+  timezone: UTC+1
+  place: St Catherine's College, Virtual(see notes)
+  date: August 07 - August 14, 2022
+  start: 2022-08-07
+  end: 2022-08-14
+  sub: ['ML']
+  note:
+- title: Human-aligned AI Summer School
+  year: 2022
+  id: hs2022
+  full_name: Human-aligned AI Summer School 2022 
+  link: http://humanaligned.ai/index.html
+  deadline: '2022-06-19 23:59:59'
+  timezone: UTC+1
+  place: Prague, Czechia
+  date: August 04 - August 07, 2022
+  start: 2022-08-04
+  end: 2022-08-07
+  sub: ['ML']
+  note:
+- title: Lisbon Machine Learning Summer School
+  year: 2022
+  id: as2022
+  full_name: Lisbon Machine Learning Summer School (LxMLS 2022)
+  link: http://lxmls.it.pt/2022/
+  deadline: '2022-05-15 23:59:59'
+  timezone: UTC+1
+  place: Lisbon, Portugal
+  date: July 24 - July 29, 2022
+  start: 2022-7-24
+  end: 2022-07-29
+  sub: ['ML']
+  note:
+- title: Cambridge Ellis Machine Learning Summer School
+  year: 2022
+  id: ce2022
+  full_name: Cambridge Ellis Machine Learning Summer School 2022
+  link: https://www.ellis.eng.cam.ac.uk/summerschool/
+  deadline: '2022-05-22 23:59:59'
+  timezone: UTC+1
+  place: Cambridge, England
+  date: July 11 - July  15, 2022
+  start: 2022-07-11
+  end: 2022-07-15
+  sub: ['ML']
+  note:
+- title: Summer School on Reinforcement Learning in Amsterdam
+  year: 2022
+  id: rla2022
+  full_name: Summer School on Reinforcement Learning in Amsterdam 2022
+  link: http://rlsummerschool.com/
+  deadline: '2022-07-10 23:59:59'
+  timezone: UTC+1
+  place: Amsterdam, The Netherlands
+  date: July 11 - July 15, 2022
+  start: 2022-07-11
+  end: 2022-07-15
+  sub: ['ML', 'RL']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2022
+  id: ess2022
+  full_name: Eastern European Machine Learning Summer School 2022 
+  link: https://www.eeml.eu/home
+  deadline: '2022-04-07 23:59:59'
+  timezone: UTC+1
+  place: Vilnius, Lithuania (Hybrid)
+  date: July 06 - July 08, 2022
+  start: 2022-07-06
+  end: 2022-07-08
+  sub: ['ML']
+  note:
+- title: 2022 Summer school on deep learning for medical imaging
+  year: 2022
+  id: sdm2022
+  full_name: 2022 Summer school on deep learning for medical imaging 2022
+  link: https://event.fourwaves.com/32600610-b50a-4feb-b431-31ee1d773873/pages
+  deadline: '2022-03-11 23:59:59'
+  timezone: UTC+1
+  place: 1111, Rue Notre-Dame Ouest Montréal, Québec Canada, H3C 1K3
+  date: July 04 - July 08, 2022
+  start: 2022-07-04
+  end: 2022-07-08
+  sub: ['ML', 'Health', 'CV']
+  note:
+- title: Deep Learning for Natural Language Processing summer course
+  year: 2022
+  id: nlps2022
+  full_name: Deep Learning for Natural Language Processing summer course 2022
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/
+  deadline: First-come, first-served
+  timezone: UTC+1
+  place: San Sebastian, Spain
+  date: July 04 - July 08, 2022
+  start: 2022-07-04
+  end: 2022-07-08
+  sub: ['ML','NLP']
+  note:
+- title: Machine Learning School in The Netherlands 
+  year: 2022
+  id: sn2022
+  full_name: Machine Learning School in The Netherlands 2022
+  link: https://bigml.com/events/machine-learning-school-in-the-netherlands-2022
+  deadline: '2022-06-25 23:59:59'
+  timezone: UTC+1
+  place: Breukelen, The Netherlands
+  date: July 04 - July 06, 2022
+  start: 2022-07-04
+  end: 2022-07-06
+  sub: ['ML']
+  note:
+- title: Machine Learning Summer Schools
+  year: 2022
+  id: mlss2022
+  full_name: Machine Learning Summer School (MLSS) 2022
+  link: https://mlss.mlinpl.org/
+  deadline: '2022-00-00 23:59:59'
+  timezone: UTC+1
+  place: Krakow, Poland
+  date: June 27 - July 02, 2022
+  start: 2022-06-27
+  end: 2022-07-02
+  sub: ['ML']
+  note:
+- title: Cardiff NLP Summer Workshop
+  year: 2022
+  id: nlpswc2022
+  full_name: Cardiff NLP Summer Workshop 2022
+  link: https://www.cardiffnlpworkshop.org/
+  deadline: '2022-00-00 23:59:59'
+  timezone: UTC+1
+  place: Cardiff, Wales, UK
+  date: June 30 - July 01, 2022
+  start: 2022-06-30
+  end: 2022-07-01
+  sub: ['ML', 'NLP']
+  note:
+- title: Princeton Machine Learning Theory Summer School
+  year: 2022
+  id: pmltss2022
+  full_name: Princeton Machine Learning Theory Summer School 2022
+  link: https://mlschool.princeton.edu/
+  deadline: '2022-00-00 23:59:59'
+  timezone: UTC+1
+  place: Princeton, US
+  date: June 13 - June 17, 2022
+  start: 2022-06-13
+  end: 2022-06-17
+  sub: ['ML', 'Theory']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2022
+  id: nplais2022
+  full_name: Nordic Probabilistic AI School 2022
+  link: https://probabilistic.ai/
+  deadline: '2022-00-00 23:59:59'
+  timezone: UTC+1
+  place: Helsinki, Finland
+  date: June 13 - June 17, 2022
+  start: 2022-06-13
+  end: 2022-06-17
+  sub: ['ML', 'Theory']
+  note:
+- title: Zortify Summer School
+  year: 2023
+  id: zsstfw2023
+  full_name: Zortify Summer School - The Future of Work (2023)
+  Link: https://zortify.com/summer-school/
+  deadline: '2023-07-07 23:59:59'
+  timezone: UTC+1
+  place: Luxembourg, Luxembourg
+  date: August 28 - September 01, 2023
+  start: 2023-08-28
+  end: 2023-09-01
+  sub: ['ML']
+  note:
+- title: Mediterranean Machine Learning Summer School
+  year: 2023
+  id: mllss2023
+  full_name: Mediterranean Machine Learning  Summer School (M2L)
+  Link: https://www.m2lschool.org/home
+  deadline: '2023-02-28 23:59:59'
+  timezone: UTC+1
+  place: Thessaloniki, Greece
+  date: August 28 - September 02, 2023
+  start: 2023-08-28
+  end: 2023-09-02
+  sub: ['ML']
+  note:
+- title: Climate Change AI Summer School
+  year: 2023
+  id: ccaiss2023
+  full_name: Climate Change AI Summer School 2023
+  Link: https://www.climatechange.ai/events/summer_school
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC+1
+  place: Montreal, Canada
+  date: August 14 - August 18, 2023
+  start: 2023-08-14
+  end: 2023-08-18
+  sub: ['ML', 'ML4Science']
+  note:
+- title: Machine Learning Research School
+  year: 2023
+  id: mlrs2023
+  full_name: Machine Learning Research School (MLRS)
+  Link: https://www.mlrs.ai/
+  deadline: '2023-06-07 23:59:59'
+  timezone: UTC+1
+  place: Bangkok, Thailand
+  date: August 02 - September 09, 2023
+  start: 2023-08-02
+  end: 2023-08-09
+  sub: ['ML']
+  note:
+- title: IACR School on Privacy-Preserving Machine Learning
+  year: 2023
+  id: iacrssppml2023
+  full_name: IACR School on Privacy-Preserving Machine Learning 2023
+  Link: https://ideas-ncbr.pl/en/2nd-school-on-privacy-preserving-machine-learning-2023/
+  deadline: '2023-06-15 23:59:59'
+  timezone: UTC+1
+  place: Warsaw, Poland
+  date: July 31 - August 03, 2023
+  start: 2023-07-31
+  end: 2023-08-03
+  sub: ['ML']
+  note:
+- title: International Polytechnic machine learning summer school
+  year: 2023
+  id: ipmlsc2023
+  full_name: International Polytechnic machine learning summer school 2023
+  Link: https://summerschool.spbstu.ru/programs/machine_learning_theory_and_application/
+  deadline: '2023-07-20 23:59:59'
+  timezone: UTC+1
+  place: Russia
+  date: July 31 - August 11, 2023
+  start: 2023-07-31
+  end: 2023-08-11
+  sub: ['ML']
+  note:
+- title: European summer school in logic, language and information
+  year: 2023
+  id: essilai2023
+  full_name: European summer school in logic, language and information 2023
+  Link: https://2023.esslli.eu/
+  deadline: '2023-06-01 23:59:59'
+  timezone: UTC+1
+  place: Ljubljana, Slovenia
+  date: July 31 - August 11, 2023
+  start: 2023-07-31
+  end: 2023-08-11
+  sub: ['ML', 'Log']
+  note:
+- title: European Summer School on Artificial Intelligence
+  year: 2023
+  id: essoai2023
+  full_name: European Summer School on Artificial Intelligence 2023
+  Link: https://essai.si/
+  deadline: '2023-07-17 23:59:59'
+  timezone: UTC+1
+  place: Ljubljana, Slovenia
+  date: July 24 - July 28, 2023
+  start: 2023-07-24
+  end: 2023-07-28
+  sub: ['ML']
+  note:
+- title: Advanced Artificial Intelligence and Machine Learning - Deep Unsupervised Learning
+  year: 2023
+  id: aaiaml2023
+  full_name: Advanced Artificial Intelligence and Machine Learning - Deep Unsupervised Learning
+  Link: https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning
+  deadline: '2023-05-08 23:59:59'
+  timezone: UTC+1
+  place: Oxford, UK
+  date: July 17 - August 04, 2023
+  start: 2023-07-17
+  end: 2023-08-04
+  sub: ['ML']
+  note:
+- title: 10th International Gran Canaria School on Deep Learning
+  year: 2023
+  id: igcsond2023
+  full_name: 10th International Gran Canaria School on Deep Learning 2023
+  Link: https://deeplearn.irdta.eu/2023su/
+  deadline: '2023-05-26 23:59:59'
+  timezone: UTC+1
+  place: Las Palmas de Gran Canaria, Spain
+  date: July 17 - July 21, 2023
+  start: 2023-07-17
+  end: 2023-07-21
+  sub: ['ML']
+  note:
+- title: AI+Science Summer School
+  year: 2023
+  id: aisss2023
+  full_name: AI+Science Summer School 2023
+  Link: https://www.imsi.institute/activities/aiscience-summer-school-2023/
+  deadline: '2023-04-07 23:59:59'
+  timezone: UTC+1
+  place: Chicago, USA
+  date: July 17 - July 21, 2023
+  start: 2023-07-17
+  end: 2023-07-21
+  sub: ['ML', 'ML4Science']
+  note:
+- title: Baxter Robot Revival by Deep Learning Application
+  year: 2023
+  id: bbrdla2023
+  full_name: Baxter Robot Revival by Deep Learning Application 2023
+  Link: https://apply.rtu.lv/courses/course/282-baxter-robot-revival-deep-learning-application
+  deadline: '2023-06-17 23:59:59'
+  timezone: UTC+1
+  place: Latvia, Riga
+  date: July 17 - July 28, 2023
+  start: 2023-07-17
+  end: 2023-07-28
+  sub: ['ML']
+  note:
+- title: Cambridge Ellis Unit Summer School on Probabilistic Machine Learning
+  year: 2023
+  id: ceussp2023
+  full_name: Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023
+  Link: https://www.ellis.eng.cam.ac.uk/summer-school/
+  deadline: '2023-05-15 23:59:59'
+  timezone: UTC+1
+  place: Cambridge, UK
+  date: July 17 - July 21, 2023
+  start: 2023-07-17
+  end: 2023-07-21
+  sub: ['ML', 'Theory']
+  note:
+- title: MoroccoAI Summer School
+  year: 2023
+  id: maiss2023
+  full_name: MoroccoAI Summer School 2023
+  Link: https://summerschool.morocco.ai/
+  deadline: '2023-06-23 23:59:59'
+  timezone: UTC+1
+  place: Ifrane, Morocco
+  date: July 17 - July 21, 2023
+  start: 2023-07-17
+  end: 2023-07-21
+  sub: ['ML', 'EML']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2023
+  id: eenlss2023
+  full_name: Eastern European Machine Learning Summer School 2023
+  Link: https://www.eeml.eu/home
+  deadline: '2023-03-31 23:59:59'
+  timezone: UTC+1
+  place: Slovakia
+  date: July 09 - July 16, 2023
+  start: 2023-07-09
+  end: 2023-07-16
+  sub: ['ML']
+  note:
+- title: AI-DLDA - International Summer School on Artificial Intelligence
+  year: 2023
+  id: aidldaiss2023
+  full_name: AI-DLDA - International Summer School on Artificial Intelligence 2023
+  Link: https://www.aidlda.it/
+  deadline: '2023-06-20 23:59:59'
+  timezone: UTC+1
+  place: Udine, Italy
+  date: July 04 - July 08, 2023
+  start: 2023-07-04
+  end: 2023-07-08
+  sub: ['ML']
+  note:
+- title: UCL Medical Image Computing Summer School
+  year: 2023
+  id: uclmicss2023
+  full_name: UCL Medical Image Computing Summer School (MedICSS)
+  Link: https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss
+  deadline: '2023-04-02 23:59:59'
+  timezone: UTC+1
+  place: London, United Kingdom
+  date: July 03 - July 07, 2023
+  start: 2023-07-03
+  end: 2023-07-07
+  sub: ['ML', 'CV', 'Health']
+  note:
+- title: Machine learning summer school in healthcare and biosciences
+  year: 2023
+  id: mlssihb2023
+  full_name: Machine learning summer school in healthcare and biosciences 2023
+  Link: https://www.bumblekite.co/summer-school-23
+  deadline: '2023-04-02 23:59:59'
+  timezone: UTC+1
+  place: Zurich, Switzerland
+  date: July 02 - July 09, 2023
+  start: 2023-07-02
+  end: 2023-07-09
+  sub: ['ML', 'Health', 'Bio']
+  note:
+- title: Summer School on Reinforcement Learning in Barcelona
+  year: 2023
+  id: ssrlib2023
+  full_name: Summer School on Reinforcement Learning in Barcelona 2023
+  Link: http://rlsummerschool.com/
+  deadline: '2023-02-01 23:59:59'
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: June 26 - July 05, 2023
+  start: 2023-06-26
+  end: 2023-07-05
+  sub: ['ML', 'RL']
+  note:
+- title: MLSS on Applications in Science
+  year: 2023
+  id: mlssais2023
+  full_name: MLSS on Applications in Science 2023
+  Link: https://mlss2023.mlinpl.org/
+  deadline: '2023-04-08 23:59:59'
+  timezone: UTC+1
+  place: Kraków, Poland
+  date: June 26 - July 02, 2023
+  start: 2023-06-26
+  end: 2023-07-02
+  sub: ['ML', 'ML4Science']
+  note:
+- title: Princeton Machine Learning Theory Summer School
+  year: 2023
+  id: onktss2023
+  full_name: Princeton Machine Learning Theory Summer School 2023
+  Link: https://mlschool.princeton.edu/
+  deadline: '2023-03-15 23:59:59'
+  timezone: UTC+1
+  place: Princeton, US
+  date: June 26 - June 30, 2023
+  start: 2023-06-26
+  end: 2023-06-30
+  sub: ['ML', 'Theory']
+  note:
+- title: Generative Modeling Summer School
+  year: 2023
+  id: gnss2023
+  full_name: Generative Modeling Summer School 2023
+  Link: https://gemss.ai/
+  deadline: '2023-04-10 23:59:59'
+  timezone: UTC+1
+  place: Copenhagen, Denmark
+  date: June 26 - June 30, 2023
+  start: 2023-06-26
+  end: 2023-06-30
+  sub: ['ML', 'GenAI']
+  note:
+- title: International Summer School on AI and Games
+  year: 2023
+  id: issaiag2023
+  full_name: International Summer School on AI and Games 2023
+  Link: https://school.gameaibook.org/
+  deadline: '2023-03-15 23:59:59'
+  timezone: UTC+1
+  place: Cambridge UK
+  date: June 26 - June 30, 2023
+  start: 2023-06-26
+  end: 2023-06-30
+  sub: ['ML', 'AI4Games']
+  note:
+- title: Madrid UPM Machine Learning and Advanced Statistics Summer School
+  year: 2023
+  id: nupmmlasss2024
+  full_name: Madrid UPM Machine Learning and Advanced Statistics Summer School 2023
+  Link: http://dia.fi.upm.es/es/MLAS
+  deadline: '2023-06-14 23:59:59'
+  timezone: UTC+1
+  place: Madrid (Spain)
+  date: June 19 - June 30, 2023
+  start: 2023-06-19
+  end: 2023-06-30
+  sub: ['ML', 'Theory']
+  note:
+- title: 7th Summer School on Computational Interaction
+  year: 2023
+  id: ssci2023
+  full_name: 7th Summer School on Computational Interaction (CIX 2023)
+  Link: https://cixschool2023.engin.umich.edu/registration/
+  deadline: '2023-03-21 23:59:59'
+  timezone: UTC+1
+  place: Ann Arbor, USA
+  date: June 19 - June 23, 2023
+  start: 2023-06-19
+  end: 2023-06-23
+  sub: ['ML', 'HCI']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2023
+  id: npais2023
+  full_name: Nordic Probabilistic AI School 2023
+  Link: https://probabilistic.ai/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC+1
+  place: Trondheim (Norway)
+  date: June 12 - June 16, 2023
+  start: 2023-06-12
+  end: 2023-06-16
+  sub: ['ML', 'Theory']
+  note:
+- title: NORA Summer School
+  year: 2023
+  id: norass2023
+  full_name: NORA Summer School 2023
+  Link: https://www.nora.ai/research-school/schools/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC+1
+  place: Stavangar/Oslo/Tromsø, Norway
+  date: June 12 - June 17, 2023
+  start: 2023-06-12
+  end: 2023-06-17
+  sub: ['ML']
+  note:
+- title: Deep Learning and Computer Vision School
+  year: 2023
+  id: norass2023
+  full_name: Deep Learning and Computer Vision School 2023
+  Link: https://malga.unige.it/education/schools/dlcv
+  deadline: '2023-04-23 23:59:59'
+  timezone: UTC+1
+  place: Genova, Italy
+  date: June 05 - June 09, 2023
+  start: 2023-06-05
+  end: 2023-06-09
+  sub: ['ML', 'CV']
+  note:
+- title: Oxford Machine Learning Summer School
+  year: 2023
+  id: norass2023
+  full_name: Oxford Machine Learning Summer School 2023
+  Link: https://www.oxfordml.school/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC+1
+  place: Oxford, UK
+  date: May, June, July
+  start: May, June, July
+  end:
+  sub: ['ML']
+  note:

@@ -1,0 +1,70 @@
+---
+- color: '#ffd300'
+  name: Machine Learning
+  sub: ML
+- color: '#deff0a'
+  name: Computer Vision
+  sub: CV
+- color: '#0aefff'
+  name: Computer Graphics
+  sub: CG
+- color: '#147df5'
+  name: Natural Language Proc
+  sub: NLP
+- color: '#0aff99'
+  name: Robotics
+  sub: RO
+- color: '#580aff'
+  name: Speech/SigProc
+  sub: SP
+- color: '#be0aff'
+  name: Data Mining
+  sub: DM
+- color: '#a432a8'
+  name: Automated Planning
+  sub: AP
+- color: '#32a855'
+  name: Knowledge Representation
+  sub: KR
+- color: '#a83232'
+  name: Human-Computer Interaction
+  sub: HCI
+- color: '#ff0000'
+  name: Generative AI
+  sub: GenAI
+- color: '#ea2874'
+  name: ML Hardware
+  sub: HW
+- color: '#52092b'
+  name: AI For Games
+  sub: AI4Games
+- color: '#7f1e53'
+  name: Cognitive Science
+  sub: CogSci
+- color: '#fbeeb0'
+  name: ML Theory
+  sub: Theory
+- color: '#0074ea'
+  name: ML for Biology
+  sub: Bio
+- color: '#9035db'
+  name: Logic
+  sub: Log
+- color: '#a470c3'
+  name: Neuroscience
+  sub: Neuro
+- color: '#60fd7a'
+  name: Efficient Machine Learning
+  sub: EML
+- color: '#91d99b'
+  name: Reinforcement Learning
+  sub: RL
+- color: '#3dcd55'
+  name: ML for Health
+  sub: Health
+- color: '#d87e73'
+  name: ML for Science
+  sub: ML4Science
+- color: '#3049de'
+  name: Responsible AI
+  sub: RAI

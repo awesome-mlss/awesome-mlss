@@ -1,0 +1,17 @@
+title: Machine Learning Summer School Deadlines
+description: A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world
+author: Shashank Shekhar
+
+domain: "awesome-mlss.com"
+baseurl: ""
+
+twitter_hashtag: machinelearning
+github_username: sshkhr
+github_repo: awesome-mlss
+
+markdown: kramdown
+ga_id:
+
+title_image: /static/img/favicon.png
+
+include: ['_pages']

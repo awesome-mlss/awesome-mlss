@@ -1,0 +1,585 @@
+- title: CIFAR Neuroscience of Consciousness Winter School
+  year: 2024
+  id: cifarneuro24
+  full_name: CIFAR Neuroscience of Consciousness Winter School 2024
+  link: https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school/
+  deadline: '2024-07-12 23:59:59'
+  timezone: America/Mexico_City
+  place: Mexico City, Mexico
+  date: December 19 - December 21, 2024
+  start: 2024-12-19
+  end: 2024-12-21
+  sub: ['Neuro']
+  note: null
+- title: Paris Generative AI Autumn School
+  year: 2024
+  id: genaischool24
+  full_name: Paris Generative AI Autumn School 2024
+  link: https://www.genai-school.universite-paris-saclay.fr
+  deadline: '2024-06-16 23:59:59'
+  timezone: Europe/Paris
+  place: Paris, France
+  date: October 21 - October 25, 2024
+  start: 2024-10-21
+  end: 2024-10-25
+  sub: ['ML', 'NLP']
+  note: null
+- title: IEEE-EURASIP S3P
+  year: 2024
+  id: ies2024
+  full_name: IEEE-EURASIP Summer School on Signal Processing 2024
+  link: https://www.grip.unina.it/s3p2024/
+  deadline: '2024-04-20 23:59:59'
+  timezone: Europe/Rome
+  place: Capri, Italy
+  date: September 23 - September 27, 2024
+  start: 2024-09-23
+  end: 2024-09-27
+  sub: ['ML', 'SP']
+  note: null
+- title: AθNLP
+  year: 2024
+  id: athensnlpaθnlp24
+  full_name: Athens NLP 2024 Summer School
+  link: https://athnlp.github.io/2024/
+  deadline: '2024-06-20 23:59:59'
+  timezone: Europe/Athens
+  place: Athens, Greece
+  date: September 19 - September 25, 2024
+  start: 2024-09-19
+  end: 2024-09-25
+  sub: ['ML', 'NLP']
+  note: null
+- title: IDESSAI
+  year: 2024
+  id: idessai24
+  full_name: Inria-DFKI European Summer School on AI (IDESSAI 2024)
+  link: http://idessai.eu/
+  deadline: '2024-07-31 23:59:59'
+  timezone: Europe/Berlin
+  place: Saarbrücken, Germany
+  date: September 03 - September 13, 2024
+  start: 2024-09-03
+  end: 2024-09-13
+  sub: ['NLP', 'RO', 'GenAI']
+  note: null
+- title: Mediterranean Machine Learning Summer School (M2L)
+  year: 2024
+  id: m2l2024
+  full_name: Mediterranean Machine Learning Summer School (M2L) 2024
+  link: https://www.m2lschool.org/
+  deadline: '2024-03-21 23:59:59'
+  timezone: Europe/Rome
+  place: Milan, Italy
+  date: September 9 - September 13, 2024
+  start: 2024-09-09
+  end: 2024-09-13
+  sub: ['ML']
+  note: null
+- title: Gaussian Process Summer School
+  year: 2024
+  id: gpss2024
+  full_name: Gaussian Process Summer School 2024
+  link: https://gpss.cc/gpss24/
+  deadline: '2024-06-28 23:59:59'
+  timezone: Europe/London
+  place: Manchester, UK
+  date: September 9 - September 12, 2024
+  start: 2024-09-09
+  end: 2024-09-12
+  sub: ['ML', 'Theory']
+  note: null
+- title: Applied Harmonic Analysis and Machine Learning
+  year: 2024
+  id: ahaml2024
+  full_name: Applied Harmonic Analysis and Machine Learning 2024
+  link: https://malga.unige.it/education/schools/ahaml2024
+  deadline: '2024-07-21 23:59:59'
+  timezone: Europe/Rome
+  place: Genova, Italy
+  date: September 2 - September 9, 2024
+  start: 2024-09-02
+  end: 2024-09-09
+  sub: ['ML', 'SP']
+  note: null
+- title: HPC Computer Architectures for AI and Dedicated Applications
+  year: 2024
+  id: acmhpc2024
+  full_name: ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications 2024
+  link: https://europe.acm.org/seasonal-schools/hpc/2024
+  deadline: '2024-06-15 23:59:59'
+  timezone: Europe/Madrid
+  place: Barcelona, Spain
+  date: September 2 - September 6, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  sub: ['ML', 'HW']
+  note: Will cover accomodation and catering
+- title: Deep Learning Indaba
+  year: 2024
+  id: dlindaba2024
+  full_name: Deep Learning Indaba 2024
+  link: https://deeplearningindaba.com
+  deadline: '2024-05-12 23:59:59'
+  timezone: Africa/Dakar
+  place: Dakar, Senegal
+  date: September 1 - September 7, 2024
+  start: 2024-09-01
+  end: 2024-09-07
+  sub: ['ML']
+  note: null
+- title: ILCB Summer School
+  year: 2024
+  id: iss2024
+  full_name: Institute of Language, Communication and Brain Summer School 2024
+  link: https://www.ilcb.fr/2024-2/
+  deadline: '2024-05-24 23:59:59'
+  timezone: Europe/Paris
+  place: Marseille, France
+  date: August 26 - August 30, 2024
+  start: 2024-08-26
+  end: 2024-08-30
+  sub: ['CogSci', 'NLP']
+  note:
+- title: Summer School on Biomedical Image Analysis
+  year: 2024
+  id: ssbia24
+  full_name: Summer School on Biomedical Image Analysis 2024
+  link: https://biomed.compute.dtu.dk/
+  deadline: '2024-06-30 23:59:59'
+  timezone: Europe/Copenhagen
+  place: Copenhagen, Denmark
+  date: August 12 - August 16, 2024
+  start: 2024-08-12
+  end: 2024-08-16
+  sub: ['ML', 'Bio', 'CV']
+  note: null
+- title: Analytical Connectionism Summer School
+  year: 2024
+  id: acss2024
+  full_name: Analytical Connectionism Summer School 2024
+  link: https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US
+  deadline: '2024-05-17 23:59:59'
+  timezone: America/New_York
+  place: New York, USA
+  date: August 12 - August 23, 2024
+  start: 2024-08-12
+  end: 2024-08-23
+  sub: ['ML', 'CogSci']
+  note:
+- title: Princeton Machine Learning Theory Summer School
+  year: 2024
+  id: pmltss2024
+  full_name: Princeton Machine Learning Theory Summer School 2024
+  link: https://mlschool.princeton.edu/
+  deadline: '2024-03-01 23:59:59'
+  timezone: America/New_York
+  place: Princeton, USA
+  date: August 06 - August 15, 2024
+  start: 2024-08-06
+  end: 2024-08-15
+  sub: ['ML', 'Theory']
+  note:
+- title: NSF Open AI Cellular workshop
+  year: 2024
+  id: nsoacw2024
+  full_name: NSF Open AI Cellular workshop 2024
+  link: https://www.openaicellular.org/2024-oaic-workshop
+  deadline: '2024-06-15 23:59:59'
+  timezone: America/Chicago
+  place: Starkville, USA
+  date: August 06 - August 08, 2024
+  start: 2024-08-06
+  end: 2024-08-08
+  sub: ['ML', 'Bio']
+  note:
+- title: 35th European Summer School in Logic
+  year: 2024
+  id: essil2024
+  full_name: 35th European Summer School in Logic, Language and Information 2024
+  link: https://2024.esslli.eu/
+  deadline: '2024-05-31 23:59:59'
+  timezone: Europe/Brussels
+  place: Leuven, Belgium
+  date: July 29 - August 09, 2024
+  start: 2024-07-29
+  end: 2024-08-09
+  sub: ['Log']
+  note:
+- title: Model-Based Neuroscience and Cognition Summer School
+  year: 2024
+  id: mbncss2024
+  full_name: Model-Based Neuroscience and Cognition Summer School 2024
+  link: https://modelbasedneurosci.com/
+  deadline: '2024-05-15 23:59:59'
+  timezone: Europe/Amsterdam
+  place: Amsterdam, Nederlands
+  date: July 29 - August 02, 2024
+  start: 2024-07-29
+  end: 2024-08-02
+  sub: ['CogSci', 'Neuro']
+  note:
+- title: Vision and Sports Summer School
+  year: 2024
+  id: vsss2024
+  full_name: Vision and Sports Summer School 2024
+  link: https://cmp.felk.cvut.cz/summerschool2024
+  deadline: '2024-04-30 23:59:59'
+  timezone: Europe/Prague
+  place: Prague, Czechia
+  date: July 22 - July 27, 2024
+  start: 2024-07-22
+  end: 2024-07-27
+  sub: ['ML', 'CV']
+  note:
+- title: Summer School on Affordable AI
+  year: 2024
+  id: ssaa2024
+  full_name: Summer School on Affordable AI 2024
+  link: https://saai2024.github.io/
+  deadline: '2024-05-29 23:59:59'
+  timezone: Europe/Berlin
+  place: Bonn, Germany
+  date: July 22 - July 26, 2024
+  start: 2024-07-22
+  end: 2024-07-26
+  sub: ['ML', 'EML']
+  note:
+- title: Eastern European Machine Learning Summer School
+  year: 2024
+  id: eemlss2024
+  full_name: Eastern European Machine Learning Summer School 2024
+  link: https://www.eeml.eu/
+  deadline: '2024-03-29 23:59:59'
+  timezone: Europe/Belgrade
+  place: Novi Sad, Serbia
+  date: July 15 - July 20, 2024
+  start: 2024-07-15
+  end: 2024-07-20
+  sub: ['ML']
+  note: Application open Early January 2024
+- title: International School on Deep Learning
+  year: 2024
+  id: deeplearn24
+  full_name: DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence) 2024
+  link: https://deeplearn.irdta.eu/2024/
+  deadline: '2024-07-12 23:59:59'
+  timezone: Europe/Lisbon
+  place: Porto - Maia, Portugal
+  date: July 15 - July 19, 2024
+  start: 2024-07-15
+  end: 2024-07-19
+  sub: ['ML']
+  note:
+- title: African Computer Vision Summer School
+  year: 2024
+  id: acvss2024
+  full_name: African Computer Vision Summer School (ACVSS) 2024
+  link: https://www.acvss.ai/
+  deadline: '2024-03-15 23:59:59'
+  timezone: Africa/Nairobi
+  place: Nairobi, Kenya
+  date: July 14 - July 24, 2024
+  start: 2024-07-14
+  end: 2024-07-24
+  sub: ['ML', 'CV']
+  note:
+- title: Deep Learning and Reinforcement Learning Summer School
+  year: 2024
+  id: dlrlss2024
+  full_name: Deep Learning and Reinforcement Learning Summer School 2024
+  link: https://dlrl.ca/
+  deadline: '2024-02-16 23:59:59'
+  timezone: America/Toronto
+  place: Toronto, Canada
+  date: July 08 - July 17, 2024
+  start: 2024-07-08
+  end: 2024-07-17
+  sub: ['ML', 'RL']
+  note:
+- title: Deep Learning and Medical Imaging Summer School
+  year: 2024
+  id: dlmi2024
+  full_name: Deep Learning and Medical Imaging Summer School 2024
+  link: http://digital-health.one/dlmi/2024/
+  deadline: '2024-06-13 23:59:59'
+  timezone: Asia/Kolkata
+  place: Kharagpur, India
+  date: July 08 - July 13, 2024
+  start: 2024-07-08
+  end: 2024-07-13
+  sub: ['CV', 'Bio', 'ML']
+  note:
+- title: International Computer Vision Summer School
+  year: 2024
+  id: icvs2024
+  full_name: International Computer Vision Summer School 2024
+  link: https://iplab.dmi.unict.it/icvss2024/
+  deadline: '2024-03-31 23:59:59'
+  timezone: Europe/Rome
+  place: Sicily, Italy
+  date: July 07 - July 13, 2024
+  start: 2024-07-07
+  end: 2024-07-13
+  sub: ['CV']
+  note:
+- title: Amazon ML Summer School India
+  year: 2024
+  id: amazon24
+  full_name: Amazon ML Summer School India 2024
+  link: https://amazonmlsummerschoolindia.splashthat.com/
+  deadline: '2024-06-21 23:59:59'
+  timezone: Asia/Kolkata
+  place: Online
+  date: July 06 - July 28, 2024
+  start: 2024-07-06
+  end: 2024-07-28
+  sub: ['ML']
+  note:
+- title: Oxford ML school
+  year: 2024
+  id: omls2024
+  full_name: Oxford ML school 2024
+  link: https://www.oxfordml.school/
+  deadline: '2024-02-07 23:59:59'
+  timezone: Europe/London
+  place: Oxford, UK
+  date: July 06 - July 09, 2024
+  start: 2024-07-06
+  end: 2024-07-09
+  sub: ['ML']
+  note:
+- title: HIAS AI Summer School
+  year: 2024
+  id: hiasaiss2024
+  full_name: HIAS AI Summer School 2024
+  link: https://hellenic-ias.org/aicourse2024/
+  deadline: '2024-07-01 23:59:59'
+  timezone: Europe/Athens
+  place: Athens, Greece
+  date: July 01 - July 03, 2024
+  start: 2024-07-01
+  end: 2024-07-03
+  sub: ['ML']
+  note: Free
+- title: Machine Learning Summer School In Health
+  year: 2024
+  id: mlssh2024
+  full_name: Machine learning summer school in health, care and biosciences 2024
+  link: https://www.bumblekite.co/summer-school-24
+  deadline: '2024-05-15 23:59:59'
+  timezone: Europe/Zurich
+  place: Zürich, Switzerland
+  date: June 30 - July 06, 2024
+  start: 2024-06-30
+  end: 2024-07-06
+  sub: ['ML', 'Health', 'Bio']
+  note:
+- title: Machine Learning Crash Course
+  year: 2024
+  id: mlcc2024
+  full_name: Machine Learning Crash Course 2024
+  link: https://malga.unige.it/education/schools/mlcc2024
+  deadline: '2024-04-01 23:59:59'
+  timezone: Europe/Rome
+  place: Genova, Italy
+  date: June 25 - June 28, 2024
+  start: 2024-06-25
+  end: 2024-06-28
+  sub: ['ML']
+  note:
+- title: 10th International Summer School on AI and Big Data
+  year: 2024
+  id: ssaibd2024
+  full_name: 10th International Summer School on AI and Big Data 2024
+  link: https://scads.ai/education/summer-schools/summer-school-2024/
+  deadline: '2024-05-01 23:59:59'
+  timezone: Europe/Berlin
+  place: Leipzig, Germany
+  date: June 25 - June 28, 2024
+  start: 2024-06-25
+  end: 2024-06-28
+  sub: ['ML', 'GenAI', 'ML4Science', 'RAI', 'Theory']
+  note:
+- title: Generative Modeling Summer School
+  year: 2024
+  id: gmss2024
+  full_name: Generative Modeling Summer School 2024
+  link: https://gemss.ai/2024/
+  deadline: '2024-03-31 23:59:59'
+  timezone: Europe/Amsterdam
+  place: Eindhoven, Netherlands
+  date: June 24 - June 28, 2024
+  start: 2024-06-24
+  end: 2024-06-28
+  sub: ['ML', 'GenAI']
+  note:
+- title: Cooperative AI Summer School
+  year: 2024
+  id: cass2024
+  full_name: Cooperative AI Summer School 2024
+  link: https://www.cooperativeai.com/summer-school/summer-school-2024
+  deadline: '2024-04-26 23:59:59'
+  timezone: America/Los_Angeles
+  place: Santa Cruz, USA
+  date: June 19 - June 23, 2024
+  start: 2024-06-19
+  end: 2024-06-23
+  sub: ['ML', 'RL', 'RO']
+  note:
+- title: Information, Noise and Physics of Life
+  year: 2024
+  id: inpl2024
+  full_name: Information, Noise and Physics of Life 2024
+  link: https://indico.ictp.it/event/10484/overview
+  deadline: '2024-02-20 23:59:59'
+  timezone: Europe/Belgrade
+  place: Nis, Serbia
+  date: June 17 - June 28, 2024
+  start: 2024-06-17
+  end: 2024-06-28
+  sub: ['ML4Science', 'Theory']
+  note:
+- title: Madrid UPM Machine Learning and Advanced Statistics Summer School
+  year: 2024
+  id: upmlasss2024
+  full_name: Madrid UPM Machine Learning and Advanced Statistics Summer School 2024
+  link: http://dia.fi.upm.es/es/MLAS
+  deadline: '2024-06-14 23:59:59'
+  timezone: Europe/Madrid
+  place: Madrid, Spain
+  date: June 17 - June 28, 2024
+  start: 2024-06-17
+  end: 2024-06-28
+  sub: ['Theory']
+  note:
+- title: Artificial Intelligence and Games
+  year: 2024
+  id: aag2024
+  full_name: Artificial Intelligence and Games 2024
+  link: https://school.gameaibook.org/
+  deadline: '2024-03-31 23:59:59'
+  timezone: Europe/Malta
+  place: Valletta, Malta
+  date: June 17 - June 21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  sub: ['ML', 'AI4Games']
+  note:
+- title: Nordic Probabilistic AI School
+  year: 2024
+  id: npas2024
+  full_name: Nordic Probabilistic AI School 2024
+  link: https://nordic.probabilistic.ai/
+  deadline: '2024-03-01 23:59:59'
+  timezone: Europe/Copenhagen
+  place: Copenhagen, Denmark
+  date: June 17 - June 21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  sub: ['Theory']
+  note:
+- title: Principles of Machine Learning for Bioinformatics
+  year: 2024
+  id: pmlb2024
+  full_name: Principles of Machine Learning for Bioinformatics 2024
+  link: https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/
+  deadline: '2024-06-17 23:59:59'
+  timezone: America/Chicago
+  place: Austin, USA
+  date: June 17 - June 21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  sub: ['Bio']
+  note:
+- title: Norwegian AI Summer Research School
+  year: 2024
+  id: nsrs2024
+  full_name: Norwegian Artificial Intelligence Summer Research School 2024
+  link: https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html
+  deadline: '2024-03-31 23:59:59'
+  timezone: Europe/Oslo
+  place: Kristiansand, Norway
+  date: June 10 - June 14, 2024
+  start: 2024-06-10
+  end: 2024-06-14
+  sub: ['ML', 'Theory']
+  note: 3 ECTS, 3 Courses in parallel to choose from
+- title: Deep Learning and Computer Vision School
+  year: 2024
+  id: dlcvs2024
+  full_name: Deep Learning and Computer Vision School 2024
+  link: https://malga.unige.it/education/schools/dlcv2024
+  deadline: '2024-04-01 23:59:59'
+  timezone: Europe/Rome
+  place: Genova, Italy
+  date: June 10 - June 14, 2024
+  start: 2024-06-10
+  end: 2024-06-14
+  sub: ['ML', 'CV']
+  note:
+- title: RPL Summer School
+  year: 2024
+  id: rplss2024
+  full_name:  Robotics, Perception and Learning Summer School 2024
+  link: https://summer-school.rpl.eecs.kth.se
+  deadline: '2024-03-13 23:59:59'
+  timezone: Europe/Stockholm
+  place: Stockholm, Sweden
+  date: June 09 - June 14, 2024
+  start: 2024-06-09
+  end: 2024-06-14
+  sub: ['ML', 'RO']
+  note:
+- title: Artificial Intelligence in Education
+  year: 2024
+  id: aiie2024
+  full_name: Artificial Intelligence in Education 2024
+  link: https://www.uib.no/en/rs/bsrs/165716/artificial-intelligence-education
+  deadline: '2024-02-15 23:59:59'
+  timezone: Europe/Oslo
+  place: Bergen, Norway
+  date: June 03 - June 13, 2024
+  start: 2024-06-03
+  end: 2024-06-13
+  sub: ['ML', 'RAI']
+  note:
+- title: Summer School for Large Language Models
+  year: 2024
+  id: ssfllm2024
+  full_name: Summer School for Large Language Models 2024
+  link: http://ss.cs.tsinghua.edu.cn/index.html
+  deadline: '2024-04-01 23:59:59'
+  timezone: Asia/Shanghai
+  place: Beijing, China
+  date: July 06 - July 18, 2024
+  start: 2024-07-06
+  end: 2024-07-18
+  sub: ['ML', 'GenAI']
+  note:
+- title: Winter School on Foundation Models
+  year: 2024
+  id: wsfm2024
+  full_name: Winter School on Foundation Models
+  link: https://amsterdam-fomo.github.io/
+  deadline: '2024-02-15 23:59:59'
+  timezone: Europe/Amsterdam
+  place: Amsterdam, Nederlands
+  date: March 12 - March 15, 2024
+  start: 2024-03-12
+  end: 2024-03-15
+  sub: ['ML', 'GenAI']
+  note:
+- title: Tropical Probabilistic AI School
+  year: 2024
+  id: tpas2024
+  full_name: Tropical Probabilistic AI School 2024
+  link: https://tropical.probabilistic.ai/
+  deadline: '2024-01-23 23:59:59'
+  timezone: America/Sao_Paulo
+  place: Rio de Janeiro, Brazil
+  date: January 29 - February 02, 2024
+  start: 2024-01-29
+  end: 2024-02-02
+  sub: ['ML', 'Theory']
+  note:
