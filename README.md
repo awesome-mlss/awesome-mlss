@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://x.com/awesomeMLSS">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/awesomeMLSS">
-  <a>
+  </a>
   <a href="https://github.com/sshkhr/awesome-mlss/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/sshkhr/awesome-mlss" />
   </a>  
@@ -33,11 +33,11 @@
   </a>
 </p>
 
-[awesome-mlss.com](https://awesome-mlss.com/) is a community tool serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
+[awesome-mlss.com](https://awesome-mlss.com/) is a community tool which serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
 
 > <details>
->      <summary><font size="4"><strong> 🧐 Wait, what happened to the old README.MD with the list of schools? </strong></font></summary>
->      The old README which contained the list of all summer schools has been moved to the [OLD_README.md](OLD_README.md) file.
+>      <summary><strong> 🧐 Wait, what happened to the old README.MD with the list of schools? </strong></font></summary>
+>      The old README which contained the list of all summer schools in a markdown format has been moved to the <a href="OLD_README.md">OLD_README.md</a> file.
 >      We do not plan to maintain the old list anymore, but if you want to contribute to both the new list and the old list you are more than welcome to do so.<br><br>
 >      We believe that a website format with deadlines and calendar links suits our project better, and we hope you will find it more useful as well.
 > </details>
