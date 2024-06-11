@@ -17,28 +17,44 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[CIFAR Neuroscience of Consciousness Winter School](https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school/)|Mexico,  Mexico|CIFAR|December 19 - 21|July 12|N/A|Travel and accommodation will be paid||
+[Paris Generative AI summer school 2024](https://www.genai-school.universite-paris-saclay.fr/)|Paris, France|Université Paris-Saclay|October 21 - 25|June 16|€ 100 - 500|N/A|
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)|Capri, Italy|University Federico II of Napoli|Sep 23-27|Apr 20|€ 675||
+[Athens NLP (AθNLP)](https://athnlp.github.io/2024/)|Athens, Greece|[RC Athena](https://www.athena-innovation.gr/), [NCSR Demokritos](http://www.demokritos.gr/), [AUEB](https://www.dept.aueb.gr/en/cs), [Heriot-Watt University](https://www.hw.ac.uk/)|Sep 19-25|Jun 20|€ 300-500||
+[Inria-DFKI European Summer School on AI (IDESSAI 2024)](http://idessai.eu/)|Saarbrücken, Germany|DFKI and Inria|Sep 9-13|Before July End|€ 230||
 [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org)|Milan, Italy|DeepMind|Sep 9-13|Mar 21|€ 0-500|Yes|
-[Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|Apr 1|0|
+[Gaussian Process Summer School 2024](https://gpss.cc/gpss24/)|Manchester, UK|Gaussian Process Summer School|Sep 9-12|Jun 28|£300|No|
+[Applied Harmonic Analysis and Machine Learning](https://malga.unige.it/education/schools/ahaml2024)|Genova, Italy|University of Genoa|Sep 2-6|Jul 31|0|
+[ACM Summer School on HPC Computer Architectures for AI and Dedicated applications](https://europe.acm.org/seasonal-schools/hpc/2024)|Barcelona, Spain|Barcelona Supercomputing Center|Sep 2-6|Jun 15|0|Will cover accommodation, catering|
 [Deep Learning Indaba](https://deeplearningindaba.com/2024/)|Dakar, Senegal|Deep Learning Indaba|Sep 01 - 07|||
-[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University |Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
+[ILCB Summer School](https://www.ilcb.fr/2024-2/)|Marseille, France|Institute of Language Communication and the Brain|Aug 26-30|May 24|0|||
+[Summer school on biomedical image analysis](https://biomed.compute.dtu.dk/)|Copenhagen, Denmark|DIKU, DTU, and AAU|Aug 12-16|Jun|5600 DKK|No||
+[Analytical Connectionism Summer School 2024](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary?tm=c28Koyl8IllyihclpsSQ0rgd05jbzwluFRsecG8Kbd0&locale=en-US)|New York, USA|Flatiron Institute, New York University|Aug 12 - 23|May 17|0|Yes|
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA| Princeton University|Aug 06 - 15|Mar 01|0|Yes - free accommodation and $500 travel reimbursement.|
+[NSF Open AI Cellular workshop](https://www.openaicellular.org/2024-oaic-workshop)|Starkville (MS), USA|OAIC|Aug 06 - 08|Jun 15|0|Yes|
+[35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/)|Leuven, Belgium|ESSLLI|Jul 29 – Aug 9|May 31|€550 |No|
 [Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam, Nederlands| University of Amsterdam |Jul 29 – Aug 2|May 15|€550 |No|
-[Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650|||
+[Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650||
+[Summer School on Affordable AI](https://saai2024.github.io/)|Bonn, Germany|Albarqouni Lab|July 22-26|May 29|0||
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - 20|March 29|€ 100-400|Travel grants available on request | Application open: Early January 2024 |
 [DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence)](https://deeplearn.irdta.eu/2024/)|Porto - Maia, Portugal|Institute for Research Development, Training and Advice – IRDTA, Brussels/London |Jul 15 - 19|July 12|€430-€580| | Application open: Early January 2024 |
 [African Computer Vision Summer School (ACVSS)](https://www.acvss.ai/)|Nairobi, Kenya|DAIR, Inria, CSIRO, UBC, Dedan Kimathi University, Ontario Tech, ISTA, Naver Labs, Microsoft|Jul 14-24|Mar 15|$0-1500|Yes|
-[Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17 | Feb 16 | 800 CAD | Yes, for black and indigenous students |
+[Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)|Toronto, Canada|CIFAR|Jul 8 - 17|Feb 16|800 CAD|Yes, for black and indigenous students|
+[Deep Learning and Medical Imaging Summer School](http://digital-health.one/dlmi/2024/)|Kharagpur, India|IIT Kharagpur|Jul 8 - 13|Jun 13|₹3,540.00 (depends)|-|
 [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2024/)|Sicily, Italy|University of Catania|Jul 7 - 13|Mar 31|€575-€1000|
+[Amazon ML Summer School India](https://amazonmlsummerschoolindia.splashthat.com/)|Virtual (Only for Indian students)|Amazon|Jul 6-28|Jun 21|Free|-|
 [Oxford ML school](https://www.oxfordml.school/)|Oxford, UK| AI for Global Goals & University of Oxford & Cifar |Jul 06 - 09 & Jul 11 - 14|Feb 07| £150-£950 |Yes|
+[HIAS AI Summer School](https://hellenic-ias.org/aicourse2024/)|Athens, Greece|[The Hellenic Initiative](https://thehellenicinitiative.org/)|Jul 1-3||-||
 [Machine learning summer school in health, care and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich, Switzerland| Bumblekite |Jun 30 - Jul 06|May 15| TBA | TBA |
 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2024)|Genova, Italy|University of Genoa|Jun 25-28|Apr 1|€50-300|
 [10th International Summer School on AI and Big Data](https://scads.ai/education/summer-schools/summer-school-2024/)|Leipzig, Germany|[ScaDS.AI Dresden/Leipzig (Center for Scalable Data Analytics and Artificial Intelligence)](https://scads.ai)|Jun 25-28|Jun 1|200 - 300 Euro| | Generative AI, Earth Science, Responsible AI, Mathematical Foundations of AI, Protein Engineering and AI
 [Generative Modeling Summer School](https://gemss.ai/2024/)|Eindhoven, Netherlands|Eindhoven University of Technology|Jun 24 - 28|Mar 31|400-800€||
-[Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2024)|Santa Cruz, US|Cooperative AI Fundation|Jun 19-23|April 26|$350 / $700||
+[Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2024)|Santa Cruz, USA|Cooperative AI Fundation|Jun 19-23|April 26|$350 / $700||
 [Information, Noise and Physics of Life](https://indico.ictp.it/event/10484/overview)|Nis, Serbia|ICTP|Jun 17-28|Feb 20|0|Yes|
 [Madrid UPM Machine Learning and Advanced Statistics Summer School](http://dia.fi.upm.es/es/MLAS)|Madrid, Spain |Universidad Politécnica de Madrid|Jun 17-28|Jun 14|300-1200€|No|
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Valletta, Malta||Jun 17-21|
 [Nordic Probabilistic AI School](https://nordic.probabilistic.ai/) | Copenhagen, Denmark | AAU & NTNU | June 17-21 | March 1 | 2000-8000 DKK | Yes |
+[Principles of Machine Learning for Bioinformatics](https://site.research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2024-summer-school/)|Austin, USA| UT Austin Center for Biomedical Research Support| June 17-21|-|Depends|No|
 [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2024/index.html) | Kristiansand, Norway| NORA |Jun 10 - 14 | March 31 | | | 3 ECTS, 3 Courses in parallel to choose from
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv2024)|Genova, Italy|University of Genoa|Jun 10-14|Apr 1|€50-300|
 [RPL Summer School 2024](https://summer-school.rpl.eecs.kth.se)|Stockholm, Sweden|Division for Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology|Jun 09 - 14 | Mar 13 | 0 | No |
