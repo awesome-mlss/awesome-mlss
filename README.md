@@ -13,27 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/awesomeMLSS">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/awesomeMLSS">
-  </a>
-  <a href="https://github.com/sshkhr/awesome-mlss/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/sshkhr/awesome-mlss" />
-  </a>  
-  <a href="https://github.com/sshkhr/awesome-mlss">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
-  </a>
-  <a href="https://awesome-mlss.com">
-    <img src="https://github.com/sshkhr/dlai-companion/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GitHub Pages">
-  </a>
-  <a href="https://github.com/sshkhr/awesome-mlss/stargazers">
-    <img src="https://img.shields.io/github/stars/sshkhr/awesome-mlss" alt="GitHub Stars">
-  </a>
+  <a href="https://x.com/awesomeMLSS"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/awesomeMLSS"></a>
+  <a href="https://github.com/sshkhr/awesome-mlss/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/sshkhr/awesome-mlss"/></a>  
+  <a href="https://github.com/sshkhr/awesome-mlss"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"></a>
+  <img alt="Netlify" src="https://img.shields.io/netlify/2839ba31-3fab-4b5b-984a-995e437d79ed?logoColor=red">
+  <a href="https://github.com/sshkhr/awesome-mlss/stargazers"><img src="https://img.shields.io/github/stars/sshkhr/awesome-mlss" alt="GitHub Stars"></a>
 </p>
 
-[awesome-mlss.com](https://awesome-mlss.com/) is a community tool which serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
+[awesome-mlss.com](https://awesome-mlss.com/) is a community tool which serves as a central repository for registration deadlines at summer schools in machine learning and other closely related fields.
 
 > <details>
 >      <summary><strong> 🧐 Wait, what happened to the old README.MD with the list of schools? </strong></font></summary>
@@ -49,25 +37,26 @@ Contributions are very welcome!
 To add or update a new summer school deadline:
 - Fork the repository
 - Optional: create a new branch with the name of the summer school
-- Update `_data/summerschools.yml`
+- Update `site/_data/summerschools.yml`
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
+    + See available subcategories [here](site/_data/types.yml).
 - Optionally add a `note` in case there is important information to convey
 - Example:
     ```yaml
     - title: BestMLSS
-      year: 2022
-      id: bestmlss22  # title as lower case + last two digits of year
+      year: 2024
+      id: bestmlss24  # title as lower case + last two digits of year
       full_name: Best Machine Learning Summer School # full conference name
       link: link-to-website.com
       deadline: YYYY-MM-DD HH:SS
       abstract_deadline: YYYY-MM-DD HH:SS
       timezone: Asia/Seoul
       place: Incheon, South Korea
-      date: September, 18-22, 2022
+      date: September, 18-22, 2024
       start: YYYY-MM-DD
       end: YYYY-MM-DD
-      sub: SP
+      sub: Ml, NLP
       note: Important
     ```
 - Send a pull request
