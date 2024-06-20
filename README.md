@@ -40,24 +40,23 @@ To add or update a new summer school deadline:
 - Update `site/_data/summerschools.yml`
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
-    + See available subcategories [here](site/_data/types.yml).
+    + See available subcategories [here](site/_data/types.yml). Use the value of the `sub` attribute to specify the subcategory.
 - Optionally add a `note` in case there is important information to convey
 - Example:
     ```yaml
-    - title: BestMLSS
-      year: 2024
-      id: bestmlss24  # title as lower case + last two digits of year
-      full_name: Best Machine Learning Summer School # full conference name
-      link: link-to-website.com
-      deadline: YYYY-MM-DD HH:SS
-      abstract_deadline: YYYY-MM-DD HH:SS
-      timezone: Asia/Seoul
-      place: Incheon, South Korea
-      date: September, 18-22, 2024
-      start: YYYY-MM-DD
-      end: YYYY-MM-DD
-      sub: Ml, NLP
-      note: Important
+    - title: BestMLSS # (required❗)
+      year: 2024 # (required❗)
+      id: bestmlss24  # title as lower case + last two digits of year # (required❗)
+      full_name: Best Machine Learning Summer School # full school name # (required❗)
+      link: link-to-website.com # (required❗)
+      deadline: YYYY-MM-DD HH:SS # (required❗)
+      timezone: Asia/Seoul # (required❗)
+      place: Incheon, South Korea # (required❗)
+      date: September 18 - September 22, 2024 # (required❗)
+      start: YYYY-MM-DD # (required❗)
+      end: YYYY-MM-DD # (required❗)
+      sub: Ml, NLP #(at least 1 required❗)
+      note: Any important notes about the school # (optional🤙)
     ```
 - Send a pull request
 
