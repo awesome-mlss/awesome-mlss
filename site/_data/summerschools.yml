@@ -585,36 +585,37 @@
   note:
 - title: Climate Change AI Summer School (Virtual)
   year: 2024
-  id: climatechangeAIvirtual24 
+  id: ccaivirtual24 
   full_name: Climate Change AI Summer School 2024
   link: https://www.climatechange.ai/events/summer_school2024
+  deadline: '2024-08-01 23:59:59'
   place: Virtual
-  date: June 20-August 1, 2024
+  date: June 20 - August 1, 2024
   start: 2024-06-20
   end: 2024-08-01
-  sub: ['Ml', 'ML4Science']
+  sub: ['ML', 'ML4Science']
   note: null
 - title: 27th BMVA Computer Vision Summer School
   year: 2024
-  id: BMVAComputerVision24
+  id: bmvacv24
   full_name: 27th BMVA Computer Vision Summer School 2024
   link: https://cvss.bmva.org/
   deadline: 2024-06-30
-  place: Durham University, UK
-  date: July, 15-19, 2024
+  place: Durham, UK
+  date: July 15 - July 19, 2024
   start: 2024-07-15
   end: 2024-07-19
-  sub: ['Ml', 'CV']
-  note: Summer School + Non-Residential (No accommodation provided): 275 GBP (£)
+  sub: ['ML', 'CV']
+  note: "Summer School + Non-Residential (No accommodation provided): 275 GBP (£)"
 - title: RecSys Summer School
   year: 2024
-  id: RecSysSummerSchool24
+  id: recsysss24
   full_name: RecSys Summer School 2024
   link: https://acmrecsys.github.io/rsss2024/
   deadline: 2024-07-23
   place: Bari, Italy
-  date: October 8-12, 2024
+  date: October 8 - 12, 2024
   start: 2024-10-08
   end: 2024-10-12
-  sub: ['Ml']
-  note: Students travel grants available
+  sub: ['ML']
+  note: "Students travel grants available"
