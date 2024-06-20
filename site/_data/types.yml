@@ -68,3 +68,6 @@
 - color: '#3049de'
   name: Responsible AI
   sub: RAI
+- color: '#7733ff'
+  name: Quantum AI
+  sub: Quantum
