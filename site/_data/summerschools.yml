@@ -632,3 +632,16 @@
   end: 2024-10-12
   sub: ['ML']
   note: "Students travel grants available"
+- title: International Summer School in Cognitive Science
+  year: 2024 
+  id: issCogSciBulgaria24
+  full_name: 30th International Summer School in Cognitive Science
+  link: https://cogsci.nbu.bg/en/international-summer-school-in-cognitive-science
+  deadline: 2024-06-26
+  timezone: Eastern European Time
+  place: Sofia, Bulgaria
+  date: July 01 - July 05, 2024
+  start: 2024-07-01
+  end: 2024-07-05
+  sub: ['ML', 'CogSci']
+  note: Registration is free.
