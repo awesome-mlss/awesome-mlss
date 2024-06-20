@@ -1,3 +1,16 @@
+- title: European Summer School on Quantum AI (EQAI)
+  year: 2024
+  id: eqai24
+  full_name: Third European Summer School on Quantum AI (EQAI 2024)
+  link: https://eqai.eu/
+  deadline: '2024-07-19 11:00:00'
+  timezone: Europe/Rome
+  place: Lignano Sabbiadoro, Italy
+  date: September 02 - September 06, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  sub: ['ML', 'Quantum', 'HW']
+  note: null
 - title: CIFAR Neuroscience of Consciousness Winter School
   year: 2024
   id: cifarneuro24
