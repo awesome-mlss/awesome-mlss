@@ -71,3 +71,6 @@
 - color: '#7733ff'
   name: Quantum AI
   sub: Quantum
+- color: '#DAA520'
+  name: Recommender Systems
+  sub: RecSys
