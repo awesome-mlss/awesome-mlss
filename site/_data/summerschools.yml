@@ -1,3 +1,16 @@
+- title: AIHLS
+  year: 2024
+  id: aihls24
+  full_name: Summer School on Artificial Intelligence in Health and Life Sciences 2024
+  link: https://sites.google.com/view/summer-school-aihls/home
+  deadline: '2024-09-08 12:00:00'
+  timezone: Europe/Rome
+  place: Rome, Italy
+  date: September 09 - September 13, 2024
+  start: 2024-09-09
+  end: 2024-09-13
+  sub: ['ML', 'DL', 'Health']
+  note: null
 - title: European Summer School on Quantum AI (EQAI)
   year: 2024
   id: eqai24
