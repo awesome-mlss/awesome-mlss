@@ -9,7 +9,7 @@
   date: September 09 - September 13, 2024
   start: 2024-09-09
   end: 2024-09-13
-  sub: ['ML', 'DL', 'Health']
+  sub: ['ML', 'Health']
   note: null
 - title: European Summer School on Quantum AI (EQAI)
   year: 2024
@@ -65,7 +65,7 @@
   note: null
 - title: AθNLP
   year: 2024
-  id: athensnlpaθnlp24
+  id: athensnlp24
   full_name: Athens NLP 2024 Summer School
   link: https://athnlp.github.io/2024/
   deadline: '2024-06-20 23:59:59'
@@ -651,7 +651,7 @@
   full_name: 30th International Summer School in Cognitive Science
   link: https://cogsci.nbu.bg/en/international-summer-school-in-cognitive-science
   deadline: 2024-06-26
-  timezone: Eastern European Time
+  timezone: Europe/Sofia
   place: Sofia, Bulgaria
   date: July 01 - July 05, 2024
   start: 2024-07-01

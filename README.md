@@ -39,8 +39,8 @@ To add or update a new summer school deadline:
 - Optional: create a new branch with the name of the summer school
 - Update `site/_data/summerschools.yml`
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + See available timezone strings [here](https://momentjs.com/timezone/).
-    + See available subcategories [here](site/_data/types.yml). Use the value of the `sub` attribute to specify the subcategory.
+    + Please use one of the timezone string mentioned in [timezones](timezones.md).
+    + Please use one of the subcategory mentioned in [topics](topics.md). Use the value of the `sub` attribute to specify the subcategory.
 - Optionally add a `note` in case there is important information to convey
 - Example:
     ```yaml
