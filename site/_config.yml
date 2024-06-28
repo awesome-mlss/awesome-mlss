@@ -6,6 +6,7 @@ domain: "awesome-mlss.com"
 baseurl: ""
 
 twitter_hashtag: machinelearning
+twitter_username: awesomeMLSS
 github_username: awesome-mlss
 github_repo: awesome-mlss
 
