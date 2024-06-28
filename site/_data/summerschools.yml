@@ -11,6 +11,8 @@
   end: 2024-09-13
   sub: ['ML', 'Health']
   note: null
+  twitter: null
+  emaiL: ucbmacademy@unicampus.it
 - title: European Summer School on Quantum AI (EQAI)
   year: 2024
   id: eqai24
@@ -24,6 +26,8 @@
   end: 2024-09-06
   sub: ['ML', 'Quantum', 'HW']
   note: null
+  twitter: null
+  email: info.eqai@gmail.com
 - title: CIFAR Neuroscience of Consciousness Winter School
   year: 2024
   id: cifarneuro24
@@ -37,6 +41,8 @@
   end: 2024-12-21
   sub: ['Neuro']
   note: null
+  twitter: https://x.com/cifar_news?mx=2
+  email: info@cifar.ca
 - title: Paris Generative AI Autumn School
   year: 2024
   id: genaischool24
@@ -50,6 +56,8 @@
   end: 2024-10-25
   sub: ['ML', 'NLP']
   note: null
+  twitter: null
+  email: gs.isn@universite-paris-saclay.fr
 - title: IEEE-EURASIP S3P
   year: 2024
   id: ies2024
@@ -63,6 +71,8 @@
   end: 2024-09-27
   sub: ['ML', 'SP']
   note: null
+  twitter: null
+  email: s3p2024capri@gmail.com
 - title: AθNLP
   year: 2024
   id: athensnlp24
@@ -76,6 +86,8 @@
   end: 2024-09-25
   sub: ['ML', 'NLP']
   note: null
+  twitter: https://twitter.com/athensnlp
+  email: athnlp2024@athenarc.gr
 - title: IDESSAI
   year: 2024
   id: idessai24
@@ -89,6 +101,8 @@
   end: 2024-09-13
   sub: ['NLP', 'RO', 'GenAI']
   note: null
+  twitter: null
+  email: idessai-support@dfki.de
 - title: Mediterranean Machine Learning Summer School (M2L)
   year: 2024
   id: m2l2024
@@ -102,6 +116,8 @@
   end: 2024-09-13
   sub: ['ML']
   note: null
+  twitter: https://twitter.com/M2lSchool
+  email: organizers@m2lschool.org
 - title: Gaussian Process Summer School
   year: 2024
   id: gpss2024
@@ -115,6 +131,8 @@
   end: 2024-09-12
   sub: ['ML', 'Theory']
   note: null
+  twitter: https://twitter.com/sheffieldmlnet
+  email: mauricio.alvarezlopez@manchester.ac.uk
 - title: Applied Harmonic Analysis and Machine Learning
   year: 2024
   id: ahaml2024
@@ -128,6 +146,8 @@
   end: 2024-09-09
   sub: ['ML', 'SP']
   note: null
+  twitter: https://twitter.com/malga_center
+  email: malga@unige.it
 - title: HPC Computer Architectures for AI and Dedicated Applications
   year: 2024
   id: acmhpc2024
@@ -154,6 +174,8 @@
   end: 2024-09-07
   sub: ['ML']
   note: null
+  twitter: https://twitter.com/deepindaba
+  email: info@deeplearningindaba.com
 - title: ILCB Summer School
   year: 2024
   id: iss2024
@@ -166,7 +188,9 @@
   start: 2024-08-26
   end: 2024-08-30
   sub: ['CogSci', 'NLP']
-  note:
+  note: null
+  email: contact@ilcb.fr
+  twitter: https://twitter.com/ILCB_france
 - title: Summer School on Biomedical Image Analysis
   year: 2024
   id: ssbia24
@@ -180,6 +204,8 @@
   end: 2024-08-16
   sub: ['ML', 'Bio', 'CV']
   note: null
+  twitter: null
+  email: acco@adm.dtu.dk
 - title: Analytical Connectionism Summer School
   year: 2024
   id: acss2024
@@ -192,7 +218,9 @@
   start: 2024-08-12
   end: 2024-08-23
   sub: ['ML', 'CogSci']
-  note:
+  note: null
+  twitter: null
+  email: cclarke@simonsfoundation.org
 - title: Princeton Machine Learning Theory Summer School
   year: 2024
   id: pmltss2024
@@ -205,7 +233,9 @@
   start: 2024-08-06
   end: 2024-08-15
   sub: ['ML', 'Theory']
-  note:
+  note: null
+  twitter: null
+  email: pmlss@princeton.edu
 - title: NSF Open AI Cellular workshop
   year: 2024
   id: nsoacw2024
@@ -218,7 +248,9 @@
   start: 2024-08-06
   end: 2024-08-08
   sub: ['ML', 'Bio']
-  note:
+  note: null
+  twitter: null
+  email: vuk.marojevic@ece.msstate.edu
 - title: 35th European Summer School in Logic
   year: 2024
   id: essil2024
@@ -231,7 +263,9 @@
   start: 2024-07-29
   end: 2024-08-09
   sub: ['Log']
-  note:
+  note: null
+  twitter: null
+  email: esslli2024@kuleuven.be
 - title: Model-Based Neuroscience and Cognition Summer School
   year: 2024
   id: mbncss2024
@@ -244,7 +278,9 @@
   start: 2024-07-29
   end: 2024-08-02
   sub: ['CogSci', 'Neuro']
-  note:
+  note: null
+  twitter: null
+  email: info.modelbasedneuroscience@gmail.com
 - title: Vision and Sports Summer School
   year: 2024
   id: vsss2024
@@ -257,7 +293,9 @@
   start: 2024-07-22
   end: 2024-07-27
   sub: ['ML', 'CV']
-  note:
+  note: null
+  twitter: null
+  email: vs3@cmp.felk.cvut.cz
 - title: Summer School on Affordable AI
   year: 2024
   id: ssaa2024
@@ -270,7 +308,9 @@
   start: 2024-07-22
   end: 2024-07-26
   sub: ['ML', 'EML']
-  note:
+  note: null
+  twitter: null
+  email: shadi.albarqouni@ukbonn.de
 - title: Eastern European Machine Learning Summer School
   year: 2024
   id: eemlss2024
@@ -284,6 +324,8 @@
   end: 2024-07-20
   sub: ['ML']
   note: Application open Early January 2024
+  twitter: https://x.com/EEMLcommunity
+  email: contact@eeml.eu
 - title: International School on Deep Learning
   year: 2024
   id: deeplearn24
@@ -296,7 +338,9 @@
   start: 2024-07-15
   end: 2024-07-19
   sub: ['ML']
-  note:
+  note: null
+  twitter: null
+  email: david@irdta.eu
 - title: African Computer Vision Summer School
   year: 2024
   id: acvss2024
@@ -309,7 +353,9 @@
   start: 2024-07-14
   end: 2024-07-24
   sub: ['ML', 'CV']
-  note:
+  note: null
+  twitter: https://x.com/ACVSS_AI
+  email: acvss@googlegroups.com
 - title: Deep Learning and Reinforcement Learning Summer School
   year: 2024
   id: dlrlss2024
@@ -322,7 +368,9 @@
   start: 2024-07-08
   end: 2024-07-17
   sub: ['ML', 'RL']
-  note:
+  note: null
+  twitter: https://twitter.com/CIFAR_News
+  email: info@dlrl.ca
 - title: Deep Learning and Medical Imaging Summer School
   year: 2024
   id: dlmi2024
@@ -335,7 +383,9 @@
   start: 2024-07-08
   end: 2024-07-13
   sub: ['CV', 'Bio', 'ML']
-  note:
+  note: null
+  twitter: null
+  email: null
 - title: International Computer Vision Summer School
   year: 2024
   id: icvs2024
@@ -348,7 +398,9 @@
   start: 2024-07-07
   end: 2024-07-13
   sub: ['CV']
-  note:
+  note: null
+  twitter: https://twitter.com/icvss
+  email: icvss@dmi.unict.it
 - title: Amazon ML Summer School India
   year: 2024
   id: amazon24
@@ -361,7 +413,9 @@
   start: 2024-07-06
   end: 2024-07-28
   sub: ['ML']
-  note:
+  note: null
+  twitter: null
+  email: null
 - title: Oxford ML school
   year: 2024
   id: omls2024
@@ -374,7 +428,9 @@
   start: 2024-07-06
   end: 2024-07-09
   sub: ['ML']
-  note:
+  note: null
+  twitter: https://twitter.com/GlobalGoalsAI
+  email: contact@oxfordml.school
 - title: HIAS AI Summer School
   year: 2024
   id: hiasaiss2024
@@ -388,6 +444,8 @@
   end: 2024-07-03
   sub: ['ML']
   note: Free
+  twitter: null
+  email: aicourse@hellenic-ias.org
 - title: Machine Learning Summer School In Health
   year: 2024
   id: mlssh2024
@@ -400,7 +458,9 @@
   start: 2024-06-30
   end: 2024-07-06
   sub: ['ML', 'Health', 'Bio']
-  note:
+  note: null
+  twitter: null
+  email: bumblekite-team@four-corp.com
 - title: Machine Learning Crash Course
   year: 2024
   id: mlcc2024
@@ -413,7 +473,9 @@
   start: 2024-06-25
   end: 2024-06-28
   sub: ['ML']
-  note:
+  note: null
+  twitter: https://twitter.com/malga_center
+  email: info@unige.it
 - title: 10th International Summer School on AI and Big Data
   year: 2024
   id: ssaibd2024
@@ -426,7 +488,9 @@
   start: 2024-06-25
   end: 2024-06-28
   sub: ['ML', 'GenAI', 'ML4Science', 'RAI', 'Theory']
-  note:
+  note: null
+  twitter: https://twitter.com/Sca_DS
+  email: zih@tu-dresden.de
 - title: Generative Modeling Summer School
   year: 2024
   id: gmss2024
@@ -439,7 +503,9 @@
   start: 2024-06-24
   end: 2024-06-28
   sub: ['ML', 'GenAI']
-  note:
+  note: null
+  twitter: https://twitter.com/hashtag/GeMSS24
+  email: gemss@sciencesconf.org
 - title: Cooperative AI Summer School
   year: 2024
   id: cass2024
@@ -452,7 +518,9 @@
   start: 2024-06-19
   end: 2024-06-23
   sub: ['ML', 'RL', 'RO']
-  note:
+  note: null
+  twitter: https://twitter.com/coop_ai
+  email: info@cooperativeai.org
 - title: Information, Noise and Physics of Life
   year: 2024
   id: inpl2024
@@ -465,7 +533,9 @@
   start: 2024-06-17
   end: 2024-06-28
   sub: ['ML4Science', 'Theory']
-  note:
+  note: null
+  twitter: https://twitter.com/ictpnews
+  email: web@rt.ictp.it
 - title: Madrid UPM Machine Learning and Advanced Statistics Summer School
   year: 2024
   id: upmlasss2024
@@ -478,7 +548,9 @@
   start: 2024-06-17
   end: 2024-06-28
   sub: ['Theory']
-  note:
+  note: null
+  twitter: https://twitter.com/grupocig_upm
+  email: lauragveiga@fi.upm.es
 - title: Artificial Intelligence and Games
   year: 2024
   id: aag2024
@@ -491,7 +563,9 @@
   start: 2024-06-17
   end: 2024-06-21
   sub: ['ML', 'AI4Games']
-  note:
+  note: null
+  twitter: https://twitter.com/GameAISchool
+  email: school@gameaibook.org
 - title: Nordic Probabilistic AI School
   year: 2024
   id: npas2024
@@ -504,7 +578,9 @@
   start: 2024-06-17
   end: 2024-06-21
   sub: ['Theory']
-  note:
+  note: null
+  twitter: https://twitter.com/probabilisticai/
+  email: hello@probabilistic.ai
 - title: Principles of Machine Learning for Bioinformatics
   year: 2024
   id: pmlb2024
@@ -516,8 +592,10 @@
   date: June 17 - June 21, 2024
   start: 2024-06-17
   end: 2024-06-21
-  sub: ['Bio']
-  note:
+  sub: ['ML', 'Bio']
+  twitter: null
+  note: null
+  email: halper@che.utexas.edu
 - title: Norwegian AI Summer Research School
   year: 2024
   id: nsrs2024
@@ -531,6 +609,8 @@
   end: 2024-06-14
   sub: ['ML', 'Theory']
   note: 3 ECTS, 3 Courses in parallel to choose from
+  twitter: https://twitter.com/NORAdotAI
+  email: contact@nora.ai
 - title: Deep Learning and Computer Vision School
   year: 2024
   id: dlcvs2024
@@ -543,7 +623,9 @@
   start: 2024-06-10
   end: 2024-06-14
   sub: ['ML', 'CV']
-  note:
+  note: null
+  twitter: https://twitter.com/malga_center
+  email: malga@unige.it
 - title: RPL Summer School
   year: 2024
   id: rplss2024
@@ -556,7 +638,9 @@
   start: 2024-06-09
   end: 2024-06-14
   sub: ['ML', 'RO']
-  note:
+  note: null
+  twitter: null
+  email: rpl-events@eecs.kth.se 
 - title: Artificial Intelligence in Education
   year: 2024
   id: aiie2024
@@ -569,7 +653,9 @@
   start: 2024-06-03
   end: 2024-06-13
   sub: ['ML', 'RAI']
-  note:
+  note: null
+  twitter: https://twitter.com/uib
+  email: bsrs@uib.no
 - title: Summer School for Large Language Models
   year: 2024
   id: ssfllm2024
@@ -582,7 +668,9 @@
   start: 2024-07-06
   end: 2024-07-18
   sub: ['ML', 'GenAI']
-  note:
+  note: null
+  twitter: null
+  email: jiaoxue@tsinghua.edu.cn
 - title: Winter School on Foundation Models
   year: 2024
   id: wsfm2024
@@ -595,7 +683,9 @@
   start: 2024-03-12
   end: 2024-03-15
   sub: ['ML', 'GenAI']
-  note:
+  note: null
+  twitter: null
+  email: null
 - title: Tropical Probabilistic AI School
   year: 2024
   id: tpas2024
@@ -608,7 +698,9 @@
   start: 2024-01-29
   end: 2024-02-02
   sub: ['ML', 'Theory']
-  note:
+  note: null
+  twitter: https://twitter.com/probabilisticai/
+  email: hello@probabilistic.ai
 - title: Climate Change AI Summer School (Virtual)
   year: 2024
   id: ccaivirtual24 
@@ -621,6 +713,8 @@
   end: 2024-08-01
   sub: ['ML', 'ML4Science']
   note: null
+  twitter: https://twitter.com/climatechangeai
+  email: summerschool+inperson@climatechange.ai
 - title: 27th BMVA Computer Vision Summer School
   year: 2024
   id: bmvacv24
@@ -633,6 +727,8 @@
   end: 2024-07-19
   sub: ['ML', 'CV']
   note: "Summer School + Non-Residential (No accommodation provided): 275 GBP (£)"
+  twitter: https://twitter.com/BmvaCvss
+  email: bmva-cvss@durham.ac.uk
 - title: RecSys Summer School
   year: 2024
   id: recsysss24
@@ -645,6 +741,8 @@
   end: 2024-10-12
   sub: ['ML']
   note: "Students travel grants available"
+  twitter: https://x.com/ACMRecSys
+  email: summerschool2024@recsys.acm.org
 - title: International Summer School in Cognitive Science
   year: 2024 
   id: issCogSciBulgaria24
@@ -658,3 +756,5 @@
   end: 2024-07-05
   sub: ['ML', 'CogSci']
   note: Registration is free.
+  twitter: https://twitter.com/NBUSofia
+  email: summer.school.cogsci@gmail.com
