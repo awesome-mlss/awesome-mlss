@@ -27,8 +27,18 @@
 
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.twitter_username }}">
+
+{% if page.author %}
 <meta name="twitter:creator" content="@{{ page.author }}">
+{% else %}
+<meta name="twitter:title"   content="{{ site.author }}">
+{% endif %}
+
+{% if page.title %}
 <meta name="twitter:title"   content="{{ page.title }}">
+{% else %}
+<meta name="twitter:title"   content="{{ site.title }}">
+{% endif %}
 
 {% if page.summary %}
 <meta name="twitter:description" content="{{ page.summary }}">
@@ -38,14 +48,14 @@
 
 {% if page.largeimage %}
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.largeimage }}">
+<meta name="twitter:image" content="{{ site.domain }}{{ page.largeimage }}">
 {% else %}
 {% if page.image %}
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+<meta name="twitter:image" content="{{ site.domain }}/{{ page.image }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ site.title_image }}">
+<meta name="twitter:image" content="{{ site.domain }}{{ site.title_image }}">
 {% endif %}
 {% endif %}
 <!-- end of Twitter cards -->
