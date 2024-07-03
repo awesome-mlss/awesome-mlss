@@ -758,3 +758,16 @@
   note: Registration is free.
   twitter: https://twitter.com/NBUSofia
   email: summer.school.cogsci@gmail.com
+- title: Touch Sensing and Processing Summer School
+  year: 2024
+  id: tspss2024 
+  full_name: Touch Sensing and Processing Summer School 2024
+  link: https://lasr.org/tspss2024
+  deadline: 2024-07-09 23:59
+  timezone: GMT+2
+  place: Dresden, Germany
+  date: September 02 - September 06, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  sub: ['ML', 'RO']
+  note: Organizing committee decided to provide full funding for all our participants, which includes the cost of a hotel stay and meals for the entire five-day event.
