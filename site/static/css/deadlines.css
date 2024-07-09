@@ -233,6 +233,11 @@ footer {
   line-height: 16px;
 }
 
+#coming-events-title {
+  padding-bottom: 15px;
+  border-bottom: 2px solid #bb2d3b;
+}
+
 #past-events-title {
   padding-bottom: 15px;
   border-bottom: 2px solid #bb2d3b;
