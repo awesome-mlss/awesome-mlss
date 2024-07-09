@@ -771,3 +771,18 @@
   end: 2024-09-06
   sub: ['ML', 'RO']
   note: Organizing committee decided to provide full funding for all our participants, which includes the cost of a hotel stay and meals for the entire five-day event.
+- title: LOGML Summer School
+  year: 2024
+  id: logml24
+  full_name: London Geometry and Machine Learning Summer School
+  link: https://www.logml.ai/
+  deadline: '2024-01-26 23:59:59'
+  timezone: Europe/London
+  place: London, UK
+  date: July 08 - July 12, 2024
+  start: 2024-07-08
+  end: 2024-07-12
+  sub: ['ML', 'Theory']
+  note: null
+  twitter: https://x.com/LogmlSchool
+  email: logml.committee@gmail.com
