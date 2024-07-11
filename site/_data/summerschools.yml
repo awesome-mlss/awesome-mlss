@@ -786,3 +786,81 @@
   note: null
   twitter: https://x.com/LogmlSchool
   email: logml.committee@gmail.com
+- title: lxmls
+  year: 2024
+  id: lxmls24
+  full_name: 14th Lisbon Machine Learning School
+  link: http://lxmls.it.pt/2024/index.html
+  deadline: 2024-04-26 00:00
+  timezone: GMT+1
+  place: Lisbon, Portugal
+  date: July 11 - July 17, 2024
+  start: 2024-07-11
+  end: 2024-07-17
+  sub: ['Ml', 'NLP']
+  note: There is a registration fee.
+- title: neurosymbolic
+  year: 2024
+  id: neurosymbolic24
+  full_name: Summer school on Neurosymbolic Programming
+  link: https://www.neurosymbolic.org/summerschool2024.html
+  deadline: 2024-05-06 00:00
+  timezone: ET
+  place: Salem, Massachusetts, USA
+  date: June 10 - June 12, 2024
+  start: 2024-06-10
+  end: 2024-06-12
+  sub: ['Ml', 'NLP']
+  note: Funding available
+- title: eigenvectorSS
+  year: 2024
+  id: eigenvectorSS24
+  full_name: Eigenvector Machine Learning Summer School
+  link: https://eigenvector.com/events/machine-learning-summer-school/
+  deadline: 2024-08-02 17:00
+  timezone: PDT
+  place: Seattle, USA
+  date: Aug 06 - Aug 08, 2024
+  start: 2024-08-06
+  end: 2024-08-08
+  sub: ['Ml']
+  note: Reg fee - $165 (Academic discount)
+- title: CCAIM
+  year: 2024
+  id: CCAIM24
+  full_name: CCAIM AI and Machine Learning Summer School
+  link: https://www.vanderschaar-lab.com/ccaim-ai-and-machine-learning-summer-school/
+  deadline: 2024-08-15 00:00
+  timezone: GMT+1
+  place: Online
+  date: Sep 09 - Sep 13, 2024
+  start: 2024-09-09
+  end: 2024-09-13
+  sub: ['ML', 'NLP']
+  note: Reg fee - $150 (student)
+- title: SSFML
+  year: 2024
+  id: SSFML24
+  full_name: Summer School on Federated Machine Learning
+  link: https://ut.ee/en/content/megadata-federated-machine-learning
+  deadline: 2024-05-31 00:00
+  timezone: GMT+3
+  place:  Tartu, Estonia
+  date: July 28 - Aug 10, 2024
+  start: 2024-07-28
+  end: 2024-08-10
+  sub: ['ML']
+  note: Reg fee - $800
+- title: AIforBusiness
+  year: 2024
+  id: AIforBusiness24
+  full_name: AI for Business Summer School
+  link: https://www.skema.edu/summer-school/ai-for-business-summer-school/
+  deadline: 2024-04-30 00:00
+  timezone: EDT
+  place:  Montreal, Canada
+  date: July 08 - July 11, 2024
+  start: 2024-07-08
+  end: 2024-07-11
+  sub: ['ML']
+  note: Reg fee - 1500 EUR
