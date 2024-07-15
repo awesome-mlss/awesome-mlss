@@ -1,4 +1,4 @@
-- title: AIHLS
+- title: Summer School on Artificial Intelligence in Health and Life Sciences 
   year: 2024
   id: aihls24
   full_name: Summer School on Artificial Intelligence in Health and Life Sciences 2024
@@ -786,81 +786,91 @@
   note: null
   twitter: https://x.com/LogmlSchool
   email: logml.committee@gmail.com
-- title: lxmls
+- title: Lisbon Machine Learning School
   year: 2024
   id: lxmls24
-  full_name: 14th Lisbon Machine Learning School
+  full_name: 14th Lisbon Machine Learning School (LxMLS) 2024
   link: http://lxmls.it.pt/2024/index.html
   deadline: 2024-04-26 00:00
-  timezone: GMT+1
+  timezone: Europe/Lisbon
   place: Lisbon, Portugal
   date: July 11 - July 17, 2024
   start: 2024-07-11
   end: 2024-07-17
-  sub: ['Ml', 'NLP']
+  sub: ['ML', 'NLP']
   note: There is a registration fee.
-- title: neurosymbolic
+  twitter: 
+  email: lxmls-2024@googlegroups.com
+- title: Summer School on Neurosymbolic Programming
   year: 2024
   id: neurosymbolic24
-  full_name: Summer school on Neurosymbolic Programming
+  full_name: Summer School on Neurosymbolic Programming
   link: https://www.neurosymbolic.org/summerschool2024.html
   deadline: 2024-05-06 00:00
-  timezone: ET
-  place: Salem, Massachusetts, USA
+  timezone: US/Eastern
+  place: Massachusetts, USA
   date: June 10 - June 12, 2024
   start: 2024-06-10
   end: 2024-06-12
-  sub: ['Ml', 'NLP']
+  sub: ['ML', 'ML4Science']
   note: Funding available
-- title: eigenvectorSS
+- title: Eigenvector Machine Learning Summer School
   year: 2024
   id: eigenvectorSS24
-  full_name: Eigenvector Machine Learning Summer School
+  full_name: Eigenvector Machine Learning Summer School 2024
   link: https://eigenvector.com/events/machine-learning-summer-school/
   deadline: 2024-08-02 17:00
-  timezone: PDT
+  timezone: US/Pacific
   place: Seattle, USA
   date: Aug 06 - Aug 08, 2024
   start: 2024-08-06
   end: 2024-08-08
-  sub: ['Ml']
+  sub: ['ML']
   note: Reg fee - $165 (Academic discount)
-- title: CCAIM
+  twitter: https://x.com/eigenvectorinc
+  email: null
+- title: CCAIM AI and Machine Learning Summer School
   year: 2024
   id: CCAIM24
-  full_name: CCAIM AI and Machine Learning Summer School
+  full_name: Cambridge Centre for AI in Medicine AI and Machine Learning Summer School 2024
   link: https://www.vanderschaar-lab.com/ccaim-ai-and-machine-learning-summer-school/
   deadline: 2024-08-15 00:00
-  timezone: GMT+1
+  timezone: Europe/London
   place: Online
   date: Sep 09 - Sep 13, 2024
   start: 2024-09-09
   end: 2024-09-13
   sub: ['ML', 'NLP']
   note: Reg fee - $150 (student)
-- title: SSFML
+  twitter: https://x.com/MihaelaVDS
+  email: ccaim-comms@damtp.cam.ac.uk
+- title: Summer School on Federated Machine Learning
   year: 2024
   id: SSFML24
-  full_name: Summer School on Federated Machine Learning
+  full_name: Summer School on Federated Machine Learning 2024
   link: https://ut.ee/en/content/megadata-federated-machine-learning
   deadline: 2024-05-31 00:00
-  timezone: GMT+3
+  timezone: Europe/Tallinn
   place:  Tartu, Estonia
   date: July 28 - Aug 10, 2024
   start: 2024-07-28
   end: 2024-08-10
   sub: ['ML']
   note: Reg fee - $800
-- title: AIforBusiness
+  twitter: https://x.com/UTartu
+  email: isu@ut.ee
+- title: AI for Business Summer School
   year: 2024
   id: AIforBusiness24
   full_name: AI for Business Summer School
   link: https://www.skema.edu/summer-school/ai-for-business-summer-school/
   deadline: 2024-04-30 00:00
-  timezone: EDT
+  timezone: Canada/Eastern
   place:  Montreal, Canada
   date: July 08 - July 11, 2024
   start: 2024-07-08
   end: 2024-07-11
   sub: ['ML']
   note: Reg fee - 1500 EUR
+  twitter: https://x.com/SKEMA_BS
+  email: null
