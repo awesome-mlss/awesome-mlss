@@ -1,3 +1,18 @@
+- title: Online Machine Learing School for Medicine and Neuroscience 2024
+  year: 2024
+  id: omls24
+  full_name: Online Machine Learing School for Medicine and Neuroscience 2024
+  link: https://neurominer-git.github.io/NeuroMiner_1.2/0.1_2024_MLSchool.html
+  deadline: '2024-10-06 12:00:00'
+  timezone: Europe/Berlin
+  place: Online
+  date: October 07 - Octoctober 11, 2024
+  start: 2024-10-07
+  end: 2024-10-11
+  sub: ['ML', 'Health', 'Neuro']
+  note: null
+  twitter: https://x.com/LMU_SNAP
+  emaiL: psy-nmss@med.uni-muenchen.de
 - title: Summer School on Artificial Intelligence in Health and Life Sciences 
   year: 2024
   id: aihls24
