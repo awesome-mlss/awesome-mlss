@@ -889,3 +889,16 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
+- title: Latin American Summer School on Robotics (LACORA)
+  year: 2024
+  id: lacora24 
+  full_name: Latin American Summer School on Robotics 2024
+  link: https://www.lacoro.org/ 
+  deadline: 2024-11-01 00:00
+  timezone: Chile Standard Time
+  place: Rancagua, Chile 
+  date: December 09 - 13, 2024
+  start: 2024-12-09
+  end: 024-12-13
+  sub: ['RO']
+  note: Reg fee $0 USD for IEEE Student Member
