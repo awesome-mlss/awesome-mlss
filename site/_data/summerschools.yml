@@ -889,3 +889,18 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
+- title: ACDL
+  year: 2025
+  id: acdl25
+  full_name: Advanced Course on Data Science & Machine Learning
+  link: https://acdl2025.icas.events/
+  deadline: 2025-02-23 23:59:59
+  timezone: Europe/Rome
+  place:  Grosseto, Italy
+  date: June 09 - June 13, 2025
+  start: 2025-06-09
+  end: 2025-06-13
+  sub: ['ML' , 'GenAI' , 'CV' , 'NLP' , 'RL' , 'ML4Science' , 'DM' , 'EML' ]
+  note: null
+  twitter: https://x.com/taosciences?s=21&t=XgfpT35QMauCKc61qBrRlA
+  email: acdl@icas.cc
