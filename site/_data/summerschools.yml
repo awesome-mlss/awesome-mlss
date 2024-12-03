@@ -889,3 +889,17 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
+
+- title: Italian Association for Artificial Intelligence International Summer School
+  year: 2024
+  id: AIxIA24 
+  full_name:  Italian Association for Artificial Intelligence International Summer School 2024
+  link: https://sites.google.com/unimib.it/advancesinai-2024/home
+  deadline: 2024-09-20 00:00
+  timezone: CET
+  place: Como, Italy
+  date: September 23 - September 27, 2024
+  start: 2024-09-23
+  end: 2024-09-27
+  sub: ['ML', 'NLP']
+  note: AIxIA offers 4 grants for the participation of students and deadline - 6th September 2024
