@@ -889,16 +889,29 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
-- title: Latin American Summer School on Robotics (LACORA)
+- title: Latin American Summer School on Robotics (LACORO)
   year: 2024
-  id: lacora24 
+  id: lacoro24 
   full_name: Latin American Summer School on Robotics 2024
   link: https://www.lacoro.org/ 
   deadline: 2024-11-01 00:00
-  timezone: Chile Standard Time
+  timezone: Chile/Continental
   place: Rancagua, Chile 
   date: December 09 - 13, 2024
   start: 2024-12-09
   end: 2024-12-13
   sub: ['RO']
   note: Reg fee $0 USD for IEEE Student Member
+- title: Italian Association for Artificial Intelligence International Summer School
+  year: 2024
+  id: AIxIA24 
+  full_name:  Italian Association for Artificial Intelligence International Summer School 2024
+  link: https://sites.google.com/unimib.it/advancesinai-2024/home
+  deadline: 2024-09-20 00:00
+  timezone: CET
+  place: Como, Italy
+  date: September 23 - September 27, 2024
+  start: 2024-09-23
+  end: 2024-09-27
+  sub: ['ML', 'NLP']
+  note: AIxIA offers 4 grants for the participation of students and deadline - 6th September 2024
