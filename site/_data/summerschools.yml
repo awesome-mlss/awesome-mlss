@@ -889,6 +889,21 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
+- title: International School on Artificial Intelligence for Cognitive Technologies 2024
+  year: 2024
+  id: isact2024
+  full_name: International School on Artificial Intelligence for Cognitive Technologies 2024
+  link: https://isact-org.github.io/
+  deadline: '2024-10-15 23:59:59'
+  timezone: Europe/Rome
+  place: Naples, Italy
+  date: December 10 - December 13, 2024
+  start: 2024-12-10
+  end: 2024-12-13
+  sub: ['ML', 'CogSci']
+  note: null
+  twitter: https://x.com/isact_org
+  emaiL: isact.org@proton.me
 - title: Latin American Summer School on Robotics (LACORO)
   year: 2024
   id: lacoro24 
