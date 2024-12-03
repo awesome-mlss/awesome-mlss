@@ -889,6 +889,21 @@
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
   email: null
+- title: Advanced Course on Data Science & Machine Learning
+  year: 2025
+  id: acdl25
+  full_name: Advanced Course on Data Science & Machine Learning (ACDL) 2025
+  link: https://acdl2025.icas.events/
+  deadline: 2025-02-23 23:59:59
+  timezone: Europe/Rome
+  place:  Grosseto, Italy
+  date: June 09 - 13, 2025
+  start: 2025-06-09
+  end: 2025-06-13
+  sub: ['ML']
+  note: null
+  twitter: https://x.com/taosciences
+  email: acdl@icas.cc
 - title: International School on Artificial Intelligence for Cognitive Technologies 2024
   year: 2024
   id: isact2024
@@ -903,7 +918,7 @@
   sub: ['ML', 'CogSci']
   note: null
   twitter: https://x.com/isact_org
-  emaiL: isact.org@proton.me
+  email: isact.org@proton.me
 - title: Latin American Summer School on Robotics (LACORO)
   year: 2024
   id: lacoro24 
