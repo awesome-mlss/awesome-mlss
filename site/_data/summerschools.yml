@@ -1,3 +1,18 @@
+- title: Bumblekite machine learning summer school in health, care and biosciences
+  year: 2025
+  id: bumblekite25
+  full_name: Bumblekite machine learning summer school in health, care and biosciences
+  link: https://www.bumblekite.co/bumblekite-25
+  deadline: '2025-03-09 23:59:00'
+  timezone: Europe/Berlin
+  place: Zürich, Switzerland
+  date: June 22 - June 28, 2025
+  start: 2024-06-22
+  end: 2024-06-28
+  sub: ['ML', 'Health', 'Bio']
+  note: null
+  twitter: null
+  emaiL: bumblekite-team@four-corp.com
 - title: Online Machine Learing School for Medicine and Neuroscience 2024
   year: 2024
   id: omls24
