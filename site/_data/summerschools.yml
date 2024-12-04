@@ -958,3 +958,18 @@
   end: 2025-01-10
   sub: ['ML', 'RO']
   note: Scholarship available
+- title: International Artificial Intelligence Summer School
+  year: 2025
+  id: IAISS25
+  full_name: International Artificial Intelligence Summer School (IAISS) 2025
+  link: https://2025.iaiss.cc/
+  deadline: 2025-03-23 23:59:59
+  timezone: Europe/Rome
+  place:  Grosseto, Italy
+  date: September 21 - 25, 2025
+  start: 2025-09-21
+  end: 2025-09-25
+  sub: ['ML', 'GenAI', 'CV', 'RL', 'NLP' ,' ML4SCIENCE', 'DM' , 'EML']
+  note: null
+  twitter: https://x.com/taosciences
+  email: iaiss@icas.cc
