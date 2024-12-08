@@ -1,3 +1,18 @@
+- title: UM6P Winter School: Next Generation AI and Economic Applications 2025
+  year: 2025
+  id: wsngaiea25
+  full_name: UM6P Winter School: Next Generation AI and Economic Applications 2025
+  link: https://next-genai-xemines.com/
+  deadline: '2025-01-30 12:00:00'
+  timezone: Africa/Casablanca
+  place: UM6P Ben Guerir Campus, Morocco
+  date: February 24 - February 25, 2025
+  start: 2025-02-24
+  end: 2025-02-25
+  sub: ['GenAI', 'ML']
+  note: Features keynote talks by leading AI researchers like Yann LeCun, Michael Jordan, and Eric Moulines, with applications-focused sessions on AI in mobility and retail. Includes panels on bridging theory and applications and the real value of AI for enterprises. Organized by EMINES - UM6P and supported by SIANA and Founder Institute Morocco.
+  twitter: https://x.com/UM6P_officiel
+  emaiL: winterschooldatascience@gmail.com
 - title: UM6P Winter School on Data Economics 2025
   year: 2025
   id: wsde25
@@ -9,7 +24,7 @@
   date: January 20 - January 24, 2025
   start: 2025-01-20
   end: 2025-01-24
-  sub: ['Data Economics', 'Game Theory']
+  sub: ['ML', 'Theory']
   note: This winter school introduces PhD and MSc students to the economics of data, with sessions led by prominent experts like Rachel Cummings, Bo Waggoner, Yuqing Kong, Jason Hartline, and Nicole Immorlica. Includes theoretical classes in the mornings and hands-on labs in the afternoons. Applications are open to national and international students in Mathematics and related fields.
   twitter: https://x.com/UM6P_officiel
   emaiL: mcgt@um6p.ma
