@@ -1,3 +1,18 @@
+- title: UM6P Winter School on Data Economics 2025
+  year: 2025
+  id: wsde25
+  full_name: UM6P Winter School on Data Economics 2025
+  link: https://mcgt.um6p.ma/en/seminars-conferences/winter-days
+  deadline: '2024-12-08 12:00:00'
+  timezone: Africa/Casablanca
+  place: UM6P Rabat Campus, Morocco
+  date: January 20 - January 24, 2025
+  start: 2025-01-20
+  end: 2025-01-24
+  sub: ['Data Economics', 'Game Theory']
+  note: This winter school introduces PhD and MSc students to the economics of data, with sessions led by prominent experts like Rachel Cummings, Bo Waggoner, Yuqing Kong, Jason Hartline, and Nicole Immorlica. Includes theoretical classes in the mornings and hands-on labs in the afternoons. Applications are open to national and international students in Mathematics and related fields.
+  twitter: https://x.com/UM6P_officiel
+  emaiL: mcgt@um6p.ma
 - title: Online Machine Learing School for Medicine and Neuroscience 2024
   year: 2024
   id: omls24
