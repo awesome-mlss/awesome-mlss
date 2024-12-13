@@ -23,11 +23,17 @@
 
 [awesome-mlss.com](https://awesome-mlss.com/) is a community tool which serves as a central repository for registration deadlines at summer schools in machine learning and other closely related fields.
 
+## 2025 Summer Schools
+Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
+------|--|---|----|--|-|-|----
+[Bumblekite MLSS in health, care and biosciences](https://www.bumblekite.co/bumblekite-25)|Zürich, Switzerland|Bumblekite|June 22 - June 28, 2025|March 9|N/A|Travel and accommodation will be paid||
+[Advanced Course on Data Science & Machine Learning](https://acdl2025.icas.events/)|Grosseto, Italy|University of Catania|June 09 - June 13, 2025|Feb 23|€ 580 - 630|N/A|
+[Winter School on Emerging Technologies](https://sfis.asu.edu/events/winter-school/)|Mesa, Arizona|Arizona State University|Jan 03 - Jan 10, 2025|Oct 14, 2024|No Fee for Accepeted Students|N/A|
+
+
 > <details>
->      <summary><strong> 🧐 Wait, what happened to the old README.MD with the list of schools? </strong></font></summary>
+>      <summary><strong> Archive of Past Summer Schools </strong></font></summary>
 >      The old README which contained the list of all summer schools in a markdown format has been moved to the <a href="OLD_README.md">OLD_README.md</a> file.
->      We do not plan to maintain the old list anymore, but if you want to contribute to both the new list and the old list you are more than welcome to do so.<br><br>
->      We believe that a website format with deadlines and calendar links suits our project better, and we hope you will find it more useful as well.
 > </details>
 
 ## Contributing
