@@ -16,3 +16,23 @@ ga_id:
 title_image: /static/img/favicon.png
 
 include: ['_pages']
+
+plugins:
+  - jekyll-datapage-generator
+
+# Datapage_gen configuration
+page_gen:
+  # Each entry in `_data/summerschools.yml` will create a page
+    - data: "summerschools"       # The name of your data file (without extension)
+      template: "summerschool"    # The template file (without extension) to use
+      name: "id"               # The output filename
+      dir: "summerschool"         # The output directory
+      extension: "html"           # optional, defaults to html
+      title: "Summer School details"
+  # Each entry in `_data/archive.yml` will create a page in archives
+    - data: "archive"       # The name of your data file (without extension)
+      template: "archive"    # The template file (without extension) to use
+      name: "id"               # The output filename
+      dir: "archive"         # The output directory
+      extension: "html"           # optional, defaults to html
+      title: "Past Summer School details"
