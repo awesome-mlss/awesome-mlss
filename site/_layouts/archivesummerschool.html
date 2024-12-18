@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+<!-- Page-specific title (dynamically set) -->
+<title id="dynamic-title">{{ page.title }} {{ page.year }} details (Archive)</title>
+
+<!-- Start page-specific content -->
+<div class="page-header" id="conf-title">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>
+        <span id="conf-title-href">{{ page.title }} {{ page.year }}</span>
+        <span id="twitter-box"></span>
+      </h1>
+      {% if page.full_name %}
+        <h3 id="conf-full-name">{{ page.full_name }}</h3>
+      {% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <span id="conf-subs" title="Conference subjects">
+        {% if page.sub %}
+          {% for subject in page.sub %}
+            <span class="conf-sub conf-{{ subject | replace:' ','_' }}">{{ subject }}</span>
+          {% endfor %}
+        {% endif %}
+      </span>
+    </div>
+  </div>
+</div>
+
+<div id="page-content">
+  <div id="conf-key-facts" class="row">
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/084-calendar.svg" class="badge-link" />
+      <span id="conf-date">{{ page.date }}</span>.
+    </div>
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/072-location.svg" class="badge-link" />
+      <a id="conf-place" target="_blank" href="https://maps.google.com/?q={{ page.place }}">{{ page.place }}</a>.
+    </div>
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/203-earth.svg" class="badge-link" />
+      <a id="conf-website" target="_blank" href="{{ page.link }}">{{ page.link }}</a>
+    </div>
+
+    {% if page.email %}
+    <div class="col-12" id="conf-email-div">
+      <img src="{{ site.baseurl }}/static/img/empty-email-svgrepo-com.svg" class="badge-link" />
+      <a id="conf-email" target="_blank" href="mailto:{{ page.email }}">{{ page.email }}</a>
+    </div>
+    {% endif %}
+
+    {% if page.twitter %}
+    <div class="col-12" id="conf-twitter-div">
+      <img src="{{ site.baseurl }}/static/img/x-2.svg" class="badge-link" />
+      <a id="conf-twitter" target="_blank" href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a>
+    </div>
+    {% endif %}
+  </div>
+
+  <!-- Since this is an archive page, no countdown or deadline info is needed.
+       If you'd like to show that deadlines have passed, you can add a note here. -->
+  <div class="row" id="archive-note">
+    <div class="col-12">
+      <p>This summer school has concluded. No upcoming deadline or countdown is available.</p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<script type="text/javascript">
+$(function() {
+
+    {% include load_data.js %}
+    {% include utils.js %}
+
+    addUtcTimeZones();
+
+    // Add Twitter Share Button
+    var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Remembering the {{ page.title }} {{ page.year }}!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></' + 'script>';
+    $('#twitter-box').html(twitter_slug);
+
+    // Replace abbreviated subjects with full names from sub2name
+    $('#conf-subs .conf-sub').each(function() {
+      var abbreviated = $(this).text().trim().replace(" ", "");
+      if (sub2name[abbreviated]) {
+        $(this).text(sub2name[abbreviated]);
+      }
+    });
+});
+</script>

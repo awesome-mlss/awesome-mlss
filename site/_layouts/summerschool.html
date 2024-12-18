@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+<!-- Page-specific title (dynamically set) -->
+<title id="dynamic-title">{{ page.title }} {{ page.year }} details</title>
+
+<!-- Start page-specific content -->
+<div class="page-header" id="conf-title">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>
+        <span id="conf-title-href">{{ page.title }} {{ page.year }}</span>
+        <span id="twitter-box"></span>
+      </h1>
+      {% if page.full_name %}
+        <h3 id="conf-full-name">{{ page.full_name }}</h3>
+      {% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <span id="conf-subs" title="Conference subjects">
+        {% if page.sub %}
+          {% for subject in page.sub %}
+            <span class="conf-sub conf-{{ subject | replace:' ','_' }}">{{ subject }}</span>
+          {% endfor %}
+        {% endif %}
+      </span>
+    </div>
+  </div>
+</div>
+
+<div id="page-content">
+  <div id="conf-key-facts" class="row">
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/084-calendar.svg" class="badge-link" />
+      <span id="conf-date">{{ page.date }}</span>.
+    </div>
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/072-location.svg" class="badge-link" />
+      <a id="conf-place" target="_blank" href="https://maps.google.com/?q={{ page.place }}">{{ page.place }}</a>.
+    </div>
+    <div class="col-12">
+      <img src="{{ site.baseurl }}/static/img/203-earth.svg" class="badge-link" />
+      <a id="conf-website" target="_blank" href="{{ page.link }}">{{ page.link }}</a>
+    </div>
+
+    {% if page.email %}
+    <div class="col-12" id="conf-email-div">
+      <img src="{{ site.baseurl }}/static/img/empty-email-svgrepo-com.svg" class="badge-link" />
+      <a id="conf-email" target="_blank" href="mailto:{{ page.email }}">{{ page.email }}</a>
+    </div>
+    {% endif %}
+
+    {% if page.twitter %}
+    <div class="col-12" id="conf-twitter-div">
+      <img src="{{ site.baseurl }}/static/img/x-2.svg" class="badge-link" />
+      <a id="conf-twitter" target="_blank" href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a>
+    </div>
+    {% endif %}
+  </div>
+
+  <div id="conf-deadline-info" class="row">
+    <div class="meta deadline col-12 col-md-6">
+      Download Conference deadline:
+    </div>
+    <div id="conference-deadline" class="calendar meta col-sm-12 col-md-6"></div>
+    <div class="meta deadline col-12 col-md-6">
+      Deadline in timezone from conference website:
+    </div>
+    <div class="meta col-sm-12 col-md-6">
+      <span class="deadline-time"></span>
+    </div>
+    <div class="meta col-sm-12 col-md-6">
+      Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
+    </div>
+    <div class="local-timezone-hide meta col-sm-12 col-md-6">
+      <span class="deadline-local-time"></span>
+    </div>
+  </div>
+
+  <div id="conf-deadline-timer" class="row">
+    <div id="conf-timer" class="col-12"></div>
+  </div>
+</div>
+
+<hr>
+
+<script type="text/javascript">
+$(function() {
+
+    {% include load_data.js %}
+    {% include utils.js %}
+
+    addUtcTimeZones();
+
+    try {
+      var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      $('.local-timezone').text(local_timezone.toString());
+    } catch(err) {
+      $('.local-timezone-hide').hide();
+    }
+
+    // Add Twitter Share Button
+    var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the {{ page.title }} {{ page.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></' + 'script>';
+    $('#twitter-box').html(twitter_slug);
+
+    {% if page.deadline == "TBA" %}
+      $('#conf-timer').html("TBA");
+      $('.deadline-time').html("TBA");
+      $('.deadline-local-time').html("TBA");
+    {% else %}
+      var timezone = "{{ page.timezone | default: 'America/New_York' }}";
+      var confDeadline = moment.tz("{{ page.deadline }}", timezone);
+
+      // Create calendar from object
+      var conferenceDeadlineCalendar = createCalendarFromObject({
+        id: '{{ page.id }}',
+        title: '{{ page.title }} {{ page.year }} deadline',
+        date: confDeadline.toDate(),
+        duration: 60,
+      });
+      document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+      // Render countdown timer
+      $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+        $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+      });
+      $('.deadline-time').html(confDeadline.toString());
+
+      // Convert deadline to local timezone
+      try {
+        var localConfDeadline = moment.tz(confDeadline, local_timezone);
+        $('.deadline-local-time').html(localConfDeadline.toString());
+      } catch(err) {
+        console.log("Error converting to local timezone.");
+      }
+    {% endif %}
+
+    // Replace abbreviated subjects with full names from sub2name
+    $('#conf-subs .conf-sub').each(function() {
+      var abbreviated = $(this).text().trim().replace(" ", "");
+      if (sub2name[abbreviated]) {
+        $(this).text(sub2name[abbreviated]);
+      }
+    });
+});
+</script>

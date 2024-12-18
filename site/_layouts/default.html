@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+  <title>{{ page.title }}</title>
+  <!-- Add any global scripts or meta tags here -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8115933863612298" crossorigin="anonymous"></script>
+  {% include gtag.html %}
+</head>
+
+<body>
+  {% include header.html %}
+  <div class="container">
+      <!-- This is where the content of the page layout or page will be inserted -->
+      {{ content }}
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div>
+</body>
+</html>
