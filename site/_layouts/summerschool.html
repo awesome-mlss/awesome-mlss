@@ -5,7 +5,6 @@ layout: default
 <!-- Page-specific title (dynamically set) -->
 <title id="dynamic-title">{{ page.title }} {{ page.year }} details</title>
 
-<!-- Start page-specific content -->
 <div class="page-header" id="conf-title">
   <div class="row">
     <div class="col-sm-12">
@@ -32,33 +31,58 @@ layout: default
 </div>
 
 <div id="page-content">
-  <div id="conf-key-facts" class="row">
-    <div class="col-12">
-      <img src="{{ site.baseurl }}/static/img/084-calendar.svg" class="badge-link" />
-      <span id="conf-date">{{ page.date }}</span>.
-    </div>
-    <div class="col-12">
-      <img src="{{ site.baseurl }}/static/img/072-location.svg" class="badge-link" />
-      <a id="conf-place" target="_blank" href="https://maps.google.com/?q={{ page.place }}">{{ page.place }}</a>.
-    </div>
-    <div class="col-12">
-      <img src="{{ site.baseurl }}/static/img/203-earth.svg" class="badge-link" />
-      <a id="conf-website" target="_blank" href="{{ page.link }}">{{ page.link }}</a>
-    </div>
+  <!-- Main row with image on the left and details on the right -->
+  <div id="conf-layout" class="row d-flex align-items-stretch">
+    <div class="col-md-4 d-flex p-2">
+      <div class="d-flex justify-content-center align-items-center w-100">
+        {% if page.image %}
+          <img src="{{ page.image }}" 
+               alt="{{ page.title }} {{ page.year }} Logo"
+               style="max-width:200px; max-height:200px; width:auto; height:auto; object-fit:contain;">
+        {% endif %}
+      </div>
+    </div>    
+    <div class="col-md-8 d-flex p-2">
+      <div class="w-100 d-flex flex-column justify-content-center">
+        <div id="conf-key-facts" class="row">
+          <div class="col-12">
+            <img src="{{ site.baseurl }}/static/img/084-calendar.svg" class="badge-link" />
+            <span id="conf-date">{{ page.date }}</span>.
+          </div>
+          <div class="col-12">
+            <img src="{{ site.baseurl }}/static/img/072-location.svg" class="badge-link" />
+            <a id="conf-place" target="_blank" href="https://maps.google.com/?q={{ page.place }}">{{ page.place }}</a>.
+          </div>
+          <div class="col-12">
+            <img src="{{ site.baseurl }}/static/img/203-earth.svg" class="badge-link" />
+            <a id="conf-website" target="_blank" href="{{ page.link }}">{{ page.link }}</a>
+          </div>
 
-    {% if page.email %}
-    <div class="col-12" id="conf-email-div">
-      <img src="{{ site.baseurl }}/static/img/empty-email-svgrepo-com.svg" class="badge-link" />
-      <a id="conf-email" target="_blank" href="mailto:{{ page.email }}">{{ page.email }}</a>
-    </div>
-    {% endif %}
+          {% if page.email %}
+          <div class="col-12" id="conf-email-div">
+            <img src="{{ site.baseurl }}/static/img/empty-email-svgrepo-com.svg" class="badge-link" />
+            <a id="conf-email" target="_blank" href="mailto:{{ page.email }}">{{ page.email }}</a>
+          </div>
+          {% endif %}
 
-    {% if page.twitter %}
-    <div class="col-12" id="conf-twitter-div">
-      <img src="{{ site.baseurl }}/static/img/x-2.svg" class="badge-link" />
-      <a id="conf-twitter" target="_blank" href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a>
+          {% if page.twitter %}
+          <div class="col-12" id="conf-twitter-div">
+            <img src="{{ site.baseurl }}/static/img/x-2.svg" class="badge-link" />
+            <a id="conf-twitter" target="_blank" href="{{ page.twitter }}">{{ page.twitter }}</a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
     </div>
-    {% endif %}
+  </div>
+
+  <!-- Description below both columns, full width -->
+  <div class="row my-4">
+    <div class="col-12">
+      {% if page.description %}
+        <p>{{ page.description }}</p>
+      {% endif %}
+    </div>
   </div>
 
   <div id="conf-deadline-info" class="row">
@@ -78,10 +102,6 @@ layout: default
     <div class="local-timezone-hide meta col-sm-12 col-md-6">
       <span class="deadline-local-time"></span>
     </div>
-  </div>
-
-  <div id="conf-deadline-timer" class="row">
-    <div id="conf-timer" class="col-12"></div>
   </div>
 </div>
 

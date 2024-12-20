@@ -1,88 +1,105 @@
-- title: Advanced Course on Data Science & Machine Learning
+- title: "Advanced Course on Data Science & Machine Learning"
   year: 2025
   id: acdl25
-  full_name: Advanced Course on Data Science & Machine Learning (ACDL) 2025
-  link: https://acdl2025.icas.events/
-  deadline: 2025-02-23 23:59:59
-  timezone: Europe/Rome
-  place:  Grosseto, Italy
-  date: June 09 - 13, 2025
+  full_name: "Advanced Course on Data Science & Machine Learning (ACDL) 2025"
+  link: "https://acdl2025.icas.events/"
+  deadline: "2025-02-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "June 09 - June 13, 2025"
   start: 2025-06-09
   end: 2025-06-13
   sub: ['ML']
   note: null
-  twitter: https://x.com/taosciences
-  email: acdl@icas.cc
-- title: Winter School on Emerging Technologies
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  description: "The 8th Advanced Course on Data Science & Machine Learning – ACDL 2025 is a full-immersion five-day Course at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Deep Learning, Data Science and Generative AI with lectures delivered by world-renowned experts. The Course provides a stimulating environment for PhD students, Post-Docs,  junior academics (only up to assistant professors), early career researches,  and industry leaders (and highly motivated, promising and brilliant Master students / BSc students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
+  image: "https://acdl2025.icas.events/wp-content/uploads/sites/30/2023/05/acdl2025-logo-web-small.png"
+
+- title: "Winter School on Emerging Technologies"
   year: 2025
   id: ASUWinterSchool25
-  full_name: Twelfth Annual Winter School on Emerging Technologies Accelerating Impactful Scholarship
-  link: https://sfis.asu.edu/events/winter-school/
-  deadline: 2024-10-07 23:59
-  timezone: MST
-  place:  Mesa, AZ
-  date: Jan 03 - Jan 10, 2025
+  full_name: "Twelfth Annual Winter School on Emerging Technologies Accelerating Impactful Scholarship"
+  link: "https://sfis.asu.edu/events/winter-school/"
+  deadline: "2024-10-07 23:59:00"
+  timezone: "MST"
+  place: "Mesa, AZ"
+  date: "Jan 03 - Jan 10, 2025"
   start: 2025-01-03
   end: 2025-01-10
   sub: ['ML', 'RO']
-  note: Scholarship available
-- title: International Artificial Intelligence Summer School
+  note: "Scholarship available"
+  description: "The Winter School program is run by the School for the Future of Innovation in Society at Arizona State University with support by The National Nanotechnology Coordinated Infrastructure Coordinating Office. The program gives junior scholars and scientists an introduction to and practical experience with methods and theory for better understanding the social dimensions of emerging technologies. The 2025 program will be focused on the broad notion of impact with an aim to explore ways for participants to increase and diversify the impact of their work."
+  image: "https://nnci.net/themes/cb_base/images/logo-black.png"
+
+- title: "International Artificial Intelligence Summer School"
   year: 2025
   id: IAISS25
-  full_name: International Artificial Intelligence Summer School (IAISS) 2025
-  link: https://2025.iaiss.cc/
-  deadline: '2025-03-23 23:59:59'
-  timezone: Europe/Rome
-  place:  Grosseto, Italy
-  date: September 21 - 25, 2025
+  full_name: "International Artificial Intelligence Summer School (IAISS) 2025"
+  link: "https://2025.iaiss.cc/"
+  deadline: "2025-03-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "September 21 - 25, 2025"
   start: 2025-09-21
   end: 2025-09-25
   sub: ['ML']
   note: null
-  twitter: https://x.com/taosciences
-  email: iaiss@icas.cc
+  twitter: "https://x.com/taosciences"
+  email: "iaiss@icas.cc"
+  description: "The International Artificial Intelligence Summer School – IAISS  2025 is a full-immersion five-day Summer School at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Artificial Intelligence and Generative AI with lectures delivered by world-renowned experts. The School provides a stimulating environment for PhD students, Post-Docs,  Junior Academics, Early Career Researches and Junior Industry Leaders (and highly motivated, promising and brilliant Master Students). Participants will also have the chance to present their results with short talks and posters, and to interact with their colleagues, in a convivial, professional and productive environment."
+  image: "https://2025.iaiss.cc/wp-content/uploads/sites/29/2024/10/iaiss-logo-banner.png"
+
 - title: "Winter School: Next Generation AI and Economic Applications"
   year: 2025
   id: wsngaiea25
   full_name: "Winter School: Next Generation AI and Economic Applications"
-  link: https://next-genai-xemines.com/
-  deadline: '2025-01-30 12:00:00'
-  timezone: Africa/Casablanca
-  place: UM6P Ben Guerir Campus, Morocco
-  date: February 24 - February 25, 2025
+  link: "https://next-genai-xemines.com/"
+  deadline: "2025-01-30 12:00:00"
+  timezone: "Africa/Casablanca"
+  place: "UM6P Ben Guerir Campus, Morocco"
+  date: "February 24 - February 25, 2025"
   start: 2025-02-24
   end: 2025-02-25
   sub: ['GenAI', 'ML']
   note: null
-  twitter: https://x.com/UM6P_officiel
-  emaiL: winterschooldatascience@gmail.com
-- title: UM6P Winter School on Data Economics 2025
+  twitter: "https://x.com/UM6P_officiel"
+  email: "winterschooldatascience@gmail.com"
+  description: "Our Winter Data Science School focuses on Next Generation AI and its Economic Applications. We aim to provide deep insights into the latest techniques, foster networking, and offer practical skills. Over two days, participants will engage in expert-led sessions, including Charles-Albert Lehalle on AI in finance, and presentations by Michael Jordan and Yann LeCun, offering valuable insights into the transformation of AI products and its societal impact."
+  image: "https://next-genai-xemines.com/assets/visual/logo-cropped-bigger.png"
+
+- title: "UM6P Winter School on Data Economics"
   year: 2025
   id: wsde25
-  full_name: UM6P Winter School on Data Economics 2025
-  link: https://mcgt.um6p.ma/en/seminars-conferences/winter-days
-  deadline: '2024-12-08 23:59:00'
-  timezone: Africa/Casablanca
-  place: UM6P Rabat Campus, Morocco
-  date: January 20 - January 24, 2025
+  full_name: "UM6P Winter School on Data Economics 2025"
+  link: "https://mcgt.um6p.ma/en/seminars-conferences/winter-days"
+  deadline: "2024-12-08 23:59:00"
+  timezone: "Africa/Casablanca"
+  place: "UM6P Rabat Campus, Morocco"
+  date: "January 20 - January 24, 2025"
   start: 2025-01-20
   end: 2025-01-24
   sub: ['ML', 'Theory']
   note: 
-  twitter: https://x.com/UM6P_officiel
-  emaiL: mcgt@um6p.ma
-- title: Bumblekite machine learning summer school in health, care and biosciences
+  twitter: "https://x.com/UM6P_officiel"
+  email: "mcgt@um6p.ma"
+  description: "This one week winter school on data economics will introduce PhD students to central topic areas in the area. As data science transforms science and society, it is important to develop the economics of data. Collecting data is costly, possessing data gives market power, sharing data has risks and benefits, conclusions from data depend on data quantity and quality."
+  image: "https://mcgt.um6p.ma/assets/img/logo.png"
+
+- title: "Bumblekite Machine Learning Summer School in Health, care and biosciences"
   year: 2025
   id: bumblekite25
-  full_name: Bumblekite machine learning summer school in health, care and biosciences
-  link: https://www.bumblekite.co/bumblekite-25
-  deadline: '2025-03-09 23:59:00'
-  timezone: Europe/Berlin
-  place: Zürich, Switzerland
-  date: June 22 - June 28, 2025
-  start: 2024-06-22
-  end: 2024-06-28
+  full_name: "Bumblekite machine learning summer school in health, care and biosciences"
+  link: "https://www.bumblekite.co/bumblekite-25"
+  deadline: "2025-03-09 23:59:00"
+  timezone: "Europe/Berlin"
+  place: "Zürich, Switzerland"
+  date: "June 22 - June 28, 2025"
+  start: 2025-06-22
+  end: 2025-06-28
   sub: ['ML', 'Health', 'Bio']
   note: null
   twitter: null
-  emaiL: bumblekite-team@four-corp.com
+  email: "bumblekite-team@four-corp.com"
+  description: "Bumblekite summer school is FOUR’s annual machine learning summer school (MLSS) in health, care and biosciences. Our Bumblekite MLSS creates and nurtures a learning space for evolving your data science and engineering skills and domain-specific knowledge, as well as skills in writing, coaching, leadership and strategy development — equally important communication skills. We strongly believe the combination of all of the above is key to unlocking the positive, deeply impactful contributions you will lead in our field and beyond."
+  image: "https://images.squarespace-cdn.com/content/v1/5e176b36a659cc3920d4038c/1598711702923-U9G274MDT9BPOXBH2Q2L/Bumblekite_logomark_.png?format=500w"
