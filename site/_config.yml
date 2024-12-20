@@ -1,24 +1,38 @@
-title: Machine Learning Summer School Deadlines
-description: A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world
-author: awesome-mlss
+title: "Machine Learning Summer School Deadlines"
+tagline: "A detailed guide for Machine Learning Summer Schools (MLSS) worldwide"
+description: "A community project to keep track of Machine Learning Summer Schools (MLSS) around the world"
+url: "https://awesome-mlss.com"   # Full URL to your site, important for absolute image URLs in meta tags
+author: "awesome-mlss"
 
 domain: "awesome-mlss.com"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-twitter_username: awesomeMLSS
+# Twitter settings for jekyll-seo-tag
+twitter:
+  username: "awesomeMLSS"
+  card: "summary_large_image"  # or "summary" if you prefer smaller cards
+
+# Social profiles for jekyll-seo-tag
+social:
+  name: "Awesome MLSS"
+  links:
+    - "https://twitter.com/awesomeMLSS"
+    - "https://github.com/awesome-mlss"
+    - "https://www.linkedin.com/company/awesome-mlss"
+
 github_username: awesome-mlss
 github_repo: awesome-mlss
 
 markdown: kramdown
 ga_id:
 
-title_image: /static/img/favicon.png
+logo: "/static/img/favicon.png"
 
 include: ['_pages']
 
 plugins:
   - jekyll-datapage-generator
+  - jekyll-seo-tag
 
 # Datapage_gen configuration
 page_gen:
@@ -28,11 +42,9 @@ page_gen:
       name: "id"               # The output filename
       dir: "summerschool"         # The output directory
       extension: "html"           # optional, defaults to html
-      title: "Summer School details"
   # Each entry in `_data/archive.yml` will create a page in archives
     - data: "archive"       # The name of your data file (without extension)
       template: "archivesummerschool"    # The template file (without extension) to use
       name: "id"               # The output filename
       dir: "archivesummerschool"         # The output directory
       extension: "html"           # optional, defaults to html
-      title: "Past Summer School details"
