@@ -88,7 +88,7 @@
   deadline: "2024-12-08 23:59:00"
   timezone: "Africa/Casablanca"
   place: "UM6P Rabat Campus, Morocco"
-  date: "January 20 - January 24, 2025"
+  date: "Jan 20 - Jan 24, 2025"
   start: 2025-01-20
   end: 2025-01-24
   sub: ['ML', 'Theory']
@@ -121,3 +121,24 @@
   location:
     latitude: 47.376821212238646
     longitude: 8.547440346312348
+
+- title: "Summer School in Responsible AI and Human Rights"
+  year: 2025
+  id: ssraihr25
+  full_name: "Summer School in Responsible AI and Human Rights 2025"
+  link: "https://mila.quebec/en/ai4humanity/learning/summer-school-in-responsible-ai-and-human-rights"
+  deadline: "2025-01-06 23:59:00"
+  timezone: "America/Toronto"
+  place: "Montreal, Canada"
+  date: "May 26 - May 30, 2025"
+  start: 2025-05-26
+  end: 2025-05-30
+  sub: ['RAI']
+  note: null
+  twitter: "https://x.com/Mila_Quebec"
+  email: "info@mila.quebec"
+  description: "The summer school, a joint initiative by Mila and the Université de Montréal brings together participants from different backgrounds and horizons to explore the intersections between responsible artificial intelligence (AI) and human rights."
+  image: "https://mila.quebec/sites/default/files/styles/focal_crop_2500_757/public/blocks/imagefullwidth/1289/2024capsuleraihrsseng.jpg.webp?itok=oiuqQ0Rn"
+  location:
+    latitude: 45.53086
+    longitude: -73.61325
