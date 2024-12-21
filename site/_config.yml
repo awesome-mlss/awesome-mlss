@@ -33,6 +33,7 @@ include: ['_pages']
 plugins:
   - jekyll-datapage-generator
   - jekyll-seo-tag
+  - jekyll-maps
 
 # Datapage_gen configuration
 page_gen:
@@ -48,3 +49,10 @@ page_gen:
       name: "id"               # The output filename
       dir: "archivesummerschool"         # The output directory
       extension: "html"           # optional, defaults to html
+
+# Map configuration
+maps:
+  google:
+    api_key: AIzaSyDpiWMzw3q9nBtQK4ZB7fskqPPiHbCmhvI
+    marker_cluster:
+      enabled: false

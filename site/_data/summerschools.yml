@@ -15,6 +15,9 @@
   email: "acdl@icas.cc"
   description: "The 8th Advanced Course on Data Science & Machine Learning – ACDL 2025 is a full-immersion five-day Course at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Deep Learning, Data Science and Generative AI with lectures delivered by world-renowned experts. The Course provides a stimulating environment for PhD students, Post-Docs,  junior academics (only up to assistant professors), early career researches,  and industry leaders (and highly motivated, promising and brilliant Master students / BSc students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   image: "https://acdl2025.icas.events/wp-content/uploads/sites/30/2023/05/acdl2025-logo-web-small.png"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
 
 - title: "Winter School on Emerging Technologies"
   year: 2025
@@ -31,6 +34,9 @@
   note: "Scholarship available"
   description: "The Winter School program is run by the School for the Future of Innovation in Society at Arizona State University with support by The National Nanotechnology Coordinated Infrastructure Coordinating Office. The program gives junior scholars and scientists an introduction to and practical experience with methods and theory for better understanding the social dimensions of emerging technologies. The 2025 program will be focused on the broad notion of impact with an aim to explore ways for participants to increase and diversify the impact of their work."
   image: "https://nnci.net/themes/cb_base/images/logo-black.png"
+  location:
+    latitude: 33.56174775625808
+    longitude: -111.53586632923056
 
 - title: "International Artificial Intelligence Summer School"
   year: 2025
@@ -49,6 +55,9 @@
   email: "iaiss@icas.cc"
   description: "The International Artificial Intelligence Summer School – IAISS  2025 is a full-immersion five-day Summer School at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Artificial Intelligence and Generative AI with lectures delivered by world-renowned experts. The School provides a stimulating environment for PhD students, Post-Docs,  Junior Academics, Early Career Researches and Junior Industry Leaders (and highly motivated, promising and brilliant Master Students). Participants will also have the chance to present their results with short talks and posters, and to interact with their colleagues, in a convivial, professional and productive environment."
   image: "https://2025.iaiss.cc/wp-content/uploads/sites/29/2024/10/iaiss-logo-banner.png"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
 
 - title: "Winter School: Next Generation AI and Economic Applications"
   year: 2025
@@ -67,6 +76,9 @@
   email: "winterschooldatascience@gmail.com"
   description: "Our Winter Data Science School focuses on Next Generation AI and its Economic Applications. We aim to provide deep insights into the latest techniques, foster networking, and offer practical skills. Over two days, participants will engage in expert-led sessions, including Charles-Albert Lehalle on AI in finance, and presentations by Michael Jordan and Yann LeCun, offering valuable insights into the transformation of AI products and its societal impact."
   image: "https://next-genai-xemines.com/assets/visual/logo-cropped-bigger.png"
+  location:
+    latitude: 32.22509
+    longitude: -7.93286
 
 - title: "UM6P Winter School on Data Economics"
   year: 2025
@@ -85,6 +97,9 @@
   email: "mcgt@um6p.ma"
   description: "This one week winter school on data economics will introduce PhD students to central topic areas in the area. As data science transforms science and society, it is important to develop the economics of data. Collecting data is costly, possessing data gives market power, sharing data has risks and benefits, conclusions from data depend on data quantity and quality."
   image: "https://mcgt.um6p.ma/assets/img/logo.png"
+  location:
+    latitude: 32.264254417665434
+    longitude: -7.946706324442646
 
 - title: "Bumblekite Machine Learning Summer School in Health, care and biosciences"
   year: 2025
@@ -103,3 +118,6 @@
   email: "bumblekite-team@four-corp.com"
   description: "Bumblekite summer school is FOUR’s annual machine learning summer school (MLSS) in health, care and biosciences. Our Bumblekite MLSS creates and nurtures a learning space for evolving your data science and engineering skills and domain-specific knowledge, as well as skills in writing, coaching, leadership and strategy development — equally important communication skills. We strongly believe the combination of all of the above is key to unlocking the positive, deeply impactful contributions you will lead in our field and beyond."
   image: "https://images.squarespace-cdn.com/content/v1/5e176b36a659cc3920d4038c/1598711702923-U9G274MDT9BPOXBH2Q2L/Bumblekite_logomark_.png?format=500w"
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
