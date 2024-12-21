@@ -46,7 +46,7 @@
   deadline: "2025-03-23 23:59:59"
   timezone: "Europe/Rome"
   place: "Grosseto, Italy"
-  date: "September 21 - 25, 2025"
+  date: "Sep 21 - Sep 25, 2025"
   start: 2025-09-21
   end: 2025-09-25
   sub: ['ML']
@@ -67,7 +67,7 @@
   deadline: "2025-01-30 12:00:00"
   timezone: "Africa/Casablanca"
   place: "UM6P Ben Guerir Campus, Morocco"
-  date: "February 24 - February 25, 2025"
+  date: "Feb 24 - Feb 25, 2025"
   start: 2025-02-24
   end: 2025-02-25
   sub: ['GenAI', 'ML']
