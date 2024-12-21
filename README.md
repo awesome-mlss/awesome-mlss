@@ -24,17 +24,15 @@
 [awesome-mlss.com](https://awesome-mlss.com/) is a community tool which serves as a central repository for registration deadlines at summer schools in machine learning and other closely related fields.
 
 ## 2025 Summer Schools
-Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
-------|--|---|----|--|-|-|----
-[Bumblekite MLSS in health, care and biosciences](https://www.bumblekite.co/bumblekite-25)|Zürich, Switzerland|Bumblekite|June 22 - June 28, 2025|March 9|N/A|Travel and accommodation will be paid||
-[Advanced Course on Data Science & Machine Learning](https://acdl2025.icas.events/)|Grosseto, Italy|University of Catania|June 09 - June 13, 2025|Feb 23|€ 580 - 630|N/A|
-[Winter School on Emerging Technologies](https://sfis.asu.edu/events/winter-school/)|Mesa, Arizona|Arizona State University|Jan 03 - Jan 10, 2025|Oct 14, 2024|No Fee for Accepeted Students|N/A|
-
-
-> <details>
->      <summary><strong> Archive of Past Summer Schools </strong></font></summary>
->      The old README which contained the list of all summer schools in a markdown format has been moved to the <a href="OLD_README.md">OLD_README.md</a> file.
-> </details>
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+International Artificial Intelligence Summer School|Machine Learning|Grosseto, Italy|Mar 23, 2025|Sep 21 - Sep 25, 2025|[Details](https://awesome-mlss.com/summerschool/IAISS25)
+Bumblekite Machine Learning Summer School in Health, care and biosciences|Machine Learning, ML for Health, ML for Biology|Zürich, Switzerland|Mar 09, 2025|Jun 22 - Jun 28, 2025|[Details](https://awesome-mlss.com/summerschool/bumblekite25)
+Advanced Course on Data Science & Machine Learning|Machine Learning|Grosseto, Italy|Feb 23, 2025|Jun 09 - Jun 13, 2025|[Details](https://awesome-mlss.com/summerschool/acdl25)
+Summer School in Responsible AI and Human Rights|Responsible AI|Montreal, Canada|Jan 06, 2025|May 26 - May 30, 2025|[Details](https://awesome-mlss.com/summerschool/ssraihr25)
+Winter School: Next Generation AI and Economic Applications|Generative AI, AI and Economics|UM6P Ben Guerir Campus, Morocco|Jan 30, 2025|Feb 24 - Feb 25, 2025|[Details](https://awesome-mlss.com/summerschool/wsngaiea25)
+UM6P Winter School on Data Economics|ML Theory, AI and Economics|UM6P Rabat Campus, Morocco|Dec 08, 2024|Jan 20 - Jan 24, 2025|[Details](https://awesome-mlss.com/summerschool/wsde25)
+Winter School on Emerging Technologies|Machine Learning, Robotics|Mesa, AZ|Oct 07, 2024|Jan 03 - Jan 10, 2025|[Details](https://awesome-mlss.com/summerschool/ASUWinterSchool25)
 
 ## Contributing
 
