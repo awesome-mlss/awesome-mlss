@@ -4,5 +4,6 @@ gem "github-pages", group: :jekyll_plugins
 gem 'html-proofer'
 gem "jekyll-datapage-generator", group: :jekyll_plugins
 gem 'jekyll-seo-tag', group: :jekyll_plugins
+gem 'jekyll-maps', group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
