@@ -74,3 +74,6 @@
 - color: '#DAA520'
   name: Recommender Systems
   sub: RecSys
+- color: '#FF6347'
+  name: AI and Economics
+  sub: EconAI

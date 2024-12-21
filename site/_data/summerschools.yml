@@ -70,7 +70,7 @@
   date: "Feb 24 - Feb 25, 2025"
   start: 2025-02-24
   end: 2025-02-25
-  sub: ['GenAI', 'ML']
+  sub: ['GenAI', 'EconAI']
   note: null
   twitter: "https://x.com/UM6P_officiel"
   email: "winterschooldatascience@gmail.com"
@@ -91,7 +91,7 @@
   date: "Jan 20 - Jan 24, 2025"
   start: 2025-01-20
   end: 2025-01-24
-  sub: ['ML', 'Theory']
+  sub: ['Theory', 'EconAI']
   note: 
   twitter: "https://x.com/UM6P_officiel"
   email: "mcgt@um6p.ma"

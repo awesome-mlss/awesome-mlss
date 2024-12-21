@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pyyaml
-          pip install dateutil
+          pip install python-dateutil
 
       - name: Update README
         run: |
