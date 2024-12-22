@@ -34,6 +34,7 @@ plugins:
   - jekyll-datapage-generator
   - jekyll-seo-tag
   - jekyll-maps
+  - jekyll-sitemap
 
 # Datapage_gen configuration
 page_gen:
