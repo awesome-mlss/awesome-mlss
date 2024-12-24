@@ -1,0 +1,20 @@
+/* Parent container for the heading and the sort dropdown */
+.heading-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem; /* spacing below the whole row on large screens */
+  }
+  
+  /* On small screens, stack the sort container above the heading */
+  @media (max-width: 768px) {
+    .heading-container {
+      flex-direction: column-reverse; /* put sort container on top, heading below */
+      align-items: flex-start;
+    }
+  
+    #sort-order-container {
+      margin-bottom: 1rem; /* spacing between the sort dropdown and the heading */
+    }
+  }
+  

@@ -34,18 +34,32 @@ def parse_types():
 def sort_summerschools_for_year(summerschools, year=2025):
     """
     Filter out just the summerschools for the given year, then sort them:
-      1) Descending by start date
-      2) If start is the same, descending by end date as well (or adjust as needed).
+      1) Featured schools first
+      2) Within each group (featured/non-featured), sort:
+         - Descending by start date
+         - If start is the same, descending by end date
     """
+    # First, filter for the given year
     filtered = [s for s in summerschools if s.get("year") == year]
-
-    # Sort: latest (largest) start first, then largest end among ties
-    sorted_filtered = sorted(
-        filtered,
-        key=lambda x: (x.get("start", ""), x.get("end", "")),
-        reverse=True
-    )
-    return sorted_filtered
+    
+    # Separate into featured and non-featured groups
+    featured = [s for s in filtered if s.get("featured", False)]
+    non_featured = [s for s in filtered if not s.get("featured", False)]
+    
+    # Sort function to be used for both groups
+    def sort_by_dates(schools):
+        return sorted(
+            schools,
+            key=lambda x: (x.get("start", ""), x.get("end", "")),
+            reverse=True
+        )
+    
+    # Sort each group independently
+    sorted_featured = sort_by_dates(featured)
+    sorted_non_featured = sort_by_dates(non_featured)
+    
+    # Combine the groups: featured first, then non-featured
+    return sorted_featured + sorted_non_featured
 
 
 def format_date_abbr(date_str):
@@ -100,6 +114,9 @@ def generate_markdown_table(summerschools, types_map, year=2025):
 
     for sch in filtered_sorted:
         title = sch.get("title", "")
+        # Add featured tag if school is featured
+        if sch.get("featured", False):
+            title = f'{title}<div style="float: right; font-size: 0.6em; font-style: italic; margin-right: -5px; margin-top: 10px; color: #666;">featured</div>'
         place = sch.get("place", "")
 
         # Format deadline
