@@ -26,8 +26,8 @@
 ## 2025 Summer Schools
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
+Bumblekite Machine Learning Summer School in Health, care and biosciences<div style="float: right; font-size: 0.6em; font-style: italic; margin-right: -5px; margin-top: 10px; color: #666;">featured</div>|Machine Learning, ML for Health, ML for Biology|Zürich, Switzerland|Mar 09, 2025|Jun 22 - Jun 28, 2025|[Details](https://awesome-mlss.com/summerschool/bumblekite25)
 International Artificial Intelligence Summer School|Machine Learning|Grosseto, Italy|Mar 23, 2025|Sep 21 - Sep 25, 2025|[Details](https://awesome-mlss.com/summerschool/IAISS25)
-Bumblekite Machine Learning Summer School in Health, care and biosciences|Machine Learning, ML for Health, ML for Biology|Zürich, Switzerland|Mar 09, 2025|Jun 22 - Jun 28, 2025|[Details](https://awesome-mlss.com/summerschool/bumblekite25)
 Advanced Course on Data Science & Machine Learning|Machine Learning|Grosseto, Italy|Feb 23, 2025|Jun 09 - Jun 13, 2025|[Details](https://awesome-mlss.com/summerschool/acdl25)
 Summer School in Responsible AI and Human Rights|Responsible AI|Montreal, Canada|Jan 06, 2025|May 26 - May 30, 2025|[Details](https://awesome-mlss.com/summerschool/ssraihr25)
 Winter School: Next Generation AI and Economic Applications|Generative AI, AI and Economics|UM6P Ben Guerir Campus, Morocco|Jan 30, 2025|Feb 24 - Feb 25, 2025|[Details](https://awesome-mlss.com/summerschool/wsngaiea25)

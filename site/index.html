@@ -80,7 +80,24 @@ author: awesome-mlss
             <br>
         </div>
         <div id="confs">
-        <h1 id="coming-events-title">Upcoming Deadlines</h1>
+          <div class="heading-container">
+            <!-- 1) Heading first in HTML so it stays on the left on large screens -->
+            <h1 id="coming-events-title">Upcoming Deadlines</h1>
+          
+            <!-- 2) Sort Order Container -->
+            <div id="sort-order-container">
+              <label for="sort-order-select" style="margin-right: 0.5rem;">
+                Sort by:
+              </label>
+              <select id="sort-order-select" name="sort-order-select">
+                <option value="start-asc">Start Date (ascending)</option>
+                <option value="start-desc">Start Date (descending)</option>
+                <option value="deadline-asc">Deadline (ascending)</option>
+                <option value="deadline-desc" selected>Deadline (descending)</option>
+              </select>
+            </div>
+          </div>
+          
         <div id="coming_confs">
           {% for conf in site.data.summerschools %}
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
@@ -121,12 +138,17 @@ author: awesome-mlss
                     <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>.
                     {% endif %}
                   </span>
-                </div>
-                {% if conf.note %}
-                  <div class="note">
-                      <b>Note: </b>{{conf.note}}
+                  {% if conf.featured %}
+                  <div class="featured-tag" style="font-style: italic; color: #666; margin-top: 1px;">
+                    featured
                   </div>
-                {% endif %}
+                  {% endif %}
+                  {% if conf.note %}
+                    <div class="note">
+                        <b>Note: </b>{{conf.note}}
+                    </div>
+                  {% endif %}
+                </div>
 
               </div>
               <div class="col-12 col-sm-6">
@@ -151,9 +173,6 @@ author: awesome-mlss
         </div>
         <div id="past_confs">
             <h1 id="past-events-title">Past Deadlines</h1>
-            <div id="sort-order-checkbox">
-                  <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent deadline first</label>
-              </div>
         </div>
       </div>
       <footer>
@@ -228,6 +247,15 @@ author: awesome-mlss
           diff = today.diff(confDate);
 
           $('#{{conf.id}}').attr("diff", diff)
+          $('#{{conf.id}}').attr("deadlineTimestamp", confDate.valueOf());
+
+          {% if conf.start %}
+            var startDate = moment.tz("{{conf.start}}", "YYYY-MM-DD", timezone);
+            if (startDate.isValid()) {
+              $('#{{conf.id}}').attr("startTimestamp", startDate.valueOf());
+            }
+          {% endif %}
+          
           if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
             $('#{{conf.id}}').appendTo($("#past_confs"))
@@ -238,25 +266,78 @@ author: awesome-mlss
         {% endif %}
         {% endfor %}
 
-        // Sort coming_confs and past_confs
-        $("#coming_confs .ConfItem").sort(function (a, b) {
-          return $(b).attr('diff') - $(a).attr('diff');
-        }).appendTo($("#coming_confs"));
+        {% for conf in site.data.summerschools %}
+        {% if conf.deadline != "TBA" %}
+          $('#{{conf.id}}').attr("featured", {% if conf.featured %}true{% else %}false{% endif %});
+        {% endif %}
+        {% endfor %}
 
-        $("#past_confs .ConfItem").sort(function (a, b) {
-              return $(a).attr('diff') - $(b).attr('diff');
-            }).appendTo($("#past_confs"));
-
-        $("#sort-order-checkbox input").on("click", function() {
-          if ($("#sort-order-checkbox input").is(":checked")) {
-            $("#past_confs .ConfItem").sort(function (a, b) {
-              return $(a).attr('diff') - $(b).attr('diff');
-            }).appendTo($("#past_confs"));
-          } else {
-            $("#past_confs .ConfItem").sort(function (a, b) {
-              return $(b).attr('diff') - $(a).attr('diff');
-            }).appendTo($("#past_confs"));
+        // Check container (upcoming/past) and sort by user selection
+        function sortConfs(containerSelector, sortBy, ascending) {
+          // First, separate featured and non-featured items
+          var $featured = $(containerSelector + ' .ConfItem[featured="true"]');
+          var $nonFeatured = $(containerSelector + ' .ConfItem[featured="false"]');
+          
+          // Sort function that can be applied to both groups
+          function sortByAttribute($elements) {
+            return $elements.sort(function(a, b) {
+              var aVal = 0, bVal = 0;
+              
+              // Decide which numeric attribute to compare
+              if (sortBy === 'deadline') {
+                aVal = parseInt($(a).attr('deadlineTimestamp')) || 0;
+                bVal = parseInt($(b).attr('deadlineTimestamp')) || 0;
+              } else { // sortBy === 'start'
+                aVal = parseInt($(a).attr('startTimestamp')) || 0;
+                bVal = parseInt($(b).attr('startTimestamp')) || 0;
+              }
+              
+              // Ascending vs descending sort
+              return ascending ? (aVal - bVal) : (bVal - aVal);
+            });
           }
+          
+          // Sort each group separately
+          var $sortedFeatured = sortByAttribute($featured);
+          var $sortedNonFeatured = sortByAttribute($nonFeatured);
+          
+          // Clear the container and append featured items first, then non-featured
+          var $container = $(containerSelector);
+          $container.empty();
+          $container.append($sortedFeatured);
+          $container.append($sortedNonFeatured);
+        }
+
+        // Sort wrapper that looks at the dropdown's value & sorts accordingly
+        function doSorting() {
+          var choice = $('#sort-order-select').val();
+          
+          switch (choice) {
+            case 'deadline-asc':
+              sortConfs('#coming_confs', 'deadline', true);
+              sortConfs('#past_confs', 'deadline', true);
+              break;
+            case 'deadline-desc':
+              sortConfs('#coming_confs', 'deadline', false);
+              sortConfs('#past_confs', 'deadline', false);
+              break;
+            case 'start-asc':
+              sortConfs('#coming_confs', 'start', true);
+              sortConfs('#past_confs', 'start', true);
+              break;
+            case 'start-desc':
+              sortConfs('#coming_confs', 'start', false);
+              sortConfs('#past_confs', 'start', false);
+              break;
+          }
+        }
+
+        // Initial sorting for the default selection (deadline-desc)
+        doSorting();
+
+        // When user changes dropdown, re-sort
+        $('#sort-order-select').on('change', function() {
+          doSorting();
         });
 
         {% include handle_url_retrieval.js %}
