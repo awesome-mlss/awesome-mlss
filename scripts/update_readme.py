@@ -116,7 +116,8 @@ def generate_markdown_table(summerschools, types_map, year=2025):
         title = sch.get("title", "")
         # Add featured tag if school is featured
         if sch.get("featured", False):
-            title = f'{title} <sub>featured</sub>'
+            badge_url="https://img.shields.io/badge/featured-blue?style=plastic"
+            title = f'{title} <img src="{badge_url}" alt="featured" width="50" />'
         place = sch.get("place", "")
 
         # Format deadline
