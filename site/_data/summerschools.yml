@@ -143,3 +143,23 @@
   location:
     latitude: 45.53086
     longitude: -73.61325
+
+- title: "European Summer School on Artificial Intelligence"
+  year: 2025
+  id: essai25
+  full_name: "3rd European Summer School on Artificial Intelligence"
+  link: "https://essai2025.eu/"
+  deadline: "2025-06-01 23:59:00"
+  timezone: "Europe/Bratislava"
+  place: "Bratislava, Slovakia"
+  date: "June 30 - July 4, 2025"
+  start: 2025-06-30
+  end: 2025-07-04
+  sub: ['ML', 'RO', 'AP', 'DM']
+  note: null
+  email: "peter.drotar@tuke.sk"
+  description: "European Summer School on Artificial Intelligence (ESSAI) intends to serve as a central hub for PhD students and young researchers working in all aspects of AI. The ESSAI Summer School covers one week of courses in the summer, at different sites around Europe, for both beginning and advanced students, and junior and senior researchers. ESSAI provides introductory and advanced courses in all areas of AI, emphasizing topics that allow students to gain a broad view of AI and understand connections between subdisciplines. ESSAI also offers several social activities for students and researchers alike. One of the tracks of ESSAI consists of advanced tutorials on a specific subject and corresponds to the traditional ACAI school organized by EurAI since 1989."
+  image: "https://essai2025.eu/wp-content/uploads/ESSAI_2025_logo_corrected_v01.png"
+  location:
+    latitude: 48.148598
+    longitude: 17.107748
