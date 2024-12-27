@@ -116,7 +116,7 @@ def generate_markdown_table(summerschools, types_map, year=2025):
         title = sch.get("title", "")
         # Add featured tag if school is featured
         if sch.get("featured", False):
-            title = f'{title}<div style="float: right; font-size: 0.6em; font-style: italic; margin-right: -5px; margin-top: 10px; color: #666;">featured</div>'
+            title = f'{title} <sub>featured</sub>'
         place = sch.get("place", "")
 
         # Format deadline
