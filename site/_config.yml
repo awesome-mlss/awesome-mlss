@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-maps
   - jekyll-sitemap
+  - jekyll-feed
 
 # Datapage_gen configuration
 page_gen:
@@ -57,3 +58,8 @@ maps:
     api_key: AIzaSyDpiWMzw3q9nBtQK4ZB7fskqPPiHbCmhvI
     marker_cluster:
       enabled: false
+
+# Feed configuration
+feed:
+  icon: /static/img/favicon.png
+  logo: /static/img/favicon.png

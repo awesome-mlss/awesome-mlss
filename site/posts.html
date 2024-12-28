@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Posts"
+permalink: /posts/
+---
+
+<div class="container mt-4">
+  <h1>All Posts</h1>
+  
+  {% for post in site.posts %}
+    <article class="mb-4">
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="text-muted">
+        {{ post.date | date: "%B %d, %Y" }}
+      </p>
+      <p>{{ post.excerpt }}</p>
+      <p>
+        <a href="{{ post.url | prepend: site.baseurl }}">Read more &raquo;</a>
+      </p>
+    </article>
+    <hr>
+  {% endfor %}
+</div>
