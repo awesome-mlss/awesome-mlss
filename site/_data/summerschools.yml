@@ -18,6 +18,7 @@
   location:
     latitude: 42.77079126926875
     longitude: 10.852376626839042
+  series: Advanced Course on Data Science & Machine Learning (ACDL)
 
 - title: "Winter School on Emerging Technologies"
   year: 2025
@@ -122,6 +123,7 @@
   location:
     latitude: 47.376821212238646
     longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
 
 - title: "Summer School in Responsible AI and Human Rights"
   year: 2025
@@ -163,3 +165,4 @@
   location:
     latitude: 48.148598
     longitude: 17.107748
+  series: European Summer School on Artificial Intelligence (ESSAI)
