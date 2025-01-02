@@ -11,6 +11,10 @@
   end: 2018-11-16
   sub: ['ML']
   note:
+  location:
+    latitude: 9.001256787555048
+    longitude: 7.422043111050481
+  series: Data Science Africa
 - title: Deep Learning Indaba 
   year: 2018
   id: dli2018
@@ -24,6 +28,10 @@
   end: 2018-09-14
   sub: ['ML']
   note:
+  location:
+    latitude: -33.932607486119146
+    longitude: 18.864382623381296
+  series: Deep Learning Indaba
 - title: Gaussian Process and Uncertainty Quantification Summer School 
   year: 2018
   id: gpuqss2018
@@ -37,6 +45,10 @@
   end: 2018-09-06
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitude: 53.38151336184058
+    longitude: -1.488406809374382
+  series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
 - title: Machine Learning Summer School 
   year: 2018
   id: mlss2018
@@ -63,6 +75,10 @@
   end: 2018-09-01
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitude: 55.76159982982924
+    longitude: 37.63326446873304
+  series: Deep|Bayes Summer School
 - title: Summer School on Statistical Relational Artificial Intelligence
   year: 2018
   id: sssrai2018
@@ -89,6 +105,10 @@
   end: 2018-08-03
   sub: ['ML', 'RL']
   note:
+  location:
+    latitude: 43.66050300968948
+    longitude: -79.38919904731667
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
 - title: International Summer School on Deep Learning
   year: 2018
   id: issdl2018
@@ -102,6 +122,10 @@
   end: 2018-07-27
   sub: ['ML']
   note:
+  location:
+    latitude: 44.405650
+    longitude: 8.946256
+  series: International Summer School on Deep Learning (DeepLearn)
 - title: Transylvanian Machine Learning Summer School
   year: 2018
   id: tmlss2018
@@ -115,9 +139,13 @@
   end: 2018-07-22
   sub: ['ML']
   note:
+  location:
+    latitude: 46.77136499195592
+    longitude: 23.61033061956413
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: Vision Understanding and Machine Intelligence 
   year: 2018
-  id: vumi2018
+  id: visum2018
   full_name: Vision Understanding and Machine Intelligence (VISUM 2018)
   link: http://visum.inesctec.pt/visum-2018-6th-edition
   deadline: TBA
@@ -128,6 +156,10 @@
   end: 2018-07-13
   sub: ['ML', 'CV']
   note:
+  location:
+    latitude: 41.149610
+    longitude: -8.610990
+  series: Vision Understanding and Machine Intelligence (VISUM)
 - title: Summer Schools on Computer Vision And Machine Learning
   year: 2018
   id: sscvml2018
@@ -154,6 +186,10 @@
   end: 2018-07-06
   sub: ['ML']
   note:
+  location:
+    latitude: 45.21800311263281
+    longitude: 5.8073904546200925
+  series: PRAIRIE AI Summer School
 - title: Machine Learning Summer School 
   year: 2018
   id: mlss2018
@@ -180,6 +216,10 @@
   end: 2018-07-03
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 40.454254150754046
+    longitude: -3.7213397347113815
+  series: Machine Learning and Advanced Statistics (MLAS) Summer School
 - title: Data Science Summer School
   year: 2018
   id: dsss2018
@@ -193,6 +233,10 @@
   end: 2018-06-29
   sub: ['ML']
   note:
+  location:
+    latitude: 48.71504747243902
+    longitude: 2.211120038620858
+  series: Data Science Summer School (DS<sup>3</sup>)
 - title: Lisbon Machine Learning School
   year: 2018
   id: lmls2018
@@ -206,6 +250,10 @@
   end: 2018-06-21
   sub: ['ML']
   note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
 - title: Summer School on Machine Learning and Data Science
   year: 2018
   id: ssmlds2018
@@ -219,6 +267,10 @@
   end: 2018-06-06
   sub: ['ML']
   note:
+  location:
+    latitude: -0.3948583740452777
+    longitude: 36.95980383112409
+  series: Data Science Africa
 - title: AI and Games Summer School
   year: 2018
   id: agss2018
@@ -232,6 +284,10 @@
   end: 2018-06-01
   sub: ['ML','AI4Games']
   note:
+  location:
+    latitude: 35.51346126561815
+    longitude: 24.01707515163196
+  series: AI and Games Summer School
 - title: Khipu Latin American Meeting In Artificial Intelligence
   year: 2019
   id: klmai2019
@@ -258,6 +314,10 @@
   end: 2019-10-05
   sub: ['ML']
   note:
+  location:
+    latitude: 48.843868906917784
+    longitude: 2.3133435040299712
+  series: PRAIRIE AI Summer School
 - title: Gaussian Process and Uncertainty Quantification Summer School
   year: 2019
   id: gpuqss2019
@@ -271,6 +331,10 @@
   end: 2019-09-09
   sub: ['ML']
   note:
+  location:
+    latitude: 53.382880355999
+    longitude: 1.4776691517022915
+  series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
 - title: Deep Learning in NLP Summer School
   year: 2019
   id: dlnss2019
@@ -310,6 +374,10 @@
   end: 2019-08-25
   sub: ['ML']
   note:
+  location:
+    latitude: 55.76159982982924
+    longitude: 37.63326446873304
+  series: Deep|Bayes Summer School  
 - title: Deep Learning Indaba 
   year: 2019
   id: dli2019
@@ -323,6 +391,10 @@
   end: 2019-08-31
   sub: ['ML']
   note:
+  location:
+    latitude: -1.1654746904269304
+    longitude: 36.93578847189255
+  series: Deep Learning Indaba
 - title: NGSchool - Machine Learning for Biomedicine
   year: 2019
   id: ngs2019
@@ -362,6 +434,10 @@
   end: 2019-08-02
   sub: ['ML']
   note:
+  location:
+    latitude: 53.540887652958126
+    longitude: -113.49251771606072
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
 - title: International Summer School on Deep Learning
   year: 2019
   id: issdl2019
@@ -375,6 +451,10 @@
   end: 2019-07-26
   sub: ['ML']
   note:
+  location:
+    latitude: 52.2296756
+    longitude: 21.0122287
+  series: International Summer School on Deep Learning (DeepLearn)
 - title: Summer School on Cognitive Robotics 
   year: 2019
   id: sscr2019
@@ -427,6 +507,10 @@
   end: 2019-07-18
   sub: ['ML']
   note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
 - title: Southeast Asia Machine Learning School
   year: 2019
   id: samls2019
@@ -440,6 +524,10 @@
   end: 2019-07-12
   sub: ['ML']
   note:
+  location:
+    latitude: -6.370080920623444
+    longitude: 106.8271675779095
+  series: Southeast Asia Machine Learning School (SEAMLS)
 - title: Machine Learning Summer School in The Netherlands
   year: 2019
   id: mlsstn2019
@@ -466,6 +554,10 @@
   end: 2019-07-13
   sub: ['ML', 'CV']
   note:
+  location:
+    latitute: 36.72627765947164
+    longitude: 14.752648199719536
+  series: International Computer Vision Summer School (ICVSS)
 - title: Vision Understanding and Machine Intelligence
   year: 2019
   id: vumi2019
@@ -478,19 +570,6 @@
   start: 2019-07-04
   end: 2019-07-12
   sub: ['ML', 'CV']
-  note:
-- title: Deep Learning for Natural Language Processing
-  year: 2019
-  id: dlnlp2019
-  full_name: Deep Learning for Natural Language Processing 2019
-  link: http://ixa2.si.ehu.es/deep_learning_seminar/index-jul2019.html
-  deadline: '2019-07-01 23:59:59'
-  timezone: UTC+1
-  place: San Sebastian, Spain
-  date: July 03 - July 05, 2019
-  start: 2019-07-03
-  end: 2019-07-05
-  sub: ['ML', 'NLP']
   note:
 - title: Hellenic Artificial Intelligence Summer School
   year: 2019
@@ -557,6 +636,10 @@
   end: 2019-07-06
   sub: ['ML']
   note:
+  location:
+    latitude: 44.43879405058334
+    longitude: 26.049438852724663
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: Summer School on Intrinsically Motivated Open-Ended Learning
   year: 2019
   id: ssimoel2019
@@ -603,12 +686,16 @@
   link: http://www.dia.fi.upm.es/ASDM
   deadline: '2019-06-19 23:59:59'
   timezone: UTC+1
-  place: Benguerir, Morocco
+  place: Madrid, Spain
   date: June 24 - July 05, 2019
   start: 2019-06-24
   end: 2019-07-05
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 40.454254150754046
+    longitude: -3.7213397347113815
+  series: Machine Learning and Advanced Statistics (MLAS) Summer School
 - title: Data Science Summer School
   year: 2019
   id: dsss2019
@@ -622,6 +709,10 @@
   end: 2019-06-29
   sub: ['ML']
   note:
+  location:
+    latitude: 48.71490589359017
+    longitude: 2.211120038620858
+  series: Data Science Summer School (DS<sup>3</sup>)
 - title: Nordic Probabilistic AI School
   year: 2019
   id: npas2019
@@ -635,6 +726,10 @@
   end: 2019-06-07
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 63.4175512314733
+    longitude: 10.402534442068283
+  series: Probabilistic AI School (ProbAI)
 - title: AI and Games Summer School
   year: 2019
   id: agss2019
@@ -648,6 +743,10 @@
   end: 2019-05-31
   sub: ['ML', 'AI4Games']
   note:
+  location:
+    latitude: 40.69400182704982
+    longitude: -73.98598290447894
+  series: AI and Games Summer School
 - title: Deep Learning For Medical Imaging
   year: 2019
   id: dlmi2019
@@ -674,10 +773,10 @@
   end: 2019-01-18
   sub: ['ML']
   note:
-- title: Mediterranean Machine Learning Summer School
+- title: Mediterranean Machine Learning Summer School (M2L)
   year: 2020
   id: mmlss2020
-  full_name: Mediterranean Machine Learning  Summer School 2020
+  full_name: Mediterranean Machine Learning Summer School 2020
   link: https://www.m2lschool.org/
   deadline: '2020-03-16 23:59:59'
   timezone: UTC+1
@@ -687,6 +786,10 @@
   end: 2020-01-16
   sub: ['ML']
   note:
+  location:
+    latitute: 45.51842490266274
+    longitude: 9.213701581619295
+  series: Mediterranean Machine Learning Summer School (M2L)
 - title: AI Summer School
   year: 2020
   id: ass2020
@@ -726,6 +829,7 @@
   end: 2020-08-25
   sub: ['ML']
   note:
+  series: Oxford Machine Learning Summer School (OxML)
 - title: Machine Learning for Speech
   year: 2020
   id: mls2020
@@ -811,12 +915,16 @@
   link: https://www.seamls.ai/
   deadline: '2020-04-03 23:59:59'
   timezone: UTC+1
-  place: Vietnam
+  place: Cancelled
   date: July 20 - July 25, 2020
   start: 2020-07-20
   end: 2020-07-25
   sub: ['ML']
   note:
+  location:
+    latitude: 16.0898915921085
+    longitude: 108.05012855380494
+  series: Southeast Asia Machine Learning School (SEAMLS)
 - title: Deep Learning and Reinforcement Learning Summer School
   year: 2020
   id: dlrlss2020
@@ -824,12 +932,16 @@
   link: https://dlrlsummerschool.ca
   deadline: '2020-02-22 23:59:59'
   timezone: UTC+1
-  place: Online/Cancelled
-  date: July 26 - August 06, 2020
-  start: 2020-07-26
-  end: 2020-08-06
-  sub: ['ML']
+  place: Virtual
+  date: August 03 - August 07, 2020
+  start: 2020-08-03
+  end: 2020-08-07
+  sub: ['DL', 'RL']
   note:
+  location:
+    latitude: 45.53113409981933
+    longitude: -73.6134645293743
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
 - title: International Summer School on Deep Learning
   year: 2020
   id: iss2020
@@ -843,6 +955,10 @@
   end: 2020-07-31
   sub: ['ML']
   note:
+  location:
+    latitude: 21.119696
+    longitude: -101.660324
+  series: International Summer School on Deep Learning (DeepLearn)
 - title: Machine learning summer school in healthcare and biosciences
   year: 2020
   id: mls2020
@@ -850,12 +966,16 @@
   link: https://bumblekite.four-corp.com/
   deadline: '2020-03-15 23:59:59'
   timezone: UTC+1
-  place: ETH Zürich, Switzerland
+  place: Zürich, Switzerland
   date: July 19 - July 28, 2020
   start: 2020-07-19
   end: 2020-07-28
   sub: ['ML']
   note:
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
 - title: Eastern European Machine Learning Summer School
   year: 2020
   id: eem2020
@@ -863,12 +983,16 @@
   link: https://www.eeml.eu
   deadline: '2020-04-20 23:59:59'
   timezone: UTC+1
-  place: Online
+  place: Krakow, Poland and Online
   date: July 06 - July 11, 2020
   start: 2020-07-06
   end: 2020-07-11
   sub: ['ML']
   note:
+  location:
+    latitude: 50.06122632983513
+    longitude: 19.932855281876716
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: Machine Learning Summer School 
   year: 2020
   id: ml2020
@@ -883,18 +1007,22 @@
   sub: ['ML']
   note:
 - title: AI and Games Summer School
-  year: 2020
-  id: ag2020
-  full_name: AI and Games Summer School 2020
-  link: https://school.gameaibook.org/
+  year: 2021
+  id: ag2021
+  full_name: AI and Games Summer School 2021
+  link: https://school.gameaibook.org/2021-school/
   deadline: TBA
   timezone: UTC+1
-  place: Copenhagen, Denmark
+  place: Virtual
   date: June 22 - June 26, 2020
   start: 2020-06-22
   end: 2020-06-26
   sub: ['ML', 'AI4Games']
   note:
+  location:
+    latitude: 55.676098
+    longitude: 12.568337
+  series: AI and Games Summer School
 - title: North Africa Middle East Summer School
   year: 2020
   id: na2020
@@ -921,6 +1049,10 @@
   end: 2020-06-12
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 63.419418
+    longitude: 10.402755
+  series: Probabilistic AI School (ProbAI)
 - title: Data Science Africa Summer School
   year: 2020
   id: dsa2020
@@ -947,10 +1079,10 @@
   end: 2021-11-19
   sub: ['ML']
   note:
-- title: Gaussian Process Summer School
+- title: Gaussian Process and Uncertainty Quantification Summer School
   year: 2021
   id: gps2021
-  full_name: Gaussian Process Summer Schools (GPSS) 2021
+  full_name: Gaussian Process and Uncertainty Quantification Summer School (GPSS) 2021
   link: http://gpss.cc/
   deadline: '2021-05-31 23:59:59'
   timezone: UTC+1
@@ -960,6 +1092,7 @@
   end: 2021-09-16
   sub: ['ML', 'Theory']
   note:
+  series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
 - title: International Summer School on Situation Awareness in Cognitive Technologies
   year: 2021
   id: act2021
@@ -1032,12 +1165,16 @@
   link: https://www.oxfordml.school/
   deadline: '2021-04-15 23:59:59'
   timezone: UTC+1
-  place: St Catherine's College
+  place: Oxford, UK
   date: August 07 - August 14, 2021
   start: 2021-08-07
   end: 2021-08-14
   sub: ['ML']
   note:
+  location:
+    latitute: 51.75666581692031
+    longitude: -1.2436220180226902
+  series: Oxford Machine Learning Summer School (OxML)
 - title: Imperial Data Science Online Summer School
   year: 2021
   id: ids2021
@@ -1084,12 +1221,16 @@
   link: https://deep-learning-summer-school.princeton.edu/#Apply
   deadline: '2021-03-31 23:59:59'
   timezone: UTC+1
-  place: New Jersey, Virtual
+  place: New Jersey, USA and Virtual
   date: July 27 - August 13, 2021
   start: 2021-07-27
   end: 2021-08-13
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: Princeton Machine Learning Theory Summer School
 - title: International Summer School on Deep Learning
   year: 2021
   id: sl2021
@@ -1103,6 +1244,10 @@
   end: 2021-07-30
   sub: ['ML']
   note:
+  location:
+    latitude: 28.123545
+    longitude: -15.436257
+  series: International Summer School on Deep Learning (DeepLearn)
 - title: Deep Learning and Reinforcement Learning Summer School 
   year: 2021
   id: ds2021
@@ -1110,12 +1255,16 @@
   link: https://dlrl.ca/
   deadline: '2021-02-01 23:59:59'
   timezone: UTC+1
-  place: Edmonton, Canada
+  place: Virtual
   date: July 26 - July 31, 2021
   start: 2021-07-26
   end: 2021-07-31
   sub: ['ML']
   note:
+  location:
+    latitude: 53.546124
+    longitude: -113.493823
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
 - title: Human-aligned AI Virtual Summer School 
   year: 2021
   id: ha2021
@@ -1131,7 +1280,7 @@
   note:
 - title: 4th Advanced Online & Onsite Course on Data Science & Machine Learning
   year: 2021
-  id: ao2021
+  id: acdl2021
   full_name: 4th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2021)
   link: https://acdl2021.icas.cc/
   deadline: '2021-05-14 23:59:59'
@@ -1142,6 +1291,7 @@
   end: 2021-07-23
   sub: ['ML']
   note:
+  series: Advanced Course on Data Science & Machine Learning (ACDL)
 - title: London Geometry and Machine Learning
   year: 2021
   id: lg2021
@@ -1162,12 +1312,16 @@
   link: https://www.eeml.eu
   deadline: '2021-04-15 23:59:59'
   timezone: UTC+1
-  place: Online
+  place: Budapest, Hungary and Online
   date: July 07 - July 15, 2021
   start: 2021-07-07
   end: 2021-07-15
   sub: ['ML']
   note:
+  location:
+    latitude: 47.48921753642946
+    longitude: 18.955739903151393
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: Lisbon Machine Learning Summer School
   year: 2021
   id: ll2021
@@ -1181,6 +1335,10 @@
   end: 2021-07-15
   sub: ['ML']
   note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
 - title: Neuromatch Academy-Computational Neuroscience 
   year: 2021
   id: cn2021
@@ -1207,19 +1365,7 @@
   end: 2021-07-23
   sub: ['ML']
   note:
-- title: Deep Learning for Natural Language Processing 
-  year: 2021
-  id: nl2021
-  full_name: Deep Learning for Natural Language Processing (8th edition) Summer School 2021
-  link: http://ixa2.si.ehu.eus/deep_learning_seminar/
-  deadline: '2021-06-27 23:59:59'
-  timezone: UTC+1
-  place: Online
-  date: July 05 - July 09, 2021
-  start: 2021-07-05
-  end: 2021-05-09
-  sub: ['ML', 'NLP']
-  note:
+  series: PRAIRIE AI Summer School
 - title: Vision Understanding & Machine Intelligence Summer School
   year: 2021
   id: vi2021
@@ -1233,6 +1379,10 @@
   end: 2021-07-09
   sub: ['ML', 'CV']
   note:
+  location:
+    latitude: 41.149610
+    longitude: -8.610990
+  series: Vision Understanding and Machine Intelligence (VISUM)
 - title: ACM India Summer Schools 
   year: 2021
   id: ai2021
@@ -1272,6 +1422,7 @@
   end: 2021-06-17
   sub: ['ML', 'Theory']
   note:
+  series: Probabilistic AI School (ProbAI)
 - title: Duke Machine Learning Virtual Summer School
   year: 2021
   id: dl2021
@@ -1324,6 +1475,10 @@
   end: 2022-09-16
   sub: ['ML']
   note:
+  location:
+    latitute: 45.51842490266274
+    longitude: 9.213701581619295
+  series: Mediterranean Machine Learning Summer School (M2L)
 - title: eXplainable AI Summer School
   year: 2022
   id: ea2022
@@ -1357,12 +1512,16 @@
   link: https://www.bumblekite.co/summer-school
   deadline: '2022-05-14 23:59:59'
   timezone: UTC+1
-  place: St Catherine's College, Virtual(see notes)
+  place: Zürich, Switzerland
   date: August 06 - August 13, 2022
   start: 2022-08-06
   end: 2022-08-013
   sub: ['ML', 'Health', 'Bio']
   note:
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
 - title: Oxford Machine Learning Summer School
   year: 2022
   id: om2022
@@ -1370,12 +1529,16 @@
   link: https://www.oxfordml.school/
   deadline: '2022-06-15 23:59:59'
   timezone: UTC+1
-  place: St Catherine's College, Virtual(see notes)
+  place: Oxford, UK and Virtual
   date: August 07 - August 14, 2022
   start: 2022-08-07
   end: 2022-08-14
   sub: ['ML']
   note:
+  location:
+    latitute: 51.75666581692031
+    longitude: -1.2436220180226902
+  series: Oxford Machine Learning Summer School (OxML)
 - title: Human-aligned AI Summer School
   year: 2022
   id: hs2022
@@ -1402,6 +1565,10 @@
   end: 2022-07-29
   sub: ['ML']
   note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
 - title: Cambridge Ellis Machine Learning Summer School
   year: 2022
   id: ce2022
@@ -1441,6 +1608,10 @@
   end: 2022-07-08
   sub: ['ML']
   note:
+  location:
+    latitude: 54.722802677512895
+    longitude: 25.337833968667653
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: 2022 Summer school on deep learning for medical imaging
   year: 2022
   id: sdm2022
@@ -1453,19 +1624,6 @@
   start: 2022-07-04
   end: 2022-07-08
   sub: ['ML', 'Health', 'CV']
-  note:
-- title: Deep Learning for Natural Language Processing summer course
-  year: 2022
-  id: nlps2022
-  full_name: Deep Learning for Natural Language Processing summer course 2022
-  link: https://ixa2.si.ehu.eus/deep_learning_seminar/
-  deadline: First-come, first-served
-  timezone: UTC+1
-  place: San Sebastian, Spain
-  date: July 04 - July 08, 2022
-  start: 2022-07-04
-  end: 2022-07-08
-  sub: ['ML','NLP']
   note:
 - title: Machine Learning School in The Netherlands 
   year: 2022
@@ -1519,6 +1677,10 @@
   end: 2022-06-17
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: Princeton Machine Learning Theory Summer School
 - title: Nordic Probabilistic AI School
   year: 2022
   id: nplais2022
@@ -1532,6 +1694,10 @@
   end: 2022-06-17
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 60.20515454179654
+    longitude: 24.96382879866676
+  series: Probabilistic AI School (ProbAI)
 - title: Zortify Summer School
   year: 2023
   id: zsstfw2023
@@ -1558,6 +1724,10 @@
   end: 2023-09-02
   sub: ['ML']
   note:
+  location:
+    latitute: 40.598970356000116 
+    longitude: 23.00350412667427
+  series: Mediterranean Machine Learning Summer School (M2L)
 - title: Climate Change AI Summer School
   year: 2023
   id: ccaiss2023
@@ -1636,6 +1806,10 @@
   end: 2023-07-28
   sub: ['ML']
   note:
+  location:
+    latitude: 46.04942088114195
+    longitude: 14.504241027682816
+  series: European Summer School on Artificial Intelligence (ESSAI)
 - title: Advanced Artificial Intelligence and Machine Learning - Deep Unsupervised Learning
   year: 2023
   id: aaiaml2023
@@ -1662,6 +1836,10 @@
   end: 2023-07-21
   sub: ['ML']
   note:
+  location:
+    latitude: 28.123545
+    longitude: -15.436257
+  series: International Summer School on Deep Learning (DeepLearn)
 - title: AI+Science Summer School
   year: 2023
   id: aisss2023
@@ -1721,12 +1899,16 @@
   link: https://www.eeml.eu/home
   deadline: '2023-03-31 23:59:59'
   timezone: UTC+1
-  place: Slovakia
+  place: Košice, Slovakia
   date: July 09 - July 16, 2023
   start: 2023-07-09
   end: 2023-07-16
   sub: ['ML']
   note:
+  location:
+    latitude: 48.730647774912256
+    longitude: 21.245290110635597
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: AI-DLDA - International Summer School on Artificial Intelligence
   year: 2023
   id: aidldaiss2023
@@ -1760,12 +1942,16 @@
   link: https://www.bumblekite.co/summer-school-23
   deadline: '2023-04-02 23:59:59'
   timezone: UTC+1
-  place: Zurich, Switzerland
+  place: Zürich, Switzerland
   date: July 02 - July 09, 2023
   start: 2023-07-02
   end: 2023-07-09
   sub: ['ML', 'Health', 'Bio']
   note:
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
 - title: Summer School on Reinforcement Learning in Barcelona
   year: 2023
   id: ssrlib2023
@@ -1805,6 +1991,10 @@
   end: 2023-06-30
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: Princeton Machine Learning Theory Summer School
 - title: Generative Modeling Summer School
   year: 2023
   id: gnss2023
@@ -1818,11 +2008,15 @@
   end: 2023-06-30
   sub: ['ML', 'GenAI']
   note:
+  location:
+    latitude: 55.6883556860697
+    longitude: 12.575339185173004
+  series: Generative Modeling Summer School (GeMSS)
 - title: International Summer School on AI and Games
   year: 2023
   id: issaiag2023
   full_name: International Summer School on AI and Games 2023
-  link: https://school.gameaibook.org/
+  link: https://school.gameaibook.org/2023-school/
   deadline: '2023-03-15 23:59:59'
   timezone: UTC+1
   place: Cambridge UK
@@ -1831,6 +2025,10 @@
   end: 2023-06-30
   sub: ['ML', 'AI4Games']
   note:
+  location:
+    latitute: 52.19513770102987
+    longitude: 0.1348601693104292
+  series: AI and Games Summer School
 - title: Madrid UPM Machine Learning and Advanced Statistics Summer School
   year: 2023
   id: nupmmlasss2024
@@ -1838,12 +2036,16 @@
   link: http://dia.fi.upm.es/es/MLAS
   deadline: '2023-06-14 23:59:59'
   timezone: UTC+1
-  place: Madrid (Spain)
+  place: Madrid, Spain
   date: June 19 - June 30, 2023
   start: 2023-06-19
   end: 2023-06-30
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 40.454254150754046
+    longitude: -3.7213397347113815
+  series: Machine Learning and Advanced Statistics (MLAS) Summer School
 - title: 7th Summer School on Computational Interaction
   year: 2023
   id: ssci2023
@@ -1870,6 +2072,10 @@
   end: 2023-06-16
   sub: ['ML', 'Theory']
   note:
+  location:
+    latitute: 63.4175512314733
+    longitude: 10.402534442068283
+  series: Probabilistic AI School (ProbAI)
 - title: NORA Summer School
   year: 2023
   id: norass2023
@@ -1896,6 +2102,10 @@
   end: 2023-06-09
   sub: ['ML', 'CV']
   note:
+  location:
+    latitute: 44.40498328188538
+    longitude: 8.972239169310429
+  series: Deep Learning and Computer Vision School (DLCV)
 - title: Oxford Machine Learning Summer School
   year: 2023
   id: norass2023
@@ -1909,6 +2119,10 @@
   end:
   sub: ['ML']
   note:
+  location:
+    latitute: 51.76083095312726
+    longitude: -1.2629606217291462
+  series: Oxford Machine Learning Summer School (OxML)
 # 2024 Schools
 - title: Online Machine Learing School for Medicine and Neuroscience 2024
   year: 2024
@@ -2045,10 +2259,14 @@
   note: null
   twitter: https://twitter.com/M2lSchool
   email: organizers@m2lschool.org
-- title: Gaussian Process Summer School
+  location:
+    latitute: 45.51842490266274
+    longitude: 9.213701581619295
+  series: Mediterranean Machine Learning Summer School (M2L)
+- title: Gaussian Process and Uncertainty Quantification Summer School
   year: 2024
   id: gpss2024
-  full_name: Gaussian Process Summer School 2024
+  full_name: Gaussian Process and Uncertainty Quantification Summer School 2024
   link: https://gpss.cc/gpss24/
   deadline: '2024-06-28 23:59:59'
   timezone: Europe/London
@@ -2060,6 +2278,10 @@
   note: null
   twitter: https://twitter.com/sheffieldmlnet
   email: mauricio.alvarezlopez@manchester.ac.uk
+  location:
+    latitute: 53.46767545817587
+    longitude: -2.2339761805331
+  series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
 - title: Applied Harmonic Analysis and Machine Learning
   year: 2024
   id: ahaml2024
@@ -2103,6 +2325,10 @@
   note: null
   twitter: https://twitter.com/deepindaba
   email: info@deeplearningindaba.com
+  location:
+    latitute: 14.75270063678384
+    longitude: -17.19629313560677
+  series: Deep Learning Indaba
 - title: ILCB Summer School
   year: 2024
   id: iss2024
@@ -2163,6 +2389,10 @@
   note: null
   twitter: null
   email: pmlss@princeton.edu
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: Princeton Machine Learning Theory Summer School
 - title: NSF Open AI Cellular workshop
   year: 2024
   id: nsoacw2024
@@ -2253,6 +2483,10 @@
   note: Application open Early January 2024
   twitter: https://x.com/EEMLcommunity
   email: contact@eeml.eu
+  location:
+    latitude: 45.24112317130754
+    longitude: 19.822649365487614
+  series: Eastern European Machine Learning (EEML) Summer School
 - title: International School on Deep Learning
   year: 2024
   id: deeplearn24
@@ -2298,6 +2532,10 @@
   note: null
   twitter: https://twitter.com/CIFAR_News
   email: info@dlrl.ca
+  location:
+    latitude: 43.66050300968948
+    longitude: -79.38919904731667
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
 - title: Deep Learning and Medical Imaging Summer School
   year: 2024
   id: dlmi2024
@@ -2328,6 +2566,10 @@
   note: null
   twitter: https://twitter.com/icvss
   email: icvss@dmi.unict.it
+  location:
+    latitute: 36.72627765947164
+    longitude: 14.752648199719536
+  series: International Computer Vision Summer School (ICVSS)
 - title: Amazon ML Summer School India
   year: 2024
   id: amazon24
@@ -2358,6 +2600,10 @@
   note: null
   twitter: https://twitter.com/GlobalGoalsAI
   email: contact@oxfordml.school
+  location:
+    latitute: 51.76083095312726
+    longitude: -1.2629606217291462
+  series: Oxford Machine Learning Summer School (OxML)
 - title: HIAS AI Summer School
   year: 2024
   id: hiasaiss2024
@@ -2388,6 +2634,10 @@
   note: null
   twitter: null
   email: bumblekite-team@four-corp.com
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
 - title: Machine Learning Crash Course
   year: 2024
   id: mlcc2024
@@ -2433,6 +2683,10 @@
   note: null
   twitter: https://twitter.com/hashtag/GeMSS24
   email: gemss@sciencesconf.org
+  location:
+    latitute: 51.45080997893656
+    longitude: 5.48570533862086
+  series: Generative Modeling Summer School (GeMSS)
 - title: Cooperative AI Summer School
   year: 2024
   id: cass2024
@@ -2478,6 +2732,10 @@
   note: null
   twitter: https://twitter.com/grupocig_upm
   email: lauragveiga@fi.upm.es
+  location:
+    latitute: 40.454254150754046
+    longitude: -3.7213397347113815
+  series: Machine Learning and Advanced Statistics (MLAS) Summer School
 - title: Artificial Intelligence and Games
   year: 2024
   id: aag2024
@@ -2493,6 +2751,10 @@
   note: null
   twitter: https://twitter.com/GameAISchool
   email: school@gameaibook.org
+  location:
+    latitute: 35.89879785699912
+    longitude: 14.51532979629325
+  series: AI and Games Summer School
 - title: Nordic Probabilistic AI School
   year: 2024
   id: npas2024
@@ -2508,6 +2770,10 @@
   note: null
   twitter: https://twitter.com/probabilisticai/
   email: hello@probabilistic.ai
+  location:
+    latitute: 55.682727619250805
+    longitude: 12.54381549941761
+  series: Probabilistic AI School (ProbAI)
 - title: Principles of Machine Learning for Bioinformatics
   year: 2024
   id: pmlb2024
@@ -2542,7 +2808,7 @@
   year: 2024
   id: dlcvs2024
   full_name: Deep Learning and Computer Vision School 2024
-  link: https://malga.unige.it/education/schools/dlcv2024
+  link: https://malga.unige.it/education/schools/dlcv2024/
   deadline: '2024-04-01 23:59:59'
   timezone: Europe/Rome
   place: Genova, Italy
@@ -2553,6 +2819,10 @@
   note: null
   twitter: https://twitter.com/malga_center
   email: malga@unige.it
+  location:
+    latitute: 44.40498328188538
+    longitude: 8.972239169310429
+  series: Deep Learning and Computer Vision School (DLCV)
 - title: RPL Summer School
   year: 2024
   id: rplss2024
@@ -2628,6 +2898,10 @@
   note: null
   twitter: https://twitter.com/probabilisticai/
   email: hello@probabilistic.ai
+  location:
+    latitute: -22.941121193597972
+    longitude: -43.18025796167374
+  series: Probabilistic AI School (ProbAI)
 - title: Climate Change AI Summer School (Virtual)
   year: 2024
   id: ccaivirtual24 
@@ -2728,6 +3002,10 @@
   note: There is a registration fee.
   twitter: 
   email: lxmls-2024@googlegroups.com
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
 - title: Summer School on Neurosymbolic Programming
   year: 2024
   id: neurosymbolic24
@@ -2842,3 +3120,750 @@
   end: 2024-09-27
   sub: ['ML', 'NLP']
   note: AIxIA offers 4 grants for the participation of students and deadline - 6th September 2024
+
+# Additional details of past recurring summer schools. TODO: Sort
+
+- title: "7th Advanced Online & Onsite Course on Data Science & Machine Learning"
+  year: 2024
+  id: acdl2024
+  full_name: "7th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2024)"
+  link: "https://acdl2024.icas.cc/"
+  deadline: "2024-05-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "June 10 - June 14, 2024"
+  start: 2024-06-10
+  end: 2024-06-14
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "6th Advanced Online & Onsite Course on Data Science & Machine Learning"
+  year: 2023
+  id: acdl2023
+  full_name: "6th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2023)"
+  link: "https://acdl2023.icas.cc/"
+  deadline: "2023-05-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "June 10 - June 14, 2023"
+  start: 2023-06-10
+  end: 2023-06-14
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "5th Advanced Online & Onsite Course on Data Science & Machine Learning"
+  year: 2022
+  id: acdl2022
+  full_name: "5th Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2022)"
+  link: "https://acdl2022.icas.cc/"
+  deadline: "2022-07-31 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Siena, Italy"
+  date: "August 22 - August 26, 2022"
+  start: 2022-08-22
+  end: 2022-08-26
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 43.36950815011062
+    longitude: 11.359597532381773
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "3rd Advanced Online & Onsite Course on Data Science & Machine Learning"
+  year: 2020
+  id: acdl2020
+  full_name: "3rd Advanced Online & Onsite Course on Data Science & Machine Learning (ACDL 2020)"
+  link: "https://acdl2020.icas.cc/"
+  deadline: "2020-06-30 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Siena, Italy"
+  date: "July 13 - July 17, 2020"
+  start: 2020-07-13
+  end: 2020-07-17
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 43.36950815011062
+    longitude: 11.359597532381773
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "2nd Advanced Course on Data Science & Machine Learning"
+  year: 2019
+  id: acdl2019
+  full_name: "2nd Advanced Course on Data Science & Machine Learning (ACDL 2019)"
+  link: "https://acdl2019.icas.cc/"
+  deadline: "2019-05-07 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Siena, Italy"
+  date: "July 15 - July 19, 2019"
+  start: 2019-07-15
+  end: 2019-07-19
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 43.36950815011062
+    longitude: 11.359597532381773
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "1st Advanced Course on Data Science & Machine Learning"
+  year: 2018
+  id: acdl2018
+  full_name: "1st Advanced Course on Data Science & Machine Learning (ACDL 2018)"
+  link: "https://acdl2018.icas.cc/"
+  deadline: "2018-03-31 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Siena, Italy"
+  date: "July 19 - July 23, 2018"
+  start: 2018-07-19
+  end: 2018-07-23
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  location:
+    latitude: 43.36950815011062
+    longitude: 11.359597532381773
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: Gaussian Process and Uncertainty Quantification Summer School
+  year: 2023
+  id: gpss2023
+  full_name: Gaussian Process and Uncertainty Quantification Summer School 2024
+  link: https://gpss.cc/gpss24/
+  deadline: '2024-07-31 23:59:59'
+  timezone: Europe/London
+  place: Manchester, UK
+  date: September 11 - September 14, 2024
+  start: 2024-09-11
+  end: 2024-09-14
+  sub: ['ML', 'Theory']
+  note: null
+  twitter: https://twitter.com/sheffieldmlnet
+  email: mauricio.alvarezlopez@manchester.ac.uk
+  location:
+    latitute: 53.46767545817587
+    longitude: -2.2339761805331
+  series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
+
+- title: International Computer Vision Summer School
+  year: 2023
+  id: icvs2023
+  full_name: International Computer Vision Summer School 2023
+  link: https://iplab.dmi.unict.it/icvss2023/
+  deadline: '2023-03-31 23:59:59'
+  timezone: Europe/Rome
+  place: Sicily, Italy
+  date: July 09 - July 15, 2023
+  start: 2023-07-09
+  end: 2023-07-15
+  sub: ['CV']
+  note: null
+  twitter: https://twitter.com/icvss
+  email: icvss@dmi.unict.it
+  location:
+    latitute: 36.72627765947164
+    longitude: 14.752648199719536
+  series: International Computer Vision Summer School (ICVSS)
+
+- title: International Computer Vision Summer School
+  year: 2022
+  id: icvs2022
+  full_name: International Computer Vision Summer School 2022
+  link: https://iplab.dmi.unict.it/icvss2022/
+  deadline: '2022-04-19 23:59:59'
+  timezone: Europe/Rome
+  place: Sicily, Italy
+  date: July 10 - July 16, 2022
+  start: 2022-07-10
+  end: 2022-07-16
+  sub: ['CV']
+  note: null
+  twitter: https://twitter.com/icvss
+  email: icvss@dmi.unict.it
+  location:
+    latitute: 36.72627765947164
+    longitude: 14.752648199719536
+  series: International Computer Vision Summer School (ICVSS)
+
+- title: International Computer Vision Summer School
+  year: 2018
+  id: icvs2018
+  full_name: International Computer Vision Summer School 2018
+  link: https://iplab.dmi.unict.it/icvss2018/
+  deadline: '2018-03-31 23:59:59'
+  timezone: Europe/Rome
+  place: Sicily, Italy
+  date: July 08 - July 14, 2018
+  start: 2018-07-08
+  end: 2018-07-14
+  sub: ['CV']
+  note: null
+  twitter: https://twitter.com/icvss
+  email: icvss@dmi.unict.it
+  location:
+    latitute: 36.72627765947164
+    longitude: 14.752648199719536
+  series: International Computer Vision Summer School (ICVSS)
+
+- title: Lisbon Machine Learning Summer School
+  year: 2023
+  id: lxmls2023
+  full_name: Lisbon Machine Learning Summer School (LxMLS 2023)
+  link: http://lxmls.it.pt/2023/
+  deadline: '2023-04-28 23:59:59'
+  timezone: UTC+1
+  place: Lisbon, Portugal
+  date: July 14 - July 20, 2022
+  start: 2023-07-14
+  end: 2023-07-20
+  sub: ['ML']
+  note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
+
+- title: Lisbon Machine Learning Summer School
+  year: 2020
+  id: lxmls2020
+  full_name: Lisbon Machine Learning Summer School (LxMLS 2020)
+  link: http://lxmls.it.pt/2022/
+  deadline: '2020-03-15 23:59:59'
+  timezone: UTC+1
+  place: Virtual
+  date: July 21 - July 29, 2020
+  start: 2020-07-21
+  end: 2020-07-29
+  sub: ['ML']
+  note:
+  location:
+    latitute: 38.73716166904233
+    longitude: -9.140120305237149
+  series: Lisbon Machine Learning Summer School (LxMLS)
+
+- title: Artificial Intelligence and Games
+  year: 2023
+  id: aag2023
+  full_name: Artificial Intelligence and Games 2023
+  link: https://school.gameaibook.org/
+  deadline: '2024-04-10 23:59:59'
+  timezone: Europe/London
+  place: Cambridge, UK
+  date: June 26 - June 30, 2023
+  start: 2023-06-30
+  end: 2023-06-26
+  sub: ['ML', 'AI4Games']
+  note: null
+  twitter: https://twitter.com/GameAISchool
+  email: school@gameaibook.org
+  location:
+    latitute: 52.19513770102987
+    longitude: 0.1348601693104292
+  series: AI and Games Summer School
+
+- title: Data Science Summer School
+  year: 2021
+  id: ds32021
+  full_name: Data Science Summer School (DS<sup>3</sup>) 2021
+  link: http://www.ds3-datascience-polytechnique.fr
+  deadline: '2020-10-21 23:59:59'
+  timezone: UTC+1
+  place: Virtual
+  date: January 4 - January 9, 2021
+  start: 2021-01-04
+  end: 2021-01-09
+  sub: ['ML']
+  note:
+  location:
+    latitude: 48.71490589359017
+    longitude: 2.211120038620858
+  series: Data Science Summer School (DS<sup>3</sup>)
+
+- title: Deep Learning and Reinforcement Learning Summer School
+  year: 2023
+  id: dlrlss2023
+  full_name: Deep Learning and Reinforcement Learning Summer School 2023
+  link: https://dlrl.ca/
+  deadline: '2022-04-30 23:59:59'
+  timezone: America/Montreal
+  place: Virtual
+  date: July 25 - July 29, 2022
+  start: 2022-07-25
+  end: 2022-07-29
+  sub: ['ML', 'RL']
+  note: null
+  twitter: https://twitter.com/CIFAR_News
+  email: info@dlrl.ca
+  location:
+    latitude: 45.53149485615537
+    longitude: -73.61324995265036
+  series: Deep Learning and Reinforcement Learning Summer School (DLRL)
+
+- title: Summer School on Machine Learning and Data Science
+  id: dsa2024nyeri
+  year: 2024
+  full_name: Summer School on Machine Learning and Data Science 2024
+  link: http://www.datascienceafrica.org/dsa2024nyeri/
+  deadline: '2024-06-03 23:59:59'
+  timezone: Africa/Nairobi
+  place: Nyeri, Kenya
+  date: June 03 - June 07, 2024
+  start: 2024-06-03
+  end: 2024-06-07
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: -0.4216634
+    longitude: 36.9477484
+  series: Data Science Africa
+
+- title: Summer School on Machine Learning and Data Science
+  id: dsa2023kigali
+  year: 2023
+  full_name: Summer School on Machine Learning and Data Science 2023
+  link: http://www.datascienceafrica.org/dsa2023/
+  deadline: '2023-05-08 23:59:59'
+  timezone: Africa/Kigali
+  place: Kigali, Rwanda
+  date: May 08 - May 12, 2023
+  start: 2023-05-08
+  end: 2023-05-12
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: -1.9440727
+    longitude: 30.0618851
+  series: Data Science Africa
+
+- title: Summer School on Machine Learning and Data Science
+  id: dsa2022arusha
+  year: 2022
+  full_name: Summer School on Machine Learning and Data Science 2022
+  link: http://www.datascienceafrica.org/dsa2022/
+  deadline: '2022-07-18 23:59:59'
+  timezone: Africa/Dar_es_Salaam
+  place: Arusha, Tanzania
+  date: July 18 - July 22, 2022
+  start: 2022-07-18
+  end: 2022-07-22
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: -3.3869254
+    longitude: 36.6829927
+  series: Data Science Africa
+
+- title: Virtual Summer School on Machine Learning and Data Science
+  id: dsa2021kimberley
+  year: 2021
+  full_name: Virtual Summer School on Machine Learning and Data Science 2021
+  link: http://www.datascienceafrica.org/dsa2021/
+  deadline: '2021-10-04 23:59:59'
+  timezone: Africa/Johannesburg
+  place: Kimberley, South Africa
+  date: October 04 - October 08, 2021
+  start: 2021-10-04
+  end: 2021-10-08
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: -28.7282384
+    longitude: 24.7499223
+  series: Data Science Africa
+
+- title: Virtual Summer School on Machine Learning and Data Science
+  id: dsa2020kampala
+  year: 2020
+  full_name: Virtual Summer School on Machine Learning and Data Science 2020
+  link: http://www.datascienceafrica.org/dsa2020/
+  deadline: '2020-07-24 23:59:59'
+  timezone: Africa/Kampala
+  place: Kampala, Uganda
+  date: July 24 - August 01, 2020
+  start: 2020-07-24
+  end: 2020-08-01
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: 0.3475964
+    longitude: 32.5825197
+  series: Data Science Africa
+
+- title: Summer School on Machine Learning and Data Science
+  id: dsa2019addis
+  year: 2019
+  full_name: Summer School on Machine Learning and Data Science 2019 Addis Ababa
+  link: http://www.datascienceafrica.org/dsa2019addis/
+  deadline: '2019-06-03 23:59:59'
+  timezone: Africa/Addis_Ababa
+  place: Addis Ababa, Ethiopia
+  date: June 03 - June 05, 2019
+  start: 2019-06-03
+  end: 2019-06-05
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: 9.0107934
+    longitude: 38.7612525
+  series: Data Science Africa
+
+- title: Summer School on Machine Learning and Data Science
+  id: dsa2019ghana
+  year: 2019
+  full_name: Summer School on Machine Learning and Data Science 2019 Ghana
+  link: http://www.datascienceafrica.org/dsa2019ghana/
+  deadline: '2019-10-21 23:59:59'
+  timezone: Africa/Accra
+  place: Berekuso, Ghana
+  date: October 21 - October 23, 2019
+  start: 2019-10-21
+  end: 2019-10-23
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/dsa_org
+  email: info@datascienceafrica.org
+  location:
+    latitude: 5.7600214
+    longitude: -0.2169662
+  series: Data Science Africa
+
+- title: European Summer School on Artificial Intelligence
+  year: 2024
+  id: essai2024
+  full_name: European Summer School on Artificial Intelligence 2024
+  link: https://essai2024.di.uoa.gr/
+  deadline: '2023-07-17 23:59:59'
+  timezone: UTC+2
+  place: Athens, Greece
+  date: July 15 - July 26, 2024
+  start: 2024-07-15
+  end: 2024-07-26
+  sub: ['ML']
+  note:
+  location:
+    latitude: 37.968420118077674
+    longitude: 23.766467881234984
+  series: European Summer School on Artificial Intelligence (ESSAI)
+
+
+- title: Vision Understanding and Machine Intelligence 
+  year: 2022
+  id: visum2022
+  full_name: Vision Understanding and Machine Intelligence (VISUM 2020)
+  link: https://visum.inesctec.pt/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC+1
+  place: Porto, Portugal
+  date: July 10 - July 16, 2022
+  start: 2022-07-10
+  end: 2022-07-16
+  sub: ['ML', 'CV']
+  note:
+  location:
+    latitude: 41.149610
+    longitude: -8.610990
+  series: Vision Understanding and Machine Intelligence (VISUM)
+
+- title: Vision Understanding and Machine Intelligence 
+  year: 2020
+  id: visum2020
+  full_name: Vision Understanding and Machine Intelligence (VISUM 2020)
+  link: https://visum.inesctec.pt/
+  deadline: '2020-03-20 23:59:59'
+  timezone: UTC+1
+  place: Porto, Portugal
+  date: July 02 - July 10, 2020
+  start: 2020-07-02
+  end: 2020-07-10
+  sub: ['ML', 'CV']
+  note:
+  location:
+    latitude: 41.149610
+    longitude: -8.610990
+  series: Vision Understanding and Machine Intelligence (VISUM)
+
+- title: Deep Learning Indaba
+  year: 2022
+  id: dlindaba2022
+  full_name: Deep Learning Indaba 2022
+  link: https://deeplearningindaba.com
+  deadline: '2022-05-12 23:59:59'
+  timezone: Africa/Tunis
+  place: Tunis, Tunisia
+  date: August 21 - August 26, 2022
+  start: 2022-08-21
+  end: 2022-08-26
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/deepindaba
+  email: info@deeplearningindaba.com
+  location:
+    latitude: 36.81703519724266
+    longitude: 10.180342107430826
+  series: Deep Learning Indaba
+
+- title: Deep Learning Indaba
+  year: 2023
+  id: dlindaba2023
+  full_name: Deep Learning Indaba 2023
+  link: https://deeplearningindaba.com
+  deadline: '2023-05-12 23:59:59'
+  timezone: Africa/Accra
+  place: Accra, Ghana
+  date: September 3 - September 9, 2023
+  start: 2023-09-03
+  end: 2023-09-09
+  sub: ['ML']
+  note: null
+  twitter: https://twitter.com/deepindaba
+  email: info@deeplearningindaba.com
+  location:
+    latitude: 5.650823573503628
+    longitude: -0.1962780485079984
+  series: Deep Learning Indaba
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2024summer
+  year: 2024
+  full_name: Deep Learning for Natural Language Processing Summer School 2024
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2024.html
+  deadline: '2024-06-26 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: September 9 - September 13. 2024
+  start: 2024-09-09
+  end: 2024-09-13
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2024winter
+  year: 2024
+  full_name: Deep Learning for Natural Language Processing Winter School 2024
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2024.html
+  deadline: '2023-12-20 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: January 08 - January 25, 2024
+  start: 2024-01-08
+  end: 2024-01-25
+  sub: ['ML', 'NLP']
+  note: 35 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2023summer
+  year: 2023
+  full_name: Deep Learning for Natural Language Processing Summer School 2023
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2023.html
+  deadline: '2023-06-26 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: July 10 - July 14, 2023
+  start: 2023-07-10
+  end: 2023-07-14
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2023winter
+  year: 2023
+  full_name: Deep Learning for Natural Language Processing Winter School 2023
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2023.html
+  deadline: '2022-12-20 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: January 09 - January 27, 2023
+  start: 2023-01-09
+  end: 2023-01-27
+  sub: ['ML', 'NLP']
+  note: 35 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2022summer
+  year: 2022
+  full_name: Deep Learning for Natural Language Processing Summer School 2022
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2022.html
+  deadline: '2022-06-26 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: July 04 - July 08, 2022
+  start: 2022-07-04
+  end: 2022-07-08
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2022winter
+  year: 2022
+  full_name: Deep Learning for Natural Language Processing Winter School 2022
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2022.html
+  deadline: '2022-06-22 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: January 10 - January 28, 2022
+  start: 2022-01-10
+  end: 2022-01-28
+  sub: ['ML', 'NLP']
+  note: 35 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2021summer
+  year: 2021
+  full_name: Deep Learning for Natural Language Processing Summer School 2021
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2021.html
+  deadline: '2021-06-27 23:59:59'
+  timezone: Europe/Madrid
+  place: Virtual
+  date: July 05 - July 09, 2021
+  start: 2021-07-05
+  end: 2021-07-09
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2021winter
+  year: 2021
+  full_name: Deep Learning for Natural Language Processing Winter School 2021
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2021.html
+  deadline: '2021-01-07 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain and Virtual
+  date: January 11 - January 29, 2021
+  start: 2021-01-11
+  end: 2021-01-29
+  sub: ['ML', 'NLP']
+  note: 35 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2020summer
+  year: 2020
+  full_name: Deep Learning for Natural Language Processing Summer School 2020
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2020.html
+  deadline: '2020-06-20 23:59:59'
+  timezone: Europe/Madrid
+  place: Virtual
+  date: July 01 - July 03, 2020
+  start: 2020-07-01
+  end: 2020-07-03
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2020winter
+  year: 2020
+  full_name: Deep Learning for Natural Language Processing Winter School 2020
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2020.html
+  deadline: '2020-01-20 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: January 27 - February 31, 2020
+  start: 2020-01-27
+  end: 2020-02-13
+  sub: ['ML', 'NLP']
+  note: 35 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2019summer
+  year: 2019
+  full_name: Deep Learning for Natural Language Processing Summer School 2019
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jul2019.html
+  deadline: '2019-04-15 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: July 03 - July 15, 2019
+  start: 2019-07-03
+  end: 2019-07-15
+  sub: ['ML', 'NLP']
+  note: 20 hours with Keras labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
+
+- title: Deep Learning for Natural Language Processing
+  id: dlnlp2019winter
+  year: 2019
+  full_name: Deep Learning for Natural Language Processing Winter School 2019
+  link: https://ixa2.si.ehu.eus/deep_learning_seminar/index-jan2019.html
+  deadline: '2018-12-20 23:59:59'
+  timezone: Europe/Madrid
+  place: San Sebastian, Spain
+  date: January 22 - February 07, 2019
+  start: 2019-01-22
+  end: 2019-02-07
+  sub: ['ML', 'NLP']
+  note: 30 hours with Tensorflow labs
+  location:
+    latitude: 43.307198697797986
+    longitude: -2.010444189662896
+  series: Deep Learning For Natural Language Processing
