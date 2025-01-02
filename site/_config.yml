@@ -51,6 +51,12 @@ page_gen:
       name: "id"               # The output filename
       dir: "archivesummerschool"         # The output directory
       extension: "html"           # optional, defaults to html
+  # Each entry in `_data/recurringschools.yml` will create a page in recurringschools
+    - data: "recurringschools"       # The name of your data file (without extension)
+      template: "recurringschool"    # The template file (without extension) to use
+      name: "slug"               # The output filename
+      dir: "recurringschool"         # The output directory
+      extension: "html"           # optional, defaults to html
 
 # Map configuration
 maps:

@@ -1,7 +1,5 @@
 ---
-
 permalink: /recurring/
-
 title: Recurring Summer Schools
 summary: Machine Learning related summer schools that happen recurringly.
 description: This page lists machine learning related summer schools that happen recurringly. For each school, the page shows the location, the year it was last held, and the topics covered.
@@ -12,7 +10,7 @@ author: awesome-mlss
     <head>
         {% include head.html %}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8115933863612298"
-         crossorigin="anonymous"></script>
+                crossorigin="anonymous"></script>
     </head>
     {% include gtag.html %}
   <body>
@@ -57,18 +55,18 @@ author: awesome-mlss
                                 <div class="d-flex justify-content-end">
                                   <form class="container">
                                       <div class="row">
-                                          <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
+                                          <div class="col-12"> 
                                               <div class="filter-label" style="text-align: left;">
                                                   <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
                                                       Filter by topic:
                                                   </label>
                                               </div>
                                           </div>
-                                          <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
+                                          <div class="col-12">
                                               <select id="subject-select" name="subject-select" multiple="multiple">
                                                   {% for type in site.data.types %}
-                                                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
-                                                      {{type.name}} ({{type.sub}})
+                                                  <option value="{{ type.sub }}" id="{{ type.sub }}-checkbox">
+                                                      {{ type.name }} ({{ type.sub }})
                                                   </option>
                                                   {% endfor %}
                                               </select>
@@ -83,96 +81,136 @@ author: awesome-mlss
             <br>
         </div>
         <div id="confs">
-        <div id="past_confs">
-          {% assign confs = site.data.summerschools | concat: site.data.archive | sort: "year" | reverse | group_by: "title" | sort: "name" %}
-          {% assign this_time = "now" | date: "%s" %}
-          {% for conf in confs %}
-          {% if conf.items.size > 1 %}
-          <div id="{{conf.name | slugify: 'latin'}}" class="ConfItem">
-            <div class="row conf-row">
-                <div class="col-12">
-                  <span class="conf-title">
-                      <a title="Deadline Details" href="{{site.baseurl}}/recurringschool/{{conf.name | slugify: 'latin'}}/">{{conf.name}}</a>
-                  </span>
-                  <span class="conf-title-small">
-                      <a title="Deadline Details" href="{{site.baseurl}}/recurringschool/{{conf.name | slugify: 'latin'}}/">{{conf.name}}</a>
-                  </span>
-                  <span class="conf-title-icon">
-                    <a title="Conference Website" href="{{conf.items[0].link}}" target="_blank"><img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" width="16" height="16" /></a>
-                    &ZeroWidthSpace;
-                  </span>
+          <div id="past_confs">
+            <!-- 
+              Instead of summerschools + archive grouped by title,
+              we directly read the 'recurringschools' array from your plugin.
+            -->
+            {% assign confs = site.data.recurringschools | sort: "series" %}
+            {% assign this_time = "now" | date: "%s" %}
+
+            {% for conf in confs %}
+              {% comment %}
+                conf has these top-level fields:
+                  - conf.series   (string)
+                  - conf.slug     (string)
+                  - conf.items    (array of event objects)
+                  - conf.id       (if you want it)
+                
+                Each item in conf.items might have:
+                  - name
+                  - place
+                  - year
+                  - start or deadline
+                  - sub
+              {% endcomment %}
+
+              {% if conf.items.size > 1 %}
+              <div id="{{ conf.slug }}" class="ConfItem">
+                <div class="row conf-row">
+                  <div class="col-12">
+                    <span class="conf-title">
+                      <a title="Deadline Details" href="{{ site.baseurl }}/recurringschool/{{ conf.slug }}/">
+                        {{ conf.series }}
+                      </a>
+                    </span>
+                    <span class="conf-title-small">
+                      <a title="Deadline Details" href="{{ site.baseurl }}/recurringschool/{{ conf.slug }}/">
+                        {{ conf.series }}
+                      </a>
+                    </span>
+                    <span class="conf-title-icon">
+                      <a title="Conference Website" href="{{ conf.items[0].link }}" target="_blank">
+                        <img src="/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" width="16" height="16" />
+                      </a>
+                      &ZeroWidthSpace;
+                    </span>
+                  </div>
                 </div>
-            </div>
-            <div class="row">
-              {% assign conf_time = conf.items[0].start | date: "%s" %}
-              {% if this_time < conf_time %}
-                {% assign lastnext_place = "Next" %}
-                {% assign lastnext_year = "Next Year Held in" %}
-              {% else %}
-                {% assign lastnext_place = "Last" %}
-                {% assign lastnext_year = "Last Year Held in" %}
-              {% endif %}
-              <div class="col-12 col-sm-6">
-                <div class="meta">
-                  <span class="conf-place">
-                    {% assign last_place = conf.items[0].place %}
-                    {% if last_place == conf.items[2].place and last_place == conf.items[1].place %}
-                      Always:&nbsp;
-                    {% else %}
-                      {{ lastnext_place }}:&nbsp;
-                    {% endif %}
-                    {% assign idx = 0 %}
-                    {% if last_place == "TBD" %}
-                      {% assign idx = 1 %}
-                    {% endif %}
-                    {% if conf.items[idx].place == "Online" %}
-                    <a href="#">{{conf.items[idx].place}}</a>
-                    {% else %}
-                    <a href="http://maps.google.com/?q={{conf.items[idx].place}}">{{conf.items[idx].place}}</a>
-                    {% endif %}
-                  </span>
-                  <br>
-                  <span class="conf-time">
-                    {{ lastnext_year }} {{ conf.items[0].year }}.
-                  </span>
+
+                <div class="row">
+                  {% assign conf_time = conf.items[0].start | date: "%s" %}
+                  {% if this_time < conf_time %}
+                    {% assign lastnext_place = "Next" %}
+                    {% assign lastnext_year = "Next Year Held in" %}
+                  {% else %}
+                    {% assign lastnext_place = "Last" %}
+                    {% assign lastnext_year = "Last Year Held in" %}
+                  {% endif %}
+
+                  <div class="col-12 col-sm-6">
+                    <div class="meta">
+                      {% assign last_place = conf.items[0].place %}
+                      <span class="conf-place">
+                        <!-- Basic logic to check if it always has the same place (requires at least 3 items) -->
+                        {% if conf.items.size > 2 and last_place == conf.items[1].place and last_place == conf.items[2].place %}
+                          Always:&nbsp;
+                        {% else %}
+                          {{ lastnext_place }}:&nbsp;
+                        {% endif %}
+
+                        {% assign idx = 0 %}
+                        {% if last_place == "TBD" %}
+                          {% assign idx = 1 %}
+                        {% endif %}
+                        {% if conf.items[idx].place == "Online" %}
+                          <a href="#">{{ conf.items[idx].place }}</a>
+                        {% else %}
+                          <a href="http://maps.google.com/?q={{ conf.items[idx].place }}">
+                            {{ conf.items[idx].place }}
+                          </a>
+                        {% endif %}
+                      </span>
+                      <br>
+                      <span class="conf-time">
+                        {{ lastnext_year }} {{ conf.items[0].year }}.
+                      </span>
+                    </div>
+                  </div>
                 </div>
-              </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
+
+                <div class="row">
+                  <div class="col-12">
+                    <!-- 'sub' might be an array of topics in each item -->
                     {% assign subs = conf.items[0].sub %}
-                    {% for sub in subs %}
-                    <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
-                    {% endfor %}
+                    {% if subs %}
+                      {% for sub in subs %}
+                        <span title="Click to only show {{ sub }} conferences" 
+                              data-sub="{{ sub }}" 
+                              class="conf-sub {{ sub }}-tag">
+                        </span>
+                      {% endfor %}
+                    {% endif %}
+                  </div>
                 </div>
-            </div> 
-            <hr>
+                <hr>
+              </div>
+              {% endif %}
+            {% endfor %}
           </div>
-          {% endif %}
-          {% endfor %}
         </div>
-      </div>
       <footer>
-            {% include footer.html %}
+          {% include footer.html %}
       </footer>
       <br><br>
     </div>
+
     <script type="text/javascript" charset="utf-8">
     $(function() {
 
         {% include load_data.js %}
 
-        // Due to the difference in HTML structure, we use a separate function to update the filtering for recurring.html
+        // Filter function (updated as needed for your usage)
         function update_filtering(data) {
-            var page_url = "{{site.baseurl}}";
+            var page_url = "{{ site.baseurl }}";
             var currentPath = window.location.pathname; 
             currentPath = currentPath.replace(/\/+$/, '/');
-            store.set("{{site.domain}}-subs", data.subs);
+            store.set("{{ site.domain }}-subs", data.subs);
 
-            $(".ConfItem").hide(); // Ensure class names are correctly cased
+            $(".ConfItem").hide();
             for (const sub of data.all_subs) {
                 if (data.subs.includes(sub)) {
-                $('.' + sub + '-tag').closest('.ConfItem').show(); // Adjust based on your actual class setup
+                  $('.' + sub + '-tag').closest('.ConfItem').show();
                 }
             }
 
@@ -185,12 +223,17 @@ author: awesome-mlss
 
         {% include multiselect_handler.js %}
         
+        // Replace short subject code with full subject name from sub2name
         $('.conf-sub').each(function() {
-            var sub = $(this).data('sub'); // Get the data-sub attribute which stores the sub
-            $(this).html(sub2name[sub].toLocaleLowerCase()); // Update the HTML content
+            var sub = $(this).data('sub');
+            if (sub2name[sub]) {
+              $(this).html(sub2name[sub].toLocaleLowerCase());
+            } else {
+              $(this).html(sub);
+            }
         });
         
-        // Event handler on sub badge click
+        // Clicking a .conf-sub tag triggers a filter
         $('.conf-sub').click(function (e) {
             var csub = $(this).data('sub');
             subs = [csub];
@@ -198,7 +241,6 @@ author: awesome-mlss
             $("#subject-select").multiselect('select', subs);
             update_filtering({ subs: subs, all_subs: all_subs});
         });
-
     });
     </script>
   </body>
