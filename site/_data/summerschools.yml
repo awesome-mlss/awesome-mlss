@@ -166,3 +166,24 @@
     latitude: 48.148598
     longitude: 17.107748
   series: European Summer School on Artificial Intelligence (ESSAI)
+
+- title: "ELLIS Winter School on Foundation Models"
+  year: 2025
+  id: fomo25
+  full_name: "2nd ELLIS Winter School on Foundation Models (FoMo)"
+  link: "https://ivi.fnwi.uva.nl/ellis/events/2025-ellis-winter-school-on-foundation-models-fomo"
+  deadline: "2025-26-01 23:59:00"
+  timezone: "Europe/Amsterdam"
+  place: "Amsterdam, Netherlands"
+  date: "March 18 - March 21, 2025"
+  start: 2025-03-18
+  end: 2025-03-21
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/ellis_amsterdam"
+  description: "The FoMo presents a valuable opportunity to explore the intricacies of foundation models and to highlight how Europe is establishing its own path beyond the widely-known Big Tech narrative. Notable insights and innovative approaches are emerging from Europe in both academia and industry. Thus, one of the main objectives of this winter school is to highlight these perspectives and provide a thorough understanding of how Europe is shaping its research agenda with unique directions while fostering community collaboration. Participants can expect a diverse lineup of speakers, including Tim Rocktäschel (UCL and Google Deepmind), Amir Zamir (EPFL), and Fahad Khan (MBZUAI, Linköping University Sweden)– more to be announced soon, and the opportunity to engage with like-minded individuals."
+  image: "https://ivi.fnwi.uva.nl/ellis/wp-content/uploads/2024/12/Fomo-25-2-1536x864.png"
+  location:
+    latitude: 52.383207972959795
+    longitude: 4.903048457672083
+  series: ELLIS Winter School on Foundation Models (FoMo)
