@@ -26,14 +26,15 @@
 ## 2025 Summer Schools
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-Bumblekite Machine Learning Summer School in Health, care and biosciences <img src="https://img.shields.io/badge/featured-blue?style=plastic" alt="featured" width="50" />|Machine Learning, ML for Health, ML for Biology|Zürich, Switzerland|Mar 09, 2025|Jun 22 - Jun 28, 2025|[Details](https://awesome-mlss.com/summerschool/bumblekite25)
-International Artificial Intelligence Summer School|Machine Learning|Grosseto, Italy|Mar 23, 2025|Sep 21 - Sep 25, 2025|[Details](https://awesome-mlss.com/summerschool/IAISS25)
-European Summer School on Artificial Intelligence|Machine Learning, Robotics, Automated Planning, Data Mining|Bratislava, Slovakia|Jun 01, 2025|Jun 30 - Jul 04, 2025|[Details](https://awesome-mlss.com/summerschool/essai25)
-Advanced Course on Data Science & Machine Learning|Machine Learning|Grosseto, Italy|Feb 23, 2025|Jun 09 - Jun 13, 2025|[Details](https://awesome-mlss.com/summerschool/acdl25)
-Summer School in Responsible AI and Human Rights|Responsible AI|Montreal, Canada|Jan 06, 2025|May 26 - May 30, 2025|[Details](https://awesome-mlss.com/summerschool/ssraihr25)
-Winter School: Next Generation AI and Economic Applications|Generative AI, AI and Economics|UM6P Ben Guerir Campus, Morocco|Jan 30, 2025|Feb 24 - Feb 25, 2025|[Details](https://awesome-mlss.com/summerschool/wsngaiea25)
-UM6P Winter School on Data Economics|ML Theory, AI and Economics|UM6P Rabat Campus, Morocco|Dec 08, 2024|Jan 20 - Jan 24, 2025|[Details](https://awesome-mlss.com/summerschool/wsde25)
-Winter School on Emerging Technologies|Machine Learning, Robotics|Mesa, AZ|Oct 07, 2024|Jan 03 - Jan 10, 2025|[Details](https://awesome-mlss.com/summerschool/ASUWinterSchool25)
+Bumblekite Machine Learning Summer School in Health, care and biosciences <img src="https://img.shields.io/badge/featured-blue?style=plastic" alt="featured" width="50" />|Machine Learning, ML for Health, ML for Biology|Zürich, Switzerland|Mar 09, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/bumblekite25)|Jun 22 - Jun 28, 2025|[Details](https://awesome-mlss.com/summerschool/bumblekite25)
+International Artificial Intelligence Summer School|Machine Learning|Grosseto, Italy|Mar 23, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/IAISS25)|Sep 21 - Sep 25, 2025|[Details](https://awesome-mlss.com/summerschool/IAISS25)
+European Summer School on Artificial Intelligence|Machine Learning, Robotics, Automated Planning, Data Mining|Bratislava, Slovakia|Jun 01, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/essai25)|Jun 30 - Jul 04, 2025|[Details](https://awesome-mlss.com/summerschool/essai25)
+Advanced Course on Data Science & Machine Learning|Machine Learning|Grosseto, Italy|Feb 23, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/acdl25)|Jun 09 - Jun 13, 2025|[Details](https://awesome-mlss.com/summerschool/acdl25)
+Summer School in Responsible AI and Human Rights|Responsible AI|Montreal, Canada|Jan 06, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ssraihr25)|May 26 - May 30, 2025|[Details](https://awesome-mlss.com/summerschool/ssraihr25)
+ELLIS Winter School on Foundation Models|Machine Learning|Amsterdam, Netherlands|2025-26-01 23:59:00 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/fomo25)|Mar 18 - Mar 21, 2025|[Details](https://awesome-mlss.com/summerschool/fomo25)
+Winter School: Next Generation AI and Economic Applications|Generative AI, AI and Economics|UM6P Ben Guerir Campus, Morocco|Jan 30, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/wsngaiea25)|Feb 24 - Feb 25, 2025|[Details](https://awesome-mlss.com/summerschool/wsngaiea25)
+UM6P Winter School on Data Economics|ML Theory, AI and Economics|UM6P Rabat Campus, Morocco|Dec 08, 2024 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/wsde25)|Jan 20 - Jan 24, 2025|[Details](https://awesome-mlss.com/summerschool/wsde25)
+Winter School on Emerging Technologies|Machine Learning, Robotics|Mesa, AZ|Oct 07, 2024 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ASUWinterSchool25)|Jan 03 - Jan 10, 2025|[Details](https://awesome-mlss.com/summerschool/ASUWinterSchool25)
 
 ## Past Summer Schools
 
