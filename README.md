@@ -35,35 +35,16 @@ Winter School: Next Generation AI and Economic Applications|Generative AI, AI an
 UM6P Winter School on Data Economics|ML Theory, AI and Economics|UM6P Rabat Campus, Morocco|Dec 08, 2024|Jan 20 - Jan 24, 2025|[Details](https://awesome-mlss.com/summerschool/wsde25)
 Winter School on Emerging Technologies|Machine Learning, Robotics|Mesa, AZ|Oct 07, 2024|Jan 03 - Jan 10, 2025|[Details](https://awesome-mlss.com/summerschool/ASUWinterSchool25)
 
-## Contributing
+## Past Summer Schools
 
-Contributions are very welcome!
+For schools that took place in 2024 or earlier, check out our [web archive](https://awesome-mlss.com/archive/) or [PAST](PAST.md) schools.
 
-To add or update a new summer school deadline:
-- Fork the repository
-- Optional: create a new branch with the name of the summer school
-- Update `site/_data/summerschools.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + Please use one of the timezone string mentioned in [timezones](timezones.md).
-    + Please use one of the subcategory mentioned in [topics](topics.md). Use the value of the `sub` attribute to specify the subcategory.
-- Optionally add a `note` in case there is important information to convey
-- Example:
-    ```yaml
-    - title: BestMLSS # (required❗)
-      year: 2024 # (required❗)
-      id: bestmlss24  # title as lower case + last two digits of year # (required❗)
-      full_name: Best Machine Learning Summer School # full school name # (required❗)
-      link: link-to-website.com # (required❗)
-      deadline: YYYY-MM-DD HH:SS # (required❗)
-      timezone: Asia/Seoul # (required❗)
-      place: Incheon, South Korea # (required❗)
-      date: September 18 - September 22, 2024 # (required❗)
-      start: YYYY-MM-DD # (required❗)
-      end: YYYY-MM-DD # (required❗)
-      sub: Ml, NLP #(at least 1 required❗)
-      note: Any important notes about the school # (optional🤙)
-    ```
-- Send a pull request
+## Contributing Guide
+
+Contributions are very welcome! For details on how to add or update a new summer school listing, please see [CONTRIBUTING](CONTRIBUTING.md) guide.
+
+- If you are not familiar with Git or prefer a simpler way to add/modify school details, please feel free to *[create an issue](https://github.com/awesome-mlss/awesome-mlss/issues/new/choose)*. We will gladly add or modify the summer school entry for you :)
+- If you are an **organizer** and would like your school to be featured, please email us at [support@awesome-mlss.com](mailto:support@awesome-mlss.com).
 
 ## Acknowledgements
 

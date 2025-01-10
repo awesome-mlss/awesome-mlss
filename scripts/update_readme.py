@@ -122,7 +122,10 @@ def generate_markdown_table(summerschools, types_map, year=2025):
 
         # Format deadline
         deadline_raw = sch.get("deadline", "")
+        school_id = sch.get("id", "")
+        deadline_link = f"https://awesome-mlss.com/summerschool/{school_id}"
         deadline_str = format_date_abbr(deadline_raw)  # e.g. "Mar 23, 2025"
+        deadline_str = f"{deadline_str} <br>⏰ [Add to Calendar]({deadline_link})"
 
         # Format start/end
         start_raw = sch.get("start", "")
@@ -136,7 +139,6 @@ def generate_markdown_table(summerschools, types_map, year=2025):
         topics_str = ", ".join(topics_list)
 
         # Details link
-        school_id = sch.get("id", "")
         details_link = f"https://awesome-mlss.com/summerschool/{school_id}"
 
         # Build row
