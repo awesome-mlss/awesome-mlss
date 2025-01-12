@@ -1,6 +1,6 @@
 ---
 title: Machine Learning Summer School Deadlines
-summary: Countdowns to deadlines of summer schools in machine learning and related fields for 2024.
+summary: Countdowns to deadlines of summer schools in machine learning and related fields.
 author: awesome-mlss
 ---
 
@@ -19,9 +19,9 @@ author: awesome-mlss
             <div class="row">
                 <div class="col-12">
                     <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
-                        <h2 style="font-size: 2em; text-align: left; width: 100%;">
+                        <h1 style="font-size: 2em; text-align: left; width: 100%;">
                             {{ site.title }}
-                        </h2>
+                        </h1>
                         <p style="font-size: 1.5em;">
                           {{ site.description }}
                         </p>
@@ -82,7 +82,7 @@ author: awesome-mlss
         <div id="confs">
           <div class="heading-container">
             <!-- 1) Heading first in HTML so it stays on the left on large screens -->
-            <h1 id="coming-events-title">Upcoming Deadlines</h1>
+            <h2 id="coming-events-title">Upcoming Deadlines</h2>
           
             <!-- 2) Sort Order Container -->
             <div id="sort-order-container">
@@ -110,16 +110,27 @@ author: awesome-mlss
                       <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/summerschool/{{ conf.id }}">{{conf.title}} '{{conf.year | slice: -2, 3}}</a>
                   </span>
                   <span class="conf-title-icon">
-                    <a title="Conference Website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" alt="Link to School Website" /></a>
+                    <a title="Summer School Website" href="{{conf.link}}" target="_blank">
+                      <img src="{{site.baseurl}}/static/img/203-earth.svg" 
+                           class="badge-link" 
+                           alt="Globe icon - Click to visit the summer school's website" />
+                    </a>
                     &ZeroWidthSpace;
                     {% if conf.email %}
-                      <a title="School Email" href="{{conf.email}}" target="_blank"><img src="{{site.baseurl}}/static/img/empty-email-svgrepo-com.svg" class="badge-link" alt="School Email" /></a>
+                      <a title="Summer School Email" href="mailto:{{conf.email}}" target="_blank">
+                        <img src="{{site.baseurl}}/static/img/empty-email-svgrepo-com.svg" 
+                             class="badge-link" 
+                             alt="Email envelope icon - Click to contact the summer school" />
+                      </a>
                     {% endif %}
                     &ZeroWidthSpace;
                     {% if conf.twitter %}
-                      <a title="School Twitter" href="{{conf.twitter}}" target="_blank"><img src="{{site.baseurl}}/static/img/x-2.svg" class="badge-link" alt="Link to School Twitter" /></a>
+                      <a title="Summer School Twitter" href="{{conf.twitter}}" target="_blank">
+                        <img src="{{site.baseurl}}/static/img/x-2.svg" 
+                             class="badge-link" 
+                             alt="X (formerly Twitter) icon - Click to view the summer school's social media profile" />
+                      </a>
                     {% endif %}
-                    &ZeroWidthSpace;
                   </span>
                 </div>
                 <div class="col-6">
@@ -140,7 +151,7 @@ author: awesome-mlss
                   </span>
                   {% if conf.featured %}
                   <div class="featured-tag" style="font-style: italic; color: #666; margin-top: 1px;">
-                    <img src="https://img.shields.io/badge/featured-blue?style=plastic" alt="featured" width="60" />
+                    <img src="https://img.shields.io/badge/featured-blue?style=plastic" alt="Blue badge indicating a featured summer school" width="60" />
                   </div>
                   {% endif %}
                   {% if conf.note %}
@@ -172,7 +183,7 @@ author: awesome-mlss
           {% endfor %}
         </div>
         <div id="past-container">
-          <h1 id="past-events-title">Past Deadlines</h1>
+          <h2 id="past-events-title">Past Deadlines</h2>
           <div id="past_confs"></div>
         </div>        
       </div>
