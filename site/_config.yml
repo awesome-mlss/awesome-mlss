@@ -1,6 +1,6 @@
-title: "Machine Learning Summer School Deadlines"
-tagline: "A detailed guide for Machine Learning Summer Schools (MLSS) worldwide"
-description: "A community project to keep track of Machine Learning Summer Schools (MLSS) around the world"
+title: "Machine Learning Summer School Guide"
+tagline: "Awesome MLSS"
+description: "Find machine learning and artificial intelligence summer schools worldwide by topics, locations, dates, and deadlines. Natural Language Processing, Computer Vision, Reinforcement Learning, and more."
 url: "https://awesome-mlss.com"   # Full URL to your site, important for absolute image URLs in meta tags
 author: "awesome-mlss"
 
@@ -27,6 +27,7 @@ markdown: kramdown
 ga_id:
 
 logo: "/static/img/favicon.png"
+locale: "en_US"
 
 include: ['_pages']
 
