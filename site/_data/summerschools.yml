@@ -181,9 +181,74 @@
   sub: ['ML']
   note: null
   twitter: "https://x.com/ellis_amsterdam"
+  email: "ellisinfo-science@uva.nl"
   description: "The FoMo presents a valuable opportunity to explore the intricacies of foundation models and to highlight how Europe is establishing its own path beyond the widely-known Big Tech narrative. Notable insights and innovative approaches are emerging from Europe in both academia and industry. Thus, one of the main objectives of this winter school is to highlight these perspectives and provide a thorough understanding of how Europe is shaping its research agenda with unique directions while fostering community collaboration. Participants can expect a diverse lineup of speakers, including Tim Rocktäschel (UCL and Google Deepmind), Amir Zamir (EPFL), and Fahad Khan (MBZUAI, Linköping University Sweden)– more to be announced soon, and the opportunity to engage with like-minded individuals."
   image: "https://ivi.fnwi.uva.nl/ellis/wp-content/uploads/2024/12/Fomo-25-2-1536x864.png"
   location:
     latitude: 52.383207972959795
     longitude: 4.903048457672083
   series: ELLIS Winter School on Foundation Models (FoMo)
+
+- title: "Gatsby Bridging Programme"
+  year: 2025
+  id: gatsbybp25
+  full_name: "Gatsby Bridging Programme (Maths Summer School)"
+  link: "https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme"
+  deadline: "2025-02-07 23:59:00"
+  timezone: "GMT"
+  place: "London, UK"
+  date: "June 23 - Aug 8, 2025"
+  start: 2025-06-23
+  end: 2025-08-08
+  sub: ['Theory', 'Neuro']
+  note: null
+  twitter: "https://x.com/GatsbyUCL"
+  email: "admissions@gatsby.ucl.ac.uk"
+  description: "The Gatsby Bridging Programme is a mathematics summer school for penultimate- or final-year undergraduates and Master’s students (incl. recent graduates) who aspire to pursue a postgraduate research degree in Theoretical Neuroscience and/or Machine Learning but whose predoctoral degree(s) does not have a strong mathematical focus. During the programme, you will develop the mathematical intuitions and learn the mathematics skills necessary to enter these fields."
+  image: "https://www.ucl.ac.uk/gatsby/sites/gatsby/files/styles/small_image/public/gatsby_partners.png?itok=zIODn6fm"
+  location:
+    latitude: 51.521277368652434
+    longitude: -0.13837474697884816
+  series: Gatsby Bridging Programme
+
+- title: "Reasoning Web Summer School"
+  year: 2025
+  id: rw25
+  full_name: "21st Reasoning Web (RW) Summer School"
+  link: "https://2025.declarativeai.net/events/reasoning-web"
+  deadline: "2025-06-09 23:59:00"
+  timezone: "Asia/Istanbul"
+  place: "Istanbul, Türkiye"
+  date: "Sep 25 - Sep 28, 2025"
+  start: 2025-09-25
+  end: 2025-09-28
+  sub: ['KR', 'Log']
+  note: null
+  email: "meghyn.bienvenu@labri.fr"
+  description: "The purpose of the Reasoning Web (RW) Summer School is to disseminate recent advances in reasoning techniques and other developments relevant to Semantic Web and Linked Data applications. The summer school is intended for individuals who are currently pursuing or have already completed postgraduate degrees (PhD or MSc). It is also open to researchers at all levels interested in deepening their knowledge in the respective area."
+  location:
+    latitude: 41.0075881131308
+    longitude: 28.9652750001439
+  series: Reasoning Web (RW) Summer School
+
+- title: "AI and Games Summer School"
+  year: 2025
+  id: agss25
+  full_name: "7th International Summer School on Artificial Intelligence and Games"
+  link: "https://school.gameaibook.org/"
+  deadline: "2025-06-09 23:59:00"
+  timezone: "Europe/Stockholm"
+  place: "Malmö, Sweden"
+  date: "June 23- June 27, 2025"
+  start: 2025-06-23 
+  end: 2025-06-27
+  sub: ['ML', 'AI4Games']
+  note: null
+  email: "school@gameaibook.org"
+  twitter: "https://x.com/GameAISchool"
+  description: "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players. This school is suitable for industrial game developers, designers, programmers and practitioners, but also for graduate students in games, artificial intelligence, design, human-computer interaction, and computational intelligence."
+  image: "https://school.gameaibook.org/wp-content/uploads/2024/09/logo-malmo-2.png"
+  location:
+    latitude: 55.607698037142704
+    longitude: 12.98575008491183
+  series: AI and Games Summer School
