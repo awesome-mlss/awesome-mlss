@@ -325,3 +325,10 @@ footer {
 .calendar img {
   height: 20px;
 }
+
+.details-text {
+  margin-left: 5px;
+  font-size: 0.5em;
+  font-weight: lighter;
+  color: #4a9eff;
+}
