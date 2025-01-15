@@ -2,396 +2,383 @@
 title: Machine Learning Summer School Guide
 summary: Countdowns to deadlines of summer schools in machine learning and related fields.
 author: awesome-mlss
+layout: default
 ---
 
-<html>
-<head>
-    {% include head.html %}
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8115933863612298"
-     crossorigin="anonymous"></script>
-</head>
-{% include gtag.html %}
 
-<body>
-    {% include header.html %}
-    <div class="container">
-        <div class="page-header">
-            <div class="row">
-                <div class="col-12">
-                    <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
-                        <h1 style="font-size: 2em; text-align: left; width: 100%;">
-                            {{ site.title }}
-                        </h1>
-                        <p style="font-size: 1.5em;">
-                          {{ site.description }}
-                        </p>
-                        <div class="row">
-                            <div style="text-align: left; font-weight: lighter;" class="col-12 col-md-8">
-                              <span class="local-timezone-hide">
-                                This community tool serves as a central repository for deadlines of calls for participation at summer schools in machine learning and other closely related fields.
-                                <br>
-                                <br>
-                                The dates are made available as countdowns, in local timezones and even as a Google calendar below!
-                                <br>
-                                <br>
-                                Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                                To view them in conference website timezones, click on them.
-                              </span>
+<div class="container">
+    <div class="page-header">
+        <div class="row">
+            <div class="col-12">
+                <div style="background-color: #f7f7f7; padding: 20px; border-radius: 5px;">
+                    <h1 style="font-size: 2em; text-align: left; width: 100%;">
+                        {{ site.title }}
+                    </h1>
+                    <p style="font-size: 1.5em;">
+                      {{ site.description }}
+                    </p>
+                    <div class="row">
+                        <div style="text-align: left; font-weight: lighter;" class="col-12 col-md-8">
+                          <span class="local-timezone-hide">
+                            This community tool serves as a central repository for calls for participation at summer schools in machine learning and other related fields.
+                            <br>
+                            <br>
+                            The dates are made available as countdowns, in local timezones and even as a Google calendar! Deadlines countdowns are shown in <span class="local-timezone">America/New_York</span> time.
+                            <br>
+                            <br>
+                            For further details about the summer schools like details, website, contact info please check their respective pages by clicking on the school name.
+                            <br>
+                          </span>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <div class="d-flex justify-content-end">
+                                <a href="https://calendar.google.com/calendar/r?cid={{ site.domain }}/mlss-deadlines.ics" class="btn btn-outline-danger mx-1">
+                                    <i class="fa-brands fa-google" aria-hidden="true"></i> Add to Google Calendar
+                                </a>
+                                <a href="/mlss-deadlines.ics" class="btn btn-outline-primary mx-1">
+                                    <i class="fa-brands fa-apple" aria-hidden="true"></i> Get the iCal
+                                </a>
+                                <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}" class="btn btn-outline-dark mx-1">
+                                  <i class="fa-brands fa-github" aria-hidden="true"></i> Contribute a school on Github
+                                </a>
                             </div>
-                            <div class="col-12 col-md-4">
-                                <div class="d-flex justify-content-end">
-                                    <a href="https://calendar.google.com/calendar/r?cid={{ site.domain }}/mlss-deadlines.ics" class="btn btn-outline-danger mx-1">
-                                        <i class="fa fa-google" aria-hidden="true"></i> Add to Google Calendar
-                                    </a>
-                                    <a href="/mlss-deadlines.ics" class="btn btn-outline-primary mx-1">
-                                        <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> Get the iCal
-                                    </a>
-                                    <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}" class="btn btn-outline-dark mx-1">
-                                        Contribute a school on Github
-                                    </a>
-                                </div>
-                                <hr>
-                                <div class="d-flex justify-content-end">
-                                  <form class="container">
-                                      <div class="row">
-                                          <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
-                                              <div class="filter-label" style="text-align: left;">
-                                                  <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
-                                                      Filter by topic:
-                                                  </label>
-                                              </div>
-                                          </div>
-                                          <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
-                                              <select id="subject-select" name="subject-select" multiple="multiple">
-                                                  {% for type in site.data.types %}
-                                                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
-                                                      {{type.name}} ({{type.sub}})
-                                                  </option>
-                                                  {% endfor %}
-                                              </select>
+                            <hr>
+                            <div class="d-flex justify-content-end">
+                              <form class="container">
+                                  <div class="row">
+                                      <div class="col-12"> <!-- Ensure full width for mobile, will stack automatically -->
+                                          <div class="filter-label" style="text-align: left;">
+                                              <label for="subject-select" style="margin-bottom: 10px; line-height: 1.5;">
+                                                  Filter by topic:
+                                              </label>
                                           </div>
                                       </div>
-                                  </form>
-                              </div>                                                            
-                        </div>
+                                      <div class="col-12"> <!-- Select dropdown in a new row but aligned in the same column grid -->
+                                          <select id="subject-select" name="subject-select" multiple="multiple">
+                                              {% for type in site.data.types %}
+                                              <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
+                                                  {{type.name}} ({{type.sub}})
+                                              </option>
+                                              {% endfor %}
+                                          </select>
+                                      </div>
+                                  </div>
+                              </form>
+                          </div>                                                            
                     </div>
                 </div>
             </div>
-            <br>
         </div>
-        <div id="confs">
-          <div class="heading-container">
-            <!-- 1) Heading first in HTML so it stays on the left on large screens -->
-            <h2 id="coming-events-title">Upcoming Deadlines</h2>
-          
-            <!-- 2) Sort Order Container -->
-            <div id="sort-order-container">
-              <label for="sort-order-select" style="margin-right: 0.5rem;">
-                Sort by:
-              </label>
-              <select id="sort-order-select" name="sort-order-select">
-                <option value="start-asc">Start Date (ascending)</option>
-                <option value="start-desc" selected>Start Date (descending)</option>
-                <option value="deadline-asc">Deadline (ascending)</option>
-                <option value="deadline-desc">Deadline (descending)</option>
-              </select>
-            </div>
-          </div>
-          
-        <div id="coming_confs">
-          {% for conf in site.data.summerschools %}
-          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %}{{sub}}-conf {% endfor %}" 
-          featured="{% if conf.featured %}true{% else %}false{% endif %}">
-          
-          <!-- 1) Title row -->
-          <div class="row conf-row">
-            <!-- Left column: Title link -->
-            <div class="col-12 col-md-6">
-              <!-- For larger screens: show "My School 2025" -->
-              <span class="conf-title d-none d-sm-inline">
-                <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}">
-                  {{ conf.title }} {{ conf.year }}
-                </a> 
-                <span class="details-text">click for details</span>
-              </span>
-              <!-- For mobile screens: shorter year "My School '25" -->
-              <span class="conf-title-small d-inline d-sm-none">
-                <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}">
-                  {{ conf.title }} '{{ conf.year | slice: -2, 3 }}
-                </a> 
-                <span class="details-text">click for details</span>
-              </span>
-            </div>
-        
-            <!-- Right column: Deadline (responsive alignment) -->
-            <!-- text-md-right => Right-aligned on md+; left-aligned on mobile -->
-            <div class="col-12 col-md-6 text-md-right">
-              <!-- Upcoming deadline container -->
-              <div class="deadline-container-upcoming">
-                <span class="deadline-on-label" style="color: #dc3545;">
-                  Deadline In:
-                </span>
-                <span class="timer"></span>
-                <span class="timer-small"></span>
-        
-                {% if conf.featured %}
-                <div class="featured-tag" style="margin-top: 8px;">
-                  <img src="https://img.shields.io/badge/featured-blue?style=plastic" 
-                        alt="Featured summer school badge" width="60" />
-                </div>
-                {% endif %}
-              </div>
-        
-              <!-- Past deadline container (hidden by default, shown via JS) -->
-              <div class="deadline-container-past d-none">
-                <span class="deadline-was-label" style="color: #dc3545;">
-                  Deadline Was:
-                </span>
-                <span class="past-deadline-text"></span>
-              </div>
-            </div>
-          </div>
-        
-          <!-- 2) Row for date/place + topics on same horizontal line -->
-          <!-- Use .align-items-center to vertically center them -->
-          <div class="row align-items-center" style="margin-top: 10px;">
-            <!-- Left side: date + location -->
-            <div class="col-12 col-md-6">
-              <div class="meta">
-                <span class="conf-date">From {{ conf.date }}</span>
-                <span class="conf-place">
-                  {% if conf.place == "Online" %}
-                    <a href="#">Online</a>
-                  {% else %}
-                    in 
-                    <a href="http://maps.google.com/?q={{ conf.place }}" target="_blank">
-                      {{ conf.place }}
-                    </a>
-                  {% endif %}
-                </span>
-              </div>
-            </div>
-        
-            <!-- Right side: topics (aligned right on md+, stacked below on mobile) -->
-            <div class="col-12 col-md-6 text-md-right">
-              {% for sub in conf.sub %}
-              <span title="Click to only show {{sub}} conferences"
-                    data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
-              {% endfor %}
-            </div>
-          </div>
-        
-          <!-- 3) Short blurb (left-aligned) -->
-          <!--  <div class="row" style="margin-top: 10px;">
-            <div class="col-12">
-              <div class="description-blurb wide-blurb d-none d-sm-block" style="text-align: left;">
-                {{ conf.description | truncate: 200 }}
-                <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}"
-                    style="color: #007bff;">Read More</a>
-              </div>
-              <div class="description-blurb mobile-blurb d-sm-none" style="text-align: left;">
-                {{ conf.description | truncate: 100 }}
-                <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}"
-                    style="color: #007bff;">Read More</a>
-              </div>
-            </div>
-          </div>  --> 
-        
-          <hr>
-        </div>     
-          {% endfor %}
-          
-        
-        </div>
-        <div id="past-container">
-          <h2 id="past-events-title">Past Deadlines</h2>
-          <div id="past_confs"></div>
-        </div>        
-      </div>
-      <footer>
-            {% include footer.html %}
-      </footer>
-      <br><br>
+        <br>
     </div>
-    <script type="text/javascript" charset="utf-8">
-    $(function() {
-        // Make sure this is >= no. of subs
-        // Currently not used
-        var colors = ['#341f97', '#ee5253', '#2e86de',
-                      '#ff9f43', '#10ac84', '#222f3e']
-
-        
-        {% include load_data.js %}
-        {% include utils.js %}
-        {% include multiselect_handler.js %}
-
-        addUtcTimeZones();
-
-        try {
-          var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-          $('.local-timezone').text(local_timezone.toString());
-        }
-        catch(err) {
-          $('.local-timezone-hide').hide();
-        }
-
-        // Run the initial sort with featured pinned
-        initialSort();
-
-        {% for conf in site.data.summerschools %}
-          {% for sub in conf.sub %}
-            $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
-          {% endfor %}
-
-          {% if conf.deadline == "TBA" %}
-            $('#{{conf.id}} .timer').html("TBA");
-            $('#{{conf.id}} .deadline-time').html("TBA");
-          {% else %}
-            // adjust date according to deadline timezone
-            var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
-            var confDate = moment.tz("{{conf.deadline}}", timezone);
-            var deadlineDate = new Date(confDate.format());  // Convert to native JS Date object
-            
-            // check if date has passed
-            var today = moment();
-            var diff = today.diff(confDate);
-
-            $('#{{conf.id}}').attr("diff", diff);
-            $('#{{conf.id}}').attr("deadlineTimestamp", confDate.valueOf());
-
-            {% if conf.start %}
-              var startDate = moment.tz("{{conf.start}}", "YYYY-MM-DD", timezone);
-              if (startDate.isValid()) {
-                $('#{{conf.id}}').attr("startTimestamp", startDate.valueOf());
-              }
+    <div id="confs">
+      <div class="heading-container">
+        <!-- 1) Heading first in HTML so it stays on the left on large screens -->
+        <h2 id="coming-events-title">Upcoming Deadlines</h2>
+      
+        <!-- 2) Sort Order Container -->
+        <div id="sort-order-container">
+          <label for="sort-order-select" style="margin-right: 0.5rem;">
+            Sort by:
+          </label>
+          <select id="sort-order-select" name="sort-order-select">
+            <option value="start-asc">Start Date (ascending)</option>
+            <option value="start-desc" selected>Start Date (descending)</option>
+            <option value="deadline-asc">Deadline (ascending)</option>
+            <option value="deadline-desc">Deadline (descending)</option>
+          </select>
+        </div>
+      </div>
+      
+    <div id="coming_confs">
+      {% for conf in site.data.summerschools %}
+      <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %}{{sub}}-conf {% endfor %}" 
+      featured="{% if conf.featured %}true{% else %}false{% endif %}">
+      
+      <!-- 1) Title row -->
+      <div class="row conf-row">
+        <!-- Left column: Title link -->
+        <div class="col-12 col-md-6">
+          <!-- For larger screens: show "My School 2025" -->
+          <span class="conf-title d-none d-sm-inline">
+            <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}">
+              {{ conf.title }} {{ conf.year }}
+            </a> 
+            <span class="details-text">click for details</span>
+          </span>
+          <!-- For mobile screens: shorter year "My School '25" -->
+          <span class="conf-title-small d-inline d-sm-none">
+            <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}">
+              {{ conf.title }} '{{ conf.year | slice: -2, 3 }}
+            </a> 
+            <span class="details-text">click for details</span>
+          </span>
+        </div>
+    
+        <!-- Right column: Deadline (responsive alignment) -->
+        <!-- text-md-right => Right-aligned on md+; left-aligned on mobile -->
+        <div class="col-12 col-md-6 text-md-right">
+          <!-- Upcoming deadline container -->
+          <div class="deadline-container-upcoming">
+            <span class="deadline-on-label" style="color: #dc3545;">
+              Deadline In:
+            </span>
+            <span class="timer"></span>
+            <span class="timer-small"></span>
+    
+            {% if conf.featured %}
+            <div class="featured-tag" style="margin-top: 8px;">
+              <img src="https://img.shields.io/badge/featured-blue?style=plastic" 
+                    alt="Featured summer school badge" width="60" />
+            </div>
             {% endif %}
+          </div>
+    
+          <!-- Past deadline container (hidden by default, shown via JS) -->
+          <div class="deadline-container-past d-none">
+            <span class="deadline-was-label" style="color: #dc3545;">
+              Deadline Was:
+            </span>
+            <span class="past-deadline-text"></span>
+          </div>
+        </div>
+      </div>
+    
+      <!-- 2) Row for date/place + topics on same horizontal line -->
+      <!-- Use .align-items-center to vertically center them -->
+      <div class="row align-items-center" style="margin-top: 10px;">
+        <!-- Left side: date + location -->
+        <div class="col-12 col-md-6">
+          <div class="meta">
+            <span class="conf-date">From {{ conf.date }}</span>
+            <span class="conf-place">
+              {% if conf.place == "Online" %}
+                <a href="#">Online</a>
+              {% else %}
+                in 
+                <a href="http://maps.google.com/?q={{ conf.place }}" target="_blank">
+                  {{ conf.place }}
+                </a>
+              {% endif %}
+            </span>
+          </div>
+        </div>
+    
+        <!-- Right side: topics (aligned right on md+, stacked below on mobile) -->
+        <div class="col-12 col-md-6 text-md-right">
+          {% for sub in conf.sub %}
+          <span title="Click to only show {{sub}} conferences"
+                data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
+          {% endfor %}
+        </div>
+      </div>
+    
+      <!-- 3) Short blurb (left-aligned) -->
+      <!--  <div class="row" style="margin-top: 10px;">
+        <div class="col-12">
+          <div class="description-blurb wide-blurb d-none d-sm-block" style="text-align: left;">
+            {{ conf.description | truncate: 200 }}
+            <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}"
+                style="color: #007bff;">Read More</a>
+          </div>
+          <div class="description-blurb mobile-blurb d-sm-none" style="text-align: left;">
+            {{ conf.description | truncate: 100 }}
+            <a href="{{ site.baseurl }}/summerschool/{{ conf.id }}"
+                style="color: #007bff;">Read More</a>
+          </div>
+        </div>
+      </div>  --> 
+    
+      <hr>
+    </div>     
+      {% endfor %}
+      
+    
+    </div>
+    <div id="past-container">
+      <h2 id="past-events-title">Past Deadlines</h2>
+      <div id="past_confs"></div>
+    </div>        
+  </div>
+  <br><br>
+</div>
+<script type="text/javascript" charset="utf-8">
+$(function() {
+    // Make sure this is >= no. of subs
+    // Currently not used
+    var colors = ['#341f97', '#ee5253', '#2e86de',
+                  '#ff9f43', '#10ac84', '#222f3e']
 
-            // render countdown timer
-            $('#{{conf.id}} .timer').countdown(confDate.toDate(), function (event) {
-                $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
-            });
+    
+    {% include load_data.js %}
+    {% include utils.js %}
+    {% include multiselect_handler.js %}
 
-            // render countdown timer small
-            $('#{{conf.id}} .timer-small').countdown(confDate.toDate(), function (event) {
-                $(this).html(event.strftime('%Dd %H:%M:%S'));
-            });
-            
-            if (diff > 0) {
-              // Past deadline logic
-              $('#{{conf.id}}').addClass('past');
-              $('#{{conf.id}}').appendTo($("#past_confs"));
-              $('#{{conf.id}} .deadline-container-upcoming').addClass('d-none');
-              $('#{{conf.id}} .deadline-container-past').removeClass('d-none');
+    addUtcTimeZones();
 
-              var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-              var localConfDate = moment.tz(confDate, local_timezone);
-              $('#{{conf.id}} .past-deadline-text')
-                .text(localConfDate.format('MMM D, YYYY HH:mm z'));
-            }
-          {% endif %}
-        {% endfor %}
+    try {
+      var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      $('.local-timezone').text(local_timezone.toString());
+    }
+    catch(err) {
+      $('.local-timezone-hide').hide();
+    }
 
-        // Flag featured
-        {% for conf in site.data.summerschools %}        
-          {% if conf.deadline != "TBA" %}
-            $('#{{conf.id}}').attr("featured", {% if conf.featured %}true{% else %}false{% endif %});
-          {% endif %}
-        {% endfor %}
+    // Run the initial sort with featured pinned
+    initialSort();
 
-        function sortConfs(containerSelector, sortBy, ascending, keepFeaturedOnTop) {
-          // Grab conferences, but `detach()` them
-          var $confs = $(containerSelector).children('.ConfItem').detach();
+    {% for conf in site.data.summerschools %}
+      {% for sub in conf.sub %}
+        $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
+      {% endfor %}
 
-          // Convert the jQuery object to a plain array
-          var confArray = $confs.toArray();
+      {% if conf.deadline == "TBA" %}
+        $('#{{conf.id}} .timer').html("TBA");
+        $('#{{conf.id}} .deadline-time').html("TBA");
+      {% else %}
+        // adjust date according to deadline timezone
+        var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
+        var confDate = moment.tz("{{conf.deadline}}", timezone);
+        var deadlineDate = new Date(confDate.format());  // Convert to native JS Date object
+        
+        // check if date has passed
+        var today = moment();
+        var diff = today.diff(confDate);
 
-          // For convenience, create a compare function that checks
-          // the relevant numeric attribute (deadlineTimestamp or startTimestamp)
-          function getValue($item) {
-            if (sortBy === 'deadline') {
-              return parseInt($item.attr('deadlineTimestamp')) || 0;
-            } else {
-              // sortBy === 'start'
-              return parseInt($item.attr('startTimestamp')) || 0;
-            }
+        $('#{{conf.id}}').attr("diff", diff);
+        $('#{{conf.id}}').attr("deadlineTimestamp", confDate.valueOf());
+
+        {% if conf.start %}
+          var startDate = moment.tz("{{conf.start}}", "YYYY-MM-DD", timezone);
+          if (startDate.isValid()) {
+            $('#{{conf.id}}').attr("startTimestamp", startDate.valueOf());
           }
+        {% endif %}
 
-          // Convert the jQuery object to a standard array to use .sort
-          var confArray = $confs.toArray();
-
-          confArray.sort(function(a, b) {
-            // If keepFeaturedOnTop = true, we pin featured confs on top
-            if (keepFeaturedOnTop) {
-              var aFeatured = $(a).attr('featured') === 'true';
-              var bFeatured = $(b).attr('featured') === 'true';
-
-              // If one is featured and the other not, that decides the order
-              if (aFeatured && !bFeatured) return -1;
-              if (!aFeatured && bFeatured) return 1;
-              // else, if both are the same w.r.t. featured, fall through to normal sorting
-            }
-
-            // Normal numeric sort by the chosen attribute
-            var aVal = getValue($(a));
-            var bVal = getValue($(b));
-            return ascending ? (aVal - bVal) : (bVal - aVal);
-          });
-
-          // Re-append them in the new order
-          var $container = $(containerSelector);
-          confArray.forEach(function(conf) {
-            $container.append(conf);
-          });
-        }
-
-        // On initial page load, keep featured on top
-        function initialSort() {
-          sortConfs('#coming_confs', 'start', false, true); // descending, featured pinned
-          sortConfs('#past_confs', 'start', false, true);
-        }
-
-        // When the user changes sort order, pass keepFeaturedOnTop = false
-        function doSorting() {
-          var choice = $('#sort-order-select').val();
-
-          switch (choice) {
-            case 'deadline-asc':
-              sortConfs('#coming_confs', 'deadline', true,  false);
-              sortConfs('#past_confs',    'deadline', true,  false);
-              break;
-            case 'deadline-desc':
-              sortConfs('#coming_confs', 'deadline', false, false);
-              sortConfs('#past_confs',    'deadline', false, false);
-              break;
-            case 'start-asc':
-              sortConfs('#coming_confs', 'start', true,  false);
-              sortConfs('#past_confs',    'start', true,  false);
-              break;
-            case 'start-desc':
-              sortConfs('#coming_confs', 'start', false, false);
-              sortConfs('#past_confs',    'start', false, false);
-              break;
-          }
-        }
-
-        // Then on user change, do the normal re-sorting
-        $('#sort-order-select').on('change', function() {
-          doSorting();
+        // render countdown timer
+        $('#{{conf.id}} .timer').countdown(confDate.toDate(), function (event) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
         });
 
-
-        {% include handle_url_retrieval.js %}
-
-        // Event handler on sub badge click
-        $('.conf-sub').click(function (e) {
-            var csub = $(this).data('sub');
-            subs = [csub];
-            $("#subject-select").multiselect('deselect', all_subs);
-            $("#subject-select").multiselect('select', subs);
-            update_filtering({ subs: subs, all_subs: all_subs});
+        // render countdown timer small
+        $('#{{conf.id}} .timer-small').countdown(confDate.toDate(), function (event) {
+            $(this).html(event.strftime('%Dd %H:%M:%S'));
         });
+        
+        if (diff > 0) {
+          // Past deadline logic
+          $('#{{conf.id}}').addClass('past');
+          $('#{{conf.id}}').appendTo($("#past_confs"));
+          $('#{{conf.id}} .deadline-container-upcoming').addClass('d-none');
+          $('#{{conf.id}} .deadline-container-past').removeClass('d-none');
 
+          var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+          var localConfDate = moment.tz(confDate, local_timezone);
+          $('#{{conf.id}} .past-deadline-text')
+            .text(localConfDate.format('MMM D, YYYY HH:mm z'));
+        }
+      {% endif %}
+    {% endfor %}
+
+    // Flag featured
+    {% for conf in site.data.summerschools %}        
+      {% if conf.deadline != "TBA" %}
+        $('#{{conf.id}}').attr("featured", {% if conf.featured %}true{% else %}false{% endif %});
+      {% endif %}
+    {% endfor %}
+
+    function sortConfs(containerSelector, sortBy, ascending, keepFeaturedOnTop) {
+      // Grab conferences, but `detach()` them
+      var $confs = $(containerSelector).children('.ConfItem').detach();
+
+      // Convert the jQuery object to a plain array
+      var confArray = $confs.toArray();
+
+      // For convenience, create a compare function that checks
+      // the relevant numeric attribute (deadlineTimestamp or startTimestamp)
+      function getValue($item) {
+        if (sortBy === 'deadline') {
+          return parseInt($item.attr('deadlineTimestamp')) || 0;
+        } else {
+          // sortBy === 'start'
+          return parseInt($item.attr('startTimestamp')) || 0;
+        }
+      }
+
+      // Convert the jQuery object to a standard array to use .sort
+      var confArray = $confs.toArray();
+
+      confArray.sort(function(a, b) {
+        // If keepFeaturedOnTop = true, we pin featured confs on top
+        if (keepFeaturedOnTop) {
+          var aFeatured = $(a).attr('featured') === 'true';
+          var bFeatured = $(b).attr('featured') === 'true';
+
+          // If one is featured and the other not, that decides the order
+          if (aFeatured && !bFeatured) return -1;
+          if (!aFeatured && bFeatured) return 1;
+          // else, if both are the same w.r.t. featured, fall through to normal sorting
+        }
+
+        // Normal numeric sort by the chosen attribute
+        var aVal = getValue($(a));
+        var bVal = getValue($(b));
+        return ascending ? (aVal - bVal) : (bVal - aVal);
+      });
+
+      // Re-append them in the new order
+      var $container = $(containerSelector);
+      confArray.forEach(function(conf) {
+        $container.append(conf);
+      });
+    }
+
+    // On initial page load, keep featured on top
+    function initialSort() {
+      sortConfs('#coming_confs', 'start', false, true); // descending, featured pinned
+      sortConfs('#past_confs', 'start', false, true);
+    }
+
+    // When the user changes sort order, pass keepFeaturedOnTop = false
+    function doSorting() {
+      var choice = $('#sort-order-select').val();
+
+      switch (choice) {
+        case 'deadline-asc':
+          sortConfs('#coming_confs', 'deadline', true,  false);
+          sortConfs('#past_confs',    'deadline', true,  false);
+          break;
+        case 'deadline-desc':
+          sortConfs('#coming_confs', 'deadline', false, false);
+          sortConfs('#past_confs',    'deadline', false, false);
+          break;
+        case 'start-asc':
+          sortConfs('#coming_confs', 'start', true,  false);
+          sortConfs('#past_confs',    'start', true,  false);
+          break;
+        case 'start-desc':
+          sortConfs('#coming_confs', 'start', false, false);
+          sortConfs('#past_confs',    'start', false, false);
+          break;
+      }
+    }
+
+    // Then on user change, do the normal re-sorting
+    $('#sort-order-select').on('change', function() {
+      doSorting();
     });
-    </script>
-  </body>
-</html>
+
+
+    {% include handle_url_retrieval.js %}
+
+    // Event handler on sub badge click
+    $('.conf-sub').click(function (e) {
+        var csub = $(this).data('sub');
+        subs = [csub];
+        $("#subject-select").multiselect('deselect', all_subs);
+        $("#subject-select").multiselect('select', subs);
+        update_filtering({ subs: subs, all_subs: all_subs});
+    });
+
+});
+</script>
