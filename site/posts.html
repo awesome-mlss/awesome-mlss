@@ -9,6 +9,7 @@ permalink: /posts/
   
   {% for post in site.posts %}
     <article class="mb-4">
+      <hr>
       <h2>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
@@ -20,6 +21,5 @@ permalink: /posts/
         <a href="{{ post.url | prepend: site.baseurl }}">Read more &raquo;</a>
       </p>
     </article>
-    <hr>
   {% endfor %}
 </div>
