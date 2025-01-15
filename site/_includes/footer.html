@@ -1,10 +1,152 @@
-<div class="row">
-  <div class="col-12 col-sm-12">
-    <a href="/">{{ site.domain }}</a>
-    was started in 2018 by
-    <a href="https://twitter.com/sshkhr16">sshkhr</a>. It is currently maintained by the awesome-mlss organization which includes
-    <a href="https://github.com/gmberton">gmberton</a> and <a href="https://github.com/smsnobin77">smsnobin77</a>.
-    <br>This website was inspired (and originally coded) by the fantastic <a href="https://twitter.com/abhshkdz">abhshkdz</a> for <a href="https://aideadlin.es">aideadlin.es</a>. 
-    <br>We assume no guarantee for correctness, please correct any mistakes you may find by <a href="https://github.com/awesome-mlss/awesome-mlss/">submitting a pull request</a>.
+<!-- Footer -->
+<footer class="site-footer py-4 bg-dark text-white">
+  <div class="footer-container">
+    <div class="footer-content">
+      <div class="row justify-content-between">
+        <!-- Newsletter Section -->
+        <div class="col-auto text-start">
+          <h5 class="text-white mb-3">Stay Updated</h5>
+          <form class="newsletter-form">
+            <div class="input-group">
+              <input type="email" class="form-control" placeholder="Enter your email" aria-label="Enter your email">
+              <div class="input-group-append">
+                <button class="btn btn-primary" type="submit">Subscribe</button>
+              </div>
+            </div>
+          </form>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="col-auto text-center">
+          <h5 class="text-white mb-3">Quick Links</h5>
+          <div class="row justify-content-center">
+            <div class="col-6">
+              <a href="/about" class="text-white-50 text-decoration-none d-block mb-2">About Us</a>
+              <a href="/privacy" class="text-white-50 text-decoration-none d-block mb-2 text-nowrap">Privacy Policy</a>
+            </div>
+            <div class="col-6">
+              <a href="/contact" class="text-white-50 text-decoration-none d-block mb-2">Contact Us</a>
+              <a href="/terms" class="text-white-50 text-decoration-none d-block mb-2 text-nowrap">Terms of Use</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Social & Info -->
+        <div class="col-auto text-md-end">
+          <h5 class="text-white mb-3">Connect</h5>
+          <div class="mb-4">
+            <a href="https://github.com/awesome-mlss/awesome-mlss/" class="text-white me-3" style="font-size: 1.5rem;">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://x.com/awesomeMLSS" class="text-white me-3" style="font-size: 1.5rem;">
+              <i class="fab fa-x-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/awesome-mlss" class="text-white" style="font-size: 1.5rem;">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bottom Credits -->
+      <div class="row mt-4 pt-3 border-top">
+        <div class="col-12 text-center text-white-50">
+          <small>
+            Copyright &copy; 2024 awesome-mlss.
+            Found a mistake? <a href="https://github.com/awesome-mlss/awesome-mlss/" class="text-white">Submit a pull request</a>.
+          </small>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
+</footer>
+
+<style>
+html {
+  position: relative;
+  min-height: 100vh;
+}
+
+body {
+  margin-bottom: 250px; /* Adjusted to match footer height */
+}
+
+/* Override container max-width for footer */
+.site-footer {
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.footer-container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-content {
+  max-width: 980px;  /* Match your container max-width */
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Newsletter form styles */
+.newsletter-form .form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.newsletter-form .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* Hover effects */
+.site-footer a:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+/* Mobile responsiveness */
+@media only screen and (max-width: 768px) {
+  body {
+    margin-bottom: 400px; /* Increased for mobile to prevent content overlap */
+  }
+  
+  .site-footer {
+    padding-bottom: 20px;
+  }
+  
+  .footer-content {
+    padding: 0 20px;
+  }
+  
+  /* Center align all columns on mobile */
+  .col-md-4 {
+    text-align: center !important;
+  }
+  
+  .text-md-end {
+    text-align: center !important;
+  }
+}
+
+/* Reset link styles within footer */
+.site-footer a {
+  border-bottom: none;
+}
+
+/* Full width columns */
+.justify-content-between {
+  width: 100%;
+}
+</style>
+
+<!-- Add Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
