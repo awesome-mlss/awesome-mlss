@@ -252,3 +252,24 @@
     latitude: 55.607698037142704
     longitude: 12.98575008491183
   series: AI and Games Summer School
+
+- title: "MLSS Kraków 2025: Drug and Materials Discovery"
+  year: 2025
+  id: krakow2025
+  full_name: "MLSS Kraków 2025: Drug and Materials Discovery"
+  link: "https://mlss2025.mlinpl.org/"
+  deadline: "2025-04-19 23:59:59"
+  timezone: "US/Alaska"
+  place: "Krakow, Poland"
+  date: "July 1-6, 2025"
+  start: 2025-07-01 
+  end: 2025-07-06
+  sub: ['ML', 'GenAI', 'Bio', 'ML4Science', 'Health']
+  note: null
+  email: "mlss@mlinpl.org"
+  twitter: "https://x.com/mlinpl"
+  description: "MLSS Kraków 2025 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning and their applications for Drug and Materials Discovery, primarily intended for research-oriented graduate students. The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland. This school is the next edtion of MLSS^S 2023 and MLSS^N 2022."
+  location:
+    latitude: 50.0301961
+    longitude: 19.906168
+  series: MLSS Krakow
