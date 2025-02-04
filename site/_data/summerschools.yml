@@ -252,3 +252,23 @@
     latitude: 55.607698037142704
     longitude: 12.98575008491183
   series: AI and Games Summer School
+
+- title: Nordic Probabilistic AI School
+  year: 2025
+  id: npas2025
+  full_name: Nordic Probabilistic AI School 2025
+  link: https://nordic.probabilistic.ai/
+  deadline: '2025-03-09 23:59:59'
+  timezone: Europe/Oslo
+  place: Trondheim, Norway
+  date: June 16 - June 20, 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ['Theory', 'GenAI', 'ML']
+  note: null
+  twitter: https://twitter.com/probabilisticai/
+  email: hello@probabilistic.ai
+  location:
+    latitute: 63.4175512314733
+    longitude: 10.402534442068283
+  series: Probabilistic AI School (ProbAI)
