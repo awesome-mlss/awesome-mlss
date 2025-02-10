@@ -293,3 +293,25 @@
     latitute: 63.4175512314733
     longitude: 10.402534442068283
   series: Probabilistic AI School (ProbAI)
+
+- title: "MLSS Senegal 2025"
+  year: 2025
+  id: mlss-senegal25
+  full_name: "Machine Learning Summer School Senegal"
+  link: "https://mlss-senegal.github.io/"
+  deadline: "2025-02-28 23:59:00"
+  timezone: "Africa/Dakar"
+  place: "Mbour, Senegal"
+  date: "June 23 - July 4, 2025"
+  start: 2025-06-23
+  end: 2025-07-04
+  sub: ['ML']
+  note: "Application fee of $450 due by April 23, 2025"
+  email: "mlss.senegal2025@gmail.com"
+  twitter: null
+  description: "Located along the scenic Atlantic coast of Senegal, AIMS Mbour hosts this summer school for PhD students, post-docs, and advanced learners in mathematical sciences. The venue is conveniently situated approximately 1.5 hours from Dakar city center and 30 kilometers from Blaise Diagne International Airport. Applicants must submit a one-page self-recommendation letter explaining how the summer school will benefit them, along with a one-page CV summarizing their contributions in machine learning. Applications are accepted from December 15 to February 28, with acceptance notifications sent by March 31."
+  image: "https://aims-senegal.org/wp-content/uploads/sites/2/2020/10/aims_senegal.jpg"
+  location:
+    latitude: 14.4225
+    longitude: -16.9736
+  series: Machine Learning Summer School (MLSS)
