@@ -253,6 +253,47 @@
     longitude: 12.98575008491183
   series: AI and Games Summer School
 
+- title: "MLSS Kraków 2025: Drug and Materials Discovery"
+  year: 2025
+  id: krakow2025
+  full_name: "MLSS Kraków 2025: Drug and Materials Discovery"
+  link: "https://mlss2025.mlinpl.org/"
+  deadline: "2025-04-19 23:59:59"
+  timezone: "US/Alaska"
+  place: "Kraków, Poland"
+  date: "July 1-6, 2025"
+  start: 2025-07-01 
+  end: 2025-07-06
+  sub: ['ML', 'GenAI', 'Bio', 'ML4Science', 'Health']
+  note: null
+  email: "mlss@mlinpl.org"
+  twitter: "https://x.com/mlinpl"
+  description: "MLSS Kraków 2025 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning and their applications for Drug and Materials Discovery, primarily intended for research-oriented graduate students. The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland. This school is the next edtion of MLSS^S 2023 and MLSS^N 2022."
+  location:
+    latitude: 50.0301961
+    longitude: 19.906168
+  series: MLSS Krakow
+
+- title: Nordic Probabilistic AI School
+  year: 2025
+  id: npas2025
+  full_name: Nordic Probabilistic AI School 2025
+  link: https://nordic.probabilistic.ai/
+  deadline: '2025-03-09 23:59:59'
+  timezone: Europe/Oslo
+  place: Trondheim, Norway
+  date: June 16 - June 20, 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ['Theory', 'GenAI', 'ML']
+  note: null
+  twitter: https://twitter.com/probabilisticai/
+  email: hello@probabilistic.ai
+  location:
+    latitute: 63.4175512314733
+    longitude: 10.402534442068283
+  series: Probabilistic AI School (ProbAI)
+
 - title: "MLSS Senegal 2025"
   year: 2025
   id: mlss-senegal25
@@ -273,4 +314,4 @@
   location:
     latitude: 14.4225
     longitude: -16.9736
-  series: Machine Learning Summer School
+  series: Machine Learning Summer School (MLSS)
