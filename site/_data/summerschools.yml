@@ -1,3 +1,25 @@
+
+- title: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
+  year: 2025
+  id: mlas25
+  full_name: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
+  link: "https://www.dia.fi.upm.es/MLAS"
+  deadline: "2025-05-27 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Madrid, Spain"
+  date: "June 16 - June 27, 2025"
+  start: 2025-06-16
+  end: 2025-06-27
+  sub: ['ML', 'GenAI', 'RL']
+  note: null
+  twitter: null 
+  email: "mlas@fi.upm.es"
+  description: "The MLAS summer school is an intensive set of courses providing an introduction to the theoretical foundations as well as the practical applications of some of the modern machine learning and statistical methods. During 2 weeks, the summer school offers 12 courses, of 15h lecture hours each. The students are free to choose the courses according to their interests."
+  location:
+    latitude: 40.40535401476495
+    longitude: -3.84004237805600
+  series: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS)"
+
 - title: "Advanced Course on Data Science & Machine Learning"
   year: 2025
   id: acdl25
