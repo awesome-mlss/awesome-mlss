@@ -337,3 +337,25 @@
     latitude: 14.4225
     longitude: -16.9736
   series: Machine Learning Summer School (MLSS)
+
+- title: "Machine Learning Summer School Arequipa"
+  year: 2025
+  id: mlss-arequipa25
+  full_name: "Machine Learning Summer School (MLSS) Arequipa"
+  link: "https://eventosdiee.ucsp.edu.pe/mlss/"
+  deadline: "2025-03-20 23:59:00"
+  timezone: "America/Lima"
+  place: "Arequipa, Peru"
+  date: "August 2 - August 13, 2025"
+  start: 2025-08-02
+  end: 2025-08-13
+  sub: ['ML']
+  note: "Applicants need one referee."
+  email: "electronica@ucsp.edu.pe"
+  twitter: null
+  description: "MLSS Arequipa 2025 is open to a select group of 100 highly motivated participants. Our primary target audience consists of MSc and PhD students with a solid technical foundation in research areas related to machine learning. However, a limited number of industry professionals, professors, researchers, and exceptional undergraduate students may also be considered, based on availability. Industrial applicants are encouraged to apply, thanks to sponsorship opportunities from their respective organizations. All participants should possess programming skills in Python, a strong interest in machine learning, and a solid understanding of linear algebra, basic calculus, probability, and statistics."
+  image: "https://eventosdiee.ucsp.edu.pe/mlss/wp-content/uploads/2024/02/logo-mlss.png"
+  location:
+    latitude: -16.389859050098813
+    longitude: -71.53543171349251
+  series: Machine Learning Summer School (MLSS)
