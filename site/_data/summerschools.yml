@@ -1,5 +1,5 @@
 
-- title: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
+- title: "Machine Learning and Advanced Statistics Summer School"
   year: 2025
   id: mlas25
   full_name: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
@@ -18,7 +18,7 @@
   location:
     latitude: 40.40535401476495
     longitude: -3.84004237805600
-  series: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS)"
+  series: "Machine Learning and Advanced Statistics Summer School (MLAS)"
 
 - title: "Advanced Course on Data Science & Machine Learning"
   year: 2025
@@ -275,7 +275,7 @@
     longitude: 12.98575008491183
   series: AI and Games Summer School
 
-- title: "MLSS Kraków 2025: Drug and Materials Discovery"
+- title: "MLSS Kraków: Drug and Materials Discovery"
   year: 2025
   id: krakow2025
   full_name: "MLSS Kraków 2025: Drug and Materials Discovery"
@@ -286,7 +286,7 @@
   date: "July 1-6, 2025"
   start: 2025-07-01 
   end: 2025-07-06
-  sub: ['ML', 'GenAI', 'Bio', 'ML4Science', 'Health']
+  sub: ['GenAI', 'Bio', 'ML4Science', 'Health']
   note: null
   email: "mlss@mlinpl.org"
   twitter: "https://x.com/mlinpl"
@@ -294,7 +294,7 @@
   location:
     latitude: 50.0301961
     longitude: 19.906168
-  series: MLSS Krakow
+  series: MLSS Kraków
 
 - title: Nordic Probabilistic AI School
   year: 2025
@@ -312,14 +312,14 @@
   twitter: https://twitter.com/probabilisticai/
   email: hello@probabilistic.ai
   location:
-    latitute: 63.4175512314733
-    longitude: 10.402534442068283
+    latitute: 63.42340
+    longitude: 10.40071
   series: Probabilistic AI School (ProbAI)
 
-- title: "MLSS Senegal 2025"
+- title: "Machine Learning Summer School Senegal"
   year: 2025
   id: mlss-senegal25
-  full_name: "Machine Learning Summer School Senegal"
+  full_name: "Machine Learning Summer School (MLSS) Senegal"
   link: "https://mlss-senegal.github.io/"
   deadline: "2025-02-28 23:59:00"
   timezone: "Africa/Dakar"
