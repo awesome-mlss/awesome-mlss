@@ -1,0 +1,55 @@
+name: Update README (pull_request)
+
+on:
+  pull_request:
+    paths:
+      - 'site/_data/summerschools.yml'
+
+jobs:
+  update-readme-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          fetch-depth: 0
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml python-dateutil
+
+      - name: Update README locally (no commit)
+        id: update_readme
+        run: |
+          python scripts/update_readme.py
+          git diff README.md > diff.txt
+
+          # Expose the diff as an output
+          echo "diff<<EOF" >> $GITHUB_OUTPUT
+          cat diff.txt | sed 's/%/%25/g; s/\n/%0A/g; s/\r/%0D/g' >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Comment on PR with diff
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const diff = core.getInput('diff');
+            if (!diff.trim()) {
+              core.info("No changes in README.md.");
+              return;
+            }
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `**Proposed changes in README.md**\n\`\`\`diff\n${diff}\n\`\`\``
+            });
+        env:
+          diff: ${{ steps.update_readme.outputs.diff }}
