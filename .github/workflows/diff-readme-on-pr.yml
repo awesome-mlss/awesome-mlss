@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'site/_data/summerschools.yml'
+  workflow_dispatch:
 
 jobs:
   update-readme-pr:
