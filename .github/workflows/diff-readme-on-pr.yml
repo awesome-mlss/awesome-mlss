@@ -40,6 +40,7 @@ jobs:
       - name: Comment on PR with diff
         uses: actions/github-script@v6
         with:
+          diff: ${{ steps.update_readme.outputs.diff }}
           script: |
             const diff = core.getInput('diff');
             if (!diff.trim()) {
