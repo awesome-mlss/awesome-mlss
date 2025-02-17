@@ -359,3 +359,25 @@
     latitude: -16.389859050098813
     longitude: -71.53543171349251
   series: Machine Learning Summer School (MLSS)
+
+- title: "Princeton Machine Learning Theory Summer School"
+  year: 2025
+  id: pmltss2025
+  full_name: "Princeton Machine Learning Theory Summer School 2025"
+  link: "https://mlschool.princeton.edu/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "America/New_York"
+  place: "Princeton, USA"
+  date: "August 12 - August 21, 2025"
+  start: 2025-08-12
+  end: 2025-08-21
+  sub: ['ML', 'Theory']
+  note: "Applications require a CV, letter of recommendation, and statement of purpose"
+  twitter: null
+  email: "pmlss@princeton.edu"
+  description: "The Princeton Machine Learning Theory Summer School is aimed at PhD students interested in machine learning theory. The school will run in person and focuses on showcasing exciting recent developments in the subject through four main courses. The primary focus this year is on theoretical advances in deep learning. The program aims to connect young researchers and foster community within theoretical machine learning."
+  image: "https://mlschool.princeton.edu/sites/g/files/toruqf5946/files/styles/freeform_750w/public/2023-06/pu_logo_3.png?itok=6OYKyOo7"
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: "Princeton Machine Learning Theory Summer School"
