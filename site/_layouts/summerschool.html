@@ -36,9 +36,20 @@ layout: default
     <div class="col-md-4 d-flex p-2">
       <div class="d-flex justify-content-center align-items-center w-100">
         {% if page.image %}
-          <img src="{{ page.image }}" 
-               alt="{{ page.title }} {{ page.year }} Logo"
-               style="max-width:200px; max-height:200px; width:auto; height:auto; object-fit:contain;">
+          <img src="{{ page.image }}"
+            alt="{{ page.title }} {{ page.year }} Logo"
+            style="
+              max-width:200px;
+              max-height:200px;
+              width:auto;
+              height:auto;
+              object-fit:contain;
+              border: 1px solid #ccc;
+              box-shadow: 0 0 3px rgba(0,0,0,0.2);
+              padding: 4px;
+              background-color: #ebebeb;
+            "
+          >
         {% endif %}
       </div>
     </div>    

@@ -3,7 +3,7 @@
   year: 2025
   id: mlas25
   full_name: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
-  link: "https://www.dia.fi.upm.es/MLAS"
+  link: "https://dia.fi.upm.es/MLAS"
   deadline: "2025-05-27 23:59:59"
   timezone: "Europe/Madrid"
   place: "Madrid, Spain"
@@ -15,6 +15,7 @@
   twitter: null 
   email: "mlas@fi.upm.es"
   description: "The MLAS summer school is an intensive set of courses providing an introduction to the theoretical foundations as well as the practical applications of some of the modern machine learning and statistical methods. During 2 weeks, the summer school offers 12 courses, of 15h lecture hours each. The students are free to choose the courses according to their interests."
+  image: "https://dia.fi.upm.es/wp-content/uploads/2024/01/logo-dia-conjunto@5x.png"
   location:
     latitude: 40.40535401476495
     longitude: -3.84004237805600
@@ -248,6 +249,7 @@
   note: null
   email: "meghyn.bienvenu@labri.fr"
   description: "The purpose of the Reasoning Web (RW) Summer School is to disseminate recent advances in reasoning techniques and other developments relevant to Semantic Web and Linked Data applications. The summer school is intended for individuals who are currently pursuing or have already completed postgraduate degrees (PhD or MSc). It is also open to researchers at all levels interested in deepening their knowledge in the respective area."
+  image: "https://lh4.googleusercontent.com/ahD7QVgIKnRDt5hOqxtj13xgGUcCBWATob3vm0YvK5BiyiRSG2XmRlyw4rUvc8LS14MzJBnJE7X9eeW_VLZyoU8xQoCt7quxCRuu0pwrK4VxEkhX"
   location:
     latitude: 41.0075881131308
     longitude: 28.9652750001439
