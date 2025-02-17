@@ -3,7 +3,7 @@
   year: 2025
   id: mlas25
   full_name: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
-  link: "https://www.dia.fi.upm.es/MLAS"
+  link: "https://dia.fi.upm.es/MLAS"
   deadline: "2025-05-27 23:59:59"
   timezone: "Europe/Madrid"
   place: "Madrid, Spain"
@@ -15,6 +15,7 @@
   twitter: null 
   email: "mlas@fi.upm.es"
   description: "The MLAS summer school is an intensive set of courses providing an introduction to the theoretical foundations as well as the practical applications of some of the modern machine learning and statistical methods. During 2 weeks, the summer school offers 12 courses, of 15h lecture hours each. The students are free to choose the courses according to their interests."
+  image: "https://dia.fi.upm.es/wp-content/uploads/2024/01/logo-dia-conjunto@5x.png"
   location:
     latitude: 40.40535401476495
     longitude: -3.84004237805600
@@ -248,6 +249,7 @@
   note: null
   email: "meghyn.bienvenu@labri.fr"
   description: "The purpose of the Reasoning Web (RW) Summer School is to disseminate recent advances in reasoning techniques and other developments relevant to Semantic Web and Linked Data applications. The summer school is intended for individuals who are currently pursuing or have already completed postgraduate degrees (PhD or MSc). It is also open to researchers at all levels interested in deepening their knowledge in the respective area."
+  image: "https://lh4.googleusercontent.com/ahD7QVgIKnRDt5hOqxtj13xgGUcCBWATob3vm0YvK5BiyiRSG2XmRlyw4rUvc8LS14MzJBnJE7X9eeW_VLZyoU8xQoCt7quxCRuu0pwrK4VxEkhX"
   location:
     latitude: 41.0075881131308
     longitude: 28.9652750001439
@@ -359,3 +361,108 @@
     latitude: -16.389859050098813
     longitude: -71.53543171349251
   series: Machine Learning Summer School (MLSS)
+
+- title: "Princeton Machine Learning Theory Summer School"
+  year: 2025
+  id: pmltss2025
+  full_name: "Princeton Machine Learning Theory Summer School 2025"
+  link: "https://mlschool.princeton.edu/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "America/New_York"
+  place: "Princeton, USA"
+  date: "August 12 - August 21, 2025"
+  start: 2025-08-12
+  end: 2025-08-21
+  sub: ['ML', 'Theory']
+  note: "Applications require a CV, letter of recommendation, and statement of purpose"
+  twitter: null
+  email: "pmlss@princeton.edu"
+  description: "The Princeton Machine Learning Theory Summer School is aimed at PhD students interested in machine learning theory. The school will run in person and focuses on showcasing exciting recent developments in the subject through four main courses. The primary focus this year is on theoretical advances in deep learning. The program aims to connect young researchers and foster community within theoretical machine learning."
+  image: "https://mlschool.princeton.edu/sites/g/files/toruqf5946/files/styles/freeform_750w/public/2023-06/pu_logo_3.png?itok=6OYKyOo7"
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: "Princeton Machine Learning Theory Summer School"
+
+- title: "IAIFI Summer School"
+  year: 2025
+  id: iaifi2025
+  full_name: "Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) Summer School 2025"
+  link: "https://iaifi.org/phd-summer-school"
+  deadline: "2025-02-07 23:59:59"
+  timezone: "America/New_York"
+  place: "Cambridge, USA"
+  date: "August 4 - August 8, 2025"
+  start: 2025-08-04
+  end: 2025-08-08
+  sub: ['Theory', 'ML4Science']
+  note: "No registration fee. Dorm accommodation costs will be reimbursed for up to 5 nights. Attendees must cover travel costs."
+  twitter: https://twitter.com/iaifi_news
+  email: iaifi@mit.edu
+  description: "The IAIFI Summer School combines AI and Physics for early career researchers, particularly PhD students, advanced undergraduates, and postdocs. The program features lectures and tutorials on Reinforcement Learning, Robust/Interpretable AI, Scaling Laws, Physics-Motivated Optimization, Simulation Intelligence, and Representation/Manifold Learning. The event includes a full-day hackathon, networking events, and a career panel. Admission decisions will be announced by February 17, 2025."
+  image: "https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg"
+  location:
+    latitude: 42.3770
+    longitude: -71.1167
+
+- title: "International Semantic Web Research Summer School"
+  year: 2025
+  id: isws25
+  full_name: "International Semantic Web Research Summer School (ISWS) 2025"
+  link: "https://2025.semanticwebschool.org/"
+  deadline: "2025-03-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Bertinoro, Italy"
+  date: "June 8 - June 14, 2025"
+  start: 2025-06-08
+  end: 2025-06-14
+  sub: ['KR', 'ML']
+  note: "Acceptance notification: April 1st, 2025"
+  email: "isws.application@gmail.com"
+  description: "ISWS is a full immersion, super intensive one-week experience focusing on knowledge graphs for reliable AI. The program includes lectures and keynotes from outstanding speakers, and a 'learning by doing' teamwork program on open research problems. Participants work under the guidance of leading scientists in the field to co-author a white paper of high potential impact."
+  location:
+    latitude: 44.1487
+    longitude: 12.1323
+  series: "International Semantic Web Research Summer School (ISWS)"
+
+- title: "Theoretical Foundations of Machine Learning Course"
+  year: 2025
+  id: tfml2025
+  full_name: "Theoretical Foundations of Machine Learning (TFML) Course 2025"
+  link: "https://malga.unige.it/education/schools/tfml/"
+  deadline: "2025-03-30 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genova, Italy"
+  date: "June 23 - June 27, 2025"
+  start: 2025-06-23
+  end: 2025-06-27
+  sub: ['ML', 'Theory']
+  note: "Acceptance notification: April 11th, 2025"
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "The course covers key algorithmic principles in machine learning and their theoretical foundations. Topics include statistical learning theory, linear and nonlinear models (kernel methods and neural networks), empirical risk minimization, regularization, functional analysis with focus on reproducing kernel Hilbert spaces, convex analysis, optimization methods (gradient, stochastic gradient, splitting methods, back-propagation), and statistical analysis using concentration of measure, empirical process theory, spectral calculus and operator theory. The program includes two tutorials by invited speakers."
+  image: "https://lcsl.unige.it/img/malga.png"
+  location:
+    latitude: 44.40499
+    longitude: 8.97224
+
+- title: "A Journey through Deep Learning Summer School"
+  year: 2025
+  id: jdl2025
+  full_name: "A Journey through Deep Learning (JDL) Summer School 2025"
+  link: "https://malga.unige.it/education/schools/jdl/"
+  deadline: "2025-03-16 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genova, Italy"
+  date: "June 16 - June 20, 2025"
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ['ML']
+  note: "Acceptance notification: March 30th, 2025. In-person only, no online streaming. No travel scholarships available."
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "A Journey through Deep Learning is an intensive 40-hour PhD-level school offering a comprehensive exploration of Deep Learning principles and applications. Organized by the MaLGa Center, this program combines methodological aspects with practical insights into modern frameworks and architectures. The school is open to students, postdocs, faculty members and professionals, upon selection. Attendees will receive an attendance certificate reporting their actual hours of attendance."
+  image: "https://lcsl.unige.it/img/malga.png"
+  location:
+    latitude: 44.40498328188538
+    longitude: 8.972239169310429
