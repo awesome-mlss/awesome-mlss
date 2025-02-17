@@ -2,6 +2,8 @@ name: Update README (push)
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'site/_data/summerschools.yml'
 
