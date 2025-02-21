@@ -466,3 +466,24 @@
   location:
     latitude: 44.40498328188538
     longitude: 8.972239169310429
+    
+- title: "School on Analytical Connectionism"
+  year: 2025
+  id: ac25
+  full_name: "2025 School on Analytical Connectionism"
+  link: "https://www.analytical-connectionism.net/school/2025/"
+  deadline: "2025-04-18 23:59:00"
+  timezone: "Etc/GMT-12"
+  place: "London, UK"
+  date: "August 25 - September 5, 2025"
+  start: 2025-08-25
+  end: 2025-09-05
+  sub: ['Theory', 'CogSci']
+  note: "Acceptance notification: May 25th, 2025. In-person only; no streaming. Travel scholarships available for 25% of participants."
+  twitter: "https://x.com/GatsbyUCL"
+  email: "admissions@gatsby.ucl.ac.uk"
+  description: "A 2-week summer course hosted at University College London on analytical tools for probing neural networks and higher-level cognition."
+  location:
+    latitude: 12.3456
+    longitude: 65.4321
+  series: "Analytical Connectionism"
