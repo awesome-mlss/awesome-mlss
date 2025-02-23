@@ -1,4 +1,26 @@
 
+- title: "ELLIS Summer School: AI for Earth and Climate Sciences"
+  year: 2025
+  id: jena25
+  full_name: "ELLIS Summer School: AI for Earth and Climate Sciences 2025"
+  link: "https://www.ellis-jena.eu/summer-school-2025/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Jena, Germany"
+  date: "September 1 - September 5, 2025"
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: ['ML', 'GenAI', 'ML4Science','Bio','CV']
+  note: null
+  twitter: null 
+  email: "conrad.philipp@uni-jena.de"
+  description: "The 2025 ELLIS Summer School on AI for Earth & Climate Sciences is the premier event for ELLIS PhD students, MSc students, and postdocs at the intersection of machine learning and geoscience to meet in person. During the week filled with keynotes, hands-on classes and project work the school will focus on cutting-edge research and discuss the latest advancements in the field. This interdisciplinary program will shape the future for the community of AI, Earth and Climate scientists by fostering collaboration among the next generation of interdisciplinary researchers."
+  image: "https://ellis.eu/uploads/ck_image/file/20/ellis_Summer_School_Jena.png"
+  location:
+    latitude: 50.927223
+    longitude: 11.586111
+  series: "ELLIS Winter and Summer Schools"
+
 - title: "Machine Learning and Advanced Statistics Summer School"
   year: 2025
   id: mlas25
