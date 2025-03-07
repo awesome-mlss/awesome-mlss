@@ -524,4 +524,5 @@
   sub: ['Machine Learning', 'Geometry']
   email: "logml.committee@gmail.com."
   description: "LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. "
+  image: "https://www.logml.ai/img/logo.png"
 
