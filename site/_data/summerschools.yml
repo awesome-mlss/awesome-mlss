@@ -509,3 +509,25 @@
     latitude: 12.3456
     longitude: 65.4321
   series: "Analytical Connectionism"
+
+- title: "LOGML Summer School"
+  year: 2025
+  id: logml25
+  full_name: "London Geometry and Machine Learning Summer School 2025"
+  link: "https://www.logml.ai/"
+  deadline: "2025-04-06 23:59:59"
+  timezone: "Etc/GMT-12"
+  place: "London, United Kingdom"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['ML', 'Theory']
+  twitter: https://twitter.com/LogmlSchool
+  email: "logml.committee@gmail.com."
+  description: "LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, a variety of social events and a company networking night."
+  image: "https://www.logml.ai/img/logo.png"
+  location:
+    latitude: 51.499173065086225
+    longitude: -0.17902143167248896
+  series: "London Geometry and Machine Learning Summer School (LOGML)"
+
