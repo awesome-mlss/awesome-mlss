@@ -1,11 +1,15 @@
 name: Update README (pull_request)
 
 on:
-  pull_request:
+  pull_request_target:
     paths:
       - 'site/_data/summerschools.yml'
   workflow_dispatch:
 
+permissions:
+  pull-requests: write
+  contents: read
+  
 jobs:
   update-readme-pr:
     runs-on: ubuntu-latest
