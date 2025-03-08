@@ -10,15 +10,16 @@
   date: "July 13 - July 23, 2025"
   start: 2025-07-13
   end: 2025-07-23
-  sub: ['CV', 'AI']
+  sub: ['CV']
   note: null
   twitter: "https://twitter.com/ACVSS_AI"
   email: "acvss@googlegroups.com"
-  description: "The African Computer Vision Summer School (ACVSS) unites outstanding students and researchers with leading computer vision and AI experts."
+  description: "The African Computer Vision Summer School (ACVSS) unites outstanding students and researchers with leading computer vision and AI experts. The curriculum emphasizes the importance of ethical considerations, geometry and math, deep learning and AI, and on seeding knowledge for multiple generations of students by coaching participants in educational leadership."
   image: "https://lh4.googleusercontent.com/PXjAzhPQcWTXWCxJhlxWukaCFAfEKfSlOJVkZgVkaLwGCxKrmE1rHYftWUyVoDMp6ZKncWJPg3_vuTWOMhYjFW0=w16383"
   location:
     latitude: -1.961019644836035
     longitude: 30.113097157396247
+  series: African Computer Vision Summer School (ACVSS)
 
 - title: "ELLIS Summer School: AI for Earth and Climate Sciences"
   year: 2025
