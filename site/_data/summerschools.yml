@@ -15,7 +15,7 @@
   twitter: "https://twitter.com/ACVSS_AI"
   email: "acvss@googlegroups.com"
   description: "The African Computer Vision Summer School (ACVSS) unites outstanding students and researchers with leading computer vision and AI experts. The curriculum emphasizes the importance of ethical considerations, geometry and math, deep learning and AI, and on seeding knowledge for multiple generations of students by coaching participants in educational leadership."
-  image: "https://lh4.googleusercontent.com/PXjAzhPQcWTXWCxJhlxWukaCFAfEKfSlOJVkZgVkaLwGCxKrmE1rHYftWUyVoDMp6ZKncWJPg3_vuTWOMhYjFW0=w16383"
+  image: "https://lh5.googleusercontent.com/TnmzAOFrCRZbVKJYak2hkUB-hE-76rrigKEwGbS4__GnbqPXniEXADmX_7ZgxxfgPmH21Yme4MzyOesFhv0irv0=w16383"
   location:
     latitude: -1.961019644836035
     longitude: 30.113097157396247
@@ -553,3 +553,131 @@
     longitude: -0.17902143167248896
   series: "London Geometry and Machine Learning Summer School (LOGML)"
 
+- title: "Cooperative AI Summer School"
+  year: 2025
+  id: cass25
+  full_name: "Cooperative AI Summer School 2025"
+  link: "https://www.cooperativeai.com/summer-school/summer-school-2025"
+  deadline: "2025-03-07 23:59:59"
+  timezone: "Europe/London"
+  place: "Marlow, UK"
+  date: "July 9 - July 13, 2025"
+  start: 2025-07-09
+  end: 2025-07-13
+  sub: ['ML', 'GenAI', 'EconAI']
+  note: "Cost: Free / £250 / £500; Notification: April 2, 2025"
+  twitter: "https://twitter.com/coop_ai"
+  email: null
+  image: "https://cdn.prod.website-files.com/61fe446e584616a902bcb4f0/61ffa82ead518da3b2f75765_CoopAI_Primary_Black_Web_Small.png"
+  description: "The Cooperative AI Summer School is designed to provide students and early-career professionals in AI, computer science and related disciplines, such as sociology and economics, with a firm grounding in the emerging field of cooperative AI."
+  location:
+    latitude: 51.5707
+    longitude: -0.7747
+
+- title: "Summer School on Speech Signal Processing"
+  year: 2025
+  id: s4p25
+  full_name: "Summer School on Speech Signal Processing (S4P) 2025"
+  link: https://sites.google.com/view/s4p2025/
+  deadline: "2025-07-09 23:59:59"
+  timezone: "Asia/Kolkata"
+  place: "Gandhinagar, India"
+  date: "July 5 - July 9, 2025"
+  start: 2025-07-05
+  end: 2025-07-09
+  sub: ['SP', 'ML']
+  note: null
+  twitter: null
+  email: "s4p.daiict@gmail.com"
+  image: "https://lh3.googleusercontent.com/l4bEPKJurzYNUVZzo9r2VdiGmq03BxfWmFoc5NNPHOEtu8b2DDWFzYWMRn5rthINcCcT4Nnnb_Z2yS8OqxDL1UM=w16383"
+  description: "Summer School on Speech Signal Processing (S4P) is being organized as a part of summer school activities at Speech Research Lab, DAU, Gandhinagar. It will provide opportunities for students, researchers, and professionals to enhance their fundamentals and get exposed to cutting edge research areas in the field of speech signal processing. The school focuses on Automatic Speech Recognition (ASR), which deals with recognizing the linguistic context from speech or converting speech into text with the help of machines. ASR is a key component of commercially successful Intelligent Personal Assistants (IPAs) and Voice Assistants."
+  location:
+    latitude: 23.1926
+    longitude: 72.6350
+
+- title: "Montreal Robotics Summer School"
+  year: 2025
+  id: mrss25
+  full_name: "Montreal Robotics Summer School (MRSS) 2025"
+  link: https://fracturedplane.notion.site/Montreal-Robotics-Summer-School-2025-195214857276801f9737eaf741c533a7
+  deadline: "2025-02-28 23:59:59"
+  timezone: "America/Montreal"
+  place: "Montreal, Canada"
+  date: "August 10 - August 15, 2025"
+  start: 2025-08-10
+  end: 2025-08-15
+  sub: ['RO', 'ML']
+  note: "Free. Food, travel and lodging is covered. Limited to 25 participants."
+  twitter: "https://x.com/Mila_Quebec"
+  email: robotics-school@mila.quebec
+  image: "https://mila.quebec/sites/default/files/media-library/image/4032/milalogowebcoulrgb.png"
+  description: "This summer school offers tutorials and lectures on state-of-the-art machine learning methods for training the next generation of learning robots. The summer school is an extension supported by the many robotics groups around Montreal. Attendees will have the opportunity to learn about current deep reinforcement learning methods, how to apply them to real hardware, sim2real transfer techniques, and experience with legged robotics. This year's version will feature humanoid robots. On the last day of the summer school, teams will use their new skills to compete in designing the best vision-based navigation controller on a quadruped robot to navigate an obstacle course."
+  location:
+    latitude: 45.5287
+    longitude: -73.6110
+  series: "Montreal Robotics Summer School (MRSS)"
+
+- title: "AI4Science Summer School"
+  year: 2025
+  id: ai4s25
+  full_name: "AI4Science Summer School 2025 in Caen"
+  link: "https://ai4science.sciencesconf.org/"
+  deadline: "2025-04-20 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Caen, France"
+  date: "June 29 - July 4, 2025"
+  start: 2025-06-29
+  end: 2025-07-04
+  sub: ['ML', 'ML4Science']
+  note: "Registration fee: 100€ (including social events). Free for participants from Normandy Universities. CV required."
+  twitter: null
+  email: "cai4science@sciencesconf.org"
+  image: "https://ai4science.sciencesconf.org/img/favicon-g.png"
+  description: "The 2nd Summer School on Advancing Scientific Discovery with AI is designed to explore the intersection of artificial intelligence and scientific research. The program covers machine learning for scientific data analysis, AI-driven experimental design, generative models in scientific applications, and the integration of AI with physical simulations. This technical and scientific programme focuses on deep learning and is primarily aimed at researchers familiar with mathematical modeling, numerical computation and Python programming. A significant part consists of hands-on sessions where participants will use Python libraries to manipulate data and implement models."
+  location:
+    latitude: 49.1950
+    longitude: -0.3588
+
+- title: "Brains, Minds & Machines Summer Course"
+  year: 2025
+  id: bmm25
+  full_name: "Brains, Minds & Machines Summer Course 2025"
+  link: https://cbmm.mit.edu/summer-school/2025
+  deadline: "2025-03-24 23:59:59"
+  timezone: "America/New_York"
+  place: "Woods Hole, MA, USA"
+  date: "August 3 - August 24, 2025"
+  start: 2025-08-03
+  end: 2025-08-24
+  sub: ['ML', 'Neuro', 'CogSci']
+  note: null
+  twitter: https://twitter.com/MIT_CBMM
+  email: null
+  image: "https://cbmm.mit.edu/sites/default/files/images/CBMM-logo-screen-RGB-colour-optimized.svg"
+  description: "An intensive three-week course giving advanced students a 'deep end' introduction to the problem of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines. The course covers topics including neurons and models, computational vision, biological vision, machine learning, Bayesian inference, planning and motor control, memory, social cognition, inverse problems, audition and speech processing, and natural language processing. The program includes MathCamps and NeuroCamps, hands-on workshops, tutorials, and culminates with student projects. Appropriate for graduate students, postdocs, and faculty in computer science or neuroscience."
+  location:
+    latitude: 41.5257
+    longitude: -70.6699
+  series: "Brains, Minds & Machines Summer Course"
+
+- title: "Mediterranean Machine Learning (M2L) Summer School"
+  year: 2025
+  id: m2l25
+  full_name: "Mediterranean Machine Learning (M2L) Summer School 2025"
+  link: "https://www.m2lschool.org/"
+  deadline: "2025-03-28 23:59:59"
+  timezone: "Etc/UTC"
+  place: "Split, Croatia"
+  date: "September 8 - September 12, 2025"
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'RL']
+  note: "Applications open February 25, 2025. Notification of acceptance in early May 2025."
+  twitter: "https://x.com/M2lSchool"
+  email: "organizers@m2lschool.org"
+  image: "https://lh6.googleusercontent.com/zSMSt8r_-NUb433Ig_19MTW1U9MIpcT-sHwLILOqtotJu0LYoE6TsanidmPn14yUoFgIolXuJMRTHprg4KBy9oE=w16383"
+  description: "The 5th edition of the Mediterranean Machine Learning (M2L) summer school will be structured around 5 days of keynotes, lectures and intensive hands-on sessions on the most recent and fast developing core areas of Machine Learning. The intended audience is primarily Doctoral candidates and exceptional Master's and Bachelor's students, academics, professionals, and practitioners worldwide. The school will focus on Natural Language Processing, Ethics and fairness, Computer Vision, Generative Models, Reinforcement Learning and real world applications of Deep Learning. The program includes optional poster sessions and social activities to foster networking."
+  location:
+    latitude: 43.5081
+    longitude: 16.4402
+  series: "Mediterranean Machine Learning (M2L) Summer School"

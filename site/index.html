@@ -227,6 +227,39 @@ $(function() {
     // Run the initial sort with featured pinned
     initialSort();
 
+    function update_filtering(params) {
+        var subs = params.subs;
+        var all_subs = params.all_subs;
+        var page_url = "{{ site.baseurl }}";
+        var currentPath = window.location.pathname;
+        currentPath = currentPath.replace(/\/+$/, '/');
+        
+        // Store the selected filters (if you're using this feature)
+        if (typeof store !== 'undefined') {
+            store.set("{{ site.domain }}-subs", subs);
+        }
+        
+        // If no filters selected, show all conferences
+        if (subs.length === 0) {
+            $('.ConfItem').show();
+            window.history.pushState("", "", currentPath);
+            return;
+        }
+        
+        // Hide all conferences initially
+        $('.ConfItem').hide();
+        
+        // Show only those conferences that have any of the selected topics
+        for (const sub of all_subs) {
+            if (subs.includes(sub)) {
+                $('.' + sub + '-conf').show();
+            }
+        }
+        
+        // Update URL to reflect the current filters
+        window.history.pushState("", "", currentPath + "?sub=" + subs.join(','));
+    }
+
     {% for conf in site.data.summerschools %}
       {% for sub in conf.sub %}
         $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
