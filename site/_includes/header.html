@@ -1,3 +1,12 @@
+<div class="announcement-strip bg-warning py-2">
+  <div class="container text-center">
+    <strong>We are launching our newsletter in April 2025!</strong> <a href="https://newsletter.awesome-mlss.com/subscribe" class="text-dark"><u>Sign up</u></a> to never miss another summer school announcement or deadline!
+    <button type="button" class="close ml-2" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+</div>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container d-flex align-items-center justify-content-between">
     <div class="d-flex align-items-center">
@@ -85,3 +94,14 @@
         </div>
       </div>
     </nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const closeButton = document.querySelector('.announcement-strip .close');
+    if (closeButton) {
+      closeButton.addEventListener('click', function() {
+        document.querySelector('.announcement-strip').style.display = 'none';
+      });
+    }
+  });
+</script>
