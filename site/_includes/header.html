@@ -80,17 +80,25 @@
               <a href="{{site.baseurl}}/posts" class="nav-link" style="border-bottom: none;">Posts</a>
             </li>
           </ul>
-          <div class="twitter-github-icons d-flex align-items-center">
-            <a href="https://twitter.com/share?url=https://awesome-mlss.com" class="twitter-share-button"
-              data-text="{{ site.description }}"
-              data-hashtags="{% if site.twitter.hashtag %} #{{ site.twitter.hashtag }}{% endif %}"
-              data-size="large"
-              data-show-count="false" style="font-size: 30px;">Tweet</a>
-            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-            &nbsp; &nbsp;
-            <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true&size=large" 
-                    frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+          <div class="social-icons d-flex">
+            <div class="">
+              <a href="https://github.com/awesome-mlss/awesome-mlss/" class="text-white me-5" style="font-size: 1.5rem; border-bottom: none;">
+                <i class="fab fa-github"></i>
+              </a>
+              <a href="https://x.com/awesomeMLSS" class="text-white me-5" style="font-size: 1.5rem; border-bottom: none;">
+                <i class="fab fa-x-twitter"></i>
+              </a>
+              <a href="https://www.linkedin.com/company/awesome-mlss" class="text-white me-5" style="font-size: 1.5rem; border-bottom: none;">
+                <i class="fab fa-linkedin"></i>
+              </a>
+              <a href="https://bsky.app/profile/awesome-mlss.bsky.social" class="text-white me-5" style="font-size: 1.5rem; border-bottom: none;">
+                <i class="fab fa-bluesky"></i>
+              </a>
+              <a href="https://mastodon.social/@awesome_mlss" class="text-white" style="font-size: 1.5rem; border-bottom: none;">
+                <i class="fab fa-mastodon"></i>
+              </a>
           </div>
+          </div>          
         </div>
       </div>
     </nav>
