@@ -681,3 +681,30 @@
     latitude: 43.5081
     longitude: 16.4402
   series: "Mediterranean Machine Learning (M2L) Summer School"
+
+- title: "MenaML Winter School"
+  year: 2025
+  id: menaML25
+  full_name: "2025 Middle East and North Africa Machine Learning (MenaML) Winter School"
+  link: "https://www.mena.ml/"
+  deadline: "2024-11-01 23:59:00"
+  timezone: "Asia/Qatar"
+  place: "Doha, Qatar"
+  date: "9-14 February, 2025"
+  start: 2025-02-09
+  end: 2025-02-14
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'Neuro', 'RL', 'ML4Science']
+  note: "Applications open Oct 3, 2024, and close Nov 1, 2024. A limited number of scholarships is available."
+  email: "contact@mena.ml"
+  description: "The 2025 Middle East and North Africa Machine Learning (MenaML) Winter School is a premier event designed to equip the next generation of AI leaders. 
+                This six-day intensive program, hosted in the vibrant city of Doha, Qatar, offers a unique blend of keynotes, lectures, and hands-on practical sessions. 
+                Lectures and lab sessions will be taught by local and international AI experts from leading institutes such as Google DeepMind, Qatar Computing Research Institute (QCRI), HBKU, and others. 
+                State-of-the-art content and code will be accessible to all school participants.
+                The 2025 MenaML Winter School is designed for Bachelor, Master, and Doctoral students. 
+                It welcomes applications from all around the world, with a focus on the MENA region. 
+                Ideal participants have a strong technical background and some experience in machine learning."
+  image: "https://lh6.googleusercontent.com/OrVqEQesnEbamERIZ15pfdcT7r7Y87zjha7DLmCK248dbBkxGRzFj-HpGcgm4Y4-pYM4Rce3AYZyQ8WBGqGa0PKtQDq-OWnEV8XambKlVWn4C2ZnpVToRvZdj1bV6u2pFwXxYPn48jVcc-IhgKRjgzAHmQSi2q1fpb8FwdcnOr7M_93PWXa09oXQolCDMbUWADHkYE3RewJxAbphqFN7=w1280"
+  location:
+    latitude: 25.31692
+    longitude: 51.44722
+  series: "Middle East and North Africa Machine Learning (MenaML) Winter School"
