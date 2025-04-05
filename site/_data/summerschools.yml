@@ -1,3 +1,25 @@
+- title: "4th European Summer School on Quantum AI"
+  year: 2025
+  id: eqai25
+  full_name: "4th European Summer School on Quantum AI (EQAI) 2025"
+  link: "https://www.eqai.eu/"
+  deadline: "2025-08-19 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Lignano Sabbiadoro, Italy"
+  date: "September 01 – 05, 2025"
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: ['Quantum', 'ML']
+  note: "Applications will be reviewed on a rolling basis."
+  email: "info.eqai@gmail.com"
+  description: "Following the success of the first three editions, this summer school aims to provide an objective and clear overview, as well as an in-depth analysis, of the state-of-the-art research in Quantum Machine Learning and Deep Learning. The courses will be delivered by world renowned experts in the field, from both academia and industry, and will cover both theoretical and practical aspects of real problems. The school aims to provide a stimulating opportunity for young researchers and Ph.D. students, but also quantum enthusiasts coming from the industry and outside of academia. The participants will benefit from direct interaction and discussions with experts in this field. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in a friendly and constructive environment."
+  image: "https://eqai.eu/wp-content/uploads/2025/03/EQAI-2025-logo.png"
+  location:
+    latitude: 45.679604
+    longitude: 13.122126
+  series: "European Summer School on Quantum AI"
+
+
 
 - title: "African Computer Vision Summer School"
   year: 2025
@@ -704,3 +726,29 @@
     longitude: 9.05771
   series: "Automated Machine Learning Summer School"
   
+- title: "MenaML Winter School"
+  year: 2025
+  id: menaML25
+  full_name: "2025 Middle East and North Africa Machine Learning (MenaML) Winter School"
+  link: "https://www.mena.ml/"
+  deadline: "2024-11-01 23:59:00"
+  timezone: "Asia/Qatar"
+  place: "Doha, Qatar"
+  date: "9-14 February, 2025"
+  start: 2025-02-09
+  end: 2025-02-14
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'Neuro', 'RL', 'ML4Science']
+  note: "Applications open Oct 3, 2024, and close Nov 1, 2024. A limited number of scholarships is available."
+  email: "contact@mena.ml"
+  description: "The 2025 Middle East and North Africa Machine Learning (MenaML) Winter School is a premier event designed to equip the next generation of AI leaders. 
+                This six-day intensive program, hosted in the vibrant city of Doha, Qatar, offers a unique blend of keynotes, lectures, and hands-on practical sessions. 
+                Lectures and lab sessions will be taught by local and international AI experts from leading institutes such as Google DeepMind, Qatar Computing Research Institute (QCRI), HBKU, and others. 
+                State-of-the-art content and code will be accessible to all school participants.
+                The 2025 MenaML Winter School is designed for Bachelor, Master, and Doctoral students. 
+                It welcomes applications from all around the world, with a focus on the MENA region. 
+                Ideal participants have a strong technical background and some experience in machine learning."
+  image: "https://lh6.googleusercontent.com/OrVqEQesnEbamERIZ15pfdcT7r7Y87zjha7DLmCK248dbBkxGRzFj-HpGcgm4Y4-pYM4Rce3AYZyQ8WBGqGa0PKtQDq-OWnEV8XambKlVWn4C2ZnpVToRvZdj1bV6u2pFwXxYPn48jVcc-IhgKRjgzAHmQSi2q1fpb8FwdcnOr7M_93PWXa09oXQolCDMbUWADHkYE3RewJxAbphqFN7=w1280"
+  location:
+    latitude: 25.31692
+    longitude: 51.44722
+  series: "Middle East and North Africa Machine Learning (MenaML) Winter School"
