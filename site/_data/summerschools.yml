@@ -1,3 +1,25 @@
+- title: "4th European Summer School on Quantum AI"
+  year: 2025
+  id: eqai25
+  full_name: "4th European Summer School on Quantum AI (EQAI) 2025"
+  link: "https://www.eqai.eu/"
+  deadline: "2025-08-19 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Lignano Sabbiadoro, Italy"
+  date: "September 01 – 05, 2025"
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: ['Quantum', 'ML']
+  note: "Applications will be reviewed on a rolling basis."
+  email: "info.eqai@gmail.com"
+  description: "Following the success of the first three editions, this summer school aims to provide an objective and clear overview, as well as an in-depth analysis, of the state-of-the-art research in Quantum Machine Learning and Deep Learning. The courses will be delivered by world renowned experts in the field, from both academia and industry, and will cover both theoretical and practical aspects of real problems. The school aims to provide a stimulating opportunity for young researchers and Ph.D. students, but also quantum enthusiasts coming from the industry and outside of academia. The participants will benefit from direct interaction and discussions with experts in this field. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in a friendly and constructive environment."
+  image: "https://eqai.eu/wp-content/uploads/2025/03/EQAI-2025-logo.png"
+  location:
+    latitude: 45.679604
+    longitude: 13.122126
+  series: "European Summer School on Quantum AI"
+
+
 
 - title: "African Computer Vision Summer School"
   year: 2025
