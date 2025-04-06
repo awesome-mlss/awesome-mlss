@@ -512,6 +512,7 @@
   location:
     latitude: 44.40499
     longitude: 8.97224
+  series: "MaLGa Summer Schools"
 
 - title: "A Journey through Deep Learning Summer School"
   year: 2025
@@ -533,6 +534,7 @@
   location:
     latitude: 44.40498328188538
     longitude: 8.972239169310429
+  series: "MaLGa Summer Schools"
     
 - title: "School on Analytical Connectionism"
   year: 2025
@@ -552,8 +554,8 @@
   image: "https://www.analytical-connectionism.net/assets/images/sponsors/gatsby-unit.png"
   description: "A 2-week summer course hosted at University College London on analytical tools for probing neural networks and higher-level cognition."
   location:
-    latitude: 12.3456
-    longitude: 65.4321
+    latitude: 51.52118724608978
+    longitude: -0.13832110294736547
 
 - title: "LOGML Summer School"
   year: 2025
@@ -769,6 +771,7 @@
   note: "Participation fee: 450 EUR (academia), 600 EUR (industry), 250 EUR (Armenian students). Scholarships available."
   twitter: null
   email: "mathschool@ysu.am"
+  image: "https://www.ysu.am/themes/custom/ysu_main/images/logo-english.svg"
   description: "The Faculty of Mathematics and Mechanics of the Yerevan State University is organizing a Summer School on Cryptography, Statistics and Machine Learning. The target audience includes university undergraduate seniors, Master and PhD students and researchers, as well as industry professionals interested in Cryptography, Probability, Statistics, Machine Learning and applications. All lectures will be delivered in English. The participation fee covers registration, accommodation, and full board. Limited spots available; selection process applies for registered participants."
   location:
     latitude: 40.180284
@@ -881,3 +884,262 @@
     longitude: -2.1015
   series: "BMVA Computer Vision Summer School"
 
+- title: "Deep Learning for Medical Imaging School"
+  year: 2025
+  id: dlmi25
+  full_name: "6th Deep Learning for Medical Imaging (DLMI) School 2025"
+  link: "https://deepimaging2025.sciencesconf.org/"
+  deadline: "2025-04-11 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Lyon, France"
+  date: "April 21 - April 25, 2025"
+  start: 2025-04-21
+  end: 2025-04-25
+  sub: ['ML', 'CV', 'Health']
+  note: "Registration opens February 14th. In-person registration closes April 11th (limited to 70 full participants and 130 course-only participants). Virtual registration closes April 18th. Fees: Students €650-900, Academic €750-1120, Industrial €1000 (full), €300 (courses only), €200 (virtual). Accommodation booking available until March 31st."
+  twitter: null
+  email: deepimaging2025@sciencesconf.org
+  description: "The 6th edition of the Deep Learning for Medical Imaging School is designed for both beginners and experts in medical imaging, including students, post-docs, research professionals, and professors. It offers an introduction to deep learning, covering fundamental concepts and their applications in medical imaging. The program includes 16 hours of oral presentations and four hands-on sessions (4 hours each). Participants will explore the basics of machine learning, progressing to the latest deep learning advancements in medical imaging. No expertise in machine learning or advanced programming skills is required to attend; a basic understanding of Python is sufficient for the hands-on sessions. Three attendance options are available: Full Registration (includes all courses, hands-on sessions, social events, meals, recorded sessions, and computing resources), Courses Only (on-site courses, recorded materials, coffee breaks, but no hands-on sessions, meals or social events), and Virtual Attendance (recorded sessions, computing resources, and live Q&A Zoom sessions on May 5-6). This school is organized by Labex PRIMES and INSA Lyon, and is a MICCAI endorsed event."
+  image: "https://deepimaging2025.sciencesconf.org/data/header/BandeauWeb_2.png"
+  location:
+    latitude: 45.783157129845144
+    longitude: 4.87221626793872
+
+
+- title: "UK Robotics Summer School"
+  year: 2025
+  id: ukrss25
+  full_name: "UK Robotics Summer School 2025"
+  link: "https://ukrss.site.hw.ac.uk/"
+  deadline: "2025-04-30 23:59:59"
+  timezone: "Europe/London"
+  place: "Edinburgh, UK"
+  date: "June 2 - June 6, 2025"
+  start: 2025-06-02
+  end: 2025-06-06
+  sub: ['RO', 'ML', 'GenAI', 'HCI']
+  note: "Registration deadline: April 30, 2025. Costs: £600 for industry/non-students, £300 for students (full week); £200/day for industry, £100/day for students. Fee includes lectures, tours, lunch, refreshments, and Summer School dinner. Registration via Eventbrite. Accommodation and travel to be arranged separately. Cancellations more than 30 days prior qualify for refund (excluding Eventbrite fees)."
+  twitter: null
+  email: "janet_louise.forbes@hw.ac.uk"
+  description: "This 5-day Robotics Summer School is organised by the Edinburgh Centre for Robotics (Edinburgh and Heriot-Watt University) and the National Robotarium, supported by the CDT D2AIR, The Edinburgh Centre for Robotics and the UK-RAS network. The program offers a combination of lectures, tutorials, and industry presentations focusing on cutting-edge topics in robotics. Participants will gain insights into reasoning, control, collaboration, and learning, bioinspired robotics, generative AI for robotics, human robot interactions, as well as discussions on ethics, validation, and inclusivity in robotics and AI. The event includes hands-on experience with state-of-the-art robotics technology, a tour of the National Robotarium, and networking opportunities with fellow students, academics, and industry leaders. Refreshments, lunch, and a special Summer School dinner (sponsored by the UK-RAS network) are included."
+  image: "https://ukrss.site.hw.ac.uk/wp-content/uploads/sites/89/2024/12/download.png"
+  location:
+    latitude: 55.91228043531887
+    longitude: -3.323275722224049
+
+- title: "INVICTA School of VIsion, Computational intelligence, and patTern Analysis"
+  year: 2025
+  id: invicta25
+  full_name: "INvicta school of VIsion, Computational intelligence, and patTern Analysis (INVICTA) 2025"
+  link: "https://invicta.inesctec.pt/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "Europe/Lisbon"
+  place: "Porto, Portugal"
+  date: "April 7 - April 11, 2025"
+  start: 2025-04-07
+  end: 2025-04-11
+  sub: ['CV', 'ML', 'GenAI', 'Health']
+  note: "Early-bird registration (€650) until Feb 9, 2025. Regular registration (€700) until March 31, 2025. 12% discount for APRP members."
+  twitter: "https://twitter.com/INVICTA_School"
+  email: "invicta@inesctec.pt"
+  image: "https://invicta.inesctec.pt/assets/img/logo/invicta_logo1.png"
+  description: "The INvicta school of VIsion, Computational intelligence, and patTern Analysis (INVICTA) is organized by the Visual Computing and Machine Intelligence (VCMI) group of INESC TEC. The program features lectures, hands-on workshops, case studies, and a round-table on Responsible AI, led by experts from academia and industry. Topics include explainable AI in healthcare, vision-language models, knowledge distillation, bioinspired algorithms for visual attention, diffusion models in medical imaging, and more. The registration fee includes all lectures, hands-on sessions, case studies, AI talks, coffee breaks, and a social program. The school will take place at Porto Innovation Hub in the city center."
+  location:
+    latitude: 41.1579
+    longitude: -8.6291
+
+- title: "Responsible ML Winter School"
+  year: 2025
+  id: rmlws25
+  full_name: "Winter School on Responsible Machine Learning 2025"
+  link: "https://mlwinterschoolumea.github.io/"
+  deadline: "2025-02-20 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Umeå, Sweden"
+  date: "March 11 - March 13, 2025"
+  start: 2025-03-11
+  end: 2025-03-13
+  sub: ['ML', 'RAI']
+  note: "Registration fee: Students 1500 SEK, Faculty 2500 SEK, Others 4000 SEK. Free for LEMUR, WASP, WASP-HS or Aequitas members. Poster submission deadline: February 28, 2025. As of December 16, 2024, the event has reached capacity."
+  twitter: null
+  email: "monowar@cs.umu.se, nina.khairova@umu.se, virginia.dignum@umu.se"
+  description: "The Winter School on Responsible Machine Learning at Umeå University, Sweden offers lectures in the field of Responsible Machine Learning as well as hands-on multi-disciplinary and complementary training. The event includes a poster session and a social program, providing opportunities for networking and professional exchange. The school will take place in the Rotundan hall in the Universum building of Umeå University. The program is organized by the Responsible AI Group, led by Monowar Bhuyan and Virginia Dignum."
+  image: "https://mlwinterschoolumea.github.io/images/ai-policy-1.png"
+  location:
+    latitude: 63.819675624967985
+    longitude: 20.305233918546286
+
+- title: "Advanced Course on Artificial Intelligence & Neuroscience"
+  year: 2025
+  id: acain25
+  full_name: "5th Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN) 2025"
+  link: "https://acain2025.icas.events/"
+  deadline: "2025-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Castiglione della Pescaia, Italy"
+  date: "September 21 - September 24, 2025"
+  start: 2025-09-21
+  end: 2025-09-24
+  sub: ['ML', 'Neuro', 'CogSci', 'RO', 'RAI']
+  note: "Regular registration deadline: April 23, 2025. Late registration: April 24 - August 10, 2025. Residential course - all participants must stay at the Riva del Sole Resort and Spa. Equivalent to 8 ECTS points."
+  twitter: null
+  email: "acain@icas.cc"
+  image: "https://acain2025.icas.events/wp-content/uploads/sites/31/2024/09/ACAIN-2025-logo-banner-1.png"
+  description: "The 5th Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN) is a full-immersion four-day event at the Riva del Sole Resort & SPA, Tuscany, featuring lectures by world-renowned experts. The event consists of a two-day course (September 21-22) followed by a two-day symposium (September 23-24). It aims to foster multidisciplinary interactions between AI and neuroscience communities. Topics include neuroscience-inspired AI, cognitive computing, deep learning, computational neuroscience, human-level AI, ethics for autonomous systems, explainable AI, and more. Confirmed lecturers include Panos Pardalos (University of Florida), Jose Principe (University of Florida), Maneesh Sahani (UCL), Jonathon Shlens (Google DeepMind), Dimitra Thomaidou (Hellenic Pasteur Institute), and Marina Vidaki (University of Crete). The event involves 36-40 hours of lectures and provides opportunities for participants to present their research through oral talks or posters."
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+  series: "Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN)"
+
+
+- title: "Data Visualization Summer School"
+  year: 2025
+  id: dvss25
+  full_name: "Data Visualization Summer School: Design, communicate, engage 2025"
+  link: "https://malga.unige.it/education/schools/dvss/"
+  deadline: "2025-05-18 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genoa, Italy"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['ML', 'GenAI']
+  note: "Application deadline: May 18, 2025. Acceptance notification: May 30, 2025. Registration fees: Free for UniGe and Northeastern PhD students; €100 for non-UniGe PhD students and postdocs; €200 for non-UniGe faculty; €400 for professionals."
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "The Summer School in Data Visualization aims to equip participants with both fundamental and cutting-edge skills in creating impactful data visualizations for science dissemination, combining traditional design principles with modern AI capabilities. The program includes morning lectures by experts spanning from data visualization practices to the role of generative AI, and afternoon lab sessions where participants work on group projects. Speakers include Prof. Enrico Bertini from Northeastern University (Boston, MA) and faculty members from the MaLGa Center and UniGe's dAD Department. The school is aimed at PhD students of all disciplines, master's thesis students, and professionals who want to master data visualization principles and leverage AI tools to create more impactful and innovative visual storytelling."
+  location:
+    latitude: 44.40498328188538
+    longitude: 8.972239169310429
+  series: "MaLGa Summer Schools"
+
+- title: "Eastern European Machine Learning Summer School"
+  year: 2025
+  id: eeml25
+  full_name: "Eastern European Machine Learning Summer School (EEML) 2025"
+  link: "https://www.eeml.eu/home"
+  deadline: "2025-04-07 23:59:59"
+  timezone: "AOE"
+  place: "Sarajevo, Bosnia and Herzegovina"
+  date: "July 21 - July 26, 2025"
+  start: 2025-07-21
+  end: 2025-07-26
+  sub: ['ML', 'GenAI']
+  note: "Application deadline: April 7, 2025 (23:59 AoE). Notification of acceptance: Early May 2025. Registration opens: Early June 2025."
+  twitter: "https://twitter.com/EEMLcommunity"
+  email: "contact@eeml.eu"
+  image: "https://lh3.googleusercontent.com/s70oziFZFrYpUjedmTbwyNpLunZMbQj5FvSJ5RMV4hTVBX74w17A9qx0VZURlcKEzhcWGg=w16383"
+  description: "The Eastern European Machine Learning Summer School (EEML) brings together world-class researchers and practitioners in machine learning and artificial intelligence. The 2025 edition features an impressive lineup of speakers including Aaron Courville (Mila), Diana Borsa (Google DeepMind), Ferenc Huszár (University of Cambridge), João Carreira (Google DeepMind), Samy Bengio (Apple, EPFL), and many others. The program also includes tutorials led by experts from Google DeepMind and the University of Oxford. The school is organized in partnership with the Association for the Advancement of Science and Technology, Romanian Association for Artificial Intelligence, and University of Sarajevo, with support from various sponsors and community partners."
+  location:
+    latitude: 43.8563
+    longitude: 18.4131
+  series: "Eastern European Machine Learning (EEML) Summer School"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Fundamentals"
+  year: 2025
+  id: oxmlf25
+  full_name: "Oxford Machine Learning Summer School: MLx Fundamentals 2025"
+  link: "https://www.oxfordml.school/"
+  deadline: "2025-04-20 23:59:59"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "May 1 - May 9, 2025"
+  start: 2025-05-01
+  end: 2025-05-09
+  sub: ['ML', 'Theory']
+  note: "Online only. Registration fee: £150 + VAT. Comprehensive tickets available: £500 (online), £1,700 (hybrid) for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Fundamentals covers foundational topics in Statistical ML and Deep Learning, from the mathematics of ML and optimization to fundamentals of deep learning, NLP, and computer vision. Each day combines theoretical and applied lectures with case studies (hands-on coding). Speakers include Yali Du (King's College London), Yuki Asano (University of Amsterdam), Karsten Kreis (NVIDIA), Ishan Misra (Meta), Chi Jin (Princeton University), Biwei Huang (UC San Diego), Meng Fang (University of Liverpool), and others. The program is organized by AI for Global Goals."
+  location:
+    latitude: 51.7548
+    longitude: -1.2544
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Generative AI"
+  year: 2025
+  id: oxmlg25
+  full_name: "Oxford Machine Learning Summer School: MLx Generative AI 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-05-15 23:59:59"
+  timezone: "Europe/London"
+  place: "London, UK"
+  date: "June 5 - June 7, 2025"
+  start: 2025-06-05
+  end: 2025-06-07
+  sub: ['ML', 'GenAI']
+  note: "Hybrid format (in-person at London School of Economics or online). Registration fees: £600 + VAT (in-person), £250 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Generative AI focuses on building GenAI products, targeting scientists/engineers and product designers/managers. The program covers the latest developments in generative foundation models in language, vision, and more, with a deep dive into emerging research and design patterns in Agentic Workflow and Alignment/Trust. Speakers include Jeff Clune (University of British Columbia/CIFAR/Google DeepMind), Reza Khorshidi (University of Oxford/ELANDI), Danijela Horak (BBC), Peggy Tsai (BigID), Karo Moilanen (Moonsongs Labs), Edward Hughes (DeepMind), Sunil Mallya (FLlip AI), and Sahar Asadi (KING). The event will be held at the London School of Economics."
+  location:
+    latitude: 51.5144
+    longitude: -0.1165
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Health & Bio"
+  year: 2025
+  id: oxmlh25
+  full_name: "Oxford Machine Learning Summer School: MLx Health & Bio 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-07-15 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 2 - August 5, 2025"
+  start: 2025-08-02
+  end: 2025-08-05
+  sub: ['ML', 'Health', 'Bio']
+  note: "Hybrid format (in-person at University of Oxford's Maths Institute or online). Registration fees: £900 + VAT (in-person), £300 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Health & Bio is a masterclass combining theoretical ML talks with applications in healthcare and biomedical sciences/research/technology. Topics range from imaging, proteomics, genomics, and EHR to computational biology, drug discovery, multi-omics, wearables, and more. Speakers include Michael Bronstein (University of Oxford/AITHYRA), Charlotte Deane (University of Oxford), Arthur Gretton (University College London/Google DeepMind), Mireia Crispin (University of Cambridge), Aiden Doherty (University of Oxford), Adam Lewandowski (UK Biobank), Jonathan Passerat-Palmbach (Imperial College London), Hoifung Poon (Microsoft Health), Brian Hie (Stanford University), and many other leading researchers from both academia and industry."
+  location:
+    latitude: 51.7603
+    longitude: -1.2597
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Representation Learning & GenAI"
+  year: 2025
+  id: oxmlr25
+  full_name: "Oxford Machine Learning Summer School: MLx Representation Learning & GenAI 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-07-20 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 7 - August 10, 2025"
+  start: 2025-08-07
+  end: 2025-08-10
+  sub: ['ML', 'GenAI', 'CV', 'NLP']
+  note: "Hybrid format (in-person at University of Oxford's Maths Institute or online). Registration fees: £900 + VAT (in-person), £300 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Representation Learning & GenAI covers the latest developments in representation learning, including those behind the success of generative AI. The program features a deep dive into ML in domains such as NLP (including LLMs), computer vision (including foundational/frontier image, video and multi-modal models), Bayesian ML, Reinforcement Learning, Geometrical DL, and more. Speakers include Peyman Milanfar (Google), Aymeric Dieuleveut (École Polytechnique), Abdul Fatir Ansari (AWS AI Labs), Ashley Edwards (Runway), Fazl Barez (University of Oxford), Haitham Bou-Ammar (Huawei), Gerhard Neumann (KIT), Hannaneh Hajishirzi (University of Washington/Allen Institute for AI), David Salinas (University of Washington), Edward Johns (Imperial College London), Ilia Shumailov (Google DeepMind), and workshop leaders from Meta and Hugging Face."
+  location:
+    latitude: 51.7603
+    longitude: -1.2597
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "BAI Summer School on AI Agents and Agentic Systems"
+  year: 2025
+  id: bai25
+  full_name: "Business Analytics Institute (BAI) Summer School on AI Agents and Agentic Systems 2025"
+  link: "https://www.baieurope.com/summer-school-2025"
+  deadline: "2025-04-15 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Anglet, France"
+  date: "July 3 - July 12, 2025"
+  start: 2025-07-03
+  end: 2025-07-12
+  sub: ['ML', 'GenAI', 'EconAI']
+  note: "Open to upper class/graduate students and working professionals. Registration: January 1 - April 15, 2025. Early bird discounts available until February 28, 2025. Fees: €1545 (session) + €275 (social activities). Housing options available at negotiated rates."
+  twitter: "https://twitter.com/dsign4analytics"
+  email: "info@baieurope.com"
+  image: "https://images.squarespace-cdn.com/content/v1/5cc60d5c20fffe0001f629be/1556484078439-IVAKT2IJOIEFTEU9Q1PP/BAI+logo+6+-+b+color.png?format=1500w"
+  description: "The Business Analytics Institute, together with the ZHAW School of Management and Law, offers a 10-day summer school focusing on the managerial implications of current innovations of AI Agents in Banking and Finance. The program includes case studies, workshops, seminars, and expert testimony from the Banking and Finance sectors, facilitated by industry-recognized experts including Profs. Cielen, Elliott, Hitz, Gellrich, Walter, and Schlenker. Practicums will be run using Python, Rust, and LangChain. The program features company visits with data science teams from traditional banks and Fintech operators, as well as cultural visits to Biarritz, Saint Jean de Luz, and San Sebastián, a Basque cooking class, surfing lessons, and a tour of the 18th frigate 'L'Hermione'."
+  location:
+    latitude: 43.4831
+    longitude: -1.5148
