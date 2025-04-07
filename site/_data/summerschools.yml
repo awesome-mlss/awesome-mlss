@@ -552,7 +552,7 @@
   twitter: "https://x.com/GatsbyUCL"
   email: "admissions@gatsby.ucl.ac.uk"
   image: "https://www.analytical-connectionism.net/assets/images/sponsors/gatsby-unit.png"
-  description: "A 2-week summer course hosted at University College London on analytical tools for probing neural networks and higher-level cognition."
+  description: "Analytical Connectionism is a 2-week summer course on analytical tools, including methods from statistical physics and probability theory, for probing neural networks and higher-level cognition. The course brings together neuroscience, psychology and machine-learning communities, and introduces attendees to analytical methods for neural-network analysis and connectionist theories of higher-level cognition and psychology."
   location:
     latitude: 51.52118724608978
     longitude: -0.13832110294736547
@@ -1028,7 +1028,7 @@
   note: "Application deadline: April 7, 2025 (23:59 AoE). Notification of acceptance: Early May 2025. Registration opens: Early June 2025."
   twitter: "https://twitter.com/EEMLcommunity"
   email: "contact@eeml.eu"
-  image: "https://lh3.googleusercontent.com/s70oziFZFrYpUjedmTbwyNpLunZMbQj5FvSJ5RMV4hTVBX74w17A9qx0VZURlcKEzhcWGg=w16383"
+  image: "https://rit.rakuten.com/wp-content/uploads/2022/03/Annotation-2020-09-02-112910.png"
   description: "The Eastern European Machine Learning Summer School (EEML) brings together world-class researchers and practitioners in machine learning and artificial intelligence. The 2025 edition features an impressive lineup of speakers including Aaron Courville (Mila), Diana Borsa (Google DeepMind), Ferenc Huszár (University of Cambridge), João Carreira (Google DeepMind), Samy Bengio (Apple, EPFL), and many others. The program also includes tutorials led by experts from Google DeepMind and the University of Oxford. The school is organized in partnership with the Association for the Advancement of Science and Technology, Romanian Association for Artificial Intelligence, and University of Sarajevo, with support from various sponsors and community partners."
   location:
     latitude: 43.8563
@@ -1040,7 +1040,7 @@
   id: oxmlf25
   full_name: "Oxford Machine Learning Summer School: MLx Fundamentals 2025"
   link: "https://www.oxfordml.school/"
-  deadline: "2025-04-20 23:59:59"
+  deadline: "2025-05-01 23:59:59"
   timezone: "Europe/London"
   place: "Online"
   date: "May 1 - May 9, 2025"
@@ -1062,7 +1062,7 @@
   id: oxmlg25
   full_name: "Oxford Machine Learning Summer School: MLx Generative AI 2025"
   link: "https://www.oxfordml.school/2025"
-  deadline: "2025-05-15 23:59:59"
+  deadline: "2025-06-05 23:59:59"
   timezone: "Europe/London"
   place: "London, UK"
   date: "June 5 - June 7, 2025"
@@ -1084,7 +1084,7 @@
   id: oxmlh25
   full_name: "Oxford Machine Learning Summer School: MLx Health & Bio 2025"
   link: "https://www.oxfordml.school/2025"
-  deadline: "2025-07-15 23:59:59"
+  deadline: "2025-08-02 23:59:59"
   timezone: "Europe/London"
   place: "Oxford, UK"
   date: "August 2 - August 5, 2025"
@@ -1106,7 +1106,7 @@
   id: oxmlr25
   full_name: "Oxford Machine Learning Summer School: MLx Representation Learning & GenAI 2025"
   link: "https://www.oxfordml.school/2025"
-  deadline: "2025-07-20 23:59:59"
+  deadline: "2025-08-07 23:59:59"
   timezone: "Europe/London"
   place: "Oxford, UK"
   date: "August 7 - August 10, 2025"
