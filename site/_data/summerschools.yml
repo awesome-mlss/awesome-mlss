@@ -1,3 +1,24 @@
+- title: "5th AutoML School"
+  year: 2025
+  id: automl25
+  full_name: "5th AutoML School 2025"
+  link: "https://www.automlschool.org/"
+  deadline: "2025-05-01 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Tübingen, Germany"
+  date: "June 10 – 13, 2025"
+  start: 2025-06-10
+  end: 2025-06-13
+  sub: ['Automated Machine Learning', 'AutoML']
+  note: "Early bird deadline: May 1st"
+  email: "katharina.eggensperger@uni-tuebingen.de"
+  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models."
+  image: "https://lh5.googleusercontent.com/IqLD99Id1Vtx_KQ-mjKvHgwyvQXzDgxeNObHF1oG40Z8Q9bipWUH-tvRvIuIK0EN2uY15mDkxLEp9jDa1_t84slRf92-U5W20dvNEa21RLU6geC-Kyi91emPFH3GF8rw1A=w1280"
+  location:
+    latitude: 48.53899300170434
+    longitude: 9.0560437104124545.679604
+  series: "AutoML School"
+  
 - title: "4th European Summer School on Quantum AI"
   year: 2025
   id: eqai25
