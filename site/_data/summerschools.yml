@@ -12,8 +12,8 @@
   sub: ['Automated Machine Learning', 'AutoML', 'ML']
   note: "Early bird deadline: May 1st"
   email: "katharina.eggensperger@uni-tuebingen.de"
-  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models."
-  image: "https://lh5.googleusercontent.com/IqLD99Id1Vtx_KQ-mjKvHgwyvQXzDgxeNObHF1oG40Z8Q9bipWUH-tvRvIuIK0EN2uY15mDkxLEp9jDa1_t84slRf92-U5W20dvNEa21RLU6geC-Kyi91emPFH3GF8rw1A=w1280"
+  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models. The AutoML School is a yearly research training event tailored for graduate and postgraduate students, research engineers, and industry practitioners who want to learn about AutoML. However, there are no formal prerequisites, and everyone is welcome."
+  image: "https://www.conftool.org/automl-school-2025/footer.png"
   location:
     latitude: 48.53899300170434
     longitude: 9.0560437104124545.679604
