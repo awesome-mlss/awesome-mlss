@@ -1,3 +1,17 @@
+- title: EuADS Summer School on Automated Data Science
+  year: 2025
+  id: euads25
+  full_name: EuADS Summer School on Automated Data Science 2025
+  link: https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/
+  deadline: 2025-05-20
+  timezone: "Europe/Luxembourg"
+  place: "Luxembourg-Belair"
+  date: "July 8 - July 11, 2025"
+  start: 2025-07-08
+  end: 2025-07-11
+  sub: ['ML']
+  description: "The 2025 edition of the EuADS Summer School is dedicated to Automated Data Science (AutoDS) and will cover important branches of this research field in a tutorial style."
+  
 - title: "4th European Summer School on Quantum AI"
   year: 2025
   id: eqai25
