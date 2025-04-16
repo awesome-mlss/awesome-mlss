@@ -29,3 +29,4 @@ When submitting a summer school please use one of the following topics. If you t
 | RAI       | Responsible AI            |
 | Quantum   | Quantum AI                |
 | RecSys    | Recommender Systems       |
+| DS        | Data Science              |
