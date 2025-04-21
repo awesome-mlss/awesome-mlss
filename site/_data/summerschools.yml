@@ -1,3 +1,22 @@
+- title: Summer School on Data Science, Learning and Optimization
+  year: 2025
+  id: dataslo25
+  full_name: Summer School on Data Science, Learning and Optimization (DataSLO)
+  link: https://www.unistrapg.it/it/studiare-in-un-ateneo-internazionale/dataslo
+  deadline: "2025-04-24 13:00:00"
+  timezone: "Europe/Rome"
+  place: "Norcia, Italy"
+  start: 2025-06-23
+  end: 2025-06-27
+  sub: ['ML', 'Theory']
+  note: "Free registration, maximum 25 participants"
+  email: "progetto.fenice@unistrapg.it"
+  description: "The Summer School DataSLO will explore key topics related to the core methodologies that drive Data Science, Machine Learning and Computational Optimization – the three foundational pillars of modern Artificial Intelligence."
+  image: "https://www.unistrapg.it/sites/default/files/logo.png"
+  location:
+    latitude: 42.7889
+    longitude: 13.0747
+
 - title: "School on Automated Machine Learning (AutoML)"
   year: 2025
   id: automl25
