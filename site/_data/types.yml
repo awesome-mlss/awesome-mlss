@@ -77,3 +77,6 @@
 - color: '#FF6347'
   name: AI and Economics
   sub: EconAI
+- color: '#AF1742'
+  name: Data Science
+  sub: DS
