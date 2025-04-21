@@ -83,8 +83,8 @@ layout: default
           </label>
           <select id="sort-order-select" name="sort-order-select">
             <option value="start-asc">Start Date (ascending)</option>
-            <option value="start-desc" selected>Start Date (descending)</option>
-            <option value="deadline-asc">Deadline (ascending)</option>
+            <option value="start-desc">Start Date (descending)</option>
+            <option value="deadline-asc" selected>Deadline (ascending)</option>
             <option value="deadline-desc">Deadline (descending)</option>
           </select>
         </div>
@@ -224,9 +224,6 @@ $(function() {
       $('.local-timezone-hide').hide();
     }
 
-    // Run the initial sort with featured pinned
-    initialSort();
-
     function update_filtering(params) {
         var subs = params.subs;
         var all_subs = params.all_subs;
@@ -320,6 +317,9 @@ $(function() {
       {% endif %}
     {% endfor %}
 
+    // Run the initial sort with featured pinned
+    initialSort();
+
     function sortConfs(containerSelector, sortBy, ascending, keepFeaturedOnTop) {
       // Grab conferences, but `detach()` them
       var $confs = $(containerSelector).children('.ConfItem').detach();
@@ -368,8 +368,8 @@ $(function() {
 
     // On initial page load, keep featured on top
     function initialSort() {
-      sortConfs('#coming_confs', 'start', false, true); // descending, featured pinned
-      sortConfs('#past_confs', 'start', false, true);
+      sortConfs('#coming_confs', 'deadline', true,  false); // descending, featured pinned
+      sortConfs('#past_confs', 'deadline', true,  false);
     }
 
     // When the user changes sort order, pass keepFeaturedOnTop = false

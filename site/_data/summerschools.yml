@@ -8,13 +8,57 @@
   place: "Norcia, Italy"
   start: 2025-06-23
   end: 2025-06-27
-  sub: ['ML']
+  sub: ['ML', 'Theory']
   note: "Free registration, maximum 25 participants"
+  email: "progetto.fenice@unistrapg.it"
   description: "The Summer School DataSLO will explore key topics related to the core methodologies that drive Data Science, Machine Learning and Computational Optimization – the three foundational pillars of modern Artificial Intelligence."
+  image: "https://www.unistrapg.it/sites/default/files/logo.png"
   location:
     latitude: 42.7889
     longitude: 13.0747
 
+- title: "School on Automated Machine Learning (AutoML)"
+  year: 2025
+  id: automl25
+  full_name: "5th School on Automated Machine Learning (AutoML) 2025"
+  link: "https://www.automlschool.org/"
+  deadline: "2025-05-01 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Tübingen, Germany"
+  date: "June 10 – 13, 2025"
+  start: 2025-06-10
+  end: 2025-06-13
+  sub: ['Theory', 'ML', 'EML']
+  note: "Early bird deadline: May 1st"
+  email: "katharina.eggensperger@uni-tuebingen.de"
+  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models. The AutoML School is a yearly research training event tailored for graduate and postgraduate students, research engineers, and industry practitioners who want to learn about AutoML. However, there are no formal prerequisites, and everyone is welcome."
+  image: "https://www.conftool.org/automl-school-2025/footer.png"
+  location:
+    latitude: 48.53899300170434
+    longitude: 9.05771
+  series: "AutoML School"
+
+- title: EuADS Summer School on Automated Data Science
+  year: 2025
+  id: euads25
+  full_name: EuADS Summer School on Automated Data Science 2025
+  link: https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/
+  deadline: 2025-05-20
+  timezone: "Europe/Luxembourg"
+  place: "Luxembourg-Belair"
+  date: "July 8 - July 11, 2025"
+  start: 2025-07-08
+  end: 2025-07-11
+  sub: ['ML', 'DS', 'Theory']
+  note: null
+  twitter: "https://x.com/euadsorg"
+  email: "contact@euads.org"
+  description: "The 2025 edition of the EuADS Summer School is dedicated to Automated Data Science (AutoDS) and will cover important branches of this research field in a tutorial style.  With the increasing complexity of data science projects and the limited availability of human expertise, the idea of automating or partially automating the work of a data scientist has come to the fore in recent years. AutoDS aims to streamline the data science workflow, making processes such as data pre-processing, feature engineering, model selection, evaluation and deployment faster and more accessible."
+  image:
+  location:
+    latitude: 49.61235369861866
+    longitude: 6.114854857934161
+  
 - title: "4th European Summer School on Quantum AI"
   year: 2025
   id: eqai25
@@ -35,8 +79,6 @@
     latitude: 45.679604
     longitude: 13.122126
   series: "European Summer School on Quantum AI"
-
-
 
 - title: "African Computer Vision Summer School"
   year: 2025
@@ -723,28 +765,6 @@
     latitude: 43.5081
     longitude: 16.4402
   series: "Mediterranean Machine Learning (M2L) Summer School"
-
-- title: "AutoML School"
-  year: 2025
-  id: autoML25
-  full_name: "5th School on Automated Machine Learning"
-  link: "https://www.automlschool.org/"
-  deadline: "2025-04-18 23:59:59"
-  timezone: "Europe/Berlin"
-  place: "Tübingen, Germany"
-  date: "June 10th – 13th, 2025"
-  start: 2025-05-10
-  end: 2025-05-13
-  sub: ['ML', 'EML', 'NLP']
-  note: "Application deadline is 18 April for early registration & 19 April for regular registration."
-  twitter: null 
-  email: "automl-school@kcmweb.de"
-  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models. The AutoML School is a yearly research training event tailored for graduate and postgraduate students, research engineers, and industry practitioners who want to learn about AutoML. However, there are no formal prerequisites, and everyone is welcome."
-  image: "https://www.conftool.org/automl-school-2025/footer.png"
-  location:
-    latitude: 48.52520
-    longitude: 9.05771
-  series: "Automated Machine Learning (AutoML) School"
   
 - title: "MenaML Winter School"
   year: 2025
