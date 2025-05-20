@@ -1180,3 +1180,25 @@
   location:
     latitude: 43.4831
     longitude: -1.5148
+
+- title: "From Foundational Models to Multimedia Signal Processing: A deep dive in Multimodal AI"
+  year: 2025
+  id: s3p25
+  full_name: "11th IEEE-EURASIP Summer School on Signal Processing"
+  link: "https://lesc.dinfo.unifi.it/S3P-2025/"
+  deadline: "2025-06-20 23:59:59"
+  timezone: "Europe/Rome"
+  place: "San Vincenzo, Italy"
+  date: "September 21 - September 26, 2025"
+  start: 2025-09-21
+  end: 2025-09-26
+  sub: ['ML', 'GenAI', 'SP', 'NLP', 'CV']
+  note: "Open to Master's and PhD students, academics, and other professionals. The pre-application deadline is June 20, 2025, with notifications of acceptance sent by June 25, 2025. Accepted participants must complete their registration by July 15, 2025."
+  linkdin: ""
+  email: "s3p-2025@dinfo.unifi.it"
+  image: "https://lesc.dinfo.unifi.it/S3P-2025/images/home_11.jpg"
+  description: "The 11th Summer School on Signal Processing (S3P-2025) will focus on multimodal AI and foundation models, offering PhD students and researchers a unique opportunity to engage with international experts through lectures, discussions, and poster/oral presentations. Held at the scenic Riva degli Etruschi Resort in San Vincenzo, Tuscany, the event also provides access to historic Tuscan towns and cities. The speaker lineup includes leading figures in signal processing, machine learning, computer vision, and graphics: Marco Gori (University of Siena); Amos Storkey (University of Edinburgh); Edward J. Delp (Purdue University); Scott Acton (University of Virginia); Battista Biggio (University of Cagliari); Joost Van De Weijer (Universitat Autonoma de Barcelona); Andrew D. Bagdanov (University of Florence); and Justin Dauwels (Delft University of Technology)."
+  location:
+    latitude: 43.0728
+    longitude: 10.5374
+  series: "IEEE-EURASIP Summer School on Signal Processing"
