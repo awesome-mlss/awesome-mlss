@@ -1,3 +1,24 @@
+- title: "MLSS Melbourne"
+  year: 2026
+  id: mlssmelbourne26
+  full_name: "Machine Learning Summer School (MLSS) Melbourne 2026"
+  link: "https://www.mlss-melbourne.com/"
+  deadline: "2025-08-31 23:59:00"
+  timezone: "Australia/Melbourne"
+  place: "Melbourne, Australia"
+  date: "February 2 - February 13, 2026"
+  start: 2026-02-02
+  end: 2026-02-13
+  sub: ['ML', 'Theory', 'GenAI', 'RL', 'CV']
+  note: "Participation fee: 500 AUD (all events and catering). Limited scholarships available."
+  email: "mlss@maincode.com"
+  description: "The MLSS series started in 2002 out of the Australian National University in Canberra with the goal of bringing excellent ML speakers to Australia. While the summer school series flourished (47 events on 5 continents), the last event on Australian soil is more than 10 years ago. We are bringing MLSS back to Australia, specifically to Melbourne in early 2026. We are inviting 50 exceptional PhD students and early-career researchers to learn from 15 world-class speakers in seminars, tutorials and talks. The topics range from foundational ML theory to state-of-the-art methods to novel ideas and approaches. MLSS will be hosted in a beautiful venue in Port Melbourne in the middle of Australian summer. Applications are open until August 31 - apply now on our website."
+  image: "https://www.mlss-melbourne.com/mlss-logo.png"
+  location:
+    latitude: -37.8136
+    longitude: 144.9631
+  series: "Machine Learning Summer School (MLSS)"
+
 - title: Summer School on Data Science, Learning and Optimization
   year: 2025
   id: dataslo25
