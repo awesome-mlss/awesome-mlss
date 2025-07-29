@@ -1201,3 +1201,29 @@
   location:
     latitude: 43.4831
     longitude: -1.5148
+
+- title: "Gaussian Process Summer School"
+  year: 2025
+  id: gpss25
+  full_name: "Gaussian Process Summer School 2025"
+  link: "https://gpss.cc/gpss25/"
+  deadline: "2025-06-27 23:59:00"
+  timezone: "Europe/London"
+  place: "Manchester, UK"
+  date: "September 08 - September 11, 2025"
+  start: 2025-09-08
+  end: 2025-09-11
+  sub: ['ML', 'Theory', 'Log']
+
+- title: "Cohere Labs - ML Summer School"
+  year: 2025
+  id: clmlss25
+  full_name: "Cohere Labs - ML Summer School 2025"
+  link: "https://cohere.com/events/Cohere-Labs-ML-Summer-School-2025"
+  deadline: "2025-06-30 23:59:00"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "July 02 - July 14, 2025"
+  start: 2025-07-02
+  end: 2025-07-14
+  sub: ['ML', 'CV', 'NLP', 'KR', 'GenAI', 'Theory', 'Log', 'EML', 'RL']
