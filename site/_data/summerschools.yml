@@ -1,3 +1,40 @@
+- title: "Summer School on Multimodal Foundation Models and Generative AI"
+  year: 2025
+  id: aiss25
+  full_name: "Summer School on Multimodal Foundation Models and Generative AI"
+  link: "https://ai-summer-school.inpt.ac.ma/"
+  deadline: "2025-07-13"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "September 8 - September 12, 2025"
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: ['ML', 'NLP', 'CV', 'GenerativeAI', 'Multimodal']
+  note: "Applications open June 23, 2025; acceptance notifications sent July 25, 2025."
+  email: "team@morocco.ai"
+  description: |
+    The AI Summer School is an immersive five-day program jointly organized by
+    MoroccoAI, Institut National Des Postes et Télécommunications (INPT), IMT Nord
+    Europe, and Soft Centre, supported by ACM SIGMM. 
+
+    The 2025 edition focuses on Multimodal Foundation Models and Generative AI, 
+    providing participants with lectures from world-renowned experts, hands-on labs,
+    project mentorship, and networking opportunities. It is designed for Master’s and
+    PhD students, postdocs, researchers, and industry professionals with intermediate
+    knowledge of machine learning and Python programming.
+
+    Key features:
+    - 20+ expert sessions and 15+ hands-on labs
+    - Networking with 50+ participants and AI leaders
+    - Coverage of cutting-edge topics: generative AI, LLMs, multimodal foundation models
+    - Visits to Morocco’s technology ecosystem (e.g., Casablanca Technopark)
+    - Full access to lectures, meals, and accommodations included in registration
+  image: "https://morocco.ai/wp-content/uploads/2020/03/MoroccoAI_Logo.png"
+  location:
+    latitude: 34.020882
+    longitude: -6.841650
+  series: "MoroccoAI Summer School"
+
 - title: "MLSS Melbourne"
   year: 2026
   id: mlssmelbourne26
