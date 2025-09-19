@@ -1,3 +1,86 @@
+- title: "Northern Lights Deep Learning Winter School"
+  year: 2026
+  id: nldl26
+  full_name: "Northern Lights Deep Learning Winter School 2026"
+  link: "https://www.nldl.org/program/winter-school"
+  deadline: "2025-11-15 23:59:59"
+  timezone: "Europe/Oslo"
+  place: "Tromsø, Norway"
+  date: "January 5 - January 9, 2026"
+  start: 2026-01-05
+  end: 2026-01-09
+  sub: ['Theory', 'NLP', 'RAI']
+  note: "Registration fees: 1750 NOK for students, 2500 NOK for academics. Limited number of places available."
+  twitter: "https://x.com/naamii_nepal"
+  email: "puneet.sharma@uit.no"
+  description: "The Northern Lights Deep Learning Winter School is organized by The Arctic University of Norway in Tromsø. This winter school provides an intensive deep learning program in the unique Arctic environment of northern Norway, offering participants the opportunity to learn cutting-edge machine learning techniques while experiencing the northern lights phenomenon. The school is held during the polar night period, creating a distinctive learning atmosphere in one of the world's northernmost universities."
+  image: "https://lh3.googleusercontent.com/sitesv/AICyYdZqbDvLrpA5l7B5mWsYqBTM_UXZpQhoO7OA_BTHiqMPtkBx-_qcGEApKxuiEORJIGR4Y0bW0_goJMO_V0PtpJIOJzSnQohxP_7ZZ6giRskld3U6KSU_D1PYN0GillbUi0Mml9tUPiIgLXtCaLoRvPQO8Ci7AuSkxKGg0dyLYYtjAY9fKdNgdsJx=w16383"
+  location:
+    latitude: 69.6492
+    longitude: 18.9553
+
+- title: "Annual Nepal AI School"
+  year: 2025
+  id: anais25
+  full_name: "6th Annual Nepal AI School (ANAIS) 2025"
+  link: "https://anais.naamii.org.np/"
+  deadline: "2025-10-16 23:59:59"
+  timezone: "Asia/Kathmandu"
+  place: "Kathmandu, Nepal"
+  date: "December 29, 2025 - January 8, 2026"
+  start: 2025-12-29
+  end: 2026-01-08
+  sub: ['ML']
+  note: "Registration fees: $100-$240 USD (depends on applicant category). Application deadline: October 16, 2025."
+  twitter: null
+  email: "anais@naamii.org.np"
+  description: "The 6th Annual Nepal AI School (ANAIS) is organized by NAAMII (Nepal Applied Mathematics and Informatics Institute for Research) in Kathmandu, Nepal. This intensive AI school provides participants with comprehensive training in artificial intelligence and machine learning concepts and applications. The program spans across the New Year period, offering an extended learning experience in the unique cultural setting of Nepal's capital city."
+  image: "https://lh3.googleusercontent.com/sitesv/AICyYdaFTjoorHso7GpUtZqFbdL1Ao_um69TBktk_b9kTpuq8WJhZNj8HKyDvoqFw4rgyoPfEwRMJOZAbFMLcjj9Xuiie710vbA7jtDfDlDdGxb3V6HMHYUs-rp79f1YlMWAbX2jaHyopcAyDv3qzCxYdoQ0WHLS13Qr30Euk16xJ4L5gCbWeoKY5HEbWsY=w16383"
+  location:
+    latitude: 27.7172
+    longitude: 85.3240
+  series: "Annual Nepal AI School (ANAIS)"
+
+- title: "Latin American School of Artificial Intelligence (LASAI)"
+  year: 2025
+  id: lasai25
+  full_name: "Latin American School of Artificial Intelligence (LASAI) 2025"
+  link: "https://simbig.org/lasai/2025/"
+  deadline: "2025-09-30 23:59:59"
+  timezone: "America/Lima"
+  place: "Lima, Peru"
+  date: "October 27 - October 31, 2025"
+  start: 2025-10-27
+  end: 2025-10-31
+  sub: ['ML']
+  note: "Application deadline: September 30, 2025."
+  twitter: "https://twitter.com/SIMBigPeru"
+  email: "lasai2025@simbig.org"
+  description: "The Latin American LATAM School of Artificial Intelligence is hosted by Universidad Nacional Mayor de San Marcos (UNMSM) in Lima, Peru. This school aims to provide comprehensive training in artificial intelligence and machine learning for participants from Latin America and beyond. The program offers an intensive learning experience in one of South America's oldest and most prestigious universities, fostering AI education and research collaboration across the Latin American region."
+  location:
+    latitude: -12.0532
+    longitude: -77.0853
+
+- title: "Winter School on Causality and Explainable AI"
+  year: 2025
+  id: causalxai25
+  full_name: "Winter School on Causality and Explainable AI 2025"
+  link: "https://causality-xai-school.fr/"
+  deadline: "2025-10-01 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "October 20 - October 24, 2025"
+  start: 2025-10-20
+  end: 2025-10-24
+  sub: ['RAI', 'Theory']
+  note: "Application deadline: October 1, 2025."
+  twitter: null
+  email: null
+  description: "The Winter School on Causality and Explainable AI is organized by a team from the Sorbonne Center for Artificial Intelligence, ELLIS - European Laboratory for Learning and Intelligent Systems, and other partner institutions. This specialized program focuses on the intersection of causal inference and explainable artificial intelligence, providing participants with theoretical foundations and practical applications in these critical areas of AI research. The school emphasizes understanding causal relationships in data and developing interpretable AI systems."
+  location:
+    latitude: 48.8566
+    longitude: 2.3522
+
 - title: "MLSS Melbourne"
   year: 2026
   id: mlssmelbourne26
