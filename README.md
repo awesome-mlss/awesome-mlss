@@ -26,6 +26,9 @@
 ## 2025 Summer Schools
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
+Annual Nepal AI School|Machine Learning|Kathmandu, Nepal|Oct 16, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/anais25)|Dec 29 - Jan 08, 2026|[Details](https://awesome-mlss.com/summerschool/anais25)
+Latin American School of Artificial Intelligence (LASAI)|Machine Learning|Lima, Peru|Sep 30, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lasai25)|Oct 27 - Oct 31, 2025|[Details](https://awesome-mlss.com/summerschool/lasai25)
+Winter School on Causality and Explainable AI|Responsible AI, ML Theory|Paris, France|Oct 01, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/causalxai25)|Oct 20 - Oct 24, 2025|[Details](https://awesome-mlss.com/summerschool/causalxai25)
 Reasoning Web Summer School|Knowledge Representation, Logic|Istanbul, Türkiye|Jun 09, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rw25)|Sep 25 - Sep 28, 2025|[Details](https://awesome-mlss.com/summerschool/rw25)
 International Artificial Intelligence Summer School|Machine Learning|Grosseto, Italy|Apr 23, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/IAISS25)|Sep 21 - Sep 25, 2025|[Details](https://awesome-mlss.com/summerschool/IAISS25)
 Advanced Course on Artificial Intelligence & Neuroscience|Machine Learning, Neuroscience, Cognitive Science, Robotics, Responsible AI|Castiglione della Pescaia, Italy|Apr 23, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/acain25)|Sep 21 - Sep 24, 2025|[Details](https://awesome-mlss.com/summerschool/acain25)
