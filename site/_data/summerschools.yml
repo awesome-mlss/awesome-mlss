@@ -19,6 +19,23 @@
     latitude: 69.6492
     longitude: 18.9553
 
+- title: "Advanced Summer School on Responsible AutoML"
+  year: 2025
+  id: asraml25
+  full_name: "Advanced Summer School on Responsible AutoML 2025"
+  link: "https://automlsummerschool.cin.ufpe.br/"
+  deadline: "2025-11-11 23:59:00"
+  timezone: "America/Sao_Paulo"
+  place: "Recife, Brazil"
+  date: "November 11 - November 12, 2025"
+  start: 2025-11-11
+  end: 2025-11-12
+  sub: ['Theory', 'ML', 'EML']
+  location:
+    latitude: -8.055172279619814
+    longitude: -34.95136218650733
+  email: "ligia@cin.ufpe.br"
+
 - title: "Annual Nepal AI School"
   year: 2025
   id: anais25
