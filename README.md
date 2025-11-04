@@ -27,6 +27,7 @@
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
 Annual Nepal AI School|Machine Learning|Kathmandu, Nepal|Oct 16, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/anais25)|Dec 29 - Jan 08, 2026|[Details](https://awesome-mlss.com/summerschool/anais25)
+Advanced Summer School on Responsible AutoML|ML Theory, Machine Learning, Efficient Machine Learning|Recife, Brazil|Nov 11, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/asraml25)|Nov 11 - Nov 12, 2025|[Details](https://awesome-mlss.com/summerschool/asraml25)
 Latin American School of Artificial Intelligence (LASAI)|Machine Learning|Lima, Peru|Sep 30, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lasai25)|Oct 27 - Oct 31, 2025|[Details](https://awesome-mlss.com/summerschool/lasai25)
 Winter School on Causality and Explainable AI|Responsible AI, ML Theory|Paris, France|Oct 01, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/causalxai25)|Oct 20 - Oct 24, 2025|[Details](https://awesome-mlss.com/summerschool/causalxai25)
 Reasoning Web Summer School|Knowledge Representation, Logic|Istanbul, Türkiye|Jun 09, 2025 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rw25)|Sep 25 - Sep 28, 2025|[Details](https://awesome-mlss.com/summerschool/rw25)
