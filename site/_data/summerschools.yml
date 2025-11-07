@@ -1,3 +1,19 @@
+- title: "NeuMat Winter School"
+  year: 2026
+  id: neuromorphiccomputingwinterschool26
+  full_name: "Neuromorphic Computing Winter School"
+  link: "https://lnkd.in/ddjdRVi3"
+  deadline: "2025-10-31 23:59:00"
+  timezone: "Europe/London"
+  place: "Cambridge, United Kingdom"
+  date: "January 13 - January 15, 2026"
+  start: 2026-01-13
+  end: 2026-01-15
+  sub: ['ML']
+  note: "Free to attend. Two-night stay at Churchill College (Jan 13–14) with all meals included. Register your interest by the deadline via the link. Only a few spaces remain."
+  description: "An intensive winter school focused on neuromorphic computing. Expressions of interest are invited for a three-day program at Churchill College, Cambridge, covering emerging hardware and computation paradigms inspired by neural systems."
+  series: "NeuMat Winter School"
+
 - title: "Northern Lights Deep Learning Winter School"
   year: 2026
   id: nldl26
