@@ -11,11 +11,7 @@
   end: 2026-06-19
   sub: ['ML']
   note: "Fee to attend"
-  description: "The Machine Learning Crash Course (MLCC) provides an introduction to 
-                the fundamental concepts and algorithms of Machine Learning. The course is 
-                suitable for undergraduate/graduate students, as well as professionals. 
-                It is open to students from any University upon selection. Attendance will be
-                exclusively in person, and the course will not be streamed online."
+  description: "The Machine Learning Crash Course (MLCC) provides an introduction to the fundamental concepts and algorithms of Machine Learning. The course is suitable for undergraduate/graduate students, as well as professionals. It is open to students from any University upon selection. Attendance will be exclusively in person, and the course will not be streamed online."
   location:
     latitude: 44.404462072674626
     longitude:  8.972325
