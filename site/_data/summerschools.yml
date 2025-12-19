@@ -1,3 +1,25 @@
+- title: "BMVA Computer Vision Summer School"
+  year: 2026
+  id: bmva-cvss26
+  full_name: "29th BMVA Computer Vision Summer School (CVSS) 2026"
+  link: "https://cvss.bmva.org/"
+  deadline: "2025-06-15 23:59:59"
+  timezone: "Europe/London"
+  place: "Durham, England, UK"
+  date: "July 13 - July 17, 2025"
+  start: 2025-07-13
+  end: 2025-07-17
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Early bird registration until 31st May 2026"
+  twitter: "https://twitter.com/BmvaCvss"
+  email: "bmva-cvss@durham.ac.uk"
+  description: "The 29th BMVA Computer Vision Summer School (CVSS) will take place between 13th - 17th July 2026 at Durham University, Durham, England, UK. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad."
+  image: "https://cvss.bmva.org/assets/images/layout/cvss_logo_2026.png"
+  location:
+    latitude: 57.1648
+    longitude: -2.1015
+  series: "BMVA Computer Vision Summer School"
+  
 - title: "NeuMat Winter School"
   year: 2026
   id: neuromorphiccomputingwinterschool26
