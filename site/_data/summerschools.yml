@@ -1,3 +1,17 @@
+- title: Generative AI Summer School
+  year: 2026
+  id: gai2026
+  full_name: "The International Summer School on Generative AI"
+  link: "https://intelligent-systems.net/school/"
+  timezone: "Europe/Rome"
+  place: "Rome, Italy"
+  date: "June 22 - June 26, 2026"
+  start: 2026-01-22
+  end: 2026-06-26
+  sub: ['GenAI', 'NLP']
+  note: "Rolling review. Hybrid: In-person & Online. Fee to attend."
+  description: "This summer school explores the modern AI stack from classic NLP foundations to large language models (LLMs) and agentic AI focusing on how these pieces fit together to build reliable, real-world systems. "
+
 - title: "NeuMat Winter School"
   year: 2026
   id: neuromorphiccomputingwinterschool26
