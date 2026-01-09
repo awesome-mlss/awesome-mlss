@@ -1,3 +1,24 @@
+- title: "Generative Modeling Spring School"
+  year: 2026
+  id: gemss2026
+  full_name: "Generative Modeling Spring School 2026"
+  link: https://gemss.ai/2026/
+  deadline: '2026-01-23 23:59:59'
+  timezone: UTC+1
+  place: "London, United Kingdom"
+  date: "March 23-27, 2026"
+  start: 2026-03-23
+  end: 2023-03-27
+  sub: ['ML', 'GenAI']
+  image: https://gemss.ai/2026/images/og.jpg
+  email: "gemss@sciencesconf.org"
+  note: "GeMSS is a European spring/summer school dedicated exclusively to deep generative models, including latent variable models, diffusion and flow-based models, and autoregressive generative models. It primarily attracts PhD students and researchers across Europe with an interest in generative modeling.
+  description: "The school has a distinctive format: the first three days focus on intensive lectures and tutorials covering foundational concepts, followed by invited talks on state-of-the-art generative models that highlight current research frontiers. GeMSS is aimed at PhD students working broadly in data science and AI for whom generative modeling is, or may become, an important component of their research. The program is designed to be relevant both for students pursuing methodological research (e.g., machine learning, statistics, and AI) and for those working in applied domains such as bioinformatics, computational physics, computational chemistry, and computational social science. The school is also open to postdocs and senior researchers from academia and industry as part of their continuing training in generative AI."
+  location:
+    latitude: 51.498356
+    longitude: -0.176894
+  series: "Generative Modeling Summer School (GeMSS)"
+
 - title: "NeuMat Winter School"
   year: 2026
   id: neuromorphiccomputingwinterschool26
