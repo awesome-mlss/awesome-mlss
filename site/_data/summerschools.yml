@@ -11,6 +11,174 @@
   sub: ['GenAI', 'NLP']
   note: "Rolling review. Hybrid: In-person & Online. Fee to attend."
   description: "This summer school explores the modern AI stack from classic NLP foundations to large language models (LLMs) and agentic AI focusing on how these pieces fit together to build reliable, real-world systems. "
+- title: "BMVA Computer Vision Summer School"
+  year: 2026
+  id: bmva-cvss26
+  full_name: "29th BMVA Computer Vision Summer School (CVSS) 2026"
+  link: "https://cvss.bmva.org/"
+  deadline: "2026-06-29 23:59:59"
+  timezone: "Europe/London"
+  place: "Durham, England, UK"
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Early bird registration until 31st May 2026"
+  twitter: "https://twitter.com/BmvaCvss"
+  email: "bmva-cvss@durham.ac.uk"
+  description: "The 29th BMVA Computer Vision Summer School (CVSS) will take place between 13th - 17th July 2026 at Durham University, Durham, England, UK. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad."
+  image: "https://cvss.bmva.org/assets/images/layout/cvss_logo_2026.png"
+  location:
+    latitude: 57.1648
+    longitude: -2.1015
+  series: "BMVA Computer Vision Summer School"
+  
+- title: "Oxford Machine Learning Summer School - MLx HEALTH & BIO"
+  year: 2026
+  id: oxford_mlxbio26
+  full_name: "Oxford Machine Learning Summer School - MLx HEALTH & BIO"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-05-22 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom"
+  date: "July 10 - July 13, 2026"
+  start: 2026-07-10
+  end: 2026-07-13
+  sub: ["ML", "Health", "Bio"]
+  note: null
+  email: null
+  description: "Oxford Machine Learning School (OxML) offers specialised tracks in advanced machine learning, including an MLx Health & Bio module focusing on applications in healthcare and biology."  # from official program info :contentReference[oaicite:3]{index=3}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning Summer School"
+
+- title: "OxML 2026 – MLx Cases"
+  year: 2026
+  id: oxml_mlx_cases26
+  full_name: "Oxford Machine Learning School 2026 — MLx Cases"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-04-07 23:59:59"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "7 - 16 May, 2026"
+  start: 2026-05-07
+  end: 2026-05-16
+  sub: ["ML", "RL", "GenAI"]
+  note: "Six‑day online programme focused on practical machine learning applications including RL, diffusion models, and building AI systems."  # from official announcement :contentReference[oaicite:5]{index=5}
+  email: null
+  description: "MLx Cases is a track of the OxML 2026 summer school emphasizing hands‑on ML engineering, reinforcement learning, diffusion models, and the construction of AI agents."  # based on module description :contentReference[oaicite:6]{index=6}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning School 2026"
+
+- title: "OxML 2026 – MLx Representation Learning & Generative AI"
+  year: 2026
+  id: oxml_mlx_rep_gen_ai26
+  full_name: "Oxford Machine Learning School 2026 — MLx Representation Learning & Generative AI"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-05-22 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom & Online"
+  date: "July 15 - July 18, 2026"
+  start: 2026-07-15
+  end: 2026-07-18
+  sub: ["ML", "GenAI"]
+  note: "Focuses on representation learning and advanced generative AI techniques with a special submodule on AI for mathematics."  # module topics based on official announcements :contentReference[oaicite:9]{index=9}
+  email: null
+  description: "MLx Representation Learning & Generative AI is a track within OxML 2026 dedicated to cutting‑edge topics such as advanced representation learning and generative artificial intelligence."  # based on official announcements :contentReference[oaicite:10]{index=10}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning School 2026"
+
+- title: "Machine Learning Crash Course at MALGA"
+  year: 2026
+  id: mlcrash_malga26
+  full_name: "Machine Learning Crash Course at MALGA 2026"
+  link: "https://malga.unige.it/education/schools/mlcc2026/"
+  deadline: "2026-03-01 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genoa, Italy"
+  date: "June 15 - June 19, 2026"
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: ["ML"]
+  note: "Introduction to the fundamental concepts and algorithms of Machine Learning with lab sessions at the Machine Learning Genoa Center (MaLGa)."  # from official course page :contentReference[oaicite:0]{index=0}
+  email: null
+  description: "The Machine Learning Crash Course (MLCC) 2026 provides an introduction to the core methods in machine learning, suitable for undergraduate/graduate students and professionals."  # official description :contentReference[oaicite:1]{index=1}
+  image: null
+  location:
+    latitude: 44.4071
+    longitude: 8.9347
+  series: "ML Crash Courses"
+
+- title: "Robotics, Perception and Learning (RPL) Summer School"
+  year: 2026
+  id: rpl26
+  full_name: "Robotics, Perception and Learning (RPL) Summer School 2026"
+  link: "https://summer-school.rpl.eecs.kth.se/"
+  deadline: "2026-02-08 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Stockholm, Sweden"
+  date: "June 21 - June 26, 2026"
+  start: 2026-06-21
+  end: 2026-06-26
+  sub: ["RO", "ML"]
+  note: "The event includes keynote speeches, panel discussions, brainstorming sessions, and covers accommodation and meals from June 21 to June 26."  # from official page :contentReference[oaicite:4]{index=4}
+  email: "rpl-events@eecs.kth.se"  # official contact from RPL page :contentReference[oaicite:5]{index=5}
+  description: "The RPL Summer School 2026 is a six-day intensive programme focusing on robotics, perception, and learning, intended for doctoral and postdoctoral researchers."  # from official description :contentReference[oaicite:6]{index=6}
+  image: null
+  location:
+    latitude: 59.3293    # Stockholm coordinates
+    longitude: 18.0686
+  series: "Robotics, Perception and Learning Summer School"
+
+- title: "UK Robotics Summer School"
+  year: 2026
+  id: uk_robotics_ss26
+  full_name: "UK Robotics Summer School 2026"
+  link: "https://ukrss.site.hw.ac.uk/"
+  deadline: "2026-05-15 23:59:59"
+  timezone: "Europe/London"
+  place: "Edinburgh, United Kingdom"
+  date: "June 22 - June 26, 2026"
+  start: 2026-06-22
+  end: 2026-06-26
+  sub: ["RO"]
+  note: "A 5‑day summer school focusing on robotics and related AI topics held at the National Robotarium, Heriot‑Watt University."  # official event description :contentReference[oaicite:2]{index=2}
+  email: null
+  description: "UK Robotics Summer School offers lectures, tutorials, and industry presentations on robotics, bioinspired systems, generative AI for robotics, and AI validation."  # official description :contentReference[oaicite:3]{index=3}
+  image: null
+  location:
+    latitude: 55.9533
+    longitude: -3.1883
+  series: "UK Robotics Summer School"
+
+- title: "Generative Modeling Summer School (GeMSS)"
+  year: 2026
+  id: gemss26
+  full_name: "Generative Modeling Summer School (GeMSS) 2026"
+  link: "https://gemss.ai/"
+  deadline: "2026-01-23 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "March 23 - March 27, 2026"
+  start: 2026-03-23
+  end: 2026-03-27
+  sub: ["GenAI", "ML"]
+  note: "Application deadline is January 23, 2026 (23:59 CET)."  # official deadline :contentReference[oaicite:7]{index=7}
+  email: "gemss@sciencesconf.org"  # official contact from affiliated page :contentReference[oaicite:8]{index=8}
+  description: "GeMSS is a spring/summer school dedicated to deep generative models including latent variable models, diffusion models, and autoregressive models, attracting PhD students and researchers."  # official description :contentReference[oaicite:9]{index=9}
+  image: null
+  location:
+    latitude: 51.5072
+    longitude: -0.1276
+  series: "Generative Modeling Summer School"
 
 - title: "NeuMat Winter School"
   year: 2026
