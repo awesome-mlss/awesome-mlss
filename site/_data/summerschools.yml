@@ -1,3 +1,25 @@
+- title: "Machine Learning Summer School on Reliability & Safety"
+  year: 2026
+  id: mlss-rs26
+  full_name: "Machine Learning Summer School on Reliability & Safety 2026 (MLSS^R&S 2026)"
+  link: "https://mlss2026.mlinpl.org"
+  deadline: "2026-03-08 23:59:59"
+  timezone: "Europe/London"
+  place: "Krakow, Poland"
+  date: "June 29 - July 03, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['ML', 'ML4Science', 'KR', 'RAI']
+  note: "Early bird registration until 8th March 2026"
+  twitter: "https://x.com/MLinPL"
+  email: "mlss@mlinpl.org"
+  description: "Machine Learning Summer School on Reliability & Safety (MLSSR&S 2026) is a five-day summer school dedicated to selected topics in machine learning, with a focus on AI safety, reliability and robustness of machine learning systems. The school is organised as an intensive academic programme built around invited lectures delivered by a carefully selected group of researchers from academia and industry, whose work has significantly contributed to the development of the field. Speakers are actively involved in current research and are invited based on their scientific contributions and expertise. The school is co-organised by Jagiellonian University, GMUM – Group of Machine Learning Research, ML in PL, IDEAS Research Institute and ELLIS Unit Warsaw."
+  image: "https://mlss2026.mlinpl.org/images/mlss-2026.png"
+  location:
+    latitude: 50.060931
+    longitude: 19.932782
+  series: "Machine Learning Summer Schools in Krakow"
+
 - title: "BMVA Computer Vision Summer School"
   year: 2026
   id: bmva-cvss26
