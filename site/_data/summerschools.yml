@@ -10,11 +10,11 @@
   start: 2026-06-03
   end: 2026-06-12
   sub: ['RL', 'ML']
-  note: ""
-  twitter: ""
+  note: null
+  twitter: "https://x.com/RLSummerSchool"
   email: "info@rlsummerschool.com"
   description: "RLSS is returning to Milan in 2026 from June 3rd to 12th! This edition of RLSS brings together researchers and students to explore the foundations and latest frontiers of RL in an intensive and in-person format."
-  image: ""
+  image: null
   location:
     latitude: 45.478065
     longitude: 9.227077
