@@ -1,3 +1,87 @@
+- title: "IAISS 2026 – International Artificial Intelligence Summer School"
+  year: 2026
+  id: iaiss_2026
+  full_name: "International Artificial Intelligence Summer School – IAISS 2026"
+  link: "https://2026.iaiss.cc/"
+  deadline: "2026-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Castiglione della Pescaia, Tuscany, Italy"
+  date: "20 - 24 September, 2026"
+  start: 2026-09-20
+  end: 2026-09-24
+  sub: ["ML", "GenAI", "RL"]
+  note: "Five-day residential summer school on artificial intelligence and generative AI with lectures by invited experts and research presentations by participants."
+  email: "iaiss@icas.cc"
+  description: "IAISS 2026 is a residential summer school covering modern AI topics including generative AI, reinforcement learning, and machine learning methods."
+  image: null
+  location:
+    latitude: 42.7637
+    longitude: 10.8753
+  series: "International Artificial Intelligence Summer School"
+
+- title: "ProbAI School 2026"
+  year: 2026
+  id: probai_2026
+  full_name: "Probabilistic AI School 2026"
+  link: "https://probai.school/"
+  deadline: "2026-03-31 23:59:59"
+  timezone: "Europe/Vilnius"
+  place: "Vilnius, Lithuania"
+  date: "3 - 7 August, 2026"
+  start: 2026-08-03
+  end: 2026-08-07
+  sub: ["ML", "Theory"]
+  note: "Eighth edition of the Probabilistic AI School featuring lectures and tutorials on probabilistic machine learning."
+  email: null
+  description: "ProbAI School 2026 provides training in probabilistic modeling, variational inference, and generative modeling techniques."
+  image: null
+  location:
+    latitude: 54.6872
+    longitude: 25.2797
+  series: "ProbAI School"
+
+- title: "ACVSS 2026 – African Computer Vision Summer School"
+  year: 2026
+  id: acvss_2026
+  full_name: "African Computer Vision Summer School 2026"
+  link: "https://www.acvss.ai/"
+  deadline: "2026-03-08 23:59:59"
+  timezone: "Etc/UTC"
+  place: "Accra, Ghana"
+  date: "19 - 29 July, 2026"
+  start: 2026-07-19
+  end: 2026-07-29
+  sub: ["CV", "ML"]
+  note: "Ten-day summer school hosted at the Google AI Community Center in Accra bringing together African students and international researchers in computer vision."
+  email: null
+  description: "ACVSS 2026 includes lectures, keynotes, practical sessions, and a hackathon focusing on computer vision, deep learning, and responsible AI."
+  image: null
+  location:
+    latitude: 5.5593
+    longitude: -0.1974
+  series: "African Computer Vision Summer School"
+
+- title: "MLSS R&S 2026 – Machine Learning Summer School on Reliability & Safety"
+  year: 2026
+  id: mlss_rs_2026
+  full_name: "Machine Learning Summer School on Reliability & Safety 2026"
+  link: "https://mlss2026.mlinpl.org/"
+  deadline: "2026-04-19 23:59:59"
+  timezone: "Europe/Warsaw"
+  place: "Kraków, Poland"
+  date: "29 June - 3 July, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ["ML", "RAI", "Theory"]
+  note: "Five-day summer school dedicated to reliability, robustness, and safety of machine learning systems."
+  email: "mlss@mlinpl.org"
+  description: "MLSS R&S 2026 is an intensive academic program featuring invited lectures from leading researchers on AI safety, reliability, and trustworthy machine learning."
+  image: null
+  location:
+    latitude: 50.0647
+    longitude: 19.9450
+  series: "Machine Learning Summer School"
+
 - title: "BMVA Computer Vision Summer School"
   year: 2026
   id: bmva-cvss26
