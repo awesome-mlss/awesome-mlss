@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
-# Use Jekyll 3.9.x (same major/minor version GitHub Pages uses, 
-# but without disabling custom plugins)
-gem "jekyll", "~> 3.9.2"
+# Jekyll 3.9.3+ shims tainted?/untaint for Ruby 3.2+ compatibility
+gem "jekyll", "~> 3.9.5"
 
 # For local testing of links, images, etc.
 gem 'html-proofer'
@@ -17,14 +16,10 @@ gem 'base64'
 gem 'bigdecimal'
 
 group :jekyll_plugins do
-  # DataPage Generator to create pages from .yml data
   gem "jekyll-datapage-generator"
-
-  # Additional Jekyll plugins you were using:
   gem 'jekyll-seo-tag'
   gem 'jekyll-maps'
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
-
   gem 'kramdown-parser-gfm'
 end
