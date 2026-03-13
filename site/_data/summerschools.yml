@@ -1,3 +1,24 @@
+- title: "Reinforcement Learning Summer School"
+  year: 2026
+  id: rlss2026
+  full_name: "Reinforcement Learning Summer School (RLSS) 2026"
+  link: "https://rlsummerschool.com"
+  deadline: "2026-03-27 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Milan, Italy, IT"
+  date: "June 3 - June 12, 2026"
+  start: 2026-06-03
+  end: 2026-06-12
+  sub: ['RL', 'ML']
+  note: null
+  twitter: "https://x.com/RLSummerSchool"
+  email: "info@rlsummerschool.com"
+  description: "RLSS is returning to Milan in 2026 from June 3rd to 12th! This edition of RLSS brings together researchers and students to explore the foundations and latest frontiers of RL in an intensive and in-person format."
+  image: null
+  location:
+    latitude: 45.478065
+    longitude: 9.227077
+  series: "RLSS Reinforcement Learning Summer School"
 - title: "School on Analytical Connectionism"
   year: 2026
   id: ac26
