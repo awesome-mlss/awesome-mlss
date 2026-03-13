@@ -10,6 +10,12 @@ gem 'html-proofer'
 # So you can run `jekyll serve` without issues on Ruby 3.x
 gem "webrick", "~> 1.7"
 
+# Ruby 3.4+ removed these from the standard library;
+# Jekyll 3.9.x needs them but doesn't declare them as dependencies
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+
 group :jekyll_plugins do
   # DataPage Generator to create pages from .yml data
   gem "jekyll-datapage-generator"
