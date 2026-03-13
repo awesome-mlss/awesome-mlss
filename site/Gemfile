@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
-# Use Jekyll 3.9.x (same major/minor version GitHub Pages uses, 
-# but without disabling custom plugins)
-gem "jekyll", "~> 3.9.2"
+# Jekyll 3.9.3+ shims tainted?/untaint for Ruby 3.2+ compatibility
+gem "jekyll", "~> 3.9.5"
 
 # For local testing of links, images, etc.
 gem 'html-proofer'
@@ -10,15 +9,17 @@ gem 'html-proofer'
 # So you can run `jekyll serve` without issues on Ruby 3.x
 gem "webrick", "~> 1.7"
 
-group :jekyll_plugins do
-  # DataPage Generator to create pages from .yml data
-  gem "jekyll-datapage-generator"
+# Ruby 3.4+ removed these from the standard library;
+# Jekyll 3.9.x needs them but doesn't declare them as dependencies
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
 
-  # Additional Jekyll plugins you were using:
+group :jekyll_plugins do
+  gem "jekyll-datapage-generator"
   gem 'jekyll-seo-tag'
   gem 'jekyll-maps'
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
-
   gem 'kramdown-parser-gfm'
 end
