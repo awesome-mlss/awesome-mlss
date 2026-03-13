@@ -12,6 +12,151 @@
   sub: ['GenAI', 'NLP']
   note: "Rolling review. Application deadline: until all seats are filled. Hybrid: In-person & Online. Fee to attend."
   description: "This summer school explores the modern AI stack from classic NLP foundations to large language models (LLMs) and agentic AI focusing on how these pieces fit together to build reliable, real-world systems. "
+- title: "IAISS 2026 – International Artificial Intelligence Summer School"
+  year: 2026
+  id: iaiss_2026
+  full_name: "International Artificial Intelligence Summer School – IAISS 2026"
+  link: "https://2026.iaiss.cc/"
+  deadline: "2026-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Castiglione della Pescaia, Tuscany, Italy"
+  date: "20 - 24 September, 2026"
+  start: 2026-09-20
+  end: 2026-09-24
+  sub: ["ML", "GenAI", "RL"]
+  note: "Five-day residential summer school on artificial intelligence and generative AI with lectures by invited experts and research presentations by participants."
+  email: "iaiss@icas.cc"
+  description: "IAISS 2026 is a residential summer school covering modern AI topics including generative AI, reinforcement learning, and machine learning methods."
+  image: null
+  location:
+    latitude: 42.7637
+    longitude: 10.8753
+  series: "International Artificial Intelligence Summer School"
+
+- title: "ProbAI School 2026"
+  year: 2026
+  id: probai_2026
+  full_name: "Probabilistic AI School 2026"
+  link: "https://probai.school/"
+  deadline: "2026-03-31 23:59:59"
+  timezone: "Europe/Vilnius"
+  place: "Vilnius, Lithuania"
+  date: "3 - 7 August, 2026"
+  start: 2026-08-03
+  end: 2026-08-07
+  sub: ["ML", "Theory"]
+  note: "Eighth edition of the Probabilistic AI School featuring lectures and tutorials on probabilistic machine learning."
+  email: null
+  description: "ProbAI School 2026 provides training in probabilistic modeling, variational inference, and generative modeling techniques."
+  image: null
+  location:
+    latitude: 54.6872
+    longitude: 25.2797
+  series: "ProbAI School"
+
+- title: "ACVSS 2026 – African Computer Vision Summer School"
+  year: 2026
+  id: acvss_2026
+  full_name: "African Computer Vision Summer School 2026"
+  link: "https://www.acvss.ai/"
+  deadline: "2026-03-08 23:59:59"
+  timezone: "Etc/UTC"
+  place: "Accra, Ghana"
+  date: "19 - 29 July, 2026"
+  start: 2026-07-19
+  end: 2026-07-29
+  sub: ["CV", "ML"]
+  note: "Ten-day summer school hosted at the Google AI Community Center in Accra bringing together African students and international researchers in computer vision."
+  email: null
+  description: "ACVSS 2026 includes lectures, keynotes, practical sessions, and a hackathon focusing on computer vision, deep learning, and responsible AI."
+  image: null
+  location:
+    latitude: 5.5593
+    longitude: -0.1974
+  series: "African Computer Vision Summer School"
+
+- title: "MLSS R&S 2026 – Machine Learning Summer School on Reliability & Safety"
+  year: 2026
+  id: mlss_rs_2026
+  full_name: "Machine Learning Summer School on Reliability & Safety 2026"
+  link: "https://mlss2026.mlinpl.org/"
+  deadline: "2026-04-19 23:59:59"
+  timezone: "Europe/Warsaw"
+  place: "Kraków, Poland"
+  date: "29 June - 3 July, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ["ML", "RAI", "Theory"]
+  note: "Five-day summer school dedicated to reliability, robustness, and safety of machine learning systems."
+  email: "mlss@mlinpl.org"
+  description: "MLSS R&S 2026 is an intensive academic program featuring invited lectures from leading researchers on AI safety, reliability, and trustworthy machine learning."
+  image: null
+  location:
+    latitude: 50.0647
+    longitude: 19.9450
+  series: "Machine Learning Summer School"
+- title: "Machine Learning Summer School on Reliability & Safety"
+  year: 2026
+  id: mlss-rs26
+  full_name: "Machine Learning Summer School on Reliability & Safety 2026 (MLSS^R&S 2026)"
+  link: "https://mlss2026.mlinpl.org"
+  deadline: "2026-03-08 23:59:59"
+  timezone: "Europe/London"
+  place: "Krakow, Poland"
+  date: "June 29 - July 03, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['ML', 'ML4Science', 'KR', 'RAI']
+  note: "Early bird registration until 8th March 2026"
+  twitter: "https://x.com/MLinPL"
+  email: "mlss@mlinpl.org"
+  description: "Machine Learning Summer School on Reliability & Safety (MLSSR&S 2026) is a five-day summer school dedicated to selected topics in machine learning, with a focus on AI safety, reliability and robustness of machine learning systems. The school is organised as an intensive academic programme built around invited lectures delivered by a carefully selected group of researchers from academia and industry, whose work has significantly contributed to the development of the field. Speakers are actively involved in current research and are invited based on their scientific contributions and expertise. The school is co-organised by Jagiellonian University, GMUM – Group of Machine Learning Research, ML in PL, IDEAS Research Institute and ELLIS Unit Warsaw."
+  image: "https://mlss2026.mlinpl.org/images/mlss-2026.png"
+  location:
+    latitude: 50.060931
+    longitude: 19.932782
+  series: "Machine Learning Summer Schools in Krakow"
+- title: "Reinforcement Learning Summer School"
+  year: 2026
+  id: rlss2026
+  full_name: "Reinforcement Learning Summer School (RLSS) 2026"
+  link: "https://rlsummerschool.com"
+  deadline: "2026-03-27 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Milan, Italy, IT"
+  date: "June 3 - June 12, 2026"
+  start: 2026-06-03
+  end: 2026-06-12
+  sub: ['RL', 'ML']
+  note: null
+  twitter: "https://x.com/RLSummerSchool"
+  email: "info@rlsummerschool.com"
+  description: "RLSS is returning to Milan in 2026 from June 3rd to 12th! This edition of RLSS brings together researchers and students to explore the foundations and latest frontiers of RL in an intensive and in-person format."
+  image: null
+  location:
+    latitude: 45.478065
+    longitude: 9.227077
+  series: "RLSS Reinforcement Learning Summer School"
+- title: "School on Analytical Connectionism"
+  year: 2026
+  id: ac26
+  full_name: "2026 School on Analytical Connectionism"
+  link: "https://www.analytical-connectionism.net/school/2026/"
+  deadline: "2026-04-17 23:59:00"
+  timezone: "Etc/GMT-12"
+  place: "Gothenburg, Sweden"
+  date: "August 17 - 28, 2026"
+  start: 2026-08-17
+  end: 2026-08-28
+  sub: ['Theory', 'CogSci']
+  note: "Acceptance notification: May 24th, 2026. In-person only; no streaming. Travel scholarships available for 25% of participants."
+  email: "analytical-connectionism@googlegroups.com"
+  image: "https://www.analytical-connectionism.net/assets/images/sponsors/chair.png"
+  description: "Analytical Connectionism is a 2-week summer course on analytical tools, including methods from statistical physics and probability theory, for probing neural networks and higher-level cognition. The course brings together neuroscience, psychology and machine-learning communities, and introduces attendees to analytical methods for neural-network analysis and connectionist theories of higher-level cognition and psychology."
+  location:
+    latitude: 57.688333
+    longitude: 11.976667
+
 - title: "BMVA Computer Vision Summer School"
   year: 2026
   id: bmva-cvss26
