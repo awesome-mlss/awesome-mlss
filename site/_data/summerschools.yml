@@ -19,6 +19,25 @@
     latitude: 45.478065
     longitude: 9.227077
   series: "RLSS Reinforcement Learning Summer School"
+- title: "School on Analytical Connectionism"
+  year: 2026
+  id: ac26
+  full_name: "2026 School on Analytical Connectionism"
+  link: "https://www.analytical-connectionism.net/school/2026/"
+  deadline: "2026-04-17 23:59:00"
+  timezone: "Etc/GMT-12"
+  place: "Gothenburg, Sweden"
+  date: "August 17 - 28, 2026"
+  start: 2026-08-17
+  end: 2026-08-28
+  sub: ['Theory', 'CogSci']
+  note: "Acceptance notification: May 24th, 2026. In-person only; no streaming. Travel scholarships available for 25% of participants."
+  email: "analytical-connectionism@googlegroups.com"
+  image: "https://www.analytical-connectionism.net/assets/images/sponsors/chair.png"
+  description: "Analytical Connectionism is a 2-week summer course on analytical tools, including methods from statistical physics and probability theory, for probing neural networks and higher-level cognition. The course brings together neuroscience, psychology and machine-learning communities, and introduces attendees to analytical methods for neural-network analysis and connectionist theories of higher-level cognition and psychology."
+  location:
+    latitude: 57.688333
+    longitude: 11.976667
 
 - title: "BMVA Computer Vision Summer School"
   year: 2026
