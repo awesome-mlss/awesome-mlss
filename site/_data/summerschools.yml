@@ -1671,3 +1671,82 @@
   start: 2025-07-02
   end: 2025-07-14
   sub: ['ML', 'CV', 'NLP', 'KR', 'GenAI', 'Theory', 'Log', 'EML', 'RL']
+
+- title: "Statistics and Learning Theory Summer School"
+  year: 2026
+  id: slt2026
+  full_name: "Summer School on Statistics and Learning Theory"
+  link: "https://armxss.com/slt2026/"
+  deadline: "2026-06-15 23:59:00"
+  timezone: "UTC"
+  place: "Aghveran, Armenia"
+  date: "July 12 - July 19, 2026"
+  start: 2026-07-12
+  end: 2026-07-19
+  sub: ['ML', 'Theory']
+  email: "mathschool@ysu.am"
+  description: "The Faculty of Mathematics and Mechanics of Yerevan State University, in collaboration with ENSAE Paris, organizes a Summer School on Statistics and Learning Theory. The target audience includes undergraduate seniors, Master and PhD students, researchers, and industry professionals interested in Probability, Statistics, Machine Learning and applications. Lectures are in English."
+
+- title: "LMH Oxford: AI and Machine Learning - Theory and Practice"
+  year: 2026
+  id: lmh_aiml_tp26
+  full_name: "Artificial Intelligence and Machine Learning: Theory and Practice"
+  link: "https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning-theory-and-practice"
+  deadline: "2026-05-04 23:59:00"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "June 29 - July 17, 2026"
+  start: 2026-06-29
+  end: 2026-07-17
+  sub: ['ML', 'CV', 'NLP']
+  note: "Also offered in Session 2 (Jul 20 - Aug 7) and Session 3 (Aug 10 - Aug 28). Available as residential or online. Rolling admissions."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "An intensive hands-on program for STEM students introducing AI and Machine Learning, covering Python, supervised learning, neural networks, CNNs, image processing, NLP, and Google Cloud deployment."
+
+- title: "LMH Oxford: Advanced AI - Generative AI and Deep Unsupervised Learning"
+  year: 2026
+  id: lmh_genai26
+  full_name: "Advanced Artificial Intelligence and Machine Learning: Generative AI and Deep Unsupervised Learning"
+  link: "https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-genai-deep-unsupervised-learning"
+  deadline: "2026-05-04 23:59:00"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "June 29 - July 17, 2026"
+  start: 2026-06-29
+  end: 2026-07-17
+  sub: ['ML', 'GenAI']
+  note: "Available as residential or online. Rolling admissions."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "An intensive program combining theoretical understanding and practical experience in deep unsupervised learning, covering GANs, self-supervised learning, anomaly detection, flow-based models, and energy-based models."
+
+- title: "LMH Oxford: Advanced AI - Computer Vision"
+  year: 2026
+  id: lmh_cv26
+  full_name: "Advanced Artificial Intelligence and Machine Learning: Computer Vision"
+  link: "https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-computer-vision"
+  deadline: "2026-05-04 23:59:00"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "July 20 - August 7, 2026"
+  start: 2026-07-20
+  end: 2026-08-07
+  sub: ['ML', 'CV', 'GenAI']
+  note: "Available as residential or online. Rolling admissions."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "An advanced course covering computer vision algorithms for classification, recognition, and detection, plus autoencoders, GANs, diffusion models, vision transformers, and text-to-image generation."
+
+- title: "LMH Oxford: Advanced AI - NLP and Large Language Models"
+  year: 2026
+  id: lmh_nlp26
+  full_name: "Advanced Artificial Intelligence and Machine Learning: Large Language Models and Natural Language Processing"
+  link: "https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-large-language-models-and-natural-language"
+  deadline: "2026-05-04 23:59:00"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 10 - August 28, 2026"
+  start: 2026-08-10
+  end: 2026-08-28
+  sub: ['ML', 'NLP', 'GenAI']
+  note: "Available as residential or online. Rolling admissions."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "An advanced course covering attention mechanisms, transformers, large language models, prompting, RLHF, and NLP applications including question answering, translation, and code generation."
