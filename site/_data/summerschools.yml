@@ -1,3 +1,20 @@
+- title: Summer School on AI and Big Data
+  year: 2026
+  id: ssaibd2026
+  full_name: 12th International Summer School on AI and Big Data
+  link: https://scads.ai/event/summer-schools/summer-school-2026/
+  deadline: 2026-06-14
+  timezone: Europe/Berlin
+  place: "Leipzig, Germany"
+  date: "June 22 - June 26, 2026"
+  start: 2024-06-22
+  end: 2024-06-26
+  sub: ['ML', 'GenAI']
+  series: "International Summer School on AI and Big Data"
+  description: "The theme is Neuro+Symbolic AI, focusing on an emerging paradigm that combines the strengths of neural learning and symbolic reasoning, augmented with foundations in each of these."
+  location:
+    latitude: 51.34 
+    longitude: 12.375
 - title: Generative AI Summer School
   year: 2026
   id: gai2026
