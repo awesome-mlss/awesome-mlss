@@ -1,188 +1,298 @@
+"""Regenerate the upcoming-schools region of README.md.
+
+The renderer looks at ``site/_data/summerschools.yml`` and, given a reference
+``today``, writes two Markdown tables into README.md between the marker lines
+``<!-- UPCOMING:START -->`` and ``<!-- UPCOMING:END -->``:
+
+* Deadlines Soon: entries whose ``deadline`` falls in ``[today, today+14]``.
+* Happening Soon: entries whose ``start`` falls in ``[today, today+14]``.
+
+Both tables are strictly time-ordered (soonest first). ``featured: true`` still
+renders an inline badge on the Title cell but does not influence sort order.
+
+Run from the repo root::
+
+    python scripts/update_readme.py
+"""
+
+from __future__ import annotations
+
+import datetime
+import sys
+from pathlib import Path
+from typing import Iterable, List, Mapping, Optional, Sequence, Tuple
+
 import yaml
-import re
-from dateutil.parser import parse  # pip install python-dateutil
+from dateutil.parser import parse as _dateutil_parse
 
 SUMMERSCHOOLS_YML_PATH = "site/_data/summerschools.yml"
 TYPES_YML_PATH = "site/_data/types.yml"
 README_PATH = "README.md"
 
+START_MARKER = "<!-- UPCOMING:START -->"
+END_MARKER = "<!-- UPCOMING:END -->"
 
-def parse_summerschools():
-    """Load all summer schools from the YAML file."""
-    with open(SUMMERSCHOOLS_YML_PATH, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-    return data
+FEATURED_BADGE_URL = "https://img.shields.io/badge/featured-blue?style=plastic"
+DETAILS_URL_TEMPLATE = "https://awesome-mlss.com/summerschool/{id}"
+FALLBACK_MESSAGE = (
+    "*No schools currently match this window. "
+    "See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*"
+)
 
 
-def parse_types():
-    """
-    Load the short-code to name mappings from site/_data/types.yml.
-    """
-    with open(TYPES_YML_PATH, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
+# ---------------------------------------------------------------------------
+# Loading
+# ---------------------------------------------------------------------------
 
-    sub_map = {}
-    for item in data:
+
+def load(
+    summerschools_path: str = SUMMERSCHOOLS_YML_PATH,
+    types_path: str = TYPES_YML_PATH,
+) -> Tuple[List[dict], dict]:
+    """Load schools and topic-code -> display-name map from YAML."""
+    with open(summerschools_path, "r", encoding="utf-8") as f:
+        schools = yaml.safe_load(f) or []
+
+    with open(types_path, "r", encoding="utf-8") as f:
+        types_raw = yaml.safe_load(f) or []
+
+    types_map = {}
+    for item in types_raw:
         sub_code = item.get("sub")
         name = item.get("name", "")
         if sub_code:
-            sub_map[sub_code] = name
+            types_map[sub_code] = name
 
-    return sub_map
+    return schools, types_map
 
 
-def sort_summerschools_for_year(summerschools, year=2025):
+# ---------------------------------------------------------------------------
+# Date parsing helpers
+# ---------------------------------------------------------------------------
+
+
+def _coerce_to_date(value) -> Optional[datetime.date]:
+    """Best-effort convert a YAML value to ``datetime.date``.
+
+    Returns ``None`` when the input is missing or unparseable. YAML-native
+    date/datetime values pass through directly; strings are parsed with
+    python-dateutil.
     """
-    Filter out just the summerschools for the given year, then sort them:
-      1) Featured schools first
-      2) Within each group (featured/non-featured), sort:
-         - Descending by start date
-         - If start is the same, descending by end date
+    if value is None:
+        return None
+    if isinstance(value, datetime.datetime):
+        return value.date()
+    if isinstance(value, datetime.date):
+        return value
+    if isinstance(value, str):
+        stripped = value.strip()
+        if not stripped:
+            return None
+        try:
+            return _dateutil_parse(stripped).date()
+        except (ValueError, TypeError, OverflowError):
+            return None
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Filtering
+# ---------------------------------------------------------------------------
+
+
+def filter_and_sort(
+    schools: Sequence[dict],
+    today: datetime.date,
+    window_days: int = 14,
+) -> Tuple[List[dict], List[dict]]:
+    """Return ``(deadlines_soon, happening_soon)`` given a reference ``today``.
+
+    Both lists contain the original school dicts, untouched, strictly sorted
+    ascending by the relevant date field (soonest first). Entries with missing
+    or unparseable date fields are silently skipped from that list.
     """
-    # First, filter for the given year
-    filtered = [s for s in summerschools if s.get("year") == year]
-    
-    # Separate into featured and non-featured groups
-    featured = [s for s in filtered if s.get("featured", False)]
-    non_featured = [s for s in filtered if not s.get("featured", False)]
-    
-    # Sort function to be used for both groups
-    def sort_by_dates(schools):
-        return sorted(
-            schools,
-            key=lambda x: (x.get("start", ""), x.get("end", "")),
-            reverse=True
-        )
-    
-    # Sort each group independently
-    sorted_featured = sort_by_dates(featured)
-    sorted_non_featured = sort_by_dates(non_featured)
-    
-    # Combine the groups: featured first, then non-featured
-    return sorted_featured + sorted_non_featured
+    window_end = today + datetime.timedelta(days=window_days)
 
+    deadlines_soon: List[Tuple[datetime.date, int, dict]] = []
+    happening_soon: List[Tuple[datetime.date, int, dict]] = []
 
-def format_date_abbr(date_str):
-    """
-    Parse a date string and return an abbreviated string, e.g. "Jan 09, 2025".
-    If parsing fails, return the original string.
-    """
-    try:
-        dt = parse(date_str)
-        return dt.strftime("%b %d, %Y")  # e.g. "Jan 09, 2025"
-    except Exception:
-        return date_str  # fallback
+    for idx, school in enumerate(schools):
+        deadline = _coerce_to_date(school.get("deadline"))
+        if deadline is not None and today <= deadline <= window_end:
+            deadlines_soon.append((deadline, idx, school))
 
+        start = _coerce_to_date(school.get("start"))
+        if start is not None and today <= start <= window_end:
+            happening_soon.append((start, idx, school))
 
-def format_date_range_abbr(start_str, end_str):
-    """
-    Given two ISO-like date strings:
-      - start_str -> displayed as "Jan 09"
-      - end_str   -> displayed as "Jan 13, 2025"
-    So the final combined string is "Jan 09 - Jan 13, 2025".
+    # Stable sort: primary key is the date, tiebreaker is the YAML order index
+    # so that two entries with an identical date stay in file order.
+    deadlines_soon.sort(key=lambda t: (t[0], t[1]))
+    happening_soon.sort(key=lambda t: (t[0], t[1]))
 
-    If parsing fails, returns raw strings joined by a hyphen.
-    """
-    try:
-        # e.g., "Jan 09"
-        start_fmt = start_str.strftime("%b %d")
-        # e.g., "Jan 13, 2025"
-        end_fmt   = end_str.strftime("%b %d, %Y")
-
-        return f"{start_fmt} - {end_fmt}"
-    except Exception:
-        return f"{start_str} - {end_str}"
-
-
-def generate_markdown_table(summerschools, types_map, year=2025):
-    """
-    Creates a Markdown table for a specific year, with columns:
-      Title | Topics | Place | Deadline | Dates | Details
-
-    - 'Topics' is populated by looking up each code in 'sub' from the types_map dictionary.
-    - 'Deadline' is parsed and abbreviated (e.g., "Mar 23, 2025").
-    - 'Dates' is start-end in the format "Jan 09 - Jan 13, 2025".
-    - The Details column links to https://awesome-mlss.com/summerschool/{id}.
-    """
-    filtered_sorted = sort_summerschools_for_year(summerschools, year=year)
-
-    # Table header
-    md_lines = [
-        "Title|Topics|Place|Deadline|Dates|Details",
-        "-----|------|-----|--------|-----|-------"
-    ]
-
-    for sch in filtered_sorted:
-        title = sch.get("title", "")
-        # Add featured tag if school is featured
-        if sch.get("featured", False):
-            badge_url="https://img.shields.io/badge/featured-blue?style=plastic"
-            title = f'{title} <img src="{badge_url}" alt="featured" width="50" />'
-        place = sch.get("place", "")
-
-        # Format deadline
-        deadline_raw = sch.get("deadline", "")
-        school_id = sch.get("id", "")
-        deadline_link = f"https://awesome-mlss.com/summerschool/{school_id}"
-        deadline_str = format_date_abbr(deadline_raw)  # e.g. "Mar 23, 2025"
-        deadline_str = f"{deadline_str} <br>⏰ [Add to Calendar]({deadline_link})"
-
-        # Format start/end
-        start_raw = sch.get("start", "")
-        end_raw   = sch.get("end", "")
-        dates_str = format_date_range_abbr(start_raw, end_raw)
-        # e.g. "Jan 09 - Jan 13, 2025"
-
-        # Topics
-        sub_codes = sch.get("sub", [])
-        topics_list = [types_map.get(code, code) for code in sub_codes]
-        topics_str = ", ".join(topics_list)
-
-        # Details link
-        details_link = f"https://awesome-mlss.com/summerschool/{school_id}"
-
-        # Build row
-        line = f"{title}|{topics_str}|{place}|{deadline_str}|{dates_str}|[Details]({details_link})"
-        md_lines.append(line)
-
-    return "\n".join(md_lines)
-
-
-def replace_section_in_readme(readme_text, new_markdown, year=2025):
-    """
-    Finds a section in the README that starts with '## {year} Summer Schools'
-    and updates everything until the next '## ' or end of file.
-    """
-    pattern = re.compile(
-        rf"(##\s+{year} Summer Schools)(.*?)(?=##\s|\Z)",
-        re.DOTALL
+    return (
+        [s for _, _, s in deadlines_soon],
+        [s for _, _, s in happening_soon],
     )
-    new_section = f"## {year} Summer Schools\n{new_markdown}\n\n"
-    updated_readme = re.sub(pattern, new_section, readme_text)
-    return updated_readme
 
 
-def main():
-    # 1. Parse all summer schools
-    summerschools = parse_summerschools()
+# ---------------------------------------------------------------------------
+# Rendering
+# ---------------------------------------------------------------------------
 
-    # 2. Parse topic codes
-    types_map = parse_types()
 
-    # 3. Generate the new table
-    new_markdown_table = generate_markdown_table(summerschools, types_map, year=2025)
+def _format_deadline_cell(school: dict) -> str:
+    deadline = _coerce_to_date(school.get("deadline"))
+    if deadline is None:
+        deadline_str = str(school.get("deadline", ""))
+    else:
+        deadline_str = deadline.strftime("%b %d, %Y")
+    school_id = school.get("id", "")
+    calendar_link = DETAILS_URL_TEMPLATE.format(id=school_id)
+    return f"{deadline_str} <br>\u23f0 [Add to Calendar]({calendar_link})"
 
-    # 4. Load existing README
-    with open(README_PATH, "r", encoding="utf-8") as f:
-        readme_text = f.read()
 
-    # 5. Replace old section with new table
-    updated_readme = replace_section_in_readme(readme_text, new_markdown_table, 2025)
+def _format_date_range(school: dict) -> str:
+    start = _coerce_to_date(school.get("start"))
+    end = _coerce_to_date(school.get("end"))
+    if start is not None and end is not None:
+        return f"{start.strftime('%b %d')} - {end.strftime('%b %d, %Y')}"
+    # Fallback: best-effort string join.
+    return f"{school.get('start', '')} - {school.get('end', '')}"
 
-    # 6. Overwrite if there's a change
-    if updated_readme != readme_text:
-        with open(README_PATH, "w", encoding="utf-8") as f:
-            f.write(updated_readme)
+
+def _format_title(school: dict) -> str:
+    title = school.get("title", "")
+    if school.get("featured", False):
+        badge = (
+            f'<img src="{FEATURED_BADGE_URL}" alt="featured" width="50" />'
+        )
+        title = f"{title} {badge}"
+    return title
+
+
+def _format_topics(school: dict, types_map: Mapping[str, str]) -> str:
+    sub_codes = school.get("sub", []) or []
+    return ", ".join(types_map.get(code, code) for code in sub_codes)
+
+
+def _render_table(
+    schools: Iterable[dict],
+    types_map: Mapping[str, str],
+) -> str:
+    rows = [
+        "Title|Topics|Place|Deadline|Dates|Details",
+        "-----|------|-----|--------|-----|-------",
+    ]
+    for school in schools:
+        title = _format_title(school)
+        topics = _format_topics(school, types_map)
+        place = school.get("place", "")
+        deadline_cell = _format_deadline_cell(school)
+        dates_cell = _format_date_range(school)
+        details_link = DETAILS_URL_TEMPLATE.format(id=school.get("id", ""))
+        rows.append(
+            f"{title}|{topics}|{place}|{deadline_cell}|{dates_cell}|"
+            f"[Details]({details_link})"
+        )
+    return "\n".join(rows)
+
+
+def render(
+    deadlines: Sequence[dict],
+    happening: Sequence[dict],
+    types_map: Mapping[str, str],
+) -> str:
+    """Return the full Markdown block between (and including) the markers."""
+    deadlines_body = (
+        _render_table(deadlines, types_map) if deadlines else FALLBACK_MESSAGE
+    )
+    happening_body = (
+        _render_table(happening, types_map) if happening else FALLBACK_MESSAGE
+    )
+
+    return (
+        f"{START_MARKER}\n"
+        "## Upcoming Summer Schools\n"
+        "\n"
+        "For the full list of schools worldwide, visit "
+        "[awesome-mlss.com](https://awesome-mlss.com/).\n"
+        "\n"
+        "### Deadlines Soon\n"
+        "Schools with application deadlines in the next 2 weeks.\n"
+        "\n"
+        f"{deadlines_body}\n"
+        "\n"
+        "### Happening Soon\n"
+        "Schools starting in the next 2 weeks.\n"
+        "\n"
+        f"{happening_body}\n"
+        f"{END_MARKER}"
+    )
+
+
+# ---------------------------------------------------------------------------
+# README rewrite
+# ---------------------------------------------------------------------------
+
+
+def _rewrite_readme(readme_text: str, block: str) -> str:
+    """Replace the region between START_MARKER and END_MARKER (inclusive)."""
+    lines = readme_text.splitlines(keepends=False)
+    start_idx = _find_marker_line(lines, START_MARKER)
+    end_idx = _find_marker_line(lines, END_MARKER)
+
+    if start_idx is None or end_idx is None:
+        missing = []
+        if start_idx is None:
+            missing.append(START_MARKER)
+        if end_idx is None:
+            missing.append(END_MARKER)
+        raise RuntimeError(
+            f"Could not find required marker(s) in README: {', '.join(missing)}"
+        )
+
+    if end_idx < start_idx:
+        raise RuntimeError(
+            f"Marker order is wrong in README: {END_MARKER} appears before "
+            f"{START_MARKER}."
+        )
+
+    new_lines = lines[:start_idx] + block.splitlines() + lines[end_idx + 1 :]
+    trailing_newline = "\n" if readme_text.endswith("\n") else ""
+    return "\n".join(new_lines) + trailing_newline
+
+
+def _find_marker_line(lines: Sequence[str], marker: str) -> Optional[int]:
+    for i, line in enumerate(lines):
+        if line.strip() == marker:
+            return i
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Entry point
+# ---------------------------------------------------------------------------
+
+
+def main(today: Optional[datetime.date] = None) -> None:
+    if today is None:
+        today = datetime.date.today()
+
+    schools, types_map = load(SUMMERSCHOOLS_YML_PATH, TYPES_YML_PATH)
+    deadlines, happening = filter_and_sort(schools, today)
+    block = render(deadlines, happening, types_map)
+
+    readme_path = Path(README_PATH)
+    original = readme_path.read_text(encoding="utf-8")
+    try:
+        updated = _rewrite_readme(original, block)
+    except RuntimeError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    if updated != original:
+        readme_path.write_text(updated, encoding="utf-8")
         print("README.md updated successfully.")
     else:
         print("No changes to README.md.")

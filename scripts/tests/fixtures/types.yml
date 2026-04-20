@@ -1,0 +1,16 @@
+---
+- color: '#ffd300'
+  name: Machine Learning
+  sub: ML
+- color: '#ff0000'
+  name: Generative AI
+  sub: GenAI
+- color: '#deff0a'
+  name: Computer Vision
+  sub: CV
+- color: '#91d99b'
+  name: Reinforcement Learning
+  sub: RL
+- color: '#147df5'
+  name: Natural Language Proc
+  sub: NLP

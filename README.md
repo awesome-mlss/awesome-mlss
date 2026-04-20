@@ -33,7 +33,13 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+IAISS 2026 – International Artificial Intelligence Summer School|Machine Learning, Generative AI, Reinforcement Learning|Castiglione della Pescaia, Tuscany, Italy|Apr 23, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iaiss_2026)|Sep 20 - Sep 24, 2026|[Details](https://awesome-mlss.com/summerschool/iaiss_2026)
+LMH Oxford: AI and Machine Learning - Theory and Practice|Machine Learning, Computer Vision, Natural Language Proc|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)
+LMH Oxford: Advanced AI - Generative AI and Deep Unsupervised Learning|Machine Learning, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_genai26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_genai26)
+LMH Oxford: Advanced AI - Computer Vision|Machine Learning, Computer Vision, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_cv26)|Jul 20 - Aug 07, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_cv26)
+LMH Oxford: Advanced AI - NLP and Large Language Models|Machine Learning, Natural Language Proc, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_nlp26)|Aug 10 - Aug 28, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_nlp26)
 
 ### Happening Soon
 Schools starting in the next 2 weeks.

@@ -2,3 +2,5 @@
 site/_site/*
 docs/*
 CLAUDE.local.md
+**/__pycache__/
+.pytest_cache/
