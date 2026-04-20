@@ -257,23 +257,9 @@ def test_main_returns_one_and_prints_error_on_duplicate_id(
 
 # ---------------------------------------------------------------------------
 # Real-data integration: catches regressions in the repo itself.
-#
-# `dataslo25` in the current `summerschools.yml` is missing its `date` field —
-# a known pre-existing data bug that the validator is explicitly intended to
-# surface. Marking this xfail with `strict=False` means CI goes green today
-# and will flip to a real success (not a failure) once the data bug is
-# fixed — at which point someone can remove the xfail.
 # ---------------------------------------------------------------------------
 
 
-@pytest.mark.xfail(
-    reason=(
-        "Known data bug: `dataslo25` in site/_data/summerschools.yml is "
-        "missing the required `date` field. Removing the xfail is "
-        "follow-up work once the entry is fixed or rolled over to archive."
-    ),
-    strict=False,
-)
 def test_validate_real_repo_data_passes():
     validate(repo_root=REPO_ROOT)
 

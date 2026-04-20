@@ -488,6 +488,7 @@
   deadline: "2025-04-24 13:00:00"
   timezone: "Europe/Rome"
   place: "Norcia, Italy"
+  date: "June 23 - June 27, 2025"
   start: 2025-06-23
   end: 2025-06-27
   sub: ['ML', 'Theory']
