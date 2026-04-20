@@ -1,0 +1,11 @@
+---
+- title: Alpha School
+  id: alpha26
+  deadline: 2026-04-22
+  start: 2026-06-01
+  end: 2026-06-05
+  place: "Alphaville, France"
+  sub: ["ML"
+  unclosed: "["
+    bad_indent:
+  : broken

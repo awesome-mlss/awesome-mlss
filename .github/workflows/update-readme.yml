@@ -1,0 +1,64 @@
+name: Update README (auto)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'      # 06:00 UTC daily
+  push:
+    branches: [master]
+    paths:
+      - 'site/_data/summerschools.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_PR_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install pyyaml python-dateutil ruamel.yaml
+
+      - name: Render README
+        run: python scripts/update_readme.py
+
+      - name: Detect changes
+        id: diff
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create or update PR
+        if: steps.diff.outputs.changed == 'true'
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.BOT_PR_TOKEN }}
+          branch: bot/readme-update
+          base: master
+          title: "chore: auto-update README (${{ github.run_started_at }})"
+          commit-message: "chore: auto-update README"
+          body: |
+            Automated README refresh.
+
+            This PR is kept in sync by the `update-readme` workflow and auto-merges when checks pass.
+          add-paths: README.md
+          delete-branch: true
+
+      - name: Enable auto-merge
+        if: steps.cpr.outputs.pull-request-number
+        run: gh pr merge --auto --squash "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN }}

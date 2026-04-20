@@ -1,0 +1,25 @@
+---
+- title: Alpha School
+  year: 2026
+  id: alpha26
+  full_name: Alpha International Summer School on Machine Learning
+  link: https://example.com/alpha
+  deadline: 2026-04-22
+  timezone: Europe/Paris
+  place: "Alphaville, France"
+  date: "June 1-5, 2026"
+  start: 2026-06-01
+  end: 2026-06-05
+  sub: ["ML"]
+- title: Alpha School Two
+  year: 2026
+  id: alpha26
+  full_name: Another Alpha School With Duplicate ID
+  link: https://example.com/alpha2
+  deadline: 2026-04-28
+  timezone: Europe/Rome
+  place: "Betatown, Italy"
+  date: "April 30 - May 10, 2026"
+  start: 2026-04-30
+  end: 2026-05-10
+  sub: ["CV"]

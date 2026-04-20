@@ -1,61 +1,40 @@
-name: Update README (pull_request)
+name: README preview (PR)
 
 on:
-  pull_request_target:
+  pull_request:
     paths:
       - 'site/_data/summerschools.yml'
-  workflow_dispatch:
 
 permissions:
-  pull-requests: write
   contents: read
-  
+
 jobs:
-  update-readme-pr:
+  render-preview:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
           fetch-depth: 0
-          
-      - name: Set up Python
-        uses: actions/setup-python@v4
+
+      - name: Fetch master
+        run: git fetch origin master:master
+
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install pyyaml python-dateutil
+      - run: pip install pyyaml python-dateutil ruamel.yaml
 
-      - name: Update README locally (no commit)
-        id: update_readme
-        run: |
-          python scripts/update_readme.py
-          git diff README.md > diff.txt
+      - name: Render preview
+        run: python scripts/pr_preview.py --output preview.md
 
-          # Expose the diff as an output
-          echo "diff<<EOF" >> $GITHUB_OUTPUT
-          cat diff.txt | sed 's/%/%25/g; s/\n/%0A/g; s/\r/%0D/g' >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+      - name: Save PR number
+        run: echo "${{ github.event.pull_request.number }}" > pr-number.txt
 
-      - name: Comment on PR with diff
-        uses: actions/github-script@v6
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          diff: ${{ steps.update_readme.outputs.diff }}
-          script: |
-            const diff = core.getInput('diff');
-            if (!diff.trim()) {
-              core.info("No changes in README.md.");
-              return;
-            }
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: `**Proposed changes in README.md**\n\`\`\`diff\n${diff}\n\`\`\``
-            });
-        env:
-          diff: ${{ steps.update_readme.outputs.diff }}
+          name: readme-preview
+          path: |
+            preview.md
+            pr-number.txt
