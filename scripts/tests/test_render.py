@@ -114,3 +114,49 @@ def test_rewrite_reversed_markers_raises():
     original = f"{END_MARKER}\nstuff\n{START_MARKER}\n"
     with pytest.raises(RuntimeError):
         _rewrite_readme(original, "ignored")
+
+
+def test_rewrite_duplicate_start_marker_raises():
+    original = (
+        f"{START_MARKER}\n"
+        "old content\n"
+        f"{END_MARKER}\n"
+        "middle\n"
+        f"{START_MARKER}\n"
+        "extra\n"
+        f"{END_MARKER}\n"
+    )
+    with pytest.raises(RuntimeError, match=START_MARKER):
+        _rewrite_readme(original, "ignored")
+
+
+def test_rewrite_duplicate_end_marker_raises():
+    original = (
+        f"{START_MARKER}\n"
+        "old content\n"
+        f"{END_MARKER}\n"
+        "middle\n"
+        f"{END_MARKER}\n"
+    )
+    with pytest.raises(RuntimeError, match=END_MARKER):
+        _rewrite_readme(original, "ignored")
+
+
+def test_rewrite_duplicate_start_error_names_marker():
+    """Error message must identify which marker was duplicated."""
+    original = (
+        f"{START_MARKER}\ncontent\n{END_MARKER}\n"
+        f"{START_MARKER}\nmore\n{END_MARKER}\n"
+    )
+    with pytest.raises(RuntimeError, match=START_MARKER):
+        _rewrite_readme(original, "ignored")
+
+
+def test_rewrite_duplicate_end_error_names_marker():
+    """Error message must identify which marker was duplicated."""
+    original = (
+        f"{START_MARKER}\ncontent\n{END_MARKER}\n"
+        f"extra line\n{END_MARKER}\n"
+    )
+    with pytest.raises(RuntimeError, match=END_MARKER):
+        _rewrite_readme(original, "ignored")

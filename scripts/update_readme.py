@@ -239,6 +239,18 @@ def render(
 def _rewrite_readme(readme_text: str, block: str) -> str:
     """Replace the region between START_MARKER and END_MARKER (inclusive)."""
     lines = readme_text.splitlines(keepends=False)
+
+    start_count = sum(1 for line in lines if line.strip() == START_MARKER)
+    end_count = sum(1 for line in lines if line.strip() == END_MARKER)
+    if start_count > 1:
+        raise RuntimeError(
+            f"Marker appears more than once in README: {START_MARKER}"
+        )
+    if end_count > 1:
+        raise RuntimeError(
+            f"Marker appears more than once in README: {END_MARKER}"
+        )
+
     start_idx = _find_marker_line(lines, START_MARKER)
     end_idx = _find_marker_line(lines, END_MARKER)
 
@@ -276,6 +288,7 @@ def _find_marker_line(lines: Sequence[str], marker: str) -> Optional[int]:
 
 
 def main(today: Optional[datetime.date] = None) -> None:
+    """CLI entry point: load data, render upcoming block, rewrite README.md. Exits 1 if markers are missing, malformed, or duplicated."""
     if today is None:
         today = datetime.date.today()
 

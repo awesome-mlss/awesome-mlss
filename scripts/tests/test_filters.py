@@ -4,8 +4,6 @@ from __future__ import annotations
 
 import datetime
 
-import pytest
-
 from scripts.update_readme import filter_and_sort
 
 
