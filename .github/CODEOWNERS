@@ -1,8 +1,8 @@
 # YAML data changes need maintainer approval.
-site/_data/*.yml   @sshkhr @gmberton @nobin
+site/_data/*.yml   @sshkhr @gmberton @smsnobin77
 
 # Workflow and script changes need maintainer approval.
-.github/workflows/*   @sshkhr @gmberton @nobin
-scripts/*             @sshkhr @gmberton @nobin
+.github/workflows/*   @sshkhr @gmberton @smsnobin77
+scripts/*             @sshkhr @gmberton @smsnobin77
 
 # README.md is auto-managed — no code-owner review required, so the bot PR can merge.
