@@ -90,7 +90,8 @@ author: awesome-mlss
           To view schools from a particular year, click on the year below to expand the archive.
           <br>
           <br>
-          {% for year in (2018..2024) reversed %}
+          {% assign archive_years = site.data.archive | map: 'year' | uniq | sort | reverse %}
+          {% for year in archive_years %}
           <div class="panel-heading" style="background-color: #f7f7f7; padding: 10px; border-radius: 5px; margin-bottom: 10px; border: 1px solid #ccc;">
             <h2 class="panel-title">
               <a data-toggle="collapse" href="#collapse{{ year }}"> {{ year }} Schools</a>
