@@ -15,7 +15,7 @@
     latitude: 9.001256787555048
     longitude: 7.422043111050481
   series: Data Science Africa
-- title: Deep Learning Indaba 
+- title: Deep Learning Indaba
   year: 2018
   id: dli2018
   full_name: Deep Learning Indaba 2018
@@ -32,7 +32,7 @@
     latitude: -33.932607486119146
     longitude: 18.864382623381296
   series: Deep Learning Indaba
-- title: Gaussian Process and Uncertainty Quantification Summer School 
+- title: Gaussian Process and Uncertainty Quantification Summer School
   year: 2018
   id: gpuqss2018
   full_name: Gaussian Process and Uncertainty Quantification Summer School (GPSS 2018)
@@ -49,7 +49,7 @@
     latitude: 53.38151336184058
     longitude: -1.488406809374382
   series: Gaussian Process and Uncertainty Quantification Summer School (GPSS)
-- title: Machine Learning Summer School 
+- title: Machine Learning Summer School
   year: 2018
   id: mlss2018
   full_name: Machine Learning Summer School (MLSS Madrid) 2018
@@ -64,7 +64,7 @@
   note:
 - title: Deep|Bayes Summer School
   year: 2018
-  id: dbss2018 
+  id: dbss2018
   full_name: Deep|Bayes Summer School 2018
   link: http://deepbayes.ru
   deadline: TBA
@@ -143,7 +143,7 @@
     latitude: 46.77136499195592
     longitude: 23.61033061956413
   series: Eastern European Machine Learning (EEML) Summer School
-- title: Vision Understanding and Machine Intelligence 
+- title: Vision Understanding and Machine Intelligence
   year: 2018
   id: visum2018
   full_name: Vision Understanding and Machine Intelligence (VISUM 2018)
@@ -190,7 +190,7 @@
     latitude: 45.21800311263281
     longitude: 5.8073904546200925
   series: PRAIRIE AI Summer School
-- title: Machine Learning Summer School 
+- title: Machine Learning Summer School
   year: 2018
   id: mlss2018
   full_name: Machine Learning Summer School (MLSS Buenos Aires) 2018
@@ -282,7 +282,7 @@
   date: May 28 - June 01, 2018
   start: 2018-05-28
   end: 2018-06-01
-  sub: ['ML','AI4Games']
+  sub: ['ML', 'AI4Games']
   note:
   location:
     latitude: 35.51346126561815
@@ -291,7 +291,7 @@
 - title: Khipu Latin American Meeting In Artificial Intelligence
   year: 2019
   id: klmai2019
-  full_name:  Khipu Latin American Meeting In Artificial Intelligence 2019
+  full_name: Khipu Latin American Meeting In Artificial Intelligence 2019
   link: http://www.khipu.ai/
   deadline: '2019-06-28 23:59:59'
   timezone: UTC+1
@@ -304,7 +304,7 @@
 - title: PRAIRIE AI Summer School
   year: 2019
   id: paiss2019
-  full_name:  PRAIRIE AI Summer School 2019
+  full_name: PRAIRIE AI Summer School 2019
   link: https://project.inria.fr/paiss
   deadline: '2019-09-06 23:59:59'
   timezone: UTC+1
@@ -338,7 +338,7 @@
 - title: Deep Learning in NLP Summer School
   year: 2019
   id: dlnss2019
-  full_name:  Deep Learning in NLP Summer School 2019
+  full_name: Deep Learning in NLP Summer School 2019
   link: https://dlinnlp.github.io/index.html
   deadline: TBA
   timezone: UTC+1
@@ -348,7 +348,7 @@
   end: 2019-08-30
   sub: ['ML', 'NLP']
   note:
-- title: Machine Learning Summer School 
+- title: Machine Learning Summer School
   year: 2019
   id: mlss2019
   full_name: Machine Learning Summer School (MLSS Moscow) 2019
@@ -364,7 +364,7 @@
 - title: Deep|Bayes Summer School
   year: 2019
   id: dbss2019
-  full_name:  Deep|Bayes Summer School 2019
+  full_name: Deep|Bayes Summer School 2019
   link: http://deepbayes.ru/
   deadline: '2019-04-15 23:59:59'
   timezone: UTC+1
@@ -377,8 +377,8 @@
   location:
     latitude: 55.76159982982924
     longitude: 37.63326446873304
-  series: Deep|Bayes Summer School  
-- title: Deep Learning Indaba 
+  series: Deep|Bayes Summer School
+- title: Deep Learning Indaba
   year: 2019
   id: dli2019
   full_name: Deep Learning Indaba 2019
@@ -411,7 +411,7 @@
 - title: Human-Aligned AI Summer School
   year: 2019
   id: hass2019
-  full_name:  Human-Aligned AI Summer School 2019
+  full_name: Human-Aligned AI Summer School 2019
   link: http://humanaligned.ai/
   deadline: '2019-06-25 23:59:59'
   timezone: UTC+1
@@ -421,7 +421,7 @@
   end: 2019-07-28
   sub: ['ML']
   note:
-- title: Deep Learning and Reinforcement Learning Summer School 
+- title: Deep Learning and Reinforcement Learning Summer School
   year: 2019
   id: dlrlss2019
   full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2019)
@@ -455,7 +455,7 @@
     latitude: 52.2296756
     longitude: 21.0122287
   series: International Summer School on Deep Learning (DeepLearn)
-- title: Summer School on Cognitive Robotics 
+- title: Summer School on Cognitive Robotics
   year: 2019
   id: sscr2019
   full_name: Summer School on Cognitive Robotics 2019
@@ -494,7 +494,7 @@
   end: 2019-07-26
   sub: ['ML']
   note:
-- title: Lisbon Machine Learning School 
+- title: Lisbon Machine Learning School
   year: 2019
   id: lmls2019
   full_name: Lisbon Machine Learning School (LxMLS 2019)
@@ -600,7 +600,7 @@
 - title: International Summer School on Deep Learning
   year: 2019
   id: issdl2019
-  full_name:  International Summer School on Deep Learning 2019
+  full_name: International Summer School on Deep Learning 2019
   link: http://2019.dl-lab.eu/registration/registration-fee/
   deadline: '2019-02-28 23:59:59'
   timezone: UTC+1
@@ -679,7 +679,7 @@
   end: 2019-07-03
   sub: ['ML', 'CV']
   note:
-- title: Advanced Statistics and Data Mining Summer School 
+- title: Advanced Statistics and Data Mining Summer School
   year: 2019
   id: asdmss2019
   full_name: Advanced Statistics and Data Mining Summer School 2019
@@ -733,7 +733,7 @@
 - title: AI and Games Summer School
   year: 2019
   id: agss2019
-  full_name:  AI and Games Summer School 2019
+  full_name: AI and Games Summer School 2019
   link: http://school.gameaibook.org
   deadline: '2019-02-28 23:59:59'
   timezone: UTC+1
@@ -793,7 +793,7 @@
 - title: AI Summer School
   year: 2020
   id: ass2020
-  full_name:  AI Summer School 2020
+  full_name: AI Summer School 2020
   link: https://sites.google.com/view/aisummerschool2020/
   deadline: '2020-06-26 23:59:59'
   timezone: UTC+1
@@ -816,7 +816,7 @@
   end: 2020-07-18
   sub: ['ML']
   note:
-- title: Oxford Machine Learning Summer School 
+- title: Oxford Machine Learning Summer School
   year: 2020
   id: omlss2020
   full_name: Oxford Machine Learning Summer School 2020
@@ -869,7 +869,7 @@
   end: 2020-08-14
   sub: ['ML', 'RL', 'AI4Games']
   note:
-- title: Machine Learning Summer School 
+- title: Machine Learning Summer School
   year: 2020
   id: mlss2020
   full_name: Machine Learning Summer School (MLSS Indonesia) 2020
@@ -962,7 +962,7 @@
 - title: Machine learning summer school in healthcare and biosciences
   year: 2020
   id: mls2020
-  full_name:  Machine learning summer school in healthcare and biosciences 2020
+  full_name: Machine learning summer school in healthcare and biosciences 2020
   link: https://bumblekite.four-corp.com/
   deadline: '2020-03-15 23:59:59'
   timezone: UTC+1
@@ -993,7 +993,7 @@
     latitude: 50.06122632983513
     longitude: 19.932855281876716
   series: Eastern European Machine Learning (EEML) Summer School
-- title: Machine Learning Summer School 
+- title: Machine Learning Summer School
   year: 2020
   id: ml2020
   full_name: Machine Learning Summer School (MLSS Tübingen)
@@ -1066,7 +1066,7 @@
   end: 2020-06-26
   sub: ['ML']
   note:
-- title: Asian Machine Learning School 
+- title: Asian Machine Learning School
   year: 2021
   id: ls2021
   full_name: Asian Machine Learning School (Online) 2021
@@ -1119,7 +1119,7 @@
   end: 2021-09-03
   sub: ['ML', 'HW']
   note:
-- title: Leibniz Mathematical Modeling and Simulation Summer School 
+- title: Leibniz Mathematical Modeling and Simulation Summer School
   year: 2021
   id: mm2021
   full_name: Leibniz Mathematical Modeling and Simulation Summer School 2021
@@ -1135,7 +1135,7 @@
 - title: Artificial Intelligence and Data Science for Healthcare Innovation
   year: 2021
   id: hi2021
-  full_name:  Artificial Intelligence and Data Science for Healthcare Innovation 2021
+  full_name: Artificial Intelligence and Data Science for Healthcare Innovation 2021
   link: http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/artificial-intelligence-and-data-science-for-healthcare-innovation/
   deadline: '//'
   timezone: UTC+1
@@ -1145,7 +1145,7 @@
   end: 2021-08-27
   sub: ['ML', 'Health']
   note:
-- title: Summer School of Machine Learning at Skoltech 
+- title: Summer School of Machine Learning at Skoltech
   year: 2021
   id: ls2021
   full_name: Summer School of Machine Learning at Skoltech (SMILES) 2021
@@ -1178,7 +1178,7 @@
 - title: Imperial Data Science Online Summer School
   year: 2021
   id: ids2021
-  full_name: Imperial Data Science Online Summer School 2021 
+  full_name: Imperial Data Science Online Summer School 2021
   link: http://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/imperial-data-science-online-summer-school/
   deadline: TBA
   timezone: UTC+1
@@ -1188,7 +1188,7 @@
   end: 2021-08-20
   sub: ['ML']
   note:
-- title: Neuromatch Academy-Deep Learning 
+- title: Neuromatch Academy-Deep Learning
   year: 2021
   id: na2021
   full_name: Neuromatch Academy-Deep Learning 2021
@@ -1248,7 +1248,7 @@
     latitude: 28.123545
     longitude: -15.436257
   series: International Summer School on Deep Learning (DeepLearn)
-- title: Deep Learning and Reinforcement Learning Summer School 
+- title: Deep Learning and Reinforcement Learning Summer School
   year: 2021
   id: ds2021
   full_name: Deep Learning and Reinforcement Learning Summer School (DLRL 2021)
@@ -1265,7 +1265,7 @@
     latitude: 53.546124
     longitude: -113.493823
   series: Deep Learning and Reinforcement Learning Summer School (DLRL)
-- title: Human-aligned AI Virtual Summer School 
+- title: Human-aligned AI Virtual Summer School
   year: 2021
   id: ha2021
   full_name: Human-aligned AI Virtual Summer School 2021
@@ -1339,7 +1339,7 @@
     latitute: 38.73716166904233
     longitude: -9.140120305237149
   series: Lisbon Machine Learning Summer School (LxMLS)
-- title: Neuromatch Academy-Computational Neuroscience 
+- title: Neuromatch Academy-Computational Neuroscience
   year: 2021
   id: cn2021
   full_name: Neuromatch Academy-Computational Neuroscience 2021
@@ -1383,10 +1383,10 @@
     latitude: 41.149610
     longitude: -8.610990
   series: Vision Understanding and Machine Intelligence (VISUM)
-- title: ACM India Summer Schools 
+- title: ACM India Summer Schools
   year: 2021
   id: ai2021
-  full_name: ACM India Summer Schools 2021 
+  full_name: ACM India Summer Schools 2021
   link: https://india.acm.org/education/acm-india-summer-schools
   deadline: '2021-05-18 23:59:59'
   timezone: UTC+1
@@ -1439,7 +1439,7 @@
 - title: NYU AI School
   year: 2021
   id: nyu2021
-  full_name:  NYU AI School 2021
+  full_name: NYU AI School 2021
   link: https://nyu-mll.github.io/nyu-ai-school-2021/
   deadline: '2021-00-00 23:59:59'
   timezone: UTC+1
@@ -1492,7 +1492,7 @@
   end: 2022-09-02
   sub: ['ML']
   note:
-- title: European Summer School in Logic, Language and Information 
+- title: European Summer School in Logic, Language and Information
   year: 2022
   id: el2022
   full_name: European Summer School in Logic, Language and Information (ESSLLI)
@@ -1542,7 +1542,7 @@
 - title: Human-aligned AI Summer School
   year: 2022
   id: hs2022
-  full_name: Human-aligned AI Summer School 2022 
+  full_name: Human-aligned AI Summer School 2022
   link: http://humanaligned.ai/index.html
   deadline: '2022-06-19 23:59:59'
   timezone: UTC+1
@@ -1598,7 +1598,7 @@
 - title: Eastern European Machine Learning Summer School
   year: 2022
   id: ess2022
-  full_name: Eastern European Machine Learning Summer School 2022 
+  full_name: Eastern European Machine Learning Summer School 2022
   link: https://www.eeml.eu/home
   deadline: '2022-04-07 23:59:59'
   timezone: UTC+1
@@ -1625,7 +1625,7 @@
   end: 2022-07-08
   sub: ['ML', 'Health', 'CV']
   note:
-- title: Machine Learning School in The Netherlands 
+- title: Machine Learning School in The Netherlands
   year: 2022
   id: sn2022
   full_name: Machine Learning School in The Netherlands 2022
@@ -1725,7 +1725,7 @@
   sub: ['ML']
   note:
   location:
-    latitute: 40.598970356000116 
+    latitute: 40.598970356000116
     longitude: 23.00350412667427
   series: Mediterranean Machine Learning Summer School (M2L)
 - title: Climate Change AI Summer School
@@ -2136,10 +2136,10 @@
   start: 2024-10-07
   end: 2024-10-11
   sub: ['ML', 'Health', 'Neuro']
-  note: null
+  note:
   twitter: https://x.com/LMU_SNAP
   emaiL: psy-nmss@med.uni-muenchen.de
-- title: Summer School on Artificial Intelligence in Health and Life Sciences 
+- title: Summer School on Artificial Intelligence in Health and Life Sciences
   year: 2024
   id: aihls24
   full_name: Summer School on Artificial Intelligence in Health and Life Sciences 2024
@@ -2151,8 +2151,8 @@
   start: 2024-09-09
   end: 2024-09-13
   sub: ['ML', 'Health']
-  note: null
-  twitter: null
+  note:
+  twitter:
   emaiL: ucbmacademy@unicampus.it
 - title: European Summer School on Quantum AI (EQAI)
   year: 2024
@@ -2166,8 +2166,8 @@
   start: 2024-09-02
   end: 2024-09-06
   sub: ['ML', 'Quantum', 'HW']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: info.eqai@gmail.com
 - title: CIFAR Neuroscience of Consciousness Winter School
   year: 2024
@@ -2181,7 +2181,7 @@
   start: 2024-12-19
   end: 2024-12-21
   sub: ['Neuro']
-  note: null
+  note:
   twitter: https://x.com/cifar_news?mx=2
   email: info@cifar.ca
 - title: Paris Generative AI Autumn School
@@ -2196,8 +2196,8 @@
   start: 2024-10-21
   end: 2024-10-25
   sub: ['ML', 'NLP']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: gs.isn@universite-paris-saclay.fr
 - title: IEEE-EURASIP S3P
   year: 2024
@@ -2211,8 +2211,8 @@
   start: 2024-09-23
   end: 2024-09-27
   sub: ['ML', 'SP']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: s3p2024capri@gmail.com
 - title: AθNLP
   year: 2024
@@ -2226,7 +2226,7 @@
   start: 2024-09-19
   end: 2024-09-25
   sub: ['ML', 'NLP']
-  note: null
+  note:
   twitter: https://twitter.com/athensnlp
   email: athnlp2024@athenarc.gr
 - title: IDESSAI
@@ -2241,8 +2241,8 @@
   start: 2024-09-03
   end: 2024-09-13
   sub: ['NLP', 'RO', 'GenAI']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: idessai-support@dfki.de
 - title: Mediterranean Machine Learning Summer School (M2L)
   year: 2024
@@ -2256,7 +2256,7 @@
   start: 2024-09-09
   end: 2024-09-13
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/M2lSchool
   email: organizers@m2lschool.org
   location:
@@ -2275,7 +2275,7 @@
   start: 2024-09-09
   end: 2024-09-12
   sub: ['ML', 'Theory']
-  note: null
+  note:
   twitter: https://twitter.com/sheffieldmlnet
   email: mauricio.alvarezlopez@manchester.ac.uk
   location:
@@ -2294,7 +2294,7 @@
   start: 2024-09-02
   end: 2024-09-09
   sub: ['ML', 'SP']
-  note: null
+  note:
   twitter: https://twitter.com/malga_center
   email: malga@unige.it
 - title: HPC Computer Architectures for AI and Dedicated Applications
@@ -2322,7 +2322,7 @@
   start: 2024-09-01
   end: 2024-09-07
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/deepindaba
   email: info@deeplearningindaba.com
   location:
@@ -2341,7 +2341,7 @@
   start: 2024-08-26
   end: 2024-08-30
   sub: ['CogSci', 'NLP']
-  note: null
+  note:
   email: contact@ilcb.fr
   twitter: https://twitter.com/ILCB_france
 - title: Summer School on Biomedical Image Analysis
@@ -2356,8 +2356,8 @@
   start: 2024-08-12
   end: 2024-08-16
   sub: ['ML', 'Bio', 'CV']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: acco@adm.dtu.dk
 - title: Analytical Connectionism Summer School
   year: 2024
@@ -2371,8 +2371,8 @@
   start: 2024-08-12
   end: 2024-08-23
   sub: ['ML', 'CogSci']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: cclarke@simonsfoundation.org
 - title: Princeton Machine Learning Theory Summer School
   year: 2024
@@ -2386,8 +2386,8 @@
   start: 2024-08-06
   end: 2024-08-15
   sub: ['ML', 'Theory']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: pmlss@princeton.edu
   location:
     latitude: 40.34590714001614
@@ -2405,8 +2405,8 @@
   start: 2024-08-06
   end: 2024-08-08
   sub: ['ML', 'Bio']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: vuk.marojevic@ece.msstate.edu
 - title: 35th European Summer School in Logic
   year: 2024
@@ -2420,8 +2420,8 @@
   start: 2024-07-29
   end: 2024-08-09
   sub: ['Log']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: esslli2024@kuleuven.be
 - title: Model-Based Neuroscience and Cognition Summer School
   year: 2024
@@ -2435,8 +2435,8 @@
   start: 2024-07-29
   end: 2024-08-02
   sub: ['CogSci', 'Neuro']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: info.modelbasedneuroscience@gmail.com
 - title: Vision and Sports Summer School
   year: 2024
@@ -2450,8 +2450,8 @@
   start: 2024-07-22
   end: 2024-07-27
   sub: ['ML', 'CV']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: vs3@cmp.felk.cvut.cz
 - title: Summer School on Affordable AI
   year: 2024
@@ -2465,8 +2465,8 @@
   start: 2024-07-22
   end: 2024-07-26
   sub: ['ML', 'EML']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: shadi.albarqouni@ukbonn.de
 - title: Eastern European Machine Learning Summer School
   year: 2024
@@ -2499,8 +2499,8 @@
   start: 2024-07-15
   end: 2024-07-19
   sub: ['ML']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: david@irdta.eu
 - title: African Computer Vision Summer School
   year: 2024
@@ -2514,7 +2514,7 @@
   start: 2024-07-14
   end: 2024-07-24
   sub: ['ML', 'CV']
-  note: null
+  note:
   twitter: https://x.com/ACVSS_AI
   email: acvss@googlegroups.com
   series: African Computer Vision Summer School (ACVSS)
@@ -2530,7 +2530,7 @@
   start: 2024-07-08
   end: 2024-07-17
   sub: ['ML', 'RL']
-  note: null
+  note:
   twitter: https://twitter.com/CIFAR_News
   email: info@dlrl.ca
   location:
@@ -2549,9 +2549,9 @@
   start: 2024-07-08
   end: 2024-07-13
   sub: ['CV', 'Bio', 'ML']
-  note: null
-  twitter: null
-  email: null
+  note:
+  twitter:
+  email:
 - title: International Computer Vision Summer School
   year: 2024
   id: icvs2024
@@ -2564,7 +2564,7 @@
   start: 2024-07-07
   end: 2024-07-13
   sub: ['CV']
-  note: null
+  note:
   twitter: https://twitter.com/icvss
   email: icvss@dmi.unict.it
   location:
@@ -2583,9 +2583,9 @@
   start: 2024-07-06
   end: 2024-07-28
   sub: ['ML']
-  note: null
-  twitter: null
-  email: null
+  note:
+  twitter:
+  email:
 - title: Oxford ML school
   year: 2024
   id: omls2024
@@ -2598,7 +2598,7 @@
   start: 2024-07-06
   end: 2024-07-09
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/GlobalGoalsAI
   email: contact@oxfordml.school
   location:
@@ -2618,7 +2618,7 @@
   end: 2024-07-03
   sub: ['ML']
   note: Free
-  twitter: null
+  twitter:
   email: aicourse@hellenic-ias.org
 - title: Machine Learning Summer School In Health
   year: 2024
@@ -2632,8 +2632,8 @@
   start: 2024-06-30
   end: 2024-07-06
   sub: ['ML', 'Health', 'Bio']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: bumblekite-team@four-corp.com
   location:
     latitude: 47.376821212238646
@@ -2651,7 +2651,7 @@
   start: 2024-06-25
   end: 2024-06-28
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/malga_center
   email: info@unige.it
 - title: 10th International Summer School on AI and Big Data
@@ -2666,7 +2666,7 @@
   start: 2024-06-25
   end: 2024-06-28
   sub: ['ML', 'GenAI', 'ML4Science', 'RAI', 'Theory']
-  note: null
+  note:
   twitter: https://twitter.com/Sca_DS
   email: zih@tu-dresden.de
 - title: Generative Modeling Summer School
@@ -2681,7 +2681,7 @@
   start: 2024-06-24
   end: 2024-06-28
   sub: ['ML', 'GenAI']
-  note: null
+  note:
   twitter: https://twitter.com/hashtag/GeMSS24
   email: gemss@sciencesconf.org
   location:
@@ -2700,7 +2700,7 @@
   start: 2024-06-19
   end: 2024-06-23
   sub: ['ML', 'RL', 'RO']
-  note: null
+  note:
   twitter: https://twitter.com/coop_ai
   email: info@cooperativeai.org
 - title: Information, Noise and Physics of Life
@@ -2715,7 +2715,7 @@
   start: 2024-06-17
   end: 2024-06-28
   sub: ['ML4Science', 'Theory']
-  note: null
+  note:
   twitter: https://twitter.com/ictpnews
   email: web@rt.ictp.it
 - title: Madrid UPM Machine Learning and Advanced Statistics Summer School
@@ -2730,7 +2730,7 @@
   start: 2024-06-17
   end: 2024-06-28
   sub: ['Theory']
-  note: null
+  note:
   twitter: https://twitter.com/grupocig_upm
   email: lauragveiga@fi.upm.es
   location:
@@ -2749,7 +2749,7 @@
   start: 2024-06-17
   end: 2024-06-21
   sub: ['ML', 'AI4Games']
-  note: null
+  note:
   twitter: https://twitter.com/GameAISchool
   email: school@gameaibook.org
   location:
@@ -2768,7 +2768,7 @@
   start: 2024-06-17
   end: 2024-06-21
   sub: ['Theory']
-  note: null
+  note:
   twitter: https://twitter.com/probabilisticai/
   email: hello@probabilistic.ai
   location:
@@ -2787,8 +2787,8 @@
   start: 2024-06-17
   end: 2024-06-21
   sub: ['ML', 'Bio']
-  twitter: null
-  note: null
+  twitter:
+  note:
   email: halper@che.utexas.edu
 - title: Norwegian AI Summer Research School
   year: 2024
@@ -2817,7 +2817,7 @@
   start: 2024-06-10
   end: 2024-06-14
   sub: ['ML', 'CV']
-  note: null
+  note:
   twitter: https://twitter.com/malga_center
   email: malga@unige.it
   location:
@@ -2827,7 +2827,7 @@
 - title: RPL Summer School
   year: 2024
   id: rplss2024
-  full_name:  Robotics, Perception and Learning Summer School 2024
+  full_name: Robotics, Perception and Learning Summer School 2024
   link: https://summer-school.rpl.eecs.kth.se
   deadline: '2024-03-13 23:59:59'
   timezone: Europe/Stockholm
@@ -2836,9 +2836,9 @@
   start: 2024-06-09
   end: 2024-06-14
   sub: ['ML', 'RO']
-  note: null
-  twitter: null
-  email: rpl-events@eecs.kth.se 
+  note:
+  twitter:
+  email: rpl-events@eecs.kth.se
 - title: Artificial Intelligence in Education
   year: 2024
   id: aiie2024
@@ -2851,7 +2851,7 @@
   start: 2024-06-03
   end: 2024-06-13
   sub: ['ML', 'RAI']
-  note: null
+  note:
   twitter: https://twitter.com/uib
   email: bsrs@uib.no
 - title: Summer School for Large Language Models
@@ -2866,8 +2866,8 @@
   start: 2024-07-06
   end: 2024-07-18
   sub: ['ML', 'GenAI']
-  note: null
-  twitter: null
+  note:
+  twitter:
   email: jiaoxue@tsinghua.edu.cn
 - title: Winter School on Foundation Models
   year: 2024
@@ -2881,9 +2881,9 @@
   start: 2024-03-12
   end: 2024-03-15
   sub: ['ML', 'GenAI']
-  note: null
-  twitter: null
-  email: null
+  note:
+  twitter:
+  email:
 - title: Tropical Probabilistic AI School
   year: 2024
   id: tpas2024
@@ -2896,7 +2896,7 @@
   start: 2024-01-29
   end: 2024-02-02
   sub: ['ML', 'Theory']
-  note: null
+  note:
   twitter: https://twitter.com/probabilisticai/
   email: hello@probabilistic.ai
   location:
@@ -2905,7 +2905,7 @@
   series: Probabilistic AI School (ProbAI)
 - title: Climate Change AI Summer School (Virtual)
   year: 2024
-  id: ccaivirtual24 
+  id: ccaivirtual24
   full_name: Climate Change AI Summer School 2024
   link: https://www.climatechange.ai/events/summer_school2024
   deadline: '2024-08-01 23:59:59'
@@ -2914,7 +2914,7 @@
   start: 2024-06-20
   end: 2024-08-01
   sub: ['ML', 'ML4Science']
-  note: null
+  note:
   twitter: https://twitter.com/climatechangeai
   email: summerschool+inperson@climatechange.ai
 - title: 27th BMVA Computer Vision Summer School
@@ -2946,7 +2946,7 @@
   twitter: https://x.com/ACMRecSys
   email: summerschool2024@recsys.acm.org
 - title: International Summer School in Cognitive Science
-  year: 2024 
+  year: 2024
   id: issCogSciBulgaria24
   full_name: 30th International Summer School in Cognitive Science
   link: https://cogsci.nbu.bg/en/international-summer-school-in-cognitive-science
@@ -2962,7 +2962,7 @@
   email: summer.school.cogsci@gmail.com
 - title: Touch Sensing and Processing Summer School
   year: 2024
-  id: tspss2024 
+  id: tspss2024
   full_name: Touch Sensing and Processing Summer School 2024
   link: https://lasr.org/tspss2024
   deadline: 2024-07-09 23:59
@@ -2985,7 +2985,7 @@
   start: 2024-07-08
   end: 2024-07-12
   sub: ['ML', 'Theory']
-  note: null
+  note:
   twitter: https://x.com/LogmlSchool
   email: logml.committee@gmail.com
 - title: Lisbon Machine Learning School
@@ -3001,7 +3001,7 @@
   end: 2024-07-17
   sub: ['ML', 'NLP']
   note: There is a registration fee.
-  twitter: 
+  twitter:
   email: lxmls-2024@googlegroups.com
   location:
     latitute: 38.73716166904233
@@ -3034,7 +3034,7 @@
   sub: ['ML']
   note: Reg fee - $165 (Academic discount)
   twitter: https://x.com/eigenvectorinc
-  email: null
+  email:
 - title: CCAIM AI and Machine Learning Summer School
   year: 2024
   id: CCAIM24
@@ -3057,7 +3057,7 @@
   link: https://ut.ee/en/content/megadata-federated-machine-learning
   deadline: 2024-05-31 00:00
   timezone: Europe/Tallinn
-  place:  Tartu, Estonia
+  place: Tartu, Estonia
   date: July 28 - Aug 10, 2024
   start: 2024-07-28
   end: 2024-08-10
@@ -3072,14 +3072,14 @@
   link: https://www.skema.edu/summer-school/ai-for-business-summer-school/
   deadline: 2024-04-30 00:00
   timezone: Canada/Eastern
-  place:  Montreal, Canada
+  place: Montreal, Canada
   date: July 08 - July 11, 2024
   start: 2024-07-08
   end: 2024-07-11
   sub: ['ML']
   note: Reg fee - 1500 EUR
   twitter: https://x.com/SKEMA_BS
-  email: null
+  email:
 - title: International School on Artificial Intelligence for Cognitive Technologies 2024
   year: 2024
   id: isact2024
@@ -3092,17 +3092,17 @@
   start: 2024-12-10
   end: 2024-12-13
   sub: ['ML', 'CogSci']
-  note: null
+  note:
   twitter: https://x.com/isact_org
   email: isact.org@proton.me
 - title: Latin American Summer School on Robotics (LACORO)
   year: 2024
-  id: lacoro24 
+  id: lacoro24
   full_name: Latin American Summer School on Robotics 2024
-  link: https://www.lacoro.org/ 
+  link: https://www.lacoro.org/
   deadline: 2024-11-01 00:00
   timezone: Chile/Continental
-  place: Rancagua, Chile 
+  place: Rancagua, Chile
   date: December 09 - 13, 2024
   start: 2024-12-09
   end: 2024-12-13
@@ -3110,8 +3110,8 @@
   note: Reg fee $0 USD for IEEE Student Member
 - title: Italian Association for Artificial Intelligence International Summer School
   year: 2024
-  id: AIxIA24 
-  full_name:  Italian Association for Artificial Intelligence International Summer School 2024
+  id: AIxIA24
+  full_name: Italian Association for Artificial Intelligence International Summer School 2024
   link: https://sites.google.com/unimib.it/advancesinai-2024/home
   deadline: 2024-09-20 00:00
   timezone: CET
@@ -3136,7 +3136,7 @@
   start: 2024-06-10
   end: 2024-06-14
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3156,7 +3156,7 @@
   start: 2023-06-10
   end: 2023-06-14
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3176,7 +3176,7 @@
   start: 2022-08-22
   end: 2022-08-26
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3196,7 +3196,7 @@
   start: 2020-07-13
   end: 2020-07-17
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3216,7 +3216,7 @@
   start: 2019-07-15
   end: 2019-07-19
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3236,7 +3236,7 @@
   start: 2018-07-19
   end: 2018-07-23
   sub: ['ML']
-  note: null
+  note:
   twitter: "https://x.com/taosciences"
   email: "acdl@icas.cc"
   location:
@@ -3256,7 +3256,7 @@
   start: 2024-09-11
   end: 2024-09-14
   sub: ['ML', 'Theory']
-  note: null
+  note:
   twitter: https://twitter.com/sheffieldmlnet
   email: mauricio.alvarezlopez@manchester.ac.uk
   location:
@@ -3276,7 +3276,7 @@
   start: 2023-07-09
   end: 2023-07-15
   sub: ['CV']
-  note: null
+  note:
   twitter: https://twitter.com/icvss
   email: icvss@dmi.unict.it
   location:
@@ -3296,7 +3296,7 @@
   start: 2022-07-10
   end: 2022-07-16
   sub: ['CV']
-  note: null
+  note:
   twitter: https://twitter.com/icvss
   email: icvss@dmi.unict.it
   location:
@@ -3316,7 +3316,7 @@
   start: 2018-07-08
   end: 2018-07-14
   sub: ['CV']
-  note: null
+  note:
   twitter: https://twitter.com/icvss
   email: icvss@dmi.unict.it
   location:
@@ -3372,7 +3372,7 @@
   start: 2023-06-30
   end: 2023-06-26
   sub: ['ML', 'AI4Games']
-  note: null
+  note:
   twitter: https://twitter.com/GameAISchool
   email: school@gameaibook.org
   location:
@@ -3410,7 +3410,7 @@
   start: 2022-07-25
   end: 2022-07-29
   sub: ['ML', 'RL']
-  note: null
+  note:
   twitter: https://twitter.com/CIFAR_News
   email: info@dlrl.ca
   location:
@@ -3430,7 +3430,7 @@
   start: 2024-06-03
   end: 2024-06-07
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3450,7 +3450,7 @@
   start: 2023-05-08
   end: 2023-05-12
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3470,7 +3470,7 @@
   start: 2022-07-18
   end: 2022-07-22
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3490,7 +3490,7 @@
   start: 2021-10-04
   end: 2021-10-08
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3510,7 +3510,7 @@
   start: 2020-07-24
   end: 2020-08-01
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3530,7 +3530,7 @@
   start: 2019-06-03
   end: 2019-06-05
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3550,7 +3550,7 @@
   start: 2019-10-21
   end: 2019-10-23
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/dsa_org
   email: info@datascienceafrica.org
   location:
@@ -3577,7 +3577,7 @@
   series: European Summer School on Artificial Intelligence (ESSAI)
 
 
-- title: Vision Understanding and Machine Intelligence 
+- title: Vision Understanding and Machine Intelligence
   year: 2022
   id: visum2022
   full_name: Vision Understanding and Machine Intelligence (VISUM 2020)
@@ -3595,7 +3595,7 @@
     longitude: -8.610990
   series: Vision Understanding and Machine Intelligence (VISUM)
 
-- title: Vision Understanding and Machine Intelligence 
+- title: Vision Understanding and Machine Intelligence
   year: 2020
   id: visum2020
   full_name: Vision Understanding and Machine Intelligence (VISUM 2020)
@@ -3625,7 +3625,7 @@
   start: 2022-08-21
   end: 2022-08-26
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/deepindaba
   email: info@deeplearningindaba.com
   location:
@@ -3645,7 +3645,7 @@
   start: 2023-09-03
   end: 2023-09-09
   sub: ['ML']
-  note: null
+  note:
   twitter: https://twitter.com/deepindaba
   email: info@deeplearningindaba.com
   location:
@@ -3868,3 +3868,1282 @@
     latitude: 43.307198697797986
     longitude: -2.010444189662896
   series: Deep Learning For Natural Language Processing
+- title: "Advanced Summer School on Responsible AutoML"
+  year: 2025
+  id: asraml25
+  full_name: "Advanced Summer School on Responsible AutoML 2025"
+  link: "https://automlsummerschool.cin.ufpe.br/"
+  deadline: "2025-11-11 23:59:00"
+  timezone: "America/Sao_Paulo"
+  place: "Recife, Brazil"
+  date: "November 11 - November 12, 2025"
+  start: 2025-11-11
+  end: 2025-11-12
+  sub: ['Theory', 'ML', 'EML']
+  location:
+    latitude: -8.055172279619814
+    longitude: -34.95136218650733
+  email: "ligia@cin.ufpe.br"
+
+- title: "Latin American School of Artificial Intelligence (LASAI)"
+  year: 2025
+  id: lasai25
+  full_name: "Latin American School of Artificial Intelligence (LASAI) 2025"
+  link: "https://simbig.org/lasai/2025/"
+  deadline: "2025-09-30 23:59:59"
+  timezone: "America/Lima"
+  place: "Lima, Peru"
+  date: "October 27 - October 31, 2025"
+  start: 2025-10-27
+  end: 2025-10-31
+  sub: ['ML']
+  note: "Application deadline: September 30, 2025."
+  twitter: "https://twitter.com/SIMBigPeru"
+  email: "lasai2025@simbig.org"
+  description: "The Latin American LATAM School of Artificial Intelligence is hosted by Universidad Nacional Mayor de San Marcos (UNMSM) in Lima, Peru. This school aims to provide comprehensive training in artificial intelligence and machine learning for participants from Latin America and beyond. The program offers an intensive learning experience in one of South America's oldest and most prestigious universities, fostering AI education and research collaboration across the Latin American region."
+  location:
+    latitude: -12.0532
+    longitude: -77.0853
+
+- title: "Winter School on Causality and Explainable AI"
+  year: 2025
+  id: causalxai25
+  full_name: "Winter School on Causality and Explainable AI 2025"
+  link: "https://causality-xai-school.fr/"
+  deadline: "2025-10-01 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "October 20 - October 24, 2025"
+  start: 2025-10-20
+  end: 2025-10-24
+  sub: ['RAI', 'Theory']
+  note: "Application deadline: October 1, 2025."
+  twitter:
+  email:
+  description: "The Winter School on Causality and Explainable AI is organized by a team from the Sorbonne Center for Artificial Intelligence, ELLIS - European Laboratory for Learning and Intelligent Systems, and other partner institutions. This specialized program focuses on the intersection of causal inference and explainable artificial intelligence, providing participants with theoretical foundations and practical applications in these critical areas of AI research. The school emphasizes understanding causal relationships in data and developing interpretable AI systems."
+  location:
+    latitude: 48.8566
+    longitude: 2.3522
+
+- title: Summer School on Data Science, Learning and Optimization
+  year: 2025
+  id: dataslo25
+  full_name: Summer School on Data Science, Learning and Optimization (DataSLO)
+  link: https://www.unistrapg.it/it/studiare-in-un-ateneo-internazionale/dataslo
+  deadline: "2025-04-24 13:00:00"
+  timezone: "Europe/Rome"
+  place: "Norcia, Italy"
+  date: "June 23 - June 27, 2025"
+  start: 2025-06-23
+  end: 2025-06-27
+  sub: ['ML', 'Theory']
+  note: "Free registration, maximum 25 participants"
+  email: "progetto.fenice@unistrapg.it"
+  description: "The Summer School DataSLO will explore key topics related to the core methodologies that drive Data Science, Machine Learning and Computational Optimization – the three foundational pillars of modern Artificial Intelligence."
+  image: "https://www.unistrapg.it/sites/default/files/logo.png"
+  location:
+    latitude: 42.7889
+    longitude: 13.0747
+
+- title: "School on Automated Machine Learning (AutoML)"
+  year: 2025
+  id: automl25
+  full_name: "5th School on Automated Machine Learning (AutoML) 2025"
+  link: "https://www.automlschool.org/"
+  deadline: "2025-05-01 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Tübingen, Germany"
+  date: "June 10 – 13, 2025"
+  start: 2025-06-10
+  end: 2025-06-13
+  sub: ['Theory', 'ML', 'EML']
+  note: "Early bird deadline: May 1st"
+  email: "katharina.eggensperger@uni-tuebingen.de"
+  description: "AutoML has become a cornerstone in the toolkit of many developers and researchers. With the rise of foundation models, AutoML's potential has expanded even further, enabling smarter, more powerful, and scalable solutions. Although there is exponentially growing interest in the intersection of AutoML and foundation models, they are rarely taught at universities, leaving a significant gap between cutting-edge research and disseminated knowledge. This school consists of introductory, state-of-the-art, and application lectures for AutoML and Foundation Models. The AutoML School is a yearly research training event tailored for graduate and postgraduate students, research engineers, and industry practitioners who want to learn about AutoML. However, there are no formal prerequisites, and everyone is welcome."
+  image: "https://www.conftool.org/automl-school-2025/footer.png"
+  location:
+    latitude: 48.53899300170434
+    longitude: 9.05771
+  series: "AutoML School"
+
+- title: EuADS Summer School on Automated Data Science
+  year: 2025
+  id: euads25
+  full_name: EuADS Summer School on Automated Data Science 2025
+  link: https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/
+  deadline: 2025-05-20
+  timezone: "Europe/Luxembourg"
+  place: "Luxembourg-Belair"
+  date: "July 8 - July 11, 2025"
+  start: 2025-07-08
+  end: 2025-07-11
+  sub: ['ML', 'DS', 'Theory']
+  note:
+  twitter: "https://x.com/euadsorg"
+  email: "contact@euads.org"
+  description: "The 2025 edition of the EuADS Summer School is dedicated to Automated Data Science (AutoDS) and will cover important branches of this research field in a tutorial style.  With the increasing complexity of data science projects and the limited availability of human expertise, the idea of automating or partially automating the work of a data scientist has come to the fore in recent years. AutoDS aims to streamline the data science workflow, making processes such as data pre-processing, feature engineering, model selection, evaluation and deployment faster and more accessible."
+  image:
+  location:
+    latitude: 49.61235369861866
+    longitude: 6.114854857934161
+
+- title: "4th European Summer School on Quantum AI"
+  year: 2025
+  id: eqai25
+  full_name: "4th European Summer School on Quantum AI (EQAI) 2025"
+  link: "https://www.eqai.eu/"
+  deadline: "2025-08-19 23:59:00"
+  timezone: "Europe/Rome"
+  place: "Lignano Sabbiadoro, Italy"
+  date: "September 01 – 05, 2025"
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: ['Quantum', 'ML']
+  note: "Applications will be reviewed on a rolling basis."
+  email: "info.eqai@gmail.com"
+  description: "Following the success of the first three editions, this summer school aims to provide an objective and clear overview, as well as an in-depth analysis, of the state-of-the-art research in Quantum Machine Learning and Deep Learning. The courses will be delivered by world renowned experts in the field, from both academia and industry, and will cover both theoretical and practical aspects of real problems. The school aims to provide a stimulating opportunity for young researchers and Ph.D. students, but also quantum enthusiasts coming from the industry and outside of academia. The participants will benefit from direct interaction and discussions with experts in this field. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in a friendly and constructive environment."
+  image: "https://eqai.eu/wp-content/uploads/2025/03/EQAI-2025-logo.png"
+  location:
+    latitude: 45.679604
+    longitude: 13.122126
+  series: "European Summer School on Quantum AI"
+
+- title: "African Computer Vision Summer School"
+  year: 2025
+  id: acvs25
+  full_name: "African Computer Vision Summer School (ACVSS) 2025"
+  link: "https://www.acvss.ai"
+  deadline: "2025-03-15 23:59:59"
+  timezone: "US/Hawaii"
+  place: "Kigali, Rwanda"
+  date: "July 13 - July 23, 2025"
+  start: 2025-07-13
+  end: 2025-07-23
+  sub: ['CV']
+  note:
+  twitter: "https://twitter.com/ACVSS_AI"
+  email: "acvss@googlegroups.com"
+  description: "The African Computer Vision Summer School (ACVSS) unites outstanding students and researchers with leading computer vision and AI experts. The curriculum emphasizes the importance of ethical considerations, geometry and math, deep learning and AI, and on seeding knowledge for multiple generations of students by coaching participants in educational leadership."
+  image: "https://lh5.googleusercontent.com/TnmzAOFrCRZbVKJYak2hkUB-hE-76rrigKEwGbS4__GnbqPXniEXADmX_7ZgxxfgPmH21Yme4MzyOesFhv0irv0=w16383"
+  location:
+    latitude: -1.961019644836035
+    longitude: 30.113097157396247
+  series: African Computer Vision Summer School (ACVSS)
+
+- title: "ELLIS Summer School: AI for Earth and Climate Sciences"
+  year: 2025
+  id: jena25
+  full_name: "ELLIS Summer School: AI for Earth and Climate Sciences 2025"
+  link: "https://www.ellis-jena.eu/summer-school-2025/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Jena, Germany"
+  date: "September 1 - September 5, 2025"
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: ['ML', 'GenAI', 'ML4Science', 'Bio', 'CV']
+  note:
+  twitter:
+  email: "conrad.philipp@uni-jena.de"
+  description: "The 2025 ELLIS Summer School on AI for Earth & Climate Sciences is the premier event for ELLIS PhD students, MSc students, and postdocs at the intersection of machine learning and geoscience to meet in person. During the week filled with keynotes, hands-on classes and project work the school will focus on cutting-edge research and discuss the latest advancements in the field. This interdisciplinary program will shape the future for the community of AI, Earth and Climate scientists by fostering collaboration among the next generation of interdisciplinary researchers."
+  image: "https://ellis.eu/uploads/ck_image/file/20/ellis_Summer_School_Jena.png"
+  location:
+    latitude: 50.927223
+    longitude: 11.586111
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "Machine Learning and Advanced Statistics Summer School"
+  year: 2025
+  id: mlas25
+  full_name: "Madrid UPM Machine Learning and Advanced Statistics Summer School (MLAS) 2025"
+  link: "https://dia.fi.upm.es/MLAS"
+  deadline: "2025-05-27 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Madrid, Spain"
+  date: "June 16 - June 27, 2025"
+  start: 2025-06-16
+  end: 2025-06-27
+  sub: ['ML', 'GenAI', 'RL']
+  note:
+  twitter:
+  email: "mlas@fi.upm.es"
+  description: "The MLAS summer school is an intensive set of courses providing an introduction to the theoretical foundations as well as the practical applications of some of the modern machine learning and statistical methods. During 2 weeks, the summer school offers 12 courses, of 15h lecture hours each. The students are free to choose the courses according to their interests."
+  image: "https://dia.fi.upm.es/wp-content/uploads/2024/01/logo-dia-conjunto@5x.png"
+  location:
+    latitude: 40.40535401476495
+    longitude: -3.84004237805600
+  series: "Machine Learning and Advanced Statistics Summer School (MLAS)"
+
+- title: "Advanced Course on Data Science & Machine Learning"
+  year: 2025
+  id: acdl25
+  full_name: "Advanced Course on Data Science & Machine Learning (ACDL) 2025"
+  link: "https://acdl2025.icas.events/"
+  deadline: "2025-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "June 09 - June 13, 2025"
+  start: 2025-06-09
+  end: 2025-06-13
+  sub: ['ML']
+  note:
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  description: "The 8th Advanced Course on Data Science & Machine Learning – ACDL 2025 is a full-immersion five-day Course at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Deep Learning, Data Science and Generative AI with lectures delivered by world-renowned experts. The Course provides a stimulating environment for PhD students, Post-Docs,  junior academics (only up to assistant professors), early career researches,  and industry leaders (and highly motivated, promising and brilliant Master students / BSc students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
+  image: "https://acdl2025.icas.events/wp-content/uploads/sites/30/2023/05/acdl2025-logo-web-small.png"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+  series: Advanced Course on Data Science & Machine Learning (ACDL)
+
+- title: "Winter School on Emerging Technologies"
+  year: 2025
+  id: ASUWinterSchool25
+  full_name: "Twelfth Annual Winter School on Emerging Technologies Accelerating Impactful Scholarship"
+  link: "https://sfis.asu.edu/events/winter-school/"
+  deadline: "2024-10-07 23:59:00"
+  timezone: "MST"
+  place: "Mesa, AZ"
+  date: "Jan 03 - Jan 10, 2025"
+  start: 2025-01-03
+  end: 2025-01-10
+  sub: ['ML', 'RO']
+  note: "Scholarship available"
+  description: "The Winter School program is run by the School for the Future of Innovation in Society at Arizona State University with support by The National Nanotechnology Coordinated Infrastructure Coordinating Office. The program gives junior scholars and scientists an introduction to and practical experience with methods and theory for better understanding the social dimensions of emerging technologies. The 2025 program will be focused on the broad notion of impact with an aim to explore ways for participants to increase and diversify the impact of their work."
+  image: "https://nnci.net/themes/cb_base/images/logo-black.png"
+  location:
+    latitude: 33.56174775625808
+    longitude: -111.53586632923056
+
+- title: "International Artificial Intelligence Summer School"
+  year: 2025
+  id: IAISS25
+  full_name: "International Artificial Intelligence Summer School (IAISS) 2025"
+  link: "https://2025.iaiss.cc/"
+  deadline: "2025-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "Sep 21 - Sep 25, 2025"
+  start: 2025-09-21
+  end: 2025-09-25
+  sub: ['ML']
+  note:
+  twitter: "https://x.com/taosciences"
+  email: "iaiss@icas.cc"
+  description: "The International Artificial Intelligence Summer School – IAISS  2025 is a full-immersion five-day Summer School at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Artificial Intelligence and Generative AI with lectures delivered by world-renowned experts. The School provides a stimulating environment for PhD students, Post-Docs,  Junior Academics, Early Career Researches and Junior Industry Leaders (and highly motivated, promising and brilliant Master Students). Participants will also have the chance to present their results with short talks and posters, and to interact with their colleagues, in a convivial, professional and productive environment."
+  image: "https://2025.iaiss.cc/wp-content/uploads/sites/29/2024/10/iaiss-logo-banner.png"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+
+- title: "Winter School: Next Generation AI and Economic Applications"
+  year: 2025
+  id: wsngaiea25
+  full_name: "Winter School: Next Generation AI and Economic Applications"
+  link: "https://next-genai-xemines.com/"
+  deadline: "2025-01-30 12:00:00"
+  timezone: "Africa/Casablanca"
+  place: "UM6P Ben Guerir Campus, Morocco"
+  date: "Feb 24 - Feb 25, 2025"
+  start: 2025-02-24
+  end: 2025-02-25
+  sub: ['GenAI', 'EconAI']
+  note:
+  twitter: "https://x.com/UM6P_officiel"
+  email: "winterschooldatascience@gmail.com"
+  description: "Our Winter Data Science School focuses on Next Generation AI and its Economic Applications. We aim to provide deep insights into the latest techniques, foster networking, and offer practical skills. Over two days, participants will engage in expert-led sessions, including Charles-Albert Lehalle on AI in finance, and presentations by Michael Jordan and Yann LeCun, offering valuable insights into the transformation of AI products and its societal impact."
+  image: "https://next-genai-xemines.com/assets/visual/logo-cropped-bigger.png"
+  location:
+    latitude: 32.22509
+    longitude: -7.93286
+
+- title: "UM6P Winter School on Data Economics"
+  year: 2025
+  id: wsde25
+  full_name: "UM6P Winter School on Data Economics 2025"
+  link: "https://mcgt.um6p.ma/en/seminars-conferences/winter-days"
+  deadline: "2024-12-08 23:59:00"
+  timezone: "Africa/Casablanca"
+  place: "UM6P Rabat Campus, Morocco"
+  date: "Jan 20 - Jan 24, 2025"
+  start: 2025-01-20
+  end: 2025-01-24
+  sub: ['Theory', 'EconAI']
+  note:
+  twitter: "https://x.com/UM6P_officiel"
+  email: "mcgt@um6p.ma"
+  description: "This one week winter school on data economics will introduce PhD students to central topic areas in the area. As data science transforms science and society, it is important to develop the economics of data. Collecting data is costly, possessing data gives market power, sharing data has risks and benefits, conclusions from data depend on data quantity and quality."
+  image: "https://mcgt.um6p.ma/assets/img/logo.png"
+  location:
+    latitude: 32.264254417665434
+    longitude: -7.946706324442646
+
+- title: "Bumblekite Machine Learning Summer School in Health, care and biosciences"
+  year: 2025
+  id: bumblekite25
+  full_name: "Bumblekite machine learning summer school in health, care and biosciences"
+  link: "https://www.bumblekite.co/bumblekite-25"
+  deadline: "2025-03-09 23:59:00"
+  timezone: "Europe/Berlin"
+  place: "Zürich, Switzerland"
+  date: "June 22 - June 28, 2025"
+  start: 2025-06-22
+  end: 2025-06-28
+  sub: ['ML', 'Health', 'Bio']
+  note:
+  twitter:
+  email: "bumblekite-team@four-corp.com"
+  description: "Bumblekite summer school is FOUR’s annual machine learning summer school (MLSS) in health, care and biosciences. Our Bumblekite MLSS creates and nurtures a learning space for evolving your data science and engineering skills and domain-specific knowledge, as well as skills in writing, coaching, leadership and strategy development — equally important communication skills. We strongly believe the combination of all of the above is key to unlocking the positive, deeply impactful contributions you will lead in our field and beyond."
+  image: "https://images.squarespace-cdn.com/content/v1/5e176b36a659cc3920d4038c/1598711702923-U9G274MDT9BPOXBH2Q2L/Bumblekite_logomark_.png?format=500w"
+  location:
+    latitude: 47.376821212238646
+    longitude: 8.547440346312348
+  series: Bumblekite Machine Learning Summer School in Health
+
+- title: "Summer School in Responsible AI and Human Rights"
+  year: 2025
+  id: ssraihr25
+  full_name: "Summer School in Responsible AI and Human Rights 2025"
+  link: "https://mila.quebec/en/ai4humanity/learning/summer-school-in-responsible-ai-and-human-rights"
+  deadline: "2025-01-06 23:59:00"
+  timezone: "America/Toronto"
+  place: "Montreal, Canada"
+  date: "May 26 - May 30, 2025"
+  start: 2025-05-26
+  end: 2025-05-30
+  sub: ['RAI']
+  note:
+  twitter: "https://x.com/Mila_Quebec"
+  email: "info@mila.quebec"
+  description: "The summer school, a joint initiative by Mila and the Université de Montréal brings together participants from different backgrounds and horizons to explore the intersections between responsible artificial intelligence (AI) and human rights."
+  image: "https://mila.quebec/sites/default/files/styles/focal_crop_2500_757/public/blocks/imagefullwidth/1289/2024capsuleraihrsseng.jpg.webp?itok=oiuqQ0Rn"
+  location:
+    latitude: 45.53086
+    longitude: -73.61325
+
+- title: "European Summer School on Artificial Intelligence"
+  year: 2025
+  id: essai25
+  full_name: "3rd European Summer School on Artificial Intelligence"
+  link: "https://essai2025.eu/"
+  deadline: "2025-06-01 23:59:00"
+  timezone: "Europe/Bratislava"
+  place: "Bratislava, Slovakia"
+  date: "June 30 - July 4, 2025"
+  start: 2025-06-30
+  end: 2025-07-04
+  sub: ['ML', 'RO', 'AP', 'DM']
+  note:
+  email: "peter.drotar@tuke.sk"
+  description: "European Summer School on Artificial Intelligence (ESSAI) intends to serve as a central hub for PhD students and young researchers working in all aspects of AI. The ESSAI Summer School covers one week of courses in the summer, at different sites around Europe, for both beginning and advanced students, and junior and senior researchers. ESSAI provides introductory and advanced courses in all areas of AI, emphasizing topics that allow students to gain a broad view of AI and understand connections between subdisciplines. ESSAI also offers several social activities for students and researchers alike. One of the tracks of ESSAI consists of advanced tutorials on a specific subject and corresponds to the traditional ACAI school organized by EurAI since 1989."
+  image: "https://essai2025.eu/wp-content/uploads/ESSAI_2025_logo_corrected_v01.png"
+  location:
+    latitude: 48.148598
+    longitude: 17.107748
+  series: European Summer School on Artificial Intelligence (ESSAI)
+
+- title: "ELLIS Winter School on Foundation Models"
+  year: 2025
+  id: fomo25
+  full_name: "2nd ELLIS Winter School on Foundation Models (FoMo)"
+  link: "https://ivi.fnwi.uva.nl/ellis/events/2025-ellis-winter-school-on-foundation-models-fomo"
+  deadline: "2025-02-07 23:59:00"
+  timezone: "Europe/Amsterdam"
+  place: "Amsterdam, Netherlands"
+  date: "March 18 - March 21, 2025"
+  start: 2025-03-18
+  end: 2025-03-21
+  sub: ['ML']
+  note:
+  twitter: "https://x.com/ellis_amsterdam"
+  email: "ellisinfo-science@uva.nl"
+  description: "The FoMo presents a valuable opportunity to explore the intricacies of foundation models and to highlight how Europe is establishing its own path beyond the widely-known Big Tech narrative. Notable insights and innovative approaches are emerging from Europe in both academia and industry. Thus, one of the main objectives of this winter school is to highlight these perspectives and provide a thorough understanding of how Europe is shaping its research agenda with unique directions while fostering community collaboration. Participants can expect a diverse lineup of speakers, including Tim Rocktäschel (UCL and Google Deepmind), Amir Zamir (EPFL), and Fahad Khan (MBZUAI, Linköping University Sweden)– more to be announced soon, and the opportunity to engage with like-minded individuals."
+  image: "https://ivi.fnwi.uva.nl/ellis/wp-content/uploads/2024/12/Fomo-25-2-1536x864.png"
+  location:
+    latitude: 52.383207972959795
+    longitude: 4.903048457672083
+  series: ELLIS Winter School on Foundation Models (FoMo)
+
+- title: "Gatsby Bridging Programme"
+  year: 2025
+  id: gatsbybp25
+  full_name: "Gatsby Bridging Programme (Maths Summer School)"
+  link: "https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme"
+  deadline: "2025-02-07 23:59:00"
+  timezone: "GMT"
+  place: "London, UK"
+  date: "June 23 - Aug 8, 2025"
+  start: 2025-06-23
+  end: 2025-08-08
+  sub: ['Theory', 'Neuro']
+  note:
+  twitter: "https://x.com/GatsbyUCL"
+  email: "admissions@gatsby.ucl.ac.uk"
+  description: "The Gatsby Bridging Programme is a mathematics summer school for penultimate- or final-year undergraduates and Master’s students (incl. recent graduates) who aspire to pursue a postgraduate research degree in Theoretical Neuroscience and/or Machine Learning but whose predoctoral degree(s) does not have a strong mathematical focus. During the programme, you will develop the mathematical intuitions and learn the mathematics skills necessary to enter these fields."
+  image: "https://www.ucl.ac.uk/gatsby/sites/gatsby/files/styles/small_image/public/gatsby_partners.png?itok=zIODn6fm"
+  location:
+    latitude: 51.521277368652434
+    longitude: -0.13837474697884816
+  series: Gatsby Bridging Programme
+
+- title: "Reasoning Web Summer School"
+  year: 2025
+  id: rw25
+  full_name: "21st Reasoning Web (RW) Summer School"
+  link: "https://2025.declarativeai.net/events/reasoning-web"
+  deadline: "2025-06-09 23:59:00"
+  timezone: "Asia/Istanbul"
+  place: "Istanbul, Türkiye"
+  date: "Sep 25 - Sep 28, 2025"
+  start: 2025-09-25
+  end: 2025-09-28
+  sub: ['KR', 'Log']
+  note:
+  email: "meghyn.bienvenu@labri.fr"
+  description: "The purpose of the Reasoning Web (RW) Summer School is to disseminate recent advances in reasoning techniques and other developments relevant to Semantic Web and Linked Data applications. The summer school is intended for individuals who are currently pursuing or have already completed postgraduate degrees (PhD or MSc). It is also open to researchers at all levels interested in deepening their knowledge in the respective area."
+  image: "https://lh4.googleusercontent.com/ahD7QVgIKnRDt5hOqxtj13xgGUcCBWATob3vm0YvK5BiyiRSG2XmRlyw4rUvc8LS14MzJBnJE7X9eeW_VLZyoU8xQoCt7quxCRuu0pwrK4VxEkhX"
+  location:
+    latitude: 41.0075881131308
+    longitude: 28.9652750001439
+  series: Reasoning Web (RW) Summer School
+
+- title: "Summer School on Multimodal Foundation Models and Generative AI"
+  year: 2025
+  id: aiss25
+  full_name: "Summer School on Multimodal Foundation Models and Generative AI"
+  link: "https://ai-summer-school.inpt.ac.ma/"
+  deadline: "2025-07-13"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "September 8 - September 12, 2025"
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: ['ML', 'NLP', 'CV', 'GenAI']
+  note: "Applications open June 23, 2025; acceptance notifications sent July 25, 2025."
+  email: "team@morocco.ai"
+  description: "The AI Summer School is an immersive five-day program jointly organized by MoroccoAI, Institut National Des Postes et Télécommunications (INPT), IMT Nord Europe, and Soft Centre, supported by ACM SIGMM.\nThe 2025 edition focuses on Multimodal Foundation Models and Generative AI, providing participants with lectures from world-renowned experts, hands-on labs, project mentorship, and networking opportunities. It is designed for Master’s and PhD students, postdocs, researchers, and industry professionals with intermediate knowledge of machine learning and Python programming.\nKey features: - 20+ expert sessions and 15+ hands-on labs - Networking with 50+ participants and AI leaders - Coverage of cutting-edge topics: generative AI, LLMs, multimodal foundation models - Visits to Morocco’s technology ecosystem (e.g., Casablanca Technopark) - Full access to lectures, meals, and accommodations included in registration"
+  image: "https://morocco.ai/wp-content/uploads/2020/03/MoroccoAI_Logo.png"
+  location:
+    latitude: 34.020882
+    longitude: -6.841650
+  series: "MoroccoAI Summer School"
+
+
+- title: "AI and Games Summer School"
+  year: 2025
+  id: agss25
+  full_name: "7th International Summer School on Artificial Intelligence and Games"
+  link: "https://school.gameaibook.org/"
+  deadline: "2025-06-09 23:59:00"
+  timezone: "Europe/Stockholm"
+  place: "Malmö, Sweden"
+  date: "June 23- June 27, 2025"
+  start: 2025-06-23
+  end: 2025-06-27
+  sub: ['ML', 'AI4Games']
+  note:
+  email: "school@gameaibook.org"
+  twitter: "https://x.com/GameAISchool"
+  description: "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players. This school is suitable for industrial game developers, designers, programmers and practitioners, but also for graduate students in games, artificial intelligence, design, human-computer interaction, and computational intelligence."
+  image: "https://school.gameaibook.org/wp-content/uploads/2024/09/logo-malmo-2.png"
+  location:
+    latitude: 55.607698037142704
+    longitude: 12.98575008491183
+  series: AI and Games Summer School
+
+- title: "MLSS Kraków: Drug and Materials Discovery"
+  year: 2025
+  id: krakow2025
+  full_name: "MLSS Kraków 2025: Drug and Materials Discovery"
+  link: "https://mlss2025.mlinpl.org/"
+  deadline: "2025-04-19 23:59:59"
+  timezone: "US/Alaska"
+  place: "Kraków, Poland"
+  date: "July 1-6, 2025"
+  start: 2025-07-01
+  end: 2025-07-06
+  sub: ['GenAI', 'Bio', 'ML4Science', 'Health']
+  note:
+  email: "mlss@mlinpl.org"
+  twitter: "https://x.com/mlinpl"
+  image: "https://mlss2025.mlinpl.org/images/institutions-logos/logo-mlinpl.svg"
+  description: "MLSS Kraków 2025 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning and their applications for Drug and Materials Discovery, primarily intended for research-oriented graduate students. The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland. This school is the next edtion of MLSS^S 2023 and MLSS^N 2022."
+  location:
+    latitude: 50.0301961
+    longitude: 19.906168
+  series: MLSS Kraków
+
+- title: Nordic Probabilistic AI School
+  year: 2025
+  id: npas2025
+  full_name: Nordic Probabilistic AI School 2025
+  link: https://nordic.probabilistic.ai/
+  deadline: '2025-03-09 23:59:59'
+  timezone: Europe/Oslo
+  place: Trondheim, Norway
+  date: June 16 - June 20, 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ['Theory', 'GenAI', 'ML']
+  note:
+  twitter: https://twitter.com/probabilisticai/
+  email: hello@probabilistic.ai
+  description: "The ProbAI is here to provide an inclusive education environment serving state-of-the-art expertise in machine learning and artificial intelligence with a probabilistic twist. With a carefully designed curriculum and a seamless blend of theory and hands-on sessions, our expert team of invited lecturers will guide you through five intensive days each dedicated to a different topic: introduction to probabilistic modeling, variational inference and optimization, conformal predictions, deep generative models, geometric probabilistic models, and probabilistic circuits."
+  location:
+    latitude: 63.42340
+    longitude: 10.40071
+  series: Probabilistic AI School (ProbAI)
+
+- title: "Machine Learning Summer School Senegal"
+  year: 2025
+  id: mlss-senegal25
+  full_name: "Machine Learning Summer School (MLSS) Senegal"
+  link: "https://mlss-senegal.github.io/"
+  deadline: "2025-02-28 23:59:00"
+  timezone: "Africa/Dakar"
+  place: "Mbour, Senegal"
+  date: "June 23 - July 4, 2025"
+  start: 2025-06-23
+  end: 2025-07-04
+  sub: ['ML']
+  note: "Application fee of $450 due by April 23, 2025"
+  email: "mlss.senegal2025@gmail.com"
+  twitter:
+  description: "Located along the scenic Atlantic coast of Senegal, AIMS Mbour hosts this summer school for PhD students, post-docs, and advanced learners in mathematical sciences. The venue is conveniently situated approximately 1.5 hours from Dakar city center and 30 kilometers from Blaise Diagne International Airport. Applicants must submit a one-page self-recommendation letter explaining how the summer school will benefit them, along with a one-page CV summarizing their contributions in machine learning. Applications are accepted from December 15 to February 28, with acceptance notifications sent by March 31."
+  image: "https://aims-senegal.org/wp-content/uploads/sites/2/2020/10/aims_senegal.jpg"
+  location:
+    latitude: 14.4225
+    longitude: -16.9736
+  series: Machine Learning Summer School (MLSS)
+
+- title: "Machine Learning Summer School Arequipa"
+  year: 2025
+  id: mlss-arequipa25
+  full_name: "Machine Learning Summer School (MLSS) Arequipa"
+  link: "https://eventosdiee.ucsp.edu.pe/mlss/"
+  deadline: "2025-03-20 23:59:00"
+  timezone: "America/Lima"
+  place: "Arequipa, Peru"
+  date: "August 2 - August 13, 2025"
+  start: 2025-08-02
+  end: 2025-08-13
+  sub: ['ML']
+  note: "Applicants need one referee."
+  email: "electronica@ucsp.edu.pe"
+  twitter:
+  description: "MLSS Arequipa 2025 is open to a select group of 100 highly motivated participants. Our primary target audience consists of MSc and PhD students with a solid technical foundation in research areas related to machine learning. However, a limited number of industry professionals, professors, researchers, and exceptional undergraduate students may also be considered, based on availability. Industrial applicants are encouraged to apply, thanks to sponsorship opportunities from their respective organizations. All participants should possess programming skills in Python, a strong interest in machine learning, and a solid understanding of linear algebra, basic calculus, probability, and statistics."
+  image: "https://eventosdiee.ucsp.edu.pe/mlss/wp-content/uploads/2024/02/logo-mlss.png"
+  location:
+    latitude: -16.389859050098813
+    longitude: -71.53543171349251
+  series: Machine Learning Summer School (MLSS)
+
+- title: "Princeton Machine Learning Theory Summer School"
+  year: 2025
+  id: pmltss2025
+  full_name: "Princeton Machine Learning Theory Summer School 2025"
+  link: "https://mlschool.princeton.edu/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "America/New_York"
+  place: "Princeton, USA"
+  date: "August 12 - August 21, 2025"
+  start: 2025-08-12
+  end: 2025-08-21
+  sub: ['ML', 'Theory']
+  note: "Applications require a CV, letter of recommendation, and statement of purpose"
+  twitter:
+  email: "pmlss@princeton.edu"
+  description: "The Princeton Machine Learning Theory Summer School is aimed at PhD students interested in machine learning theory. The school will run in person and focuses on showcasing exciting recent developments in the subject through four main courses. The primary focus this year is on theoretical advances in deep learning. The program aims to connect young researchers and foster community within theoretical machine learning."
+  image: "https://mlschool.princeton.edu/sites/g/files/toruqf5946/files/styles/freeform_750w/public/2023-06/pu_logo_3.png?itok=6OYKyOo7"
+  location:
+    latitude: 40.34590714001614
+    longitude: -74.65576054459738
+  series: "Princeton Machine Learning Theory Summer School"
+
+- title: "IAIFI Summer School"
+  year: 2025
+  id: iaifi2025
+  full_name: "Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) Summer School 2025"
+  link: "https://iaifi.org/phd-summer-school"
+  deadline: "2025-02-07 23:59:59"
+  timezone: "America/New_York"
+  place: "Cambridge, USA"
+  date: "August 4 - August 8, 2025"
+  start: 2025-08-04
+  end: 2025-08-08
+  sub: ['Theory', 'ML4Science']
+  note: "No registration fee. Dorm accommodation costs will be reimbursed for up to 5 nights. Attendees must cover travel costs."
+  twitter: https://twitter.com/iaifi_news
+  email: iaifi@mit.edu
+  description: "The IAIFI Summer School combines AI and Physics for early career researchers, particularly PhD students, advanced undergraduates, and postdocs. The program features lectures and tutorials on Reinforcement Learning, Robust/Interpretable AI, Scaling Laws, Physics-Motivated Optimization, Simulation Intelligence, and Representation/Manifold Learning. The event includes a full-day hackathon, networking events, and a career panel. Admission decisions will be announced by February 17, 2025."
+  image: "https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg"
+  location:
+    latitude: 42.3770
+    longitude: -71.1167
+
+- title: "International Semantic Web Research Summer School"
+  year: 2025
+  id: isws25
+  full_name: "International Semantic Web Research Summer School (ISWS) 2025"
+  link: "https://2025.semanticwebschool.org/"
+  deadline: "2025-03-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Bertinoro, Italy"
+  date: "June 8 - June 14, 2025"
+  start: 2025-06-08
+  end: 2025-06-14
+  sub: ['KR', 'ML']
+  note: "Acceptance notification: April 1st, 2025"
+  email: "isws.application@gmail.com"
+  description: "ISWS is a full immersion, super intensive one-week experience focusing on knowledge graphs for reliable AI. The program includes lectures and keynotes from outstanding speakers, and a 'learning by doing' teamwork program on open research problems. Participants work under the guidance of leading scientists in the field to co-author a white paper of high potential impact."
+  location:
+    latitude: 44.1487
+    longitude: 12.1323
+  series: "International Semantic Web Research Summer School (ISWS)"
+
+- title: "Theoretical Foundations of Machine Learning Course"
+  year: 2025
+  id: tfml2025
+  full_name: "Theoretical Foundations of Machine Learning (TFML) Course 2025"
+  link: "https://malga.unige.it/education/schools/tfml/"
+  deadline: "2025-03-30 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genova, Italy"
+  date: "June 23 - June 27, 2025"
+  start: 2025-06-23
+  end: 2025-06-27
+  sub: ['ML', 'Theory']
+  note: "Acceptance notification: April 11th, 2025"
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "The course covers key algorithmic principles in machine learning and their theoretical foundations. Topics include statistical learning theory, linear and nonlinear models (kernel methods and neural networks), empirical risk minimization, regularization, functional analysis with focus on reproducing kernel Hilbert spaces, convex analysis, optimization methods (gradient, stochastic gradient, splitting methods, back-propagation), and statistical analysis using concentration of measure, empirical process theory, spectral calculus and operator theory. The program includes two tutorials by invited speakers."
+  image: "https://lcsl.unige.it/img/malga.png"
+  location:
+    latitude: 44.40499
+    longitude: 8.97224
+  series: "MaLGa Summer Schools"
+
+- title: "A Journey through Deep Learning Summer School"
+  year: 2025
+  id: jdl2025
+  full_name: "A Journey through Deep Learning (JDL) Summer School 2025"
+  link: "https://malga.unige.it/education/schools/jdl/"
+  deadline: "2025-03-30 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genova, Italy"
+  date: "June 16 - June 20, 2025"
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ['ML']
+  note: "Acceptance notification: March 30th, 2025. In-person only, no online streaming. No travel scholarships available."
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "A Journey through Deep Learning is an intensive 40-hour PhD-level school offering a comprehensive exploration of Deep Learning principles and applications. Organized by the MaLGa Center, this program combines methodological aspects with practical insights into modern frameworks and architectures. The school is open to students, postdocs, faculty members and professionals, upon selection. Attendees will receive an attendance certificate reporting their actual hours of attendance."
+  image: "https://lcsl.unige.it/img/malga.png"
+  location:
+    latitude: 44.40498328188538
+    longitude: 8.972239169310429
+  series: "MaLGa Summer Schools"
+- title: "School on Analytical Connectionism"
+  year: 2025
+  id: ac25
+  full_name: "2025 School on Analytical Connectionism"
+  link: "https://www.analytical-connectionism.net/school/2025/"
+  deadline: "2025-04-18 23:59:00"
+  timezone: "Etc/GMT-12"
+  place: "London, UK"
+  date: "August 25 - September 5, 2025"
+  start: 2025-08-25
+  end: 2025-09-05
+  sub: ['Theory', 'CogSci']
+  note: "Acceptance notification: May 25th, 2025. In-person only; no streaming. Travel scholarships available for 25% of participants."
+  twitter: "https://x.com/GatsbyUCL"
+  email: "admissions@gatsby.ucl.ac.uk"
+  image: "https://www.analytical-connectionism.net/assets/images/sponsors/gatsby-unit.png"
+  description: "Analytical Connectionism is a 2-week summer course on analytical tools, including methods from statistical physics and probability theory, for probing neural networks and higher-level cognition. The course brings together neuroscience, psychology and machine-learning communities, and introduces attendees to analytical methods for neural-network analysis and connectionist theories of higher-level cognition and psychology."
+  location:
+    latitude: 51.52118724608978
+    longitude: -0.13832110294736547
+
+- title: "LOGML Summer School"
+  year: 2025
+  id: logml25
+  full_name: "London Geometry and Machine Learning Summer School 2025"
+  link: "https://www.logml.ai/"
+  deadline: "2025-04-06 23:59:59"
+  timezone: "Etc/GMT-12"
+  place: "London, United Kingdom"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['ML', 'Theory']
+  twitter: https://twitter.com/LogmlSchool
+  email: "logml.committee@gmail.com."
+  description: "LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, a variety of social events and a company networking night."
+  image: "https://www.logml.ai/img/logo.png"
+  location:
+    latitude: 51.499173065086225
+    longitude: -0.17902143167248896
+  series: "London Geometry and Machine Learning Summer School (LOGML)"
+
+- title: "Cooperative AI Summer School"
+  year: 2025
+  id: cass25
+  full_name: "Cooperative AI Summer School 2025"
+  link: "https://www.cooperativeai.com/summer-school/summer-school-2025"
+  deadline: "2025-03-07 23:59:59"
+  timezone: "Europe/London"
+  place: "Marlow, UK"
+  date: "July 9 - July 13, 2025"
+  start: 2025-07-09
+  end: 2025-07-13
+  sub: ['ML', 'GenAI', 'EconAI']
+  note: "Cost: Free / £250 / £500; Notification: April 2, 2025"
+  twitter: "https://twitter.com/coop_ai"
+  email:
+  image: "https://cdn.prod.website-files.com/61fe446e584616a902bcb4f0/61ffa82ead518da3b2f75765_CoopAI_Primary_Black_Web_Small.png"
+  description: "The Cooperative AI Summer School is designed to provide students and early-career professionals in AI, computer science and related disciplines, such as sociology and economics, with a firm grounding in the emerging field of cooperative AI."
+  location:
+    latitude: 51.5707
+    longitude: -0.7747
+
+- title: "Summer School on Automatic Speech Recognition"
+  year: 2025
+  id: s4p25
+  full_name: "Summer School on Speech Signal Processing (S4P) 2025: Automatic Speech Recognition"
+  link: https://sites.google.com/view/s4p2025/
+  deadline: "2025-07-09 23:59:59"
+  timezone: "Asia/Kolkata"
+  place: "Gandhinagar, India"
+  date: "July 5 - July 9, 2025"
+  start: 2025-07-05
+  end: 2025-07-09
+  sub: ['SP', 'ML', 'NLP']
+  note: "Early bird registration deadline: March 31, 2025. Student Travel Grants available, including DAU Student Grants for 50 students (first come, first served)."
+  twitter:
+  email: "s4p.daiict@gmail.com"
+  image: "https://lh3.googleusercontent.com/l4bEPKJurzYNUVZzo9r2VdiGmq03BxfWmFoc5NNPHOEtu8b2DDWFzYWMRn5rthINcCcT4Nnnb_Z2yS8OqxDL1UM=w16383"
+  description: "Summer School on Speech Signal Processing (S4P) is being organized as a part of summer school activities at Speech Research Lab, DAU, Gandhinagar. It will provide opportunities for students, researchers, and professionals to enhance their fundamentals and get exposed to cutting edge research areas in the field of speech signal processing. The school focuses on Automatic Speech Recognition (ASR), which deals with recognizing the linguistic context from speech or converting speech into text with the help of machines. ASR is a key component of commercially successful Intelligent Personal Assistants (IPAs) and Voice Assistants."
+  location:
+    latitude: 23.1926
+    longitude: 72.6350
+
+- title: "Montreal Robotics Summer School"
+  year: 2025
+  id: mrss25
+  full_name: "Montreal Robotics Summer School (MRSS) 2025"
+  link: https://fracturedplane.notion.site/Montreal-Robotics-Summer-School-2025-195214857276801f9737eaf741c533a7
+  deadline: "2025-02-28 23:59:59"
+  timezone: "America/Montreal"
+  place: "Montreal, Canada"
+  date: "August 10 - August 15, 2025"
+  start: 2025-08-10
+  end: 2025-08-15
+  sub: ['RO', 'ML']
+  note: "Free. Food, travel and lodging is covered. Limited to 25 participants."
+  twitter: "https://x.com/Mila_Quebec"
+  email: robotics-school@mila.quebec
+  image: "https://mila.quebec/sites/default/files/media-library/image/4032/milalogowebcoulrgb.png"
+  description: "This summer school offers tutorials and lectures on state-of-the-art machine learning methods for training the next generation of learning robots. The summer school is an extension supported by the many robotics groups around Montreal. Attendees will have the opportunity to learn about current deep reinforcement learning methods, how to apply them to real hardware, sim2real transfer techniques, and experience with legged robotics. This year's version will feature humanoid robots. On the last day of the summer school, teams will use their new skills to compete in designing the best vision-based navigation controller on a quadruped robot to navigate an obstacle course."
+  location:
+    latitude: 45.5287
+    longitude: -73.6110
+  series: "Montreal Robotics Summer School (MRSS)"
+
+- title: "AI4Science Summer School"
+  year: 2025
+  id: ai4s25
+  full_name: "AI4Science Summer School 2025 in Caen"
+  link: "https://ai4science.sciencesconf.org/"
+  deadline: "2025-04-20 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Caen, France"
+  date: "June 29 - July 4, 2025"
+  start: 2025-06-29
+  end: 2025-07-04
+  sub: ['ML', 'ML4Science']
+  note: "Registration fee: 100€ (including social events). Free for participants from Normandy Universities. CV required."
+  twitter:
+  email: "cai4science@sciencesconf.org"
+  image: "https://ai4science.sciencesconf.org/data/pages/AFFICHE_SumSchool_IA_2025_v5_.png"
+  description: "The 2nd Summer School on Advancing Scientific Discovery with AI is designed to explore the intersection of artificial intelligence and scientific research. The program covers machine learning for scientific data analysis, AI-driven experimental design, generative models in scientific applications, and the integration of AI with physical simulations. This technical and scientific programme focuses on deep learning and is primarily aimed at researchers familiar with mathematical modeling, numerical computation and Python programming. A significant part consists of hands-on sessions where participants will use Python libraries to manipulate data and implement models."
+  location:
+    latitude: 49.1950
+    longitude: -0.3588
+
+- title: "Brains, Minds & Machines Summer Course"
+  year: 2025
+  id: bmm25
+  full_name: "Brains, Minds & Machines Summer Course 2025"
+  link: https://cbmm.mit.edu/summer-school/2025
+  deadline: "2025-03-24 23:59:59"
+  timezone: "America/New_York"
+  place: "Woods Hole, MA, USA"
+  date: "August 3 - August 24, 2025"
+  start: 2025-08-03
+  end: 2025-08-24
+  sub: ['ML', 'Neuro', 'CogSci']
+  note:
+  twitter: https://twitter.com/MIT_CBMM
+  email:
+  image: "https://cbmm.mit.edu/sites/default/files/images/CBMM-logo-screen-RGB-colour-optimized.svg"
+  description: "An intensive three-week course giving advanced students a 'deep end' introduction to the problem of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines. The course covers topics including neurons and models, computational vision, biological vision, machine learning, Bayesian inference, planning and motor control, memory, social cognition, inverse problems, audition and speech processing, and natural language processing. The program includes MathCamps and NeuroCamps, hands-on workshops, tutorials, and culminates with student projects. Appropriate for graduate students, postdocs, and faculty in computer science or neuroscience."
+  location:
+    latitude: 41.5257
+    longitude: -70.6699
+  series: "Brains, Minds & Machines Summer Course"
+
+- title: "Mediterranean Machine Learning (M2L) Summer School"
+  year: 2025
+  id: m2l25
+  full_name: "Mediterranean Machine Learning (M2L) Summer School 2025"
+  link: "https://www.m2lschool.org/"
+  deadline: "2025-03-28 23:59:59"
+  timezone: "Etc/UTC"
+  place: "Split, Croatia"
+  date: "September 8 - September 12, 2025"
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'RL']
+  note: "Applications open February 25, 2025. Notification of acceptance in early May 2025."
+  twitter: "https://x.com/M2lSchool"
+  email: "organizers@m2lschool.org"
+  image: "https://lh6.googleusercontent.com/zSMSt8r_-NUb433Ig_19MTW1U9MIpcT-sHwLILOqtotJu0LYoE6TsanidmPn14yUoFgIolXuJMRTHprg4KBy9oE=w16383"
+  description: "The 5th edition of the Mediterranean Machine Learning (M2L) summer school will be structured around 5 days of keynotes, lectures and intensive hands-on sessions on the most recent and fast developing core areas of Machine Learning. The intended audience is primarily Doctoral candidates and exceptional Master's and Bachelor's students, academics, professionals, and practitioners worldwide. The school will focus on Natural Language Processing, Ethics and fairness, Computer Vision, Generative Models, Reinforcement Learning and real world applications of Deep Learning. The program includes optional poster sessions and social activities to foster networking."
+  location:
+    latitude: 43.5081
+    longitude: 16.4402
+  series: "Mediterranean Machine Learning (M2L) Summer School"
+- title: "MenaML Winter School"
+  year: 2025
+  id: menaML25
+  full_name: "2025 Middle East and North Africa Machine Learning (MenaML) Winter School"
+  link: "https://www.mena.ml/"
+  deadline: "2024-11-01 23:59:00"
+  timezone: "Asia/Qatar"
+  place: "Doha, Qatar"
+  date: "9-14 February, 2025"
+  start: 2025-02-09
+  end: 2025-02-14
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'Neuro', 'RL', 'ML4Science']
+  note: "Applications open Oct 3, 2024, and close Nov 1, 2024. A limited number of scholarships is available."
+  email: "contact@mena.ml"
+  description: "The 2025 Middle East and North Africa Machine Learning (MenaML) Winter School is a premier event designed to equip the next generation of AI leaders. This six-day intensive program, hosted in the vibrant city of Doha, Qatar, offers a unique blend of keynotes, lectures, and hands-on practical sessions. Lectures and lab sessions will be taught by local and international AI experts from leading institutes such as Google DeepMind, Qatar Computing Research Institute (QCRI), HBKU, and others. State-of-the-art content and code will be accessible to all school participants. The 2025 MenaML Winter School is designed for Bachelor, Master, and Doctoral students. It welcomes applications from all around the world, with a focus on the MENA region. Ideal participants have a strong technical background and some experience in machine learning."
+  image: "https://lh6.googleusercontent.com/OrVqEQesnEbamERIZ15pfdcT7r7Y87zjha7DLmCK248dbBkxGRzFj-HpGcgm4Y4-pYM4Rce3AYZyQ8WBGqGa0PKtQDq-OWnEV8XambKlVWn4C2ZnpVToRvZdj1bV6u2pFwXxYPn48jVcc-IhgKRjgzAHmQSi2q1fpb8FwdcnOr7M_93PWXa09oXQolCDMbUWADHkYE3RewJxAbphqFN7=w1280"
+  location:
+    latitude: 25.31692
+    longitude: 51.44722
+
+
+- title: "Summer School on Cryptography, Statistics and Machine Learning"
+  year: 2025
+  id: ysumss25
+  full_name: "Summer School on Cryptography, Statistics and Machine Learning 2025"
+  link: "http://mathschool.ysu.am/mss2025/"
+  deadline: "2025-06-01 23:59:59"
+  timezone: "Asia/Yerevan"
+  place: "Tsaghkadzor, Armenia"
+  date: "June 29 - July 06, 2025"
+  start: 2025-06-29
+  end: 2025-07-06
+  sub: ['ML', 'Theory']
+  note: "Participation fee: 450 EUR (academia), 600 EUR (industry), 250 EUR (Armenian students). Scholarships available."
+  twitter:
+  email: "mathschool@ysu.am"
+  image: "https://www.ysu.am/themes/custom/ysu_main/images/logo-english.svg"
+  description: "The Faculty of Mathematics and Mechanics of the Yerevan State University is organizing a Summer School on Cryptography, Statistics and Machine Learning. The target audience includes university undergraduate seniors, Master and PhD students and researchers, as well as industry professionals interested in Cryptography, Probability, Statistics, Machine Learning and applications. All lectures will be delivered in English. The participation fee covers registration, accommodation, and full board. Limited spots available; selection process applies for registered participants."
+  location:
+    latitude: 40.180284
+    longitude: 44.52613
+
+- title: "Mathematics and Physics of Quantum Computing and Quantum Learning"
+  year: 2025
+  id: mpqcql25
+  full_name: "Summer School on Mathematics and Physics of Quantum Computing and Quantum Learning (MPQCQL) 2025"
+  link: "https://mpqcql2025.sciencesconf.org"
+  deadline: "2025-04-30 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Porquerolles, France"
+  date: "May 23 - May 28, 2025"
+  start: 2025-05-23
+  end: 2025-05-28
+  sub: ['Quantum', 'ML', 'Theory']
+  note: "Participation fee: 450 EUR (students, postdocs), 600 EUR (faculty, industry). Limited places available."
+  twitter:
+  email: "mpqcql2025@sciencesconf.org"
+  description: "This summer school aims at gathering mathematicians, computer scientists, and physicists interested in quantum learning and quantum computation. Several introductory lectures will be given by leading researchers in the field including Pablo Arrighi (Université Paris-Saclay and Inria), Matthias Caro (University of Warwick), Guillaume Rabusseau (Université de Montréal / MILA), Muhammad Hamza Waseem (Oxford University), and Mirjam Weilenmann (IQOQI Vienna and Inria). Topics covered include quantum computing and information, quantum learning theory, tensor networks, quantum states of neural networks, and quantum cellular automata. The lectures will be complemented by additional research talks. Poster sessions for PhD students and post-doctoral researchers will be organized during the school."
+  image: "https://mpqcql2025.sciencesconf.org/data/pages/logos_4.png"
+  location:
+    latitude: 43.0008
+    longitude: 6.20491
+
+- title: "Cambridge Ellis Unit Summer School on Probabilistic Machine Learning"
+  year: 2025
+  id: ellis-cambridge25
+  full_name: "Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2025"
+  link: "https://www.ellis.eng.cam.ac.uk/summer-school/"
+  deadline: "2025-05-10 23:59:59"
+  timezone: "Europe/London"
+  place: "Cambridge, UK"
+  date: "July 14 - July 18, 2025"
+  start: 2025-07-14
+  end: 2025-07-18
+  sub: ['ML', 'GenAI', 'Theory', 'RL', 'CV']
+  note: "Student participation fee: £500 (if traveling by air), £0 otherwise. Travel awards available for attendees from under-represented backgrounds."
+  twitter: "https://twitter.com/CambridgeEllis"
+  email: "ellis-admin@eng.cam.ac.uk"
+  description: "The Cambridge Ellis Unit Summer School on Probabilistic Machine Learning is a distinguished course offered to graduate students, researchers and professionals, featuring engaging experts and world-recognized professionals speaking about advanced machine learning concepts. Topics include Statistical Emulation, Uncertainty Quantification, Evaluation of Probabilistic Models, Reinforcement Learning, Diffusion Models, Normalising Flows, Deep Generative Models, Variational Inference and Stein Discrepancy, Probabilistic Models in Computer Vision and Graphics, and Machine Learning and the Physical World. Applicants must submit a 2-page CV and letter of reference. The event will be held at Pembroke College with lunch and refreshments provided."
+  location:
+    latitude: 52.20185888225664
+    longitude: 0.11833142598481534
+  image: "https://www.ellis.eng.cam.ac.uk/wp-content/uploads/2023/09/cropped-ellis-logo_horizontal_black_2023-cambridge.png"
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "EDBT Summer School on AI & Data Management"
+  year: 2025
+  id: edbt25
+  full_name: "EDBT 2025 Summer School on AI & Data Management"
+  link: "https://dmai.cs.ucy.ac.cy/"
+  deadline: "2025-04-07 23:59:59"
+  timezone: "Europe/Nicosia"
+  place: "Nicosia, Cyprus"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['ML', 'DM', 'GenAI']
+  note: "Registration options: €600 (no accommodation), €850 (shared room), €1100 (single room). Microsoft Fellowships available for US students."
+  twitter:
+  email: "edbt2025summer@gmail.com"
+  description: "The EDBT association and the University of Cyprus are jointly sponsoring a Summer School on Artificial Intelligence (AI) and Data Management, hosted at the Resource Center 'Stelios Ioannou', University of Cyprus. It will cover a diverse range of topics around artificial intelligence and data management, with a special focus on Large Language Models, AI agents and Vector Databases. The program features 9 tutorials from internationally renowned researchers including Prof. Ioana Manolescu, Prof. Flora Salim, Prof. Sihem Amer-Yahia, Dr. Charalampos Tsourakakis, Prof. Volker Markl, Prof. Constantine Dovrolis, Prof. Mohamed F. Mokbel, Prof. Li Xiong, and Prof. Cyrus Shahabi. The school is primarily intended for graduate students and post-doctoral researchers, but also welcomes applications from advanced undergraduate students and academic and industrial researchers."
+  image: "https://dmai.cs.ucy.ac.cy/wp-content/uploads/2025/03/FINAL-EDBT-summer-school-logo-4.png"
+  location:
+    latitude: 35.14439766701156
+    longitude: 33.41091247111121
+
+- title: "Brown CNTR AI Policy Summer School"
+  year: 2025
+  id: brown-cntr25
+  full_name: "Brown University Center for Technological Responsibility, Reimagination and Redesign (CNTR) AI Policy Summer School 2025"
+  link: "https://cntr.brown.edu/summer-school"
+  deadline: "2025-04-05 23:59:59"
+  timezone: "America/New_York"
+  place: "Providence, RI and Washington, DC, USA"
+  date: "July 22 - July 31, 2025"
+  start: 2025-07-22
+  end: 2025-07-31
+  sub: ['RAI', 'ML']
+  note: "Priority given to U.S. Citizens, Permanent Residents, and applicants from less represented states. Funding available for travel, lodging, and meals."
+  twitter:
+  email: "serenabooth@brown.edu"
+  description: "Brown University CNTR is launching an AI Policy Summer School with a dual location format in Providence, RI and Washington, DC. The program aims to enable graduate students to conduct high-quality policy-informed AI research, empower students to advocate for new AI policies or changes to existing policy, and build a pipeline of qualified technologists to fill emerging needs in government. The first week features seminars, reading groups, and discussions on AI Policy fundamentals, while the second week involves travel to Washington, D.C. to discuss relevant legislation with Congressional offices, executive agencies, and civil society organizations. Confirmed speakers include Alan Davidson (former NTIA administrator), Kiri Wagstaff (Former AI Policy Advisor to Senator Mark Kelly), and Helen Toner (Director of CSET). The event is open to graduate students and postdocs in computing and affiliated fields, with consideration for dedicated undergraduates as well. No prior policy experience required."
+  image: "https://logotyp.us/file/brown.svg"
+  location:
+    latitude: 41.82849084031934
+    longitude: -71.40098154575963
+
+- title: "BMVA Computer Vision Summer School"
+  year: 2025
+  id: bmva-cvss25
+  full_name: "28th BMVA Computer Vision Summer School (CVSS) 2025"
+  link: "https://cvss.bmva.org/"
+  deadline: "2025-06-15 23:59:59"
+  timezone: "Europe/London"
+  place: "Aberdeen, Scotland, UK"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Early bird registration until 15th Jun 2025"
+  twitter: "https://twitter.com/BmvaCvss"
+  email: "bmva-cvss2025@abdn.ac.uk"
+  description: "The 28th BMVA Computer Vision Summer School (CVSS) will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. The program includes 16 lectures across several topics, such as hyperbolic deep learning, classical CV, egocentric vision, video understanding, generative models and others. Lecturers are researchers from some of the most active research groups in the UK and abroad. The summer school is organized by the University of Aberdeen and the British Machine Vision Association."
+  image: "https://cvss.bmva.org/assets/images/layout/cvss_logo_2025.png"
+  location:
+    latitude: 57.1648
+    longitude: -2.1015
+  series: "BMVA Computer Vision Summer School"
+
+- title: "Deep Learning for Medical Imaging School"
+  year: 2025
+  id: dlmi25
+  full_name: "6th Deep Learning for Medical Imaging (DLMI) School 2025"
+  link: "https://deepimaging2025.sciencesconf.org/"
+  deadline: "2025-04-11 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Lyon, France"
+  date: "April 21 - April 25, 2025"
+  start: 2025-04-21
+  end: 2025-04-25
+  sub: ['ML', 'CV', 'Health']
+  note: "Registration opens February 14th. In-person registration closes April 11th (limited to 70 full participants and 130 course-only participants). Virtual registration closes April 18th. Fees: Students €650-900, Academic €750-1120, Industrial €1000 (full), €300 (courses only), €200 (virtual). Accommodation booking available until March 31st."
+  twitter:
+  email: deepimaging2025@sciencesconf.org
+  description: "The 6th edition of the Deep Learning for Medical Imaging School is designed for both beginners and experts in medical imaging, including students, post-docs, research professionals, and professors. It offers an introduction to deep learning, covering fundamental concepts and their applications in medical imaging. The program includes 16 hours of oral presentations and four hands-on sessions (4 hours each). Participants will explore the basics of machine learning, progressing to the latest deep learning advancements in medical imaging. No expertise in machine learning or advanced programming skills is required to attend; a basic understanding of Python is sufficient for the hands-on sessions. Three attendance options are available: Full Registration (includes all courses, hands-on sessions, social events, meals, recorded sessions, and computing resources), Courses Only (on-site courses, recorded materials, coffee breaks, but no hands-on sessions, meals or social events), and Virtual Attendance (recorded sessions, computing resources, and live Q&A Zoom sessions on May 5-6). This school is organized by Labex PRIMES and INSA Lyon, and is a MICCAI endorsed event."
+  image: "https://deepimaging2025.sciencesconf.org/data/header/BandeauWeb_2.png"
+  location:
+    latitude: 45.783157129845144
+    longitude: 4.87221626793872
+
+
+- title: "UK Robotics Summer School"
+  year: 2025
+  id: ukrss25
+  full_name: "UK Robotics Summer School 2025"
+  link: "https://ukrss.site.hw.ac.uk/"
+  deadline: "2025-04-30 23:59:59"
+  timezone: "Europe/London"
+  place: "Edinburgh, UK"
+  date: "June 2 - June 6, 2025"
+  start: 2025-06-02
+  end: 2025-06-06
+  sub: ['RO', 'ML', 'GenAI', 'HCI']
+  note: "Registration deadline: April 30, 2025. Costs: £600 for industry/non-students, £300 for students (full week); £200/day for industry, £100/day for students. Fee includes lectures, tours, lunch, refreshments, and Summer School dinner. Registration via Eventbrite. Accommodation and travel to be arranged separately. Cancellations more than 30 days prior qualify for refund (excluding Eventbrite fees)."
+  twitter:
+  email: "janet_louise.forbes@hw.ac.uk"
+  description: "This 5-day Robotics Summer School is organised by the Edinburgh Centre for Robotics (Edinburgh and Heriot-Watt University) and the National Robotarium, supported by the CDT D2AIR, The Edinburgh Centre for Robotics and the UK-RAS network. The program offers a combination of lectures, tutorials, and industry presentations focusing on cutting-edge topics in robotics. Participants will gain insights into reasoning, control, collaboration, and learning, bioinspired robotics, generative AI for robotics, human robot interactions, as well as discussions on ethics, validation, and inclusivity in robotics and AI. The event includes hands-on experience with state-of-the-art robotics technology, a tour of the National Robotarium, and networking opportunities with fellow students, academics, and industry leaders. Refreshments, lunch, and a special Summer School dinner (sponsored by the UK-RAS network) are included."
+  image: "https://ukrss.site.hw.ac.uk/wp-content/uploads/sites/89/2024/12/download.png"
+  location:
+    latitude: 55.91228043531887
+    longitude: -3.323275722224049
+
+- title: "INVICTA School of VIsion, Computational intelligence, and patTern Analysis"
+  year: 2025
+  id: invicta25
+  full_name: "INvicta school of VIsion, Computational intelligence, and patTern Analysis (INVICTA) 2025"
+  link: "https://invicta.inesctec.pt/"
+  deadline: "2025-03-31 23:59:59"
+  timezone: "Europe/Lisbon"
+  place: "Porto, Portugal"
+  date: "April 7 - April 11, 2025"
+  start: 2025-04-07
+  end: 2025-04-11
+  sub: ['CV', 'ML', 'GenAI', 'Health']
+  note: "Early-bird registration (€650) until Feb 9, 2025. Regular registration (€700) until March 31, 2025. 12% discount for APRP members."
+  twitter: "https://twitter.com/INVICTA_School"
+  email: "invicta@inesctec.pt"
+  image: "https://invicta.inesctec.pt/assets/img/logo/invicta_logo1.png"
+  description: "The INvicta school of VIsion, Computational intelligence, and patTern Analysis (INVICTA) is organized by the Visual Computing and Machine Intelligence (VCMI) group of INESC TEC. The program features lectures, hands-on workshops, case studies, and a round-table on Responsible AI, led by experts from academia and industry. Topics include explainable AI in healthcare, vision-language models, knowledge distillation, bioinspired algorithms for visual attention, diffusion models in medical imaging, and more. The registration fee includes all lectures, hands-on sessions, case studies, AI talks, coffee breaks, and a social program. The school will take place at Porto Innovation Hub in the city center."
+  location:
+    latitude: 41.1579
+    longitude: -8.6291
+
+- title: "Responsible ML Winter School"
+  year: 2025
+  id: rmlws25
+  full_name: "Winter School on Responsible Machine Learning 2025"
+  link: "https://mlwinterschoolumea.github.io/"
+  deadline: "2025-02-20 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Umeå, Sweden"
+  date: "March 11 - March 13, 2025"
+  start: 2025-03-11
+  end: 2025-03-13
+  sub: ['ML', 'RAI']
+  note: "Registration fee: Students 1500 SEK, Faculty 2500 SEK, Others 4000 SEK. Free for LEMUR, WASP, WASP-HS or Aequitas members. Poster submission deadline: February 28, 2025. As of December 16, 2024, the event has reached capacity."
+  twitter:
+  email: "monowar@cs.umu.se, nina.khairova@umu.se, virginia.dignum@umu.se"
+  description: "The Winter School on Responsible Machine Learning at Umeå University, Sweden offers lectures in the field of Responsible Machine Learning as well as hands-on multi-disciplinary and complementary training. The event includes a poster session and a social program, providing opportunities for networking and professional exchange. The school will take place in the Rotundan hall in the Universum building of Umeå University. The program is organized by the Responsible AI Group, led by Monowar Bhuyan and Virginia Dignum."
+  image: "https://mlwinterschoolumea.github.io/images/ai-policy-1.png"
+  location:
+    latitude: 63.819675624967985
+    longitude: 20.305233918546286
+
+- title: "Advanced Course on Artificial Intelligence & Neuroscience"
+  year: 2025
+  id: acain25
+  full_name: "5th Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN) 2025"
+  link: "https://acain2025.icas.events/"
+  deadline: "2025-04-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Castiglione della Pescaia, Italy"
+  date: "September 21 - September 24, 2025"
+  start: 2025-09-21
+  end: 2025-09-24
+  sub: ['ML', 'Neuro', 'CogSci', 'RO', 'RAI']
+  note: "Regular registration deadline: April 23, 2025. Late registration: April 24 - August 10, 2025. Residential course - all participants must stay at the Riva del Sole Resort and Spa. Equivalent to 8 ECTS points."
+  twitter:
+  email: "acain@icas.cc"
+  image: "https://acain2025.icas.events/wp-content/uploads/sites/31/2024/09/ACAIN-2025-logo-banner-1.png"
+  description: "The 5th Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN) is a full-immersion four-day event at the Riva del Sole Resort & SPA, Tuscany, featuring lectures by world-renowned experts. The event consists of a two-day course (September 21-22) followed by a two-day symposium (September 23-24). It aims to foster multidisciplinary interactions between AI and neuroscience communities. Topics include neuroscience-inspired AI, cognitive computing, deep learning, computational neuroscience, human-level AI, ethics for autonomous systems, explainable AI, and more. Confirmed lecturers include Panos Pardalos (University of Florida), Jose Principe (University of Florida), Maneesh Sahani (UCL), Jonathon Shlens (Google DeepMind), Dimitra Thomaidou (Hellenic Pasteur Institute), and Marina Vidaki (University of Crete). The event involves 36-40 hours of lectures and provides opportunities for participants to present their research through oral talks or posters."
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+  series: "Advanced Course and Symposium on Artificial Intelligence & Neuroscience (ACAIN)"
+
+
+- title: "Data Visualization Summer School"
+  year: 2025
+  id: dvss25
+  full_name: "Data Visualization Summer School: Design, communicate, engage 2025"
+  link: "https://malga.unige.it/education/schools/dvss/"
+  deadline: "2025-05-18 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genoa, Italy"
+  date: "July 7 - July 11, 2025"
+  start: 2025-07-07
+  end: 2025-07-11
+  sub: ['ML', 'GenAI']
+  note: "Application deadline: May 18, 2025. Acceptance notification: May 30, 2025. Registration fees: Free for UniGe and Northeastern PhD students; €100 for non-UniGe PhD students and postdocs; €200 for non-UniGe faculty; €400 for professionals."
+  twitter: "https://twitter.com/malga_center"
+  email: "malga@unige.it"
+  description: "The Summer School in Data Visualization aims to equip participants with both fundamental and cutting-edge skills in creating impactful data visualizations for science dissemination, combining traditional design principles with modern AI capabilities. The program includes morning lectures by experts spanning from data visualization practices to the role of generative AI, and afternoon lab sessions where participants work on group projects. Speakers include Prof. Enrico Bertini from Northeastern University (Boston, MA) and faculty members from the MaLGa Center and UniGe's dAD Department. The school is aimed at PhD students of all disciplines, master's thesis students, and professionals who want to master data visualization principles and leverage AI tools to create more impactful and innovative visual storytelling."
+  location:
+    latitude: 44.40498328188538
+    longitude: 8.972239169310429
+  series: "MaLGa Summer Schools"
+
+- title: "Eastern European Machine Learning Summer School"
+  year: 2025
+  id: eeml25
+  full_name: "Eastern European Machine Learning Summer School (EEML) 2025"
+  link: "https://www.eeml.eu/home"
+  deadline: "2025-04-07 23:59:59"
+  timezone: "AOE"
+  place: "Sarajevo, Bosnia and Herzegovina"
+  date: "July 21 - July 26, 2025"
+  start: 2025-07-21
+  end: 2025-07-26
+  sub: ['ML', 'GenAI']
+  note: "Application deadline: April 7, 2025 (23:59 AoE). Notification of acceptance: Early May 2025. Registration opens: Early June 2025."
+  twitter: "https://twitter.com/EEMLcommunity"
+  email: "contact@eeml.eu"
+  image: "https://rit.rakuten.com/wp-content/uploads/2022/03/Annotation-2020-09-02-112910.png"
+  description: "The Eastern European Machine Learning Summer School (EEML) brings together world-class researchers and practitioners in machine learning and artificial intelligence. The 2025 edition features an impressive lineup of speakers including Aaron Courville (Mila), Diana Borsa (Google DeepMind), Ferenc Huszár (University of Cambridge), João Carreira (Google DeepMind), Samy Bengio (Apple, EPFL), and many others. The program also includes tutorials led by experts from Google DeepMind and the University of Oxford. The school is organized in partnership with the Association for the Advancement of Science and Technology, Romanian Association for Artificial Intelligence, and University of Sarajevo, with support from various sponsors and community partners."
+  location:
+    latitude: 43.8563
+    longitude: 18.4131
+  series: "Eastern European Machine Learning (EEML) Summer School"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Fundamentals"
+  year: 2025
+  id: oxmlf25
+  full_name: "Oxford Machine Learning Summer School: MLx Fundamentals 2025"
+  link: "https://www.oxfordml.school/"
+  deadline: "2025-05-01 23:59:59"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "May 1 - May 9, 2025"
+  start: 2025-05-01
+  end: 2025-05-09
+  sub: ['ML', 'Theory']
+  note: "Online only. Registration fee: £150 + VAT. Comprehensive tickets available: £500 (online), £1,700 (hybrid) for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Fundamentals covers foundational topics in Statistical ML and Deep Learning, from the mathematics of ML and optimization to fundamentals of deep learning, NLP, and computer vision. Each day combines theoretical and applied lectures with case studies (hands-on coding). Speakers include Yali Du (King's College London), Yuki Asano (University of Amsterdam), Karsten Kreis (NVIDIA), Ishan Misra (Meta), Chi Jin (Princeton University), Biwei Huang (UC San Diego), Meng Fang (University of Liverpool), and others. The program is organized by AI for Global Goals."
+  location:
+    latitude: 51.7548
+    longitude: -1.2544
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Generative AI"
+  year: 2025
+  id: oxmlg25
+  full_name: "Oxford Machine Learning Summer School: MLx Generative AI 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-06-05 23:59:59"
+  timezone: "Europe/London"
+  place: "London, UK"
+  date: "June 5 - June 7, 2025"
+  start: 2025-06-05
+  end: 2025-06-07
+  sub: ['ML', 'GenAI']
+  note: "Hybrid format (in-person at London School of Economics or online). Registration fees: £600 + VAT (in-person), £250 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Generative AI focuses on building GenAI products, targeting scientists/engineers and product designers/managers. The program covers the latest developments in generative foundation models in language, vision, and more, with a deep dive into emerging research and design patterns in Agentic Workflow and Alignment/Trust. Speakers include Jeff Clune (University of British Columbia/CIFAR/Google DeepMind), Reza Khorshidi (University of Oxford/ELANDI), Danijela Horak (BBC), Peggy Tsai (BigID), Karo Moilanen (Moonsongs Labs), Edward Hughes (DeepMind), Sunil Mallya (FLlip AI), and Sahar Asadi (KING). The event will be held at the London School of Economics."
+  location:
+    latitude: 51.5144
+    longitude: -0.1165
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Health & Bio"
+  year: 2025
+  id: oxmlh25
+  full_name: "Oxford Machine Learning Summer School: MLx Health & Bio 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-08-02 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 2 - August 5, 2025"
+  start: 2025-08-02
+  end: 2025-08-05
+  sub: ['ML', 'Health', 'Bio']
+  note: "Hybrid format (in-person at University of Oxford's Maths Institute or online). Registration fees: £900 + VAT (in-person), £300 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Health & Bio is a masterclass combining theoretical ML talks with applications in healthcare and biomedical sciences/research/technology. Topics range from imaging, proteomics, genomics, and EHR to computational biology, drug discovery, multi-omics, wearables, and more. Speakers include Michael Bronstein (University of Oxford/AITHYRA), Charlotte Deane (University of Oxford), Arthur Gretton (University College London/Google DeepMind), Mireia Crispin (University of Cambridge), Aiden Doherty (University of Oxford), Adam Lewandowski (UK Biobank), Jonathan Passerat-Palmbach (Imperial College London), Hoifung Poon (Microsoft Health), Brian Hie (Stanford University), and many other leading researchers from both academia and industry."
+  location:
+    latitude: 51.7603
+    longitude: -1.2597
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "Oxford Machine Learning Summer School (OxML): MLx Representation Learning & GenAI"
+  year: 2025
+  id: oxmlr25
+  full_name: "Oxford Machine Learning Summer School: MLx Representation Learning & GenAI 2025"
+  link: "https://www.oxfordml.school/2025"
+  deadline: "2025-08-07 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 7 - August 10, 2025"
+  start: 2025-08-07
+  end: 2025-08-10
+  sub: ['ML', 'GenAI', 'CV', 'NLP']
+  note: "Hybrid format (in-person at University of Oxford's Maths Institute or online). Registration fees: £900 + VAT (in-person), £300 + VAT (online). Comprehensive tickets available for all four OxML courses."
+  twitter: "https://twitter.com/GlobalGoalsAI"
+  email: "contact@oxfordml.school"
+  image: "https://static.wixstatic.com/media/9b9d14_6872b3c1af6140a9b7542da5d66cbdd0~mv2.png/v1/fill/w_230,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AI4GG-%20Logo-dark.png"
+  description: "MLx Representation Learning & GenAI covers the latest developments in representation learning, including those behind the success of generative AI. The program features a deep dive into ML in domains such as NLP (including LLMs), computer vision (including foundational/frontier image, video and multi-modal models), Bayesian ML, Reinforcement Learning, Geometrical DL, and more. Speakers include Peyman Milanfar (Google), Aymeric Dieuleveut (École Polytechnique), Abdul Fatir Ansari (AWS AI Labs), Ashley Edwards (Runway), Fazl Barez (University of Oxford), Haitham Bou-Ammar (Huawei), Gerhard Neumann (KIT), Hannaneh Hajishirzi (University of Washington/Allen Institute for AI), David Salinas (University of Washington), Edward Johns (Imperial College London), Ilia Shumailov (Google DeepMind), and workshop leaders from Meta and Hugging Face."
+  location:
+    latitude: 51.7603
+    longitude: -1.2597
+  series: "Oxford Machine Learning Summer School (OxML)"
+
+- title: "BAI Summer School on AI Agents and Agentic Systems"
+  year: 2025
+  id: bai25
+  full_name: "Business Analytics Institute (BAI) Summer School on AI Agents and Agentic Systems 2025"
+  link: "https://www.baieurope.com/summer-school-2025"
+  deadline: "2025-04-15 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Anglet, France"
+  date: "July 3 - July 12, 2025"
+  start: 2025-07-03
+  end: 2025-07-12
+  sub: ['ML', 'GenAI', 'EconAI']
+  note: "Open to upper class/graduate students and working professionals. Registration: January 1 - April 15, 2025. Early bird discounts available until February 28, 2025. Fees: €1545 (session) + €275 (social activities). Housing options available at negotiated rates."
+  twitter: "https://twitter.com/dsign4analytics"
+  email: "info@baieurope.com"
+  image: "https://images.squarespace-cdn.com/content/v1/5cc60d5c20fffe0001f629be/1556484078439-IVAKT2IJOIEFTEU9Q1PP/BAI+logo+6+-+b+color.png?format=1500w"
+  description: "The Business Analytics Institute, together with the ZHAW School of Management and Law, offers a 10-day summer school focusing on the managerial implications of current innovations of AI Agents in Banking and Finance. The program includes case studies, workshops, seminars, and expert testimony from the Banking and Finance sectors, facilitated by industry-recognized experts including Profs. Cielen, Elliott, Hitz, Gellrich, Walter, and Schlenker. Practicums will be run using Python, Rust, and LangChain. The program features company visits with data science teams from traditional banks and Fintech operators, as well as cultural visits to Biarritz, Saint Jean de Luz, and San Sebastián, a Basque cooking class, surfing lessons, and a tour of the 18th frigate 'L'Hermione'."
+  location:
+    latitude: 43.4831
+    longitude: -1.5148
+
+- title: "Gaussian Process Summer School"
+  year: 2025
+  id: gpss25
+  full_name: "Gaussian Process Summer School 2025"
+  link: "https://gpss.cc/gpss25/"
+  deadline: "2025-06-27 23:59:00"
+  timezone: "Europe/London"
+  place: "Manchester, UK"
+  date: "September 08 - September 11, 2025"
+  start: 2025-09-08
+  end: 2025-09-11
+  sub: ['ML', 'Theory', 'Log']
+- title: "Cohere Labs - ML Summer School"
+  year: 2025
+  id: clmlss25
+  full_name: "Cohere Labs - ML Summer School 2025"
+  link: "https://cohere.com/events/Cohere-Labs-ML-Summer-School-2025"
+  deadline: "2025-06-30 23:59:00"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "July 02 - July 14, 2025"
+  start: 2025-07-02
+  end: 2025-07-14
+  sub: ['ML', 'CV', 'NLP', 'KR', 'GenAI', 'Theory', 'Log', 'EML', 'RL']
