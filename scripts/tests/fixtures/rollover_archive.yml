@@ -1,0 +1,13 @@
+# Fixture: archive with one pre-existing entry, used to verify appending.
+- title: Existing Archive School
+  year: 2020
+  id: existing_archive20
+  full_name: "Existing Archive School 2020"
+  link: "https://example.com/archive"
+  deadline: 2020-04-01
+  timezone: "UTC"
+  place: "Archived Place"
+  date: "July 1 - July 5, 2020"
+  start: 2020-07-01
+  end: 2020-07-05
+  sub: ['ML']
