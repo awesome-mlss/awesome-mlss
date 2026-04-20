@@ -1,0 +1,52 @@
+name: Post README preview comment
+
+on:
+  workflow_run:
+    workflows: ['README preview (PR)']
+    types: [completed]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  post-comment:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Download preview artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: readme-preview
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./preview
+
+      - name: Read PR number
+        id: pr
+        run: |
+          number=$(cat ./preview/pr-number.txt)
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Read preview body
+        id: body
+        run: |
+          {
+            echo 'body<<PREVIEW_EOF'
+            cat ./preview/preview.md
+            echo 'PREVIEW_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Find existing preview comment
+        uses: peter-evans/find-comment@v3
+        id: find
+        with:
+          issue-number: ${{ steps.pr.outputs.number }}
+          body-includes: '<!-- readme-preview-bot -->'
+
+      - name: Create or update comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.pr.outputs.number }}
+          comment-id: ${{ steps.find.outputs.comment-id }}
+          body: ${{ steps.body.outputs.body }}
+          edit-mode: replace

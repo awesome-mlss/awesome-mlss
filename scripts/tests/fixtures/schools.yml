@@ -1,0 +1,30 @@
+---
+- title: Alpha School
+  id: alpha26
+  deadline: 2026-04-22
+  start: 2026-06-01
+  end: 2026-06-05
+  place: "Alphaville, France"
+  sub: ["ML", "GenAI"]
+- title: Beta School
+  id: beta26
+  deadline: "2026-04-28 23:59:59"
+  start: 2026-04-30
+  end: 2026-05-10
+  place: "Betatown, Italy"
+  sub: ["CV"]
+  featured: true
+- title: Gamma School
+  id: gamma26
+  deadline: 2026-07-01
+  start: 2026-08-10
+  end: 2026-08-15
+  place: "Gamma City, Spain"
+  sub: ["RL"]
+- title: Delta School
+  id: delta26
+  deadline: TBA
+  start: 2026-05-03
+  end: 2026-05-07
+  place: "Delta, Germany"
+  sub: ["NLP"]

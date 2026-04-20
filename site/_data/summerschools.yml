@@ -7,8 +7,8 @@
   timezone: Europe/Berlin
   place: "Leipzig, Germany"
   date: "June 22 - June 26, 2026"
-  start: 2024-06-22
-  end: 2024-06-26
+  start: 2026-06-22
+  end: 2026-06-26
   sub: ['ML', 'GenAI']
   series: "International Summer School on AI and Big Data"
   description: "The theme is Neuro+Symbolic AI, focusing on an emerging paradigm that combines the strengths of neural learning and symbolic reasoning, augmented with foundations in each of these."
@@ -488,6 +488,7 @@
   deadline: "2025-04-24 13:00:00"
   timezone: "Europe/Rome"
   place: "Norcia, Italy"
+  date: "June 23 - June 27, 2025"
   start: 2025-06-23
   end: 2025-06-27
   sub: ['ML', 'Theory']

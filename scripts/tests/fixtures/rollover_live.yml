@@ -1,0 +1,62 @@
+# Fixture: live summerschools data with a mix of past, future, missing,
+# and unparseable end dates. Used by test_rollover.py.
+- title: Past School Alpha
+  year: 2025
+  id: past_alpha25
+  full_name: "Past School Alpha 2025"
+  link: "https://example.com/a"
+  deadline: 2025-05-01
+  timezone: "UTC"
+  place: "Somewhere"
+  date: "July 1 - July 5, 2025"
+  start: 2025-07-01
+  end: 2025-07-05
+  sub: ['ML']
+- title: Future School Beta
+  year: 2026
+  id: future_beta26
+  full_name: "Future School Beta 2026"
+  link: "https://example.com/b"
+  deadline: 2026-05-01
+  timezone: "UTC"
+  place: "Elsewhere"
+  date: "July 1 - July 5, 2026"
+  start: 2026-07-01
+  end: 2026-07-05
+  sub: ['ML']
+- title: Missing End Gamma
+  year: 2025
+  id: missing_gamma25
+  full_name: "Missing End Gamma 2025"
+  link: "https://example.com/c"
+  deadline: 2025-04-01
+  timezone: "UTC"
+  place: "Nowhere"
+  date: "TBA"
+  start: 2025-08-01
+  end:
+  sub: ['ML']
+- title: Unparseable End Delta
+  year: 2025
+  id: unparseable_delta25
+  full_name: "Unparseable End Delta 2025"
+  link: "https://example.com/d"
+  deadline: 2025-04-01
+  timezone: "UTC"
+  place: "Anywhere"
+  date: "TBA"
+  start: 2025-08-01
+  end: "not a date"
+  sub: ['ML']
+- title: Boundary School Epsilon
+  year: 2026
+  id: boundary_epsilon26
+  full_name: "Boundary School Epsilon 2026"
+  link: "https://example.com/e"
+  deadline: 2026-01-01
+  timezone: "UTC"
+  place: "Boundary Town"
+  date: "January 10 - January 15, 2026"
+  start: 2026-01-10
+  end: 2026-01-15
+  sub: ['ML']
