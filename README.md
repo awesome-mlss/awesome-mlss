@@ -44,7 +44,9 @@ LMH Oxford: Advanced AI - NLP and Large Language Models|Machine Learning, Natura
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+OxML 2026 – MLx Cases|Machine Learning, Reinforcement Learning, Generative AI|Online|Apr 07, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxml_mlx_cases26)|May 07 - May 16, 2026|[Details](https://awesome-mlss.com/summerschool/oxml_mlx_cases26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
