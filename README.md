@@ -35,7 +35,6 @@ Schools with application deadlines in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-UK Robotics Summer School|Robotics|Edinburgh, United Kingdom|May 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/uk_robotics_ss26)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/uk_robotics_ss26)
 Oxford Machine Learning Summer School - MLx HEALTH & BIO|Machine Learning, ML for Health, ML for Biology|Oxford, United Kingdom|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxford_mlxbio26)|Jul 10 - Jul 13, 2026|[Details](https://awesome-mlss.com/summerschool/oxford_mlxbio26)
 OxML 2026 – MLx Representation Learning & Generative AI|Machine Learning, Generative AI|Oxford, United Kingdom & Online|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)|Jul 15 - Jul 18, 2026|[Details](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)
 
