@@ -41,7 +41,9 @@ OxML 2026 – MLx Representation Learning & Generative AI|Machine Learning, Gene
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+Reinforcement Learning Summer School|Reinforcement Learning, Machine Learning|Milan, Italy, IT|Mar 27, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rlss2026)|Jun 03 - Jun 12, 2026|[Details](https://awesome-mlss.com/summerschool/rlss2026)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
