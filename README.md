@@ -33,10 +33,7 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-Title|Topics|Place|Deadline|Dates|Details
------|------|-----|--------|-----|-------
-Oxford Machine Learning Summer School - MLx HEALTH & BIO|Machine Learning, ML for Health, ML for Biology|Oxford, United Kingdom|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxford_mlxbio26)|Jul 10 - Jul 13, 2026|[Details](https://awesome-mlss.com/summerschool/oxford_mlxbio26)
-OxML 2026 – MLx Representation Learning & Generative AI|Machine Learning, Generative AI|Oxford, United Kingdom & Online|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)|Jul 15 - Jul 18, 2026|[Details](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)
+*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
