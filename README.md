@@ -33,7 +33,9 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+Summer School on AI and Big Data|Machine Learning, Generative AI|Leipzig, Germany|Jun 14, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ssaibd2026)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/ssaibd2026)
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
