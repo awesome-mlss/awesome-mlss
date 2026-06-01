@@ -36,6 +36,7 @@ Schools with application deadlines in the next 2 weeks.
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
 Summer School on AI and Big Data|Machine Learning, Generative AI|Leipzig, Germany|Jun 14, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ssaibd2026)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/ssaibd2026)
+Statistics and Learning Theory Summer School|Machine Learning, ML Theory|Aghveran, Armenia|Jun 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/slt2026)|Jul 12 - Jul 19, 2026|[Details](https://awesome-mlss.com/summerschool/slt2026)
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
@@ -43,6 +44,7 @@ Schools starting in the next 2 weeks.
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
 Reinforcement Learning Summer School|Reinforcement Learning, Machine Learning|Milan, Italy, IT|Mar 27, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rlss2026)|Jun 03 - Jun 12, 2026|[Details](https://awesome-mlss.com/summerschool/rlss2026)
+Machine Learning Crash Course at MALGA|Machine Learning|Genoa, Italy|Mar 01, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlcrash_malga26)|Jun 15 - Jun 19, 2026|[Details](https://awesome-mlss.com/summerschool/mlcrash_malga26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
