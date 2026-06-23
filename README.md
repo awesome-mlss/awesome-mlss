@@ -42,9 +42,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-Summer School on AI and Big Data|Machine Learning, Generative AI|Leipzig, Germany|Jun 14, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ssaibd2026)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/ssaibd2026)
-Generative AI Summer School|Generative AI, Natural Language Proc|Rome, Italy|Jun 21, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/gai2026)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/gai2026)
-UK Robotics Summer School|Robotics|Edinburgh, United Kingdom|May 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/uk_robotics_ss26)|Jun 22 - Jun 26, 2026|[Details](https://awesome-mlss.com/summerschool/uk_robotics_ss26)
 MLSS R&S 2026 – Machine Learning Summer School on Reliability & Safety|Machine Learning, Responsible AI, ML Theory|Kraków, Poland|Apr 19, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlss_rs_2026)|Jun 29 - Jul 03, 2026|[Details](https://awesome-mlss.com/summerschool/mlss_rs_2026)
 Machine Learning Summer School on Reliability & Safety|Machine Learning, ML for Science, Knowledge Representation, Responsible AI|Krakow, Poland|Mar 08, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlss-rs26)|Jun 29 - Jul 03, 2026|[Details](https://awesome-mlss.com/summerschool/mlss-rs26)
 LMH Oxford: AI and Machine Learning - Theory and Practice|Machine Learning, Computer Vision, Natural Language Proc|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)
