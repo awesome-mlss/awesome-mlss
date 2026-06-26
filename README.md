@@ -46,6 +46,7 @@ MLSS R&S 2026 – Machine Learning Summer School on Reliability & Safety|Machine
 Machine Learning Summer School on Reliability & Safety|Machine Learning, ML for Science, Knowledge Representation, Responsible AI|Krakow, Poland|Mar 08, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlss-rs26)|Jun 29 - Jul 03, 2026|[Details](https://awesome-mlss.com/summerschool/mlss-rs26)
 LMH Oxford: AI and Machine Learning - Theory and Practice|Machine Learning, Computer Vision, Natural Language Proc|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_aiml_tp26)
 LMH Oxford: Advanced AI - Generative AI and Deep Unsupervised Learning|Machine Learning, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_genai26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_genai26)
+Oxford Machine Learning Summer School - MLx HEALTH & BIO|Machine Learning, ML for Health, ML for Biology|Oxford, United Kingdom|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxford_mlxbio26)|Jul 10 - Jul 13, 2026|[Details](https://awesome-mlss.com/summerschool/oxford_mlxbio26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
