@@ -48,6 +48,7 @@ LMH Oxford: AI and Machine Learning - Theory and Practice|Machine Learning, Comp
 LMH Oxford: Advanced AI - Generative AI and Deep Unsupervised Learning|Machine Learning, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_genai26)|Jun 29 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_genai26)
 Oxford Machine Learning Summer School - MLx HEALTH & BIO|Machine Learning, ML for Health, ML for Biology|Oxford, United Kingdom|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxford_mlxbio26)|Jul 10 - Jul 13, 2026|[Details](https://awesome-mlss.com/summerschool/oxford_mlxbio26)
 Statistics and Learning Theory Summer School|Machine Learning, ML Theory|Aghveran, Armenia|Jun 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/slt2026)|Jul 12 - Jul 19, 2026|[Details](https://awesome-mlss.com/summerschool/slt2026)
+BMVA Computer Vision Summer School|Computer Vision, Machine Learning, Generative AI|Durham, England, UK|Jun 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/bmva-cvss26)|Jul 13 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/bmva-cvss26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
