@@ -40,7 +40,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-BMVA Computer Vision Summer School|Computer Vision, Machine Learning, Generative AI|Durham, England, UK|Jun 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/bmva-cvss26)|Jul 13 - Jul 17, 2026|[Details](https://awesome-mlss.com/summerschool/bmva-cvss26)
 OxML 2026 – MLx Representation Learning & Generative AI|Machine Learning, Generative AI|Oxford, United Kingdom & Online|May 22, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)|Jul 15 - Jul 18, 2026|[Details](https://awesome-mlss.com/summerschool/oxml_mlx_rep_gen_ai26)
 ACVSS 2026 – African Computer Vision Summer School|Computer Vision, Machine Learning|Accra, Ghana|Mar 08, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/acvss_2026)|Jul 19 - Jul 29, 2026|[Details](https://awesome-mlss.com/summerschool/acvss_2026)
 LMH Oxford: Advanced AI - Computer Vision|Machine Learning, Computer Vision, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_cv26)|Jul 20 - Aug 07, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_cv26)
