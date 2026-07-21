@@ -40,7 +40,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-LMH Oxford: Advanced AI - Computer Vision|Machine Learning, Computer Vision, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_cv26)|Jul 20 - Aug 07, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_cv26)
 ProbAI School 2026|Machine Learning, ML Theory|Vilnius, Lithuania|Mar 31, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/probai_2026)|Aug 03 - Aug 07, 2026|[Details](https://awesome-mlss.com/summerschool/probai_2026)
 <!-- UPCOMING:END -->
 
