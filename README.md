@@ -40,7 +40,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-ProbAI School 2026|Machine Learning, ML Theory|Vilnius, Lithuania|Mar 31, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/probai_2026)|Aug 03 - Aug 07, 2026|[Details](https://awesome-mlss.com/summerschool/probai_2026)
 LMH Oxford: Advanced AI - NLP and Large Language Models|Machine Learning, Natural Language Proc, Generative AI|Oxford, UK|May 04, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/lmh_nlp26)|Aug 10 - Aug 28, 2026|[Details](https://awesome-mlss.com/summerschool/lmh_nlp26)
 School on Analytical Connectionism|ML Theory, Cognitive Science|Gothenburg, Sweden|Apr 17, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ac26)|Aug 17 - Aug 28, 2026|[Details](https://awesome-mlss.com/summerschool/ac26)
 <!-- UPCOMING:END -->
