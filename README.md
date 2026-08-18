@@ -38,9 +38,7 @@ Schools with application deadlines in the next 2 weeks.
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-Title|Topics|Place|Deadline|Dates|Details
------|------|-----|--------|-----|-------
-School on Analytical Connectionism|ML Theory, Cognitive Science|Gothenburg, Sweden|Apr 17, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ac26)|Aug 17 - Aug 28, 2026|[Details](https://awesome-mlss.com/summerschool/ac26)
+*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
