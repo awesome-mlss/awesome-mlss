@@ -500,3 +500,20 @@
   note: "Available as residential or online. Rolling admissions."
   email: "vacation.programmes@lmh.ox.ac.uk"
   description: "An advanced course covering attention mechanisms, transformers, large language models, prompting, RLHF, and NLP applications including question answering, translation, and code generation."
+
+- title: "International Computer Vision Summer School (ICVSS)"
+  year: 2026
+  id: icvss26
+  full_name: "International Computer Vision Summer School: Computer Vision for Spatial and Physical Intelligence"
+  link: "https://icvss.dmi.unict.it/icvss2026/"
+  deadline: "2026-04-01 23:59:00"
+  timezone: "Europe/Italy"
+  place: "Sicily, Italy"
+  date: "July 5 - July 10, 2026"
+  start: 2026-07-05
+  end: 2026-07-10
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Partyicipation fee of €625 for Master and Phd students granted by academia, €850 for other academic positions and €1050 for all the others."
+  email: " secretary@icvss.it"
+  description: "The twentieth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision, with a focus on machine perception in embodied systems which learn representations for and from action and interaction for spatial and physical intelligence. The courses will be delivered by world renowned experts in the field, from both academia and industry, and will cover both theoretical and practical aspects of real Computer Vision problems as well as examples of their successful commercialisation. The school aims to provide a stimulating opportunity for young researchers and Ph.D. students. The participants will benefit from direct interaction and discussions with world leaders in Computer Vision. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in a friendly and constructive environment."
+
