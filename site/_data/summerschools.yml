@@ -500,3 +500,22 @@
   note: "Available as residential or online. Rolling admissions."
   email: "vacation.programmes@lmh.ox.ac.uk"
   description: "An advanced course covering attention mechanisms, transformers, large language models, prompting, RLHF, and NLP applications including question answering, translation, and code generation."
+
+- title: "PSI: Scientific Machine Learning"
+  year: 2026
+  id: psisciml26
+  full_name: "Petnica Summer Institute: Summer School on Scientific Machine Learning"
+  link: "https://psi.petnica.rs/2026_ml/description"
+  deadline: "2026-05-15 23:59:00"
+  timezone: "CEST"
+  place: "Valjevo, Serbia"
+  date: "August 1 - August 11, 2026"
+  start: 2026-08-01
+  end: 2026-08-11
+  sub: ['ML', 'SCIML']
+  note: "Scholarships available."
+  email: "psi_mlschool@petnica.rs"
+  description: "The school aims to equip participants with a solid methodological understanding of machine learning and its application in science. We will offer intensive lectures covering both fundamental concepts and applied aspects, with an emphasis on how and why these techniques work in specific scientific settings. The program will combine lectures with hands-on sessions, illustrating how these methods are used in practice across different scientific problems."
+  location:
+    latitude: 44.246253967285156
+    longitude: 19.930805206298828
