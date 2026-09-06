@@ -38,7 +38,9 @@ Schools with application deadlines in the next 2 weeks.
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+IAISS 2026 – International Artificial Intelligence Summer School|Machine Learning, Generative AI, Reinforcement Learning|Castiglione della Pescaia, Tuscany, Italy|Apr 23, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iaiss_2026)|Sep 20 - Sep 24, 2026|[Details](https://awesome-mlss.com/summerschool/iaiss_2026)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
