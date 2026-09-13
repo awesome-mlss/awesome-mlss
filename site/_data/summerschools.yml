@@ -500,3 +500,1599 @@
   note: "Available as residential or online. Rolling admissions."
   email: "vacation.programmes@lmh.ox.ac.uk"
   description: "An advanced course covering attention mechanisms, transformers, large language models, prompting, RLHF, and NLP applications including question answering, translation, and code generation."
+- title: "Lucia Winter School on AI & Robotics"
+  year: 2026
+  id: luciaws26
+  full_name: "Lucia Winter School on AI & Robotics 2026"
+  link: "https://mlscientist.com/lucia-winter-school-ai-robotics-sweden/"
+  deadline: "2026-09-10 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Örebro, Sweden"
+  date: "December 7 - December 11, 2026"
+  start: 2026-12-07
+  end: 2026-12-11
+  sub: ['RO', 'ML']
+  note: "Free to attend."
+  description: "Winter school on AI and robotics organised by Örebro University together with the AI-on-Demand (AIoD) initiative."
+  location:
+    latitude: 59.2753
+    longitude: 15.2134
+
+- title: "Robotics and AI for Materials Chemistry Winter School"
+  year: 2026
+  id: aichemyws26
+  full_name: "The Robotics and AI for Materials Chemistry Winter School 2026"
+  link: "https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/"
+  deadline: "2026-08-24 23:59:59"
+  timezone: "Europe/London"
+  place: "Liverpool, United Kingdom"
+  date: "November 23 - November 27, 2026"
+  start: 2026-11-23
+  end: 2026-11-27
+  sub: ['ML4Science', 'RO']
+  note: "Registration fee: 150 GBP for students, 300 GBP for others."
+  description: "Winter school on robotics and AI for materials chemistry organised by the AIchemy hub at the University of Liverpool."
+  location:
+    latitude: 53.4084
+    longitude: -2.9916
+
+- title: "Federated Machine Learning International Summer School"
+  year: 2026
+  id: flta26
+  full_name: "The 4th Federated Machine Learning International Summer School"
+  link: "https://school.flta-conference.org/"
+  deadline: "2026-08-01 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "October 19 - October 27, 2026"
+  start: 2026-10-19
+  end: 2026-10-27
+  sub: ['ML', 'RAI']
+  note: "Registration fee: USD 900."
+  description: "Fourth edition of the international summer school on federated machine learning, co-located with the FLTA conference and organised with OpenMined and partners."
+  location:
+    latitude: 48.8566
+    longitude: 2.3522
+  series: "Federated Machine Learning International Summer School"
+
+- title: "Big Data Africa School"
+  year: 2026
+  id: bdas26
+  full_name: "6th Big Data Africa School"
+  link: "https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/"
+  deadline: "2026-05-03 23:59:59"
+  timezone: "Africa/Johannesburg"
+  place: "Cape Town, South Africa"
+  date: "October 4 - October 10, 2026"
+  start: 2026-10-04
+  end: 2026-10-10
+  sub: ['DS', 'ML']
+  note: "Open to students from Africa; funding available for selected participants."
+  description: "Sixth edition of the Big Data Africa School organised by the South African Radio Astronomy Observatory (SARAO), covering data science and machine learning for large scientific datasets."
+  location:
+    latitude: -33.9249
+    longitude: 18.4241
+  series: "Big Data Africa School"
+
+- title: "AI for Environmental Data Short Course"
+  year: 2026
+  id: climesai26
+  full_name: "Short Course on Artificial Intelligence for Environmental Data"
+  link: "https://www.climes.se/event/ai-for-environmental-data/"
+  deadline: "2026-05-29 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Gothenburg, Sweden"
+  date: "October 6 - October 7, 2026"
+  start: 2026-10-06
+  end: 2026-10-07
+  sub: ['ML4Science', 'ML']
+  note: "Free to attend."
+  description: "Two-day short course on artificial intelligence for environmental data organised by CLIMES, the Swedish Centre for Impacts of Climate Extremes."
+  location:
+    latitude: 57.7089
+    longitude: 11.9746
+
+- title: "African Fall School on Software Engineering & AI"
+  year: 2026
+  id: aseai26
+  full_name: "African Fall School on Software Engineering & AI (ASEAI 2026)"
+  link: "https://conf.researchr.org/home/aseai-2026"
+  deadline: "2026-09-10 23:59:59"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "September 28 - September 30, 2026"
+  start: 2026-09-28
+  end: 2026-09-30
+  sub: ['ML']
+  note: "Hybrid; online participation is free."
+  description: "Fall school on software engineering and AI organised by ACM SIGSOFT, ENSIAS and Mohammed V University."
+  location:
+    latitude: 34.0209
+    longitude: -6.8416
+
+- title: "WHERE – International Euregio Summer School on Legged Robots"
+  year: 2026
+  id: where26
+  full_name: "WHERE, Walk the Future – International Euregio Summer School on Legged Robots"
+  link: "https://eventi.unitn.it/en/where-walk-future"
+  deadline: "2026-08-16 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Trento, Italy"
+  date: "September 21 - September 27, 2026"
+  start: 2026-09-21
+  end: 2026-09-27
+  sub: ['RO']
+  note: "Early registration: 30 June 2026; late registration: 16 August 2026. Fee: 250 - 420 EUR. Free for PhD and final-year MSc students of UniTN/UniBZ."
+  description: "Summer school on legged robots organised by the University of Trento."
+  location:
+    latitude: 46.0748
+    longitude: 11.1217
+
+- title: "IWR School AI for Science"
+  year: 2026
+  id: iwr26
+  full_name: "IWR School 2026: AI for Science"
+  link: "https://www.iwr.uni-heidelberg.de/en/iwr-school-2026"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Heidelberg, Germany"
+  date: "September 21 - September 25, 2026"
+  start: 2026-09-21
+  end: 2026-09-25
+  sub: ['ML4Science', 'ML']
+  note: "Fee: 400 EUR. Free for members of Heidelberg University / ELIZA."
+  description: "School on AI for science organised by the Interdisciplinary Center for Scientific Computing (IWR) at Heidelberg University and the Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)."
+  location:
+    latitude: 49.3988
+    longitude: 8.6724
+
+- title: "ELLIS Summer School on Autonomous Driving"
+  year: 2026
+  id: ellisad26
+  full_name: "ELLIS Summer School on Autonomous Driving 2026"
+  link: "https://pages.cvc.uab.es/ssadriving/"
+  deadline: "2026-06-08 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Barcelona, Spain"
+  date: "September 15 - September 18, 2026"
+  start: 2026-09-15
+  end: 2026-09-18
+  sub: ['CV', 'RO', 'ML']
+  note: "Fee: 400 EUR for students, 600 EUR for others."
+  description: "Summer school on autonomous driving organised by the Computer Vision Center (CVC), Valeo/Inria and the ELLIS Unit Barcelona."
+  location:
+    latitude: 41.3874
+    longitude: 2.1686
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "ELLIS Summer School Munich"
+  year: 2026
+  id: ellismunich26
+  full_name: "ELLIS Summer School at Munich 2026"
+  link: "https://www.ellismunich.ai/summer-school/index.html"
+  deadline: "2026-06-30 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Munich, Germany"
+  date: "September 14 - September 18, 2026"
+  start: 2026-09-14
+  end: 2026-09-18
+  sub: ['ML']
+  description: "Summer school organised by the ELLIS Unit Munich and the Technical University of Munich (TUM)."
+  location:
+    latitude: 48.1351
+    longitude: 11.582
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "AIMat Summer School on Machine Learning for Molecules"
+  year: 2026
+  id: ml4mol26
+  full_name: "AIMat Summer School Machine Learning for Molecules 2026"
+  link: "https://aimat.iar.kit.edu/ml4mol2026.php"
+  deadline: "2026-05-31 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Karlsruhe, Germany"
+  date: "September 14 - September 18, 2026"
+  start: 2026-09-14
+  end: 2026-09-18
+  sub: ['ML4Science', 'ML']
+  note: "Fee: 200 EUR for students, 500 EUR for faculty, 1000 EUR for others."
+  description: "Summer school on machine learning for molecules and materials organised by the AIMat group at the Karlsruhe Institute of Technology (KIT) with the KIT centers MaTeLiS and KCIST."
+  location:
+    latitude: 49.0069
+    longitude: 8.4037
+
+- title: "PJAIT Summer School on Disinformation Detection and Debunking"
+  year: 2026
+  id: pjait26
+  full_name: "PJAIT International Summer School on Disinformation Detection and Debunking"
+  link: "https://pja.edu.pl/en/pjait-summer-school-disinformation-detection-debunking/"
+  deadline: "2026-06-20 23:59:59"
+  timezone: "Europe/Warsaw"
+  place: "Warsaw, Poland"
+  date: "September 12 - September 18, 2026"
+  start: 2026-09-12
+  end: 2026-09-18
+  sub: ['NLP', 'RAI']
+  note: "Hybrid. Free to attend (NAWA-funded); scholarships covering travel, hotel and meals for 5 international PhD candidates."
+  description: "International summer school on disinformation detection and debunking organised by PJAIT with the University of Koblenz and the Open University of Cyprus."
+  location:
+    latitude: 52.2297
+    longitude: 21.0122
+
+- title: "AIchemy Data-Intensive Science Summer School"
+  year: 2026
+  id: aichemydis26
+  full_name: "AIchemy Data-Intensive Science Summer School 2026"
+  link: "https://aichemy.ac.uk/event/data-intensive-science-school/"
+  deadline: "2026-07-03 23:59:59"
+  timezone: "Europe/London"
+  place: "Liverpool, United Kingdom"
+  date: "September 14 - September 16, 2026"
+  start: 2026-09-14
+  end: 2026-09-16
+  sub: ['DS', 'ML4Science']
+  note: "Fee: 75 GBP."
+  description: "Summer school on data-intensive science organised by AIchemy and the University of Liverpool."
+  location:
+    latitude: 53.4084
+    longitude: -2.9916
+
+- title: "Edinburgh Summer School on Generative AI for Extremes"
+  year: 2026
+  id: gamex26
+  full_name: "Edinburgh Summer School on Generative AI for Extremes"
+  link: "https://gamex-network.github.io/school/"
+  deadline: "2026-07-31 23:59:59"
+  timezone: "Europe/London"
+  place: "Edinburgh, United Kingdom"
+  date: "September 8 - September 11, 2026"
+  start: 2026-09-08
+  end: 2026-09-11
+  sub: ['GenAI', 'ML4Science']
+  note: "Free to attend."
+  description: "Summer school on generative AI for extreme events organised by the Glasgow–Edinburgh Extremes Network (GLE2N)."
+  location:
+    latitude: 55.9533
+    longitude: -3.1883
+
+- title: "Cambridge CCAIM Machine Learning for Healthcare Summer School"
+  year: 2026
+  id: ccaim26
+  full_name: "Cambridge CCAIM Machine Learning for Healthcare Summer School 2026"
+  link: "https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Cambridge, United Kingdom"
+  date: "September 7 - September 11, 2026"
+  start: 2026-09-07
+  end: 2026-09-11
+  sub: ['Health', 'ML']
+  note: "Application deadline and fees to be announced."
+  description: "Summer school on machine learning for healthcare organised by the Cambridge Centre for AI in Medicine (CCAIM)."
+  location:
+    latitude: 52.2053
+    longitude: 0.1218
+  series: "Cambridge CCAIM Machine Learning for Healthcare Summer School"
+
+- title: "Summer School AI4Imaging"
+  year: 2026
+  id: ai4imaging26
+  full_name: "3rd Summer School AI4Imaging"
+  link: "https://radiologie-nuklearmedizin.meduniwien.ac.at/en/about-us/events/3rd-summer-school-al4imaging/"
+  deadline: "2026-05-27 23:59:59"
+  timezone: "Europe/Vienna"
+  place: "Vienna, Austria"
+  date: "September 7 - September 11, 2026"
+  start: 2026-09-07
+  end: 2026-09-11
+  sub: ['CV', 'Health']
+  note: "Fee: 850 EUR."
+  description: "Third edition of the AI4Imaging summer school on AI for medical imaging, organised by the Department of Radiology and Nuclear Medicine at the Medical University of Vienna."
+  location:
+    latitude: 48.2082
+    longitude: 16.3738
+  series: "Summer School AI4Imaging"
+
+- title: "Cambridge Social Data School"
+  year: 2026
+  id: sds26
+  full_name: "Cambridge Social Data School, September 2026"
+  link: "https://www.cdh.cam.ac.uk/about/news/sds-september-2026/"
+  deadline: "2026-06-30 23:59:59"
+  timezone: "Europe/London"
+  place: "Cambridge, United Kingdom"
+  date: "September 7 - September 11, 2026"
+  start: 2026-09-07
+  end: 2026-09-11
+  sub: ['DS']
+  note: "Fee: 750 GBP. Two grants available to cover the fee."
+  description: "Social data science school organised by Cambridge Digital Humanities (CDH) at the University of Cambridge."
+  location:
+    latitude: 52.2053
+    longitude: 0.1218
+
+- title: "Machine Learning Summer School (MLSS) Tübingen"
+  year: 2026
+  id: mlss26
+  full_name: "Machine Learning Summer School (MLSS) 2026"
+  link: "https://mlss2026.is.tuebingen.mpg.de/"
+  deadline: "2026-06-21 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Tübingen, Germany"
+  date: "August 31 - September 11, 2026"
+  start: 2026-08-31
+  end: 2026-09-11
+  sub: ['ML', 'Theory']
+  note: "Fee: 500 - 700 EUR for students, 750 - 1000 EUR for postdocs."
+  description: "The 2026 edition of the Machine Learning Summer School (MLSS) series, hosted by the Max Planck Institute for Intelligent Systems in Tübingen."
+  location:
+    latitude: 48.5216
+    longitude: 9.0576
+  series: "Machine Learning Summer School (MLSS)"
+
+- title: "DIADEM Summer School"
+  year: 2026
+  id: diadem26
+  full_name: "DIADEM Summer School 2026"
+  link: "https://formation.pepr-diadem.fr/summer-school"
+  deadline: "2026-04-30 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Grenoble, France"
+  date: "August 31 - September 4, 2026"
+  start: 2026-08-31
+  end: 2026-09-04
+  sub: ['ML4Science']
+  note: "Fee: 550 - 1000 EUR. Free for students from French universities."
+  description: "Summer school of the DIADEM Academy on AI for the accelerated design of materials."
+  location:
+    latitude: 45.1885
+    longitude: 5.7245
+
+- title: "Reasoning Web Summer School"
+  year: 2026
+  id: rw26
+  full_name: "Reasoning Web Summer School 2026"
+  link: "https://2026.declarativeai.net/reasoning-web"
+  deadline: "2026-07-01 23:59:59"
+  timezone: "Europe/Vilnius"
+  place: "Vilnius, Lithuania"
+  date: "August 27 - August 30, 2026"
+  start: 2026-08-27
+  end: 2026-08-30
+  sub: ['KR', 'Log']
+  note: "Part of Declarative AI 2026."
+  description: "Summer school on reasoning, knowledge representation and the semantic web, organised by Vilnius University and partners as part of Declarative AI 2026."
+  location:
+    latitude: 54.6872
+    longitude: 25.2797
+  series: "Reasoning Web (RW) Summer School"
+
+- title: "SPECIES Summer School"
+  year: 2026
+  id: species26
+  full_name: "SPECIES Summer School 2026"
+  link: "https://species-society.org/summer-school-2026/"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Moraira, Spain"
+  date: "August 24 - August 30, 2026"
+  start: 2026-08-24
+  end: 2026-08-30
+  sub: ['ML']
+  note: "Fee: 350 EUR including accommodation. Travel grants available."
+  description: "Summer school on evolutionary computation and related AI methods organised by the SPECIES Society and the University of Maribor."
+  location:
+    latitude: 38.688
+    longitude: 0.135
+  series: "SPECIES Summer School"
+
+- title: "Machine Learning Photonics Summer School"
+  year: 2026
+  id: mlph26
+  full_name: "Machine Learning Photonics 2026"
+  link: "https://mlph2026.lakecomoschool.org/"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Lake Como, Italy"
+  date: "August 24 - August 28, 2026"
+  start: 2026-08-24
+  end: 2026-08-28
+  sub: ['ML4Science', 'ML']
+  note: "Fee: 650 EUR."
+  description: "School on machine learning for photonics organised by the Lake Como School of Advanced Studies."
+  location:
+    latitude: 45.8139
+    longitude: 9.0834
+
+- title: "DTU Advanced Topics in ML: Tensor Networks for Machine Learning"
+  year: 2026
+  id: dtutensor26
+  full_name: "Advanced Topics in Machine Learning: Tensor Networks for Machine Learning"
+  link: "https://www2.compute.dtu.dk/courses/02901/"
+  deadline: "2026-06-14 23:59:59"
+  timezone: "Europe/Copenhagen"
+  place: "Kongens Lyngby, Denmark"
+  date: "August 24 - August 28, 2026"
+  start: 2026-08-24
+  end: 2026-08-28
+  sub: ['ML', 'Theory']
+  note: "Free for academics and students."
+  description: "PhD summer course on tensor networks for machine learning at DTU Compute, supported by the Novo Nordisk Foundation and the Danish Data Science Academy."
+  location:
+    latitude: 55.7704
+    longitude: 12.5115
+  series: "DTU Advanced Topics in Machine Learning"
+
+- title: "ELLIS Summer School 2026: AI for Research"
+  year: 2026
+  id: ellisfinland26
+  full_name: "ELLIS Summer School 2026: AI for Research"
+  link: "https://www.ellisinstitute.fi/ellis-summer-school-2026"
+  deadline: "2026-05-20 23:59:59"
+  timezone: "Europe/Helsinki"
+  place: "Helsinki, Finland"
+  date: "August 17 - August 21, 2026"
+  start: 2026-08-17
+  end: 2026-08-21
+  sub: ['ML', 'ML4Science']
+  note: "Fee: 350 EUR for students, 500 EUR for academics. Travel grants available."
+  description: "Summer school on AI for research organised by ELLIS Finland and Aalto University."
+  location:
+    latitude: 60.1699
+    longitude: 24.9384
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "Workshop and Summer School on Reliable and Interpretable Deep Learning"
+  year: 2026
+  id: wsridl26
+  full_name: "Workshop and Summer School on Reliable and Interpretable Deep Learning (WS-RIDL 2026)"
+  link: "https://ws-ridl2026.hkmu.edu.hk/index.html"
+  deadline: TBA
+  timezone: "Asia/Hong_Kong"
+  place: "Hong Kong"
+  date: "August 17 - August 21, 2026"
+  start: 2026-08-17
+  end: 2026-08-21
+  sub: ['ML', 'RAI']
+  note: "Free to attend. Check the website for registration details."
+  description: "Workshop and summer school on reliable and interpretable deep learning hosted by Hong Kong Metropolitan University."
+  location:
+    latitude: 22.3193
+    longitude: 114.1694
+
+- title: "Nordic Logic Summer School"
+  year: 2026
+  id: nls26
+  full_name: "Nordic Logic Summer School 2026"
+  link: "https://slss2026.compute.dtu.dk/nordic-logic-school/"
+  deadline: "2026-07-01 23:59:59"
+  timezone: "Europe/Copenhagen"
+  place: "Copenhagen, Denmark"
+  date: "August 17 - August 20, 2026"
+  start: 2026-08-17
+  end: 2026-08-20
+  sub: ['Log']
+  note: "Fee: 1500 DKK for students, 2000 DKK for academics, 2500 DKK for others. A few grants available."
+  description: "Summer school on logic organised by the Technical University of Denmark (DTU)."
+  location:
+    latitude: 55.6761
+    longitude: 12.5683
+  series: "Nordic Logic Summer School"
+
+- title: "UEF Summer School on AI for Computer Games"
+  year: 2026
+  id: uefgames26
+  full_name: "University of Eastern Finland Summer School on AI for Computer Games 2026"
+  link: "https://apply.summerschool.uef.fi/courses/course/128-artificial-intelligence-ai-computer-games"
+  deadline: "2026-06-01 23:59:59"
+  timezone: "Europe/Helsinki"
+  place: "Joensuu, Finland"
+  date: "August 10 - August 21, 2026"
+  start: 2026-08-10
+  end: 2026-08-21
+  sub: ['AI4Games']
+  note: "Fee: 550 EUR. Free for UEF students; reduced fee for partner institutions."
+  description: "Summer school course on artificial intelligence for computer games at the University of Eastern Finland."
+  location:
+    latitude: 62.601
+    longitude: 29.7636
+
+- title: "CN3 Summer School"
+  year: 2026
+  id: cn3ss26
+  full_name: "6th Computational Neuroscience, Neurotechnology and Neuro-inspired AI (CN3) Summer School"
+  link: "https://www.ulster.ac.uk/conference/isrc-cn3-summer-school"
+  deadline: "2026-05-31 23:59:59"
+  timezone: "Europe/London"
+  place: "Derry~Londonderry, Northern Ireland, UK"
+  date: "August 12 - August 19, 2026"
+  start: 2026-08-12
+  end: 2026-08-19
+  sub: ['Neuro', 'ML']
+  note: "In-person deadline 31 May 2026; online registration open after 1 July. Fee: 200 GBP in person, discounted 70 GBP for low-income participants."
+  description: "Sixth edition of the CN3 summer school on computational neuroscience, neurotechnology and neuro-inspired AI, organised by the Intelligent Systems Research Centre at Ulster University."
+  location:
+    latitude: 54.9966
+    longitude: -7.3086
+  series: "CN3 Summer School"
+
+- title: "Learning Analytics and AI in Education Summer Course"
+  year: 2026
+  id: uefla26
+  full_name: "Learning Analytics and Artificial Intelligence in Education Summer Course 2026"
+  link: "https://sites.uef.fi/learning-analytics/learning-analytics-and-artificial-intelligence-in-education-summer-course-2026/"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "Europe/Helsinki"
+  place: "Joensuu, Finland"
+  date: "August 10 - August 14, 2026"
+  start: 2026-08-10
+  end: 2026-08-14
+  sub: ['DS', 'ML']
+  note: "Fee: 500 EUR standard, 300 EUR for exchange students and partners."
+  description: "Summer course on learning analytics and AI in education at the University of Eastern Finland."
+  location:
+    latitude: 62.601
+    longitude: 29.7636
+
+- title: "Ph.D. School on Uncertainty in Machine Learning"
+  year: 2026
+  id: uncertaintyml26
+  full_name: "Ph.D. School on Uncertainty in Machine Learning 2026"
+  link: "https://uncertainty.compute.dtu.dk/"
+  deadline: "2026-06-30 23:59:59"
+  timezone: "Europe/Copenhagen"
+  place: "Svendborg, Denmark"
+  date: "August 10 - August 14, 2026"
+  start: 2026-08-10
+  end: 2026-08-14
+  sub: ['ML', 'Theory']
+  note: "Deadline announced as late June 2026. Fee: 8400 DKK including accommodation."
+  description: "PhD school on uncertainty in machine learning organised jointly by DIKU, DTU, ITU and AAU."
+  location:
+    latitude: 55.0598
+    longitude: 10.6068
+
+- title: "MLIR Summer School"
+  year: 2026
+  id: mlir26
+  full_name: "MLIR Summer School 2026"
+  link: "https://mlir-school.github.io/summer-2026/"
+  deadline: "2026-05-15 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "A Coruña, Spain"
+  date: "August 10 - August 14, 2026"
+  start: 2026-08-10
+  end: 2026-08-14
+  sub: ['EML', 'HW']
+  note: "A few scholarships available."
+  description: "Summer school on the MLIR compiler infrastructure for machine learning, organised by Inria, Deep Green and the University of A Coruña."
+  location:
+    latitude: 43.3623
+    longitude: -8.4115
+
+- title: "Bath Summer School in Machine Learning"
+  year: 2026
+  id: bathml26
+  full_name: "1st Bath Summer School in Machine Learning"
+  link: "https://www.bathmlsummerschool.org/"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Bath, United Kingdom"
+  date: "August 5 - August 7, 2026"
+  start: 2026-08-05
+  end: 2026-08-07
+  sub: ['ML']
+  note: "Fee: 150 GBP without accommodation, 350 GBP with accommodation."
+  description: "First edition of the Bath Summer School in Machine Learning organised by the Centre for AI at the University of Bath."
+  location:
+    latitude: 51.3811
+    longitude: -2.359
+
+- title: "PSI: Scientific Machine Learning"
+  year: 2026
+  id: psiml26
+  full_name: "PSI: Scientific Machine Learning 2026"
+  link: "https://psi.petnica.rs/2026_ml/description"
+  deadline: "2026-05-15 23:59:59"
+  timezone: "Europe/Belgrade"
+  place: "Valjevo, Serbia"
+  date: "August 1 - August 11, 2026"
+  start: 2026-08-01
+  end: 2026-08-11
+  sub: ['ML4Science', 'ML']
+  note: "Fee: 550 EUR including accommodation. A few fee waivers available."
+  description: "Petnica Summer Institute (PSI) school on scientific machine learning at the Petnica Science Center."
+  location:
+    latitude: 44.2719
+    longitude: 19.8908
+  series: "Petnica Summer Institute (PSI) Machine Learning"
+
+- title: "ICTP Advanced School in Applied Machine Learning"
+  year: 2026
+  id: ictpaml26
+  full_name: "Advanced School in Applied Machine Learning: Uncertainty and Robustness of DL Models for Science"
+  link: "https://indico.ictp.it/event/11154/"
+  deadline: "2026-05-09 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Trieste, Italy"
+  date: "July 23 - July 31, 2026"
+  start: 2026-07-23
+  end: 2026-07-31
+  sub: ['ML', 'ML4Science', 'RAI']
+  note: "No registration fee. Limited funding available for participants from developing countries."
+  description: "Advanced school on uncertainty and robustness of deep learning models for science, organised by ICTP, SISSA/TSDS and AREA Science Park."
+  location:
+    latitude: 45.6495
+    longitude: 13.7768
+
+- title: "CAITG AI Winter School Australia"
+  year: 2026
+  id: caitg26
+  full_name: "CAITG AI Winter School 2026"
+  link: "https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-ai-trust-and-governance/caitg-ai-winter-school-2026.html"
+  deadline: TBA
+  timezone: "Australia/Sydney"
+  place: "Sydney, Australia"
+  date: "July 27 - July 30, 2026"
+  start: 2026-07-27
+  end: 2026-07-30
+  sub: ['RAI']
+  note: "Fee: 400 AUD. Check the website for registration dates."
+  description: "AI winter school organised by the Centre for AI, Trust and Governance (CAITG) at the University of Sydney."
+  location:
+    latitude: -33.8688
+    longitude: 151.2093
+
+- title: "AutoML School"
+  year: 2026
+  id: automl26
+  full_name: "6th School on Automated Machine Learning"
+  link: "https://www.automlschool.org/"
+  deadline: "2026-05-30 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Dortmund, Germany"
+  date: "July 27 - July 31, 2026"
+  start: 2026-07-27
+  end: 2026-07-31
+  sub: ['ML']
+  note: "Two application rounds: 15 April 2026 and 30 May 2026. Fee: 350 EUR."
+  description: "Sixth edition of the AutoML School on automated machine learning, organised by TU Dortmund, MCML and partners."
+  location:
+    latitude: 51.5136
+    longitude: 7.4653
+  series: "AutoML School"
+
+- title: "SIPTA Summer School on Imprecise Probabilities"
+  year: 2026
+  id: sipta26
+  full_name: "Summer School on Imprecise Probabilities 2026 (SIPTA Summer School)"
+  link: "https://www.ifi.lmu.de/kiml/en/school26/"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Munich, Germany"
+  date: "July 27 - July 31, 2026"
+  start: 2026-07-27
+  end: 2026-07-31
+  sub: ['Theory', 'ML']
+  note: "SIPTA grants available."
+  description: "Summer school on imprecise probabilities organised by the Chair of AI and Machine Learning and the Department of Statistics at LMU Munich."
+  location:
+    latitude: 48.1351
+    longitude: 11.582
+  series: "SIPTA Summer School"
+
+- title: "European Summer School on Information Retrieval (ESSIR)"
+  year: 2026
+  id: essir26
+  full_name: "The European Summer School on Information Retrieval (ESSIR) 2026"
+  link: "https://essir2026.aimultimedialab.ro/"
+  deadline: "2026-05-03 23:59:59"
+  timezone: "Europe/Bucharest"
+  place: "Bucharest, Romania"
+  date: "July 27 - July 31, 2026"
+  start: 2026-07-27
+  end: 2026-07-31
+  sub: ['DM', 'NLP']
+  note: "Fee: 410 EUR for students, 510 EUR for others."
+  description: "European Summer School on Information Retrieval hosted by the National University of Science and Technology Politehnica Bucharest with TU Wien and CEA LIST."
+  location:
+    latitude: 44.4268
+    longitude: 26.1025
+  series: "European Summer School on Information Retrieval (ESSIR)"
+
+- title: "Lisbon Machine Learning Summer School (LxMLS)"
+  year: 2026
+  id: lxmls26
+  full_name: "The Lisbon Machine Learning Summer School (LxMLS) 2026"
+  link: "http://lxmls.it.pt/2026/"
+  deadline: "2026-04-29 23:59:59"
+  timezone: "Europe/Lisbon"
+  place: "Lisbon, Portugal"
+  date: "July 20 - July 25, 2026"
+  start: 2026-07-20
+  end: 2026-07-25
+  sub: ['NLP', 'ML']
+  note: "Fee: 400 EUR for students, 450 EUR for professors."
+  description: "The Lisbon Machine Learning Summer School, organised by Instituto Superior Técnico (IST), focuses on machine learning for natural language processing."
+  location:
+    latitude: 38.7223
+    longitude: -9.1393
+  series: "Lisbon Machine Learning Summer School (LxMLS)"
+
+- title: "ENFIELD Summer School on Cybersecurity and AI"
+  year: 2026
+  id: enfield26
+  full_name: "ENFIELD Summer School 2026: Cybersecurity and AI (AICYBERSEC2026)"
+  link: "https://enfield-project.eu/enfield-summer-school-2026/"
+  deadline: "2026-06-30 23:59:59"
+  timezone: "Europe/Athens"
+  place: "Mytilene, Lesvos, Greece"
+  date: "July 15 - July 17, 2026"
+  start: 2026-07-15
+  end: 2026-07-17
+  sub: ['ML', 'RAI']
+  note: "Fee: 90 EUR for students, 150 EUR for others; online participation free."
+  description: "Summer school on cybersecurity and AI organised by the ENFIELD network of excellence with TU Chemnitz and the University of the Aegean."
+  location:
+    latitude: 39.1
+    longitude: 26.555
+
+- title: "AI for Science European Summer School"
+  year: 2026
+  id: ai4sci_eu26
+  full_name: "AI for Science European Summer School 2026"
+  link: "https://www.aiforscience.school/"
+  deadline: "2026-05-10 23:59:59"
+  timezone: "Europe/Athens"
+  place: "Athens, Greece"
+  date: "July 16 - July 17, 2026"
+  start: 2026-07-16
+  end: 2026-07-17
+  sub: ['ML4Science']
+  note: "Fee: 100 EUR. Travel grants available."
+  description: "Summer school on AI for science organised by the Hellenic Institute of Advanced Studies."
+  location:
+    latitude: 37.9838
+    longitude: 23.7275
+
+- title: "London Geometry and Machine Learning Summer School (LOGML)"
+  year: 2026
+  id: logml26
+  full_name: "LogML Summer School 2026"
+  link: "https://www.logml.ai/"
+  deadline: "2026-05-10 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
+  sub: ['ML', 'Theory']
+  note: "Fee: 325 GBP for students, 400 GBP for postdocs, 500 GBP for others. A few scholarships available."
+  description: "Summer school on geometry and machine learning organised by researchers from Imperial College London, UCL and partners."
+  location:
+    latitude: 51.5072
+    longitude: -0.1276
+  series: "London Geometry and Machine Learning Summer School (LOGML)"
+
+- title: "SMILES: Summer School of Machine Learning"
+  year: 2026
+  id: smiles26
+  full_name: "SMILES-2026: Summer School of Machine Learning"
+  link: "https://smiles.skoltech.ru"
+  deadline: "2026-05-12 23:59:59"
+  timezone: "Asia/Shanghai"
+  place: "Suzhou, China"
+  date: "July 13 - July 27, 2026"
+  start: 2026-07-13
+  end: 2026-07-27
+  sub: ['ML']
+  note: "Free; accommodation and meals covered. Travel grants available for some participants."
+  description: "Summer School of Machine Learning organised by the Skoltech AI Center and Nanjing University."
+  location:
+    latitude: 31.2989
+    longitude: 120.5853
+  series: "SMILES Summer School of Machine Learning"
+
+- title: "Ritsumeikan Data Science Program"
+  year: 2026
+  id: rdsp26
+  full_name: "Ritsumeikan Data Science Program (RDSP) 2026"
+  link: "https://rsjprwjp.com/2026-rdsp/"
+  deadline: TBA
+  timezone: "Asia/Tokyo"
+  place: "Osaka, Japan"
+  date: "July 15 - July 24, 2026"
+  start: 2026-07-15
+  end: 2026-07-24
+  sub: ['DS']
+  note: "Applications open until capacity is reached. Fee: JPY 120,000 plus JPY 5,000 service fee."
+  description: "Data science summer program organised by Ritsumeikan University."
+  location:
+    latitude: 34.6937
+    longitude: 135.5023
+
+- title: "Winter School in AI and Predictive Agriculture"
+  year: 2026
+  id: plantsuccess26
+  full_name: "2026 Winter School in AI and Predictive Agriculture"
+  link: "https://www.plantsuccess.org/event/winter-school-in-ai-and-predictive-agriculture/"
+  deadline: TBA
+  timezone: "Australia/Brisbane"
+  place: "Brisbane, Australia"
+  date: "July 13 - July 15, 2026"
+  start: 2026-07-13
+  end: 2026-07-15
+  sub: ['ML4Science']
+  note: "Free, in person and online."
+  description: "Winter school on AI and predictive agriculture organised by the ARC Centre of Excellence for Plant Success at the University of Queensland."
+  location:
+    latitude: -27.4698
+    longitude: 153.0251
+
+- title: "ADIA Lab Summer School: Applied AI for the Digital Economy"
+  year: 2026
+  id: adialabchina26
+  full_name: "ADIA Lab Summer School 2026 - Applied AI for the Digital Economy"
+  link: "https://www.adialab.ae/summerschool-2026-china"
+  deadline: "2026-05-22 23:59:59"
+  timezone: "Asia/Shanghai"
+  place: "Shenzhen, China"
+  date: "July 6 - July 17, 2026"
+  start: 2026-07-06
+  end: 2026-07-17
+  sub: ['EconAI', 'ML']
+  note: "Fee: 300 EUR / 350 USD. A few scholarships available."
+  description: "Summer school on applied AI for the digital economy organised by ADIA Lab and Tsinghua University."
+  location:
+    latitude: 22.5431
+    longitude: 114.0579
+  series: "ADIA Lab Summer School"
+
+- title: "IEEE Summer School on Telerobotics and Cyborg Technologies"
+  year: 2026
+  id: ieeetelerobotics26
+  full_name: "2026 IEEE Summer School on Telerobotics and Cyborg Technologies"
+  link: "https://www.ieeesmc.org/telepresence/summerschool/"
+  deadline: "2026-05-01 23:59:59"
+  timezone: "America/New_York"
+  place: "Rochester, NY, USA"
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
+  sub: ['RO']
+  note: "Fee: 250 USD. A few grants available."
+  description: "Summer school organised by the IEEE Systems, Man, and Cybernetics Society and the Rochester Institute of Technology."
+  location:
+    latitude: 43.0846
+    longitude: -77.6743
+
+- title: "School on Machine Learning and AI Methods at LHC"
+  year: 2026
+  id: lhcml26
+  full_name: "School on Machine Learning and AI Methods at LHC"
+  link: "https://indico.global/event/18160/"
+  deadline: TBA
+  timezone: "Asia/Karachi"
+  place: "Karachi, Pakistan"
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
+  sub: ['ML4Science']
+  note: "Free to attend; registration open."
+  description: "School on machine learning and AI methods for LHC physics organised by IBA Karachi, the MODE Collaboration and the University of Delaware."
+  location:
+    latitude: 24.8607
+    longitude: 67.0011
+
+- title: "Systems Meet AI Summer School"
+  year: 2026
+  id: systemsai26
+  full_name: "Systems Meet AI Summer School 2026"
+  link: "https://www.systems-ai.nl/"
+  deadline: TBA
+  timezone: "Europe/Amsterdam"
+  place: "Delft, The Netherlands"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['ML', 'EML']
+  note: "Free to attend; registration open. Travel grants of 250 EUR for PhD and MSc students."
+  description: "Summer school at the intersection of computer systems and AI organised by Delft University of Technology, ACM Europe and 4TU.NIRICT."
+  location:
+    latitude: 52.0116
+    longitude: 4.3571
+
+- title: "Metaheuristics Summer School (MESS)"
+  year: 2026
+  id: mess26
+  full_name: "MESS 2026 - Metaheuristics Summer School"
+  link: "https://www.ants-lab.it/mess2026/"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Catania, Italy"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['ML']
+  note: "Fee: 550 - 700 EUR."
+  description: "Summer school on metaheuristics and optimisation organised by the ANTs Research Laboratory and the University of Catania."
+  location:
+    latitude: 37.5079
+    longitude: 15.083
+  series: "Metaheuristics Summer School (MESS)"
+
+- title: "INIT/AERFAI Seminars on Topics in Machine Learning"
+  year: 2026
+  id: initaerfai26
+  full_name: "The INIT/AERFAI Seminars on Topics in Machine Learning 2026"
+  link: "https://www.init.uji.es/school2026/index.html"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Castellón, Spain"
+  date: "July 8 - July 10, 2026"
+  start: 2026-07-08
+  end: 2026-07-10
+  sub: ['ML', 'CV']
+  note: "Fee: 210 EUR. Free for AERFAI members."
+  description: "Machine learning school organised by the Institute of New Imaging Technologies (INIT) and the Spanish Association for Pattern Recognition and Image Analysis (AERFAI)."
+  location:
+    latitude: 39.9864
+    longitude: -0.0513
+
+- title: "Franco-Moroccan Summer School on Artificial Intelligence"
+  year: 2026
+  id: fmssai26
+  full_name: "2nd International Summer School on Artificial Intelligence of the Franco-Moroccan Research Center 2026"
+  link: "https://scai.sorbonne-universite.fr/events/2nd-summer-school-maroc?r=19"
+  deadline: "2026-05-01 23:59:59"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['ML']
+  description: "Second international summer school on AI organised by Sorbonne University, CNRS and partners of the Franco-Moroccan research centre."
+  location:
+    latitude: 34.0209
+    longitude: -6.8416
+
+- title: "IEEE RAS Embodied Intelligence Summer School"
+  year: 2026
+  id: ieeeras26
+  full_name: "IEEE RAS Embodied Intelligence Summer School 2026"
+  link: "https://www.ucl.ac.uk/engineering/computer-science/study/ieee-ras-embodied-intelligence-summer-school"
+  deadline: "2026-05-24 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['RO', 'ML']
+  note: "Fee: 300 GBP."
+  description: "Summer school on embodied intelligence organised by UCL and the IEEE Robotics and Automation Society."
+  location:
+    latitude: 51.5072
+    longitude: -0.1276
+
+- title: "AI for Human-Robot Interaction Summer School"
+  year: 2026
+  id: aihri26
+  full_name: "AI for Human–Robot Interaction Summer School 2026"
+  link: "https://aihumanrobot.sciencesconf.org/?lang=en"
+  deadline: "2026-04-25 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Nancy, France"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['RO', 'HCI']
+  note: "Fee: 540 EUR for students, 600 EUR for faculty, 900 EUR for industry."
+  description: "Summer school on AI for human-robot interaction organised by the Human-Centered Robotics team at Inria/Loria."
+  location:
+    latitude: 48.6921
+    longitude: 6.1844
+
+- title: "EUSFLAT European Summer School on Fuzzy Logic and Applications"
+  year: 2026
+  id: sfla26
+  full_name: "The EUSFLAT VII European Summer School on Fuzzy Logic and Applications (SFLA 2026)"
+  link: "https://eusflat.org/summer-school-2026/"
+  deadline: "2026-05-10 23:59:59"
+  timezone: "Europe/Warsaw"
+  place: "Warsaw, Poland"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['Log', 'KR']
+  note: "Fee: 250 - 300 EUR. Grants available for EUSFLAT members."
+  description: "Seventh EUSFLAT summer school on fuzzy logic and applications, organised by Warsaw University of Technology and the Polish Society for Fuzzy Sets."
+  location:
+    latitude: 52.2297
+    longitude: 21.0122
+  series: "EUSFLAT Summer School on Fuzzy Logic and Applications"
+
+- title: "ELLIS Summer School on Machine Learning for Healthcare and Biology"
+  year: 2026
+  id: ellismcr26
+  full_name: "ELLIS Summer School on Machine Learning for Healthcare and Biology 2026"
+  link: "https://www.ellismcr.org/summerschool"
+  deadline: "2026-05-30 23:59:59"
+  timezone: "Europe/London"
+  place: "Manchester, United Kingdom"
+  date: "July 7 - July 9, 2026"
+  start: 2026-07-07
+  end: 2026-07-09
+  sub: ['Health', 'Bio', 'ML']
+  note: "Fee: 150 EUR."
+  description: "Summer school on machine learning for healthcare and biology organised by ELLIS and the University of Manchester."
+  location:
+    latitude: 53.4808
+    longitude: -2.2426
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "European Summer School on Artificial Intelligence (ESSAI)"
+  year: 2026
+  id: essai26
+  full_name: "European Summer School on Artificial Intelligence (ESSAI 2026)"
+  link: "https://essai2026.eu/"
+  deadline: TBA
+  timezone: "Europe/Vienna"
+  place: "Vienna, Austria"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['ML', 'KR']
+  note: "A limited number of scholarships available."
+  description: "The 2026 edition of the European Summer School on Artificial Intelligence, hosted by TU Wien and WU Wien."
+  location:
+    latitude: 48.2082
+    longitude: 16.3738
+  series: "European Summer School on Artificial Intelligence (ESSAI)"
+
+- title: "Seeing Through the Algorithms: ML & AI for Economists"
+  year: 2026
+  id: ubecon26
+  full_name: "Seeing Through the Algorithms: A Summer School on Machine Learning & AI for Economists"
+  link: "https://www.ub.edu/school-economics/summer-school-2026-1/"
+  deadline: "2026-03-20 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Barcelona, Spain"
+  date: "July 6 - July 10, 2026"
+  start: 2026-07-06
+  end: 2026-07-10
+  sub: ['EconAI', 'ML']
+  note: "Fee: 475 EUR for students, 700 EUR for others. Up to 5 scholarships available."
+  description: "Summer school on machine learning and AI for economists organised by the University of Barcelona School of Economics."
+  location:
+    latitude: 41.3874
+    longitude: 2.1686
+
+- title: "EuADS Automated Data Science Summer School"
+  year: 2026
+  id: euads26
+  full_name: "EuADS Automated Data Science Summer School 2026"
+  link: "https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/"
+  deadline: TBA
+  timezone: "Europe/Luxembourg"
+  place: "Luxembourg"
+  date: "July 5 - July 8, 2026"
+  start: 2026-07-05
+  end: 2026-07-08
+  sub: ['DS']
+  note: "Fee: 150 - 250 EUR."
+  description: "Summer school on automated data science organised by the European Association for Data Science (EuADS)."
+  location:
+    latitude: 49.6116
+    longitude: 6.1319
+
+- title: "UCL Medical Image Computing Summer School (MedICSS)"
+  year: 2026
+  id: medicss26
+  full_name: "UCL Medical Image Computing Summer School (MedICSS) 2026"
+  link: "https://www.ucl.ac.uk/hawkes-institute/ucl-medical-image-computing-and-surgical-sciences-medicss-summer-school"
+  deadline: "2026-04-24 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "June 29 - July 3, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['Health', 'CV']
+  note: "Fee: 250 - 350 GBP. Fee waivers for lower-income countries; reduced fee for online participation."
+  description: "Summer school on medical image computing organised by the UCL Centre for Medical Image Computing (CMIC) and the Hawkes Institute."
+  location:
+    latitude: 51.5072
+    longitude: -0.1276
+  series: "UCL Medical Image Computing Summer School (MedICSS)"
+
+- title: "IEEE SMCS Summer School on AI for Cognitive Technologies (ISACT)"
+  year: 2026
+  id: isact26
+  full_name: "2026 IEEE SMCS International Summer School on Artificial Intelligence for Cognitive Technologies"
+  link: "https://isact-org.github.io/"
+  deadline: "2026-05-15 23:59:59"
+  timezone: "Asia/Singapore"
+  place: "Singapore"
+  date: "June 29 - July 3, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['ML', 'CogSci']
+  note: "Fee: 400 USD for students, 700 USD for non-students."
+  description: "International summer school on AI for cognitive technologies organised by Otto von Guericke University Magdeburg and NTU Singapore under the IEEE SMC Society."
+  location:
+    latitude: 1.3521
+    longitude: 103.8198
+
+- title: "Summer School on Advancing Scientific Discovery with AI"
+  year: 2026
+  id: ai4science_caen26
+  full_name: "3rd Summer School on Advancing Scientific Discovery with AI"
+  link: "https://ai4science2026.sciencesconf.org/"
+  deadline: "2026-04-25 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Caen, France"
+  date: "June 29 - July 3, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['ML4Science']
+  note: "Fee: 100 EUR."
+  description: "Third edition of the summer school on advancing scientific discovery with AI, organised by ENSICAEN, CNRS and partners."
+  location:
+    latitude: 49.1829
+    longitude: -0.3707
+
+- title: "Hi! Paris Summer School: AI and Data for Science, Business, and Society"
+  year: 2026
+  id: hiparis26
+  full_name: "AI and Data for Science, Business, and Society 2026"
+  link: "https://hi-paris.fr/research/summer-school/"
+  deadline: "2026-05-31 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "June 29 - July 3, 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: ['DS', 'ML']
+  note: "Fee: 50 EUR for students, 200 EUR for postdocs, 250 EUR for faculty."
+  description: "Summer school on AI and data for science, business and society organised by Hi! Paris and HEC Paris."
+  location:
+    latitude: 48.8566
+    longitude: 2.3522
+  series: "Hi! Paris Summer School"
+
+- title: "Exeter Machine Learning Summer School"
+  year: 2026
+  id: exeterml26
+  full_name: "Exeter Machine Learning Summer School 2026"
+  link: "https://computerscience.exeter.ac.uk/machine-learning-summer-school/"
+  deadline: "2026-06-12 23:59:59"
+  timezone: "Europe/London"
+  place: "Exeter, United Kingdom"
+  date: "June 23 - July 3, 2026"
+  start: 2026-06-23
+  end: 2026-07-03
+  sub: ['ML']
+  note: "Fee: 1250 GBP."
+  description: "Machine learning summer school organised by the University of Exeter."
+  location:
+    latitude: 50.7184
+    longitude: -3.5339
+
+- title: "ICAI Summer School"
+  year: 2026
+  id: icai26
+  full_name: "ICAI Summer School 2026"
+  link: "https://www.eventbrite.com/e/tickets-icai-summer-school-june-29th-30th-2026-1383489738049"
+  deadline: "2026-05-03 23:59:59"
+  timezone: "Europe/Amsterdam"
+  place: "Amsterdam, The Netherlands"
+  date: "June 29 - June 30, 2026"
+  start: 2026-06-29
+  end: 2026-06-30
+  sub: ['ML']
+  note: "Fee: 90 EUR."
+  description: "Two-day summer school organised by the Innovation Center for Artificial Intelligence (ICAI) at Lab42 Amsterdam."
+  location:
+    latitude: 52.3676
+    longitude: 4.9041
+
+- title: "AHLI Health AI Summer Camp"
+  year: 2026
+  id: ahli26
+  full_name: "AHLI Health AI Summer Camp 2026"
+  link: "https://ahli.cc/summercamp/"
+  deadline: "2026-04-15 23:59:59"
+  timezone: "America/New_York"
+  place: "Washington DC, USA"
+  date: "June 22 - June 28, 2026"
+  start: 2026-06-22
+  end: 2026-06-28
+  sub: ['Health', 'ML']
+  note: "Full scholarships available for students."
+  description: "Health AI summer camp organised by the Association for Health Learning and Inference (AHLI)."
+  location:
+    latitude: 38.9072
+    longitude: -77.0369
+
+- title: "Learning Theory Summer School"
+  year: 2026
+  id: ltss26
+  full_name: "Learning Theory Summer School 2026"
+  link: "https://ltsscopenhagen.github.io/"
+  deadline: TBA
+  timezone: "Europe/Copenhagen"
+  place: "Copenhagen, Denmark"
+  date: "June 22 - June 25, 2026"
+  start: 2026-06-22
+  end: 2026-06-25
+  sub: ['Theory', 'ML']
+  description: "Summer school on learning theory organised by the University of Copenhagen."
+  location:
+    latitude: 55.6761
+    longitude: 12.5683
+
+- title: "Summer School on AI and Games"
+  year: 2026
+  id: aigames26
+  full_name: "Summer School on AI and Games 2026"
+  link: "https://school.gameaibook.org/"
+  deadline: "2026-03-31 23:59:59"
+  timezone: "Europe/Amsterdam"
+  place: "Leiden, The Netherlands"
+  date: "June 15 - June 19, 2026"
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: ['AI4Games']
+  note: "Fee: 500 EUR for students, 850 EUR for professionals. A few scholarships available."
+  description: "Summer school on AI and games organised by researchers from the University of Malta, NYU Tandon and partners."
+  location:
+    latitude: 52.1601
+    longitude: 4.497
+  series: "AI and Games Summer School"
+
+- title: "AI and ML for Earth System Modeling and Prediction"
+  year: 2026
+  id: fers26
+  full_name: "AI and Machine Learning for Earth System Modeling and Prediction"
+  link: "https://www.fersschool.it/courses/ai-and-machine-learning-for-earth-system-modeling-and-prediction/"
+  deadline: "2026-05-03 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Bertinoro, Italy"
+  date: "June 8 - June 19, 2026"
+  start: 2026-06-08
+  end: 2026-06-19
+  sub: ['ML4Science']
+  note: "Fee: 1800 EUR including accommodation."
+  description: "Course on AI and machine learning for Earth system modelling and prediction at the University Residential Center of Bertinoro (CE.U.B.)."
+  location:
+    latitude: 44.149
+    longitude: 12.1353
+
+- title: "UCBM Summer School on AI in Health and Life Sciences"
+  year: 2026
+  id: ucbm26
+  full_name: "Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences"
+  link: "https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/"
+  deadline: TBA
+  timezone: "Europe/Rome"
+  place: "Rome, Italy"
+  date: "June 13 - June 29, 2026"
+  start: 2026-06-13
+  end: 2026-06-29
+  sub: ['Health', 'Bio']
+  note: "Fee: 600 EUR; reduced fee for students."
+  description: "Summer school on AI in health and life sciences organised by Università Campus Bio-Medico di Roma."
+  location:
+    latitude: 41.9028
+    longitude: 12.4964
+
+- title: "VIA Madrid Summer School"
+  year: 2026
+  id: viamadrid26
+  full_name: "VIA Madrid Summer School 2026 (2nd Edition)"
+  link: "https://viamadrid.csic.es/"
+  deadline: "2026-05-17 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Madrid, Spain"
+  date: "June 15 - June 17, 2026"
+  start: 2026-06-15
+  end: 2026-06-17
+  sub: ['ML']
+  note: "Free; limited to 25 places."
+  description: "Second edition of the VIA Madrid summer school organised by UC3M, CSIC, UAM and UPM."
+  location:
+    latitude: 40.4168
+    longitude: -3.7038
+
+- title: "ESDIP–MICCAI–ASDP Summer School in Computational Pathology"
+  year: 2026
+  id: compath26
+  full_name: "1st ESDIP–MICCAI–ASDP Summer School in Computational Pathology"
+  link: "https://www.ecdp2026.org/summer-school/"
+  deadline: "2026-04-23 23:59:59"
+  timezone: "Europe/Vienna"
+  place: "Graz, Austria"
+  date: "June 15 - June 16, 2026"
+  start: 2026-06-15
+  end: 2026-06-16
+  sub: ['Health', 'CV']
+  note: "Fee: 150 - 250 EUR."
+  description: "First summer school on computational pathology organised by the Medical University of Graz, MICCAI and the European Society of Digital and Integrative Pathology."
+  location:
+    latitude: 47.0707
+    longitude: 15.4395
+
+- title: "Columbia University Machine Learning Summer School"
+  year: 2026
+  id: columbiamlss26
+  full_name: "Columbia University Machine Learning Summer School 2026"
+  link: "https://cfe.columbia.edu/content/mlss2"
+  deadline: "2026-03-22 23:59:59"
+  timezone: "America/New_York"
+  place: "New York, USA"
+  date: "June 15 - June 26, 2026"
+  start: 2026-06-15
+  end: 2026-06-26
+  sub: ['ML']
+  note: "Fee: 800 USD. Limited travel support available."
+  description: "Machine learning summer school organised by Columbia University with NYU CDS and Cornell Tech."
+  location:
+    latitude: 40.8075
+    longitude: -73.9626
+
+- title: "Machine Learning and Advanced Statistics (MLAS) Summer School"
+  year: 2026
+  id: mlas26
+  full_name: "Machine Learning and Advanced Statistics (MLAS) Summer School 2026"
+  link: "https://cig.fi.upm.es/mlas/"
+  deadline: "2026-06-30 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Madrid, Spain"
+  date: "June 8 - June 19, 2026"
+  start: 2026-06-08
+  end: 2026-06-19
+  sub: ['ML', 'Theory']
+  note: "Early bird: 31 May 2026; regular: 30 June 2026. Fee: 300 EUR for students, 425 EUR for others."
+  description: "Summer school on machine learning and advanced statistics organised by Universidad Politécnica de Madrid (UPM) and the ELLIS Unit Madrid."
+  location:
+    latitude: 40.4168
+    longitude: -3.7038
+  series: "Machine Learning and Advanced Statistics (MLAS) Summer School"
+
+- title: "International Summer Academy on AI in Healthcare, Medicine, and Biology"
+  year: 2026
+  id: biocomplexity26
+  full_name: "23rd International Summer Academy on AI in Healthcare, Medicine, and Biology"
+  link: "http://2026.biocomplexitysummerschool.org/"
+  deadline: "2026-03-15 23:59:59"
+  timezone: "Europe/Athens"
+  place: "Chalkida, Greece"
+  date: "June 7 - June 13, 2026"
+  start: 2026-06-07
+  end: 2026-06-13
+  sub: ['Health', 'Bio']
+  note: "Fee: 1500 USD."
+  description: "23rd edition of the international summer academy on AI in healthcare, medicine and biology, organised by IEEE EMBS."
+  location:
+    latitude: 38.4636
+    longitude: 23.595
+
+- title: "Computational Intelligence in the Age of LLMs"
+  year: 2026
+  id: iitpcis26
+  full_name: "Computational Intelligence in the Age of LLMs"
+  link: "https://sites.google.com/view/iitpieeecis"
+  deadline: "2026-05-10 23:59:59"
+  timezone: "Europe/London"
+  place: "Liverpool, United Kingdom"
+  date: "June 5 - June 9, 2026"
+  start: 2026-06-05
+  end: 2026-06-09
+  sub: ['ML', 'GenAI']
+  note: "Early-bird deadline 10 May 2026. Fee: 70 USD / 2000 INR."
+  description: "School on computational intelligence in the age of large language models organised by the IEEE CIS Student Branch Chapter at IIT Patna."
+  location:
+    latitude: 53.4084
+    longitude: -2.9916
+
+- title: "International Summer School on Biometrics, Behavior, and Vision"
+  year: 2026
+  id: biometrics26
+  full_name: "International Summer School for Advanced Studies on Biometrics, Behavior, and Vision"
+  link: "https://biometrics.uniss.it"
+  deadline: "2026-02-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Alghero, Italy"
+  date: "June 8 - June 12, 2026"
+  start: 2026-06-08
+  end: 2026-06-12
+  sub: ['CV']
+  note: "Fee: 1950 EUR for students, 2600 EUR otherwise."
+  description: "International summer school on biometrics, behaviour and vision sponsored by IAPR, IEEE and EURASIP."
+  location:
+    latitude: 40.558
+    longitude: 8.319
+
+- title: "PWF Palestine: Summer School on Machine Learning"
+  year: 2026
+  id: pwfml26
+  full_name: "PWF Palestine: Summer School on Machine Learning"
+  link: "https://indico.ictp.it/event/11325/"
+  deadline: "2026-04-25 23:59:59"
+  timezone: "Asia/Amman"
+  place: "Amman, Jordan"
+  date: "June 1 - June 8, 2026"
+  start: 2026-06-01
+  end: 2026-06-08
+  sub: ['ML']
+  note: "No fee. Some grants available."
+  description: "Summer school on machine learning organised by the German Jordanian University and ICTP under the Physics Without Frontiers programme."
+  location:
+    latitude: 31.9454
+    longitude: 35.9284
+
+- title: "ADIA Lab Summer School: Responsible AI in the Generative and Agentic AI Era"
+  year: 2026
+  id: adialabrai26
+  full_name: "ADIA Lab Summer School: Responsible AI in the Generative and Agentic AI Era"
+  link: "https://www.adialab.ae/summerschool-2026-rai"
+  deadline: "2026-03-15 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Granada, Spain"
+  date: "May 4 - May 14, 2026"
+  start: 2026-05-04
+  end: 2026-05-14
+  sub: ['RAI', 'GenAI']
+  note: "Fee: 250 EUR."
+  description: "Summer school on responsible AI organised by ADIA Lab and the Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI) at the University of Granada."
+  location:
+    latitude: 37.1773
+    longitude: -3.5986
+  series: "ADIA Lab Summer School"
+
+- title: "Spring School on Learning Over Time (LOT 2.0)"
+  year: 2026
+  id: lot26
+  full_name: "Spring School on Learning Over Time (LOT 2.0)"
+  link: "https://lot2-spring-school.cttc.es/"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Barcelona, Spain"
+  date: "April 27 - April 30, 2026"
+  start: 2026-04-27
+  end: 2026-04-30
+  sub: ['ML']
+  note: "Fee: 500 EUR for academia, 700 EUR for industry."
+  description: "Spring school on learning over time organised by the Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)."
+  location:
+    latitude: 41.3874
+    longitude: 2.1686
+
+- title: "AIces – International School on the Cognitive, Ethical, and Societal Dimensions of AI"
+  year: 2026
+  id: aices26
+  full_name: "1st International School on the Cognitive, Ethical, and Societal Dimensions of AI (AIces 2026)"
+  link: "https://aices.irdta.eu/2026/"
+  deadline: TBA
+  timezone: "Europe/Lisbon"
+  place: "Porto, Portugal"
+  date: "March 30 - April 3, 2026"
+  start: 2026-03-30
+  end: 2026-04-03
+  sub: ['RAI', 'CogSci']
+  note: "Rolling registration deadlines from 25 November 2025. Fee: 340 - 670 EUR. A limited number of scholarships available."
+  description: "First international school on the cognitive, ethical and societal dimensions of AI organised by IRDTA."
+  location:
+    latitude: 41.1579
+    longitude: -8.6291
+
+- title: "Arabic NLP School"
+  year: 2026
+  id: arabicnlp26
+  full_name: "The Second Arabic NLP School"
+  link: "https://arabicnlpschool2026.sigarab.org/"
+  deadline: "2026-01-31 23:59:59"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "March 24, 2026"
+  start: 2026-03-24
+  end: 2026-03-24
+  sub: ['NLP']
+  note: "Free to attend."
+  description: "Second Arabic NLP School organised by the ACL Special Interest Group on Arabic Natural Language Processing (SIGARAB)."
+  location:
+    latitude: 34.0209
+    longitude: -6.8416
+  series: "Arabic NLP School"
+
+- title: "SAIL Spring School on Resilience and AI"
+  year: 2026
+  id: sail26
+  full_name: "SAIL Spring School Resilience and AI 2026"
+  link: "https://indico.uni-paderborn.de/event/133/overview/"
+  deadline: "2026-01-05 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Paderborn, Germany"
+  date: "March 17 - March 19, 2026"
+  start: 2026-03-17
+  end: 2026-03-19
+  sub: ['ML', 'RAI']
+  note: "Free to attend."
+  description: "Spring school on resilience and AI organised by Paderborn University within the SAIL project."
+  location:
+    latitude: 51.7189
+    longitude: 8.7575
+
+- title: "ELLIS Winter School on AI for Earth System, Hazards & Climate Extremes"
+  year: 2026
+  id: ellisws_athens26
+  full_name: "ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"
+  link: "https://meditwin-project.eu/ai4eo-winter-school/"
+  deadline: "2026-01-02 23:59:59"
+  timezone: "Europe/Athens"
+  place: "Athens, Greece"
+  date: "March 16 - March 20, 2026"
+  start: 2026-03-16
+  end: 2026-03-20
+  sub: ['ML4Science']
+  note: "Fee: 350 EUR. A few scholarships available."
+  description: "Winter school on AI for Earth system science, hazards and climate extremes organised by the National Technical University of Athens and ELLIS."
+  location:
+    latitude: 37.9838
+    longitude: 23.7275
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "Winter School on Social Robotics, AI and Multimedia (SoRAIM)"
+  year: 2026
+  id: soraim26
+  full_name: "Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM 2026)"
+  link: "https://project.inria.fr/soraim/"
+  deadline: "2025-12-09 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Autrans, France"
+  date: "February 9 - February 13, 2026"
+  start: 2026-02-09
+  end: 2026-02-13
+  sub: ['RO', 'HCI']
+  note: "Fee: 700 EUR including accommodation."
+  description: "Winter school on social robotics, AI and multimedia organised with NAVER LABS Europe and Inria."
+  location:
+    latitude: 45.1756
+    longitude: 5.545
+  series: "Winter School on Social Robotics, AI and Multimedia (SoRAIM)"
+
+- title: "IAS Winter School: Cryptography and Machine Learning"
+  year: 2026
+  id: ai4iws26
+  full_name: "IAS Winter School 2026: Cryptography and Machine Learning"
+  link: "https://ai4i.it/ias-winter-school-2026/"
+  deadline: "2026-01-19 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Torino, Italy"
+  date: "February 2 - February 5, 2026"
+  start: 2026-02-02
+  end: 2026-02-05
+  sub: ['ML']
+  note: "Free to attend. Travel support available."
+  description: "Winter school on cryptography and machine learning organised by the Italian Institute of Artificial Intelligence for Industry (AI4I)."
+  location:
+    latitude: 45.0703
+    longitude: 7.6869
+
+- title: "IAPR/IEEE Winter School on Biometrics"
+  year: 2026
+  id: wsb26
+  full_name: "IAPR/IEEE Winter School on Biometrics 2026"
+  link: "https://www.comp.hkbu.edu.hk/wsb2026/"
+  deadline: "2025-11-29 23:59:59"
+  timezone: "Asia/Shanghai"
+  place: "Shenzhen, China"
+  date: "January 25 - January 29, 2026"
+  start: 2026-01-25
+  end: 2026-01-29
+  sub: ['CV']
+  note: "Fee: 5500 - 7000 CNY. Student grants available."
+  description: "Winter school on biometrics organised by Hong Kong Baptist University with IAPR and IEEE."
+  location:
+    latitude: 22.5431
+    longitude: 114.0579
+  series: "IAPR/IEEE Winter School on Biometrics"
