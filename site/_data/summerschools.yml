@@ -760,7 +760,7 @@
   id: ccaim26
   full_name: "Cambridge CCAIM Machine Learning for Healthcare Summer School 2026"
   link: "https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/"
-  deadline: TBA
+  deadline: "2026-09-07 23:59:59"
   timezone: "Europe/London"
   place: "Online"
   date: "September 7 - September 11, 2026"
@@ -872,7 +872,7 @@
   id: species26
   full_name: "SPECIES Summer School 2026"
   link: "https://species-society.org/summer-school-2026/"
-  deadline: TBA
+  deadline: "2026-08-26 23:59:59"
   timezone: "Europe/Madrid"
   place: "Moraira, Spain"
   date: "August 26 - August 31, 2026"
@@ -947,7 +947,7 @@
   id: wsridl26
   full_name: "Workshop and Summer School on Reliable and Interpretable Deep Learning (WS-RIDL 2026)"
   link: "https://ws-ridl2026.hkmu.edu.hk/index.html"
-  deadline: TBA
+  deadline: "2026-08-17 23:59:59"
   timezone: "Asia/Hong_Kong"
   place: "Hong Kong"
   date: "August 17 - August 21, 2026"
@@ -1075,7 +1075,7 @@
   id: bathml26
   full_name: "1st Bath Summer School in Machine Learning"
   link: "https://www.bathmlsummerschool.org/"
-  deadline: TBA
+  deadline: "2026-08-05 23:59:59"
   timezone: "Europe/London"
   place: "Bath, United Kingdom"
   date: "August 5 - August 7, 2026"
@@ -1130,7 +1130,7 @@
   id: caitg26
   full_name: "CAITG AI Winter School 2026"
   link: "https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-ai-trust-and-governance/caitg-ai-winter-school-2026.html"
-  deadline: TBA
+  deadline: "2026-07-27 23:59:59"
   timezone: "Australia/Sydney"
   place: "Sydney, Australia"
   date: "July 27 - July 30, 2026"
@@ -1316,7 +1316,7 @@
   id: plantsuccess26
   full_name: "2026 Winter School in AI and Predictive Agriculture"
   link: "https://www.plantsuccess.org/event/winter-school-in-ai-and-predictive-agriculture/"
-  deadline: TBA
+  deadline: "2026-07-13 23:59:59"
   timezone: "Australia/Brisbane"
   place: "Brisbane, Australia"
   date: "July 13 - July 15, 2026"
@@ -1572,7 +1572,7 @@
   id: euads26
   full_name: "EuADS Automated Data Science Summer School 2026"
   link: "https://www.euads.org/summer-school-2026/"
-  deadline: TBA
+  deadline: "2026-07-05 23:59:59"
   timezone: "Europe/Luxembourg"
   place: "Luxembourg"
   date: "July 5 - July 8, 2026"
@@ -1773,7 +1773,7 @@
   id: ucbm26
   full_name: "Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences"
   link: "https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/"
-  deadline: TBA
+  deadline: "2026-06-15 23:59:59"
   timezone: "Europe/Rome"
   place: "Rome, Italy"
   date: "June 15 - June 19, 2026"
@@ -1955,7 +1955,7 @@
   id: lot26
   full_name: "Spring School on Learning Over Time (LOT 2.0)"
   link: "https://lot2-spring-school.cttc.es/"
-  deadline: TBA
+  deadline: "2026-04-27 23:59:59"
   timezone: "Europe/Madrid"
   place: "Barcelona, Spain"
   date: "April 27 - April 30, 2026"
