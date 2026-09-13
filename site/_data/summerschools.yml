@@ -762,12 +762,12 @@
   link: "https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/"
   deadline: TBA
   timezone: "Europe/London"
-  place: "Cambridge, United Kingdom"
+  place: "Online"
   date: "September 7 - September 11, 2026"
   start: 2026-09-07
   end: 2026-09-11
   sub: ['Health', 'ML']
-  note: "Application deadline and fees to be announced."
+  note: "Delivered entirely online (UK time). Registration open with no fixed deadline."
   description: "Summer school on machine learning for healthcare organised by the Cambridge Centre for AI in Medicine (CCAIM)."
   location:
     latitude: 52.2053
@@ -875,11 +875,11 @@
   deadline: TBA
   timezone: "Europe/Madrid"
   place: "Moraira, Spain"
-  date: "August 24 - August 30, 2026"
-  start: 2026-08-24
-  end: 2026-08-30
+  date: "August 26 - August 31, 2026"
+  start: 2026-08-26
+  end: 2026-08-31
   sub: ['ML']
-  note: "Fee: 350 EUR including accommodation. Travel grants available."
+  note: "Places allocated first come, first served; no fixed deadline. Fee: 350 EUR including accommodation. Travel grants available."
   description: "Summer school on evolutionary computation and related AI methods organised by the SPECIES Society and the University of Maribor."
   location:
     latitude: 38.688
@@ -954,7 +954,7 @@
   start: 2026-08-17
   end: 2026-08-21
   sub: ['ML', 'RAI']
-  note: "Free to attend. Check the website for registration details."
+  note: "Free to attend. No registration deadline published."
   description: "Workshop and summer school on reliable and interpretable deep learning hosted by Hong Kong Metropolitan University."
   location:
     latitude: 22.3193
@@ -1082,7 +1082,7 @@
   start: 2026-08-05
   end: 2026-08-07
   sub: ['ML']
-  note: "Fee: 150 GBP without accommodation, 350 GBP with accommodation."
+  note: "No registration deadline published. Fee: 150 GBP without accommodation, 350 GBP with accommodation."
   description: "First edition of the Bath Summer School in Machine Learning organised by the Centre for AI at the University of Bath."
   location:
     latitude: 51.3811
@@ -1137,7 +1137,7 @@
   start: 2026-07-27
   end: 2026-07-30
   sub: ['RAI']
-  note: "Fee: 400 AUD. Check the website for registration dates."
+  note: "Competitive application, cohort capped at 25; no deadline published. Fee: 400 AUD, payable on offer."
   description: "AI winter school organised by the Centre for AI, Trust and Governance (CAITG) at the University of Sydney."
   location:
     latitude: -33.8688
@@ -1293,20 +1293,20 @@
     longitude: 120.5853
   series: "SMILES Summer School of Machine Learning"
 
-- title: "Ritsumeikan Data Science Program"
+- title: "Ritsumeikan Data Science Program (Winter)"
   year: 2026
   id: rdsp26
-  full_name: "Ritsumeikan Data Science Program (RDSP) 2026"
-  link: "https://rsjprwjp.com/2026-rdsp/"
-  deadline: TBA
+  full_name: "Ritsumeikan Data Science Program (RDSP) Winter 2026"
+  link: "https://rsjprwjp.com/2026w-rdsp/"
+  deadline: "2026-09-30 23:59:59"
   timezone: "Asia/Tokyo"
   place: "Osaka, Japan"
-  date: "July 15 - July 24, 2026"
-  start: 2026-07-15
-  end: 2026-07-24
+  date: "December 15 - December 21, 2026"
+  start: 2026-12-15
+  end: 2026-12-21
   sub: ['DS']
-  note: "Applications open until capacity is reached. Fee: JPY 120,000 plus JPY 5,000 service fee."
-  description: "Data science summer program organised by Ritsumeikan University."
+  note: "Application period 1 - 30 September 2026; documents and payment due 16 October 2026. Held at the Osaka Ibaraki Campus. Fee: JPY 120,000 plus JPY 5,000 service fee."
+  description: "Winter edition of the Ritsumeikan Data Science Program, a short-term data science programme for international students organised by Ritsumeikan University."
   location:
     latitude: 34.6937
     longitude: 135.5023
@@ -1323,7 +1323,7 @@
   start: 2026-07-13
   end: 2026-07-15
   sub: ['ML4Science']
-  note: "Free, in person and online."
+  note: "Free, in person and online. No registration deadline published."
   description: "Winter school on AI and predictive agriculture organised by the ARC Centre of Excellence for Plant Success at the University of Queensland."
   location:
     latitude: -27.4698
@@ -1371,14 +1371,14 @@
   id: lhcml26
   full_name: "School on Machine Learning and AI Methods at LHC"
   link: "https://indico.global/event/18160/"
-  deadline: TBA
+  deadline: "2026-07-05 23:59:59"
   timezone: "Asia/Karachi"
   place: "Karachi, Pakistan"
   date: "July 13 - July 17, 2026"
   start: 2026-07-13
   end: 2026-07-17
   sub: ['ML4Science']
-  note: "Free to attend; registration open."
+  note: "No registration fee. Registration open 24 May - 5 July 2026."
   description: "School on machine learning and AI methods for LHC physics organised by IBA Karachi, the MODE Collaboration and the University of Delaware."
   location:
     latitude: 24.8607
@@ -1389,14 +1389,14 @@
   id: systemsai26
   full_name: "Systems Meet AI Summer School 2026"
   link: "https://www.systems-ai.nl/"
-  deadline: TBA
+  deadline: "2026-06-22 23:59:59"
   timezone: "Europe/Amsterdam"
   place: "Delft, The Netherlands"
   date: "July 6 - July 10, 2026"
   start: 2026-07-06
   end: 2026-07-10
   sub: ['ML', 'EML']
-  note: "Free to attend; registration open. Travel grants of 250 EUR for PhD and MSc students."
+  note: "Free to attend. Registration deadline 22 June 2026; notification by 24 June. Travel grants of 250 EUR for PhD and MSc students."
   description: "Summer school at the intersection of computer systems and AI organised by Delft University of Technology, ACM Europe and 4TU.NIRICT."
   location:
     latitude: 52.0116
@@ -1426,14 +1426,14 @@
   id: initaerfai26
   full_name: "The INIT/AERFAI Seminars on Topics in Machine Learning 2026"
   link: "https://www.init.uji.es/school2026/index.html"
-  deadline: TBA
+  deadline: "2026-06-10 23:59:59"
   timezone: "Europe/Madrid"
   place: "Castellón, Spain"
   date: "July 8 - July 10, 2026"
   start: 2026-07-08
   end: 2026-07-10
   sub: ['ML', 'CV']
-  note: "Fee: 210 EUR. Free for AERFAI members."
+  note: "Early registration by 10 June 2026 (210 EUR); late registration afterwards (300 EUR). Free for AERFAI members."
   description: "Machine learning school organised by the Institute of New Imaging Technologies (INIT) and the Spanish Association for Pattern Recognition and Image Analysis (AERFAI)."
   location:
     latitude: 39.9864
@@ -1535,14 +1535,14 @@
   id: essai26
   full_name: "European Summer School on Artificial Intelligence (ESSAI 2026)"
   link: "https://essai2026.eu/"
-  deadline: TBA
+  deadline: "2026-06-15 23:59:59"
   timezone: "Europe/Vienna"
   place: "Vienna, Austria"
   date: "July 6 - July 10, 2026"
   start: 2026-07-06
   end: 2026-07-10
   sub: ['ML', 'KR']
-  note: "A limited number of scholarships available."
+  note: "Early registration until 15 May 2026, late until 15 June 2026, last-minute from 16 June until capacity is reached. Student fee: 525 / 625 / 725 EUR. A limited number of scholarships available."
   description: "The 2026 edition of the European Summer School on Artificial Intelligence, hosted by TU Wien and WU Wien."
   location:
     latitude: 48.2082
@@ -1571,7 +1571,7 @@
   year: 2026
   id: euads26
   full_name: "EuADS Automated Data Science Summer School 2026"
-  link: "https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/"
+  link: "https://www.euads.org/summer-school-2026/"
   deadline: TBA
   timezone: "Europe/Luxembourg"
   place: "Luxembourg"
@@ -1579,7 +1579,7 @@
   start: 2026-07-05
   end: 2026-07-08
   sub: ['DS']
-  note: "Fee: 150 - 250 EUR."
+  note: "Theme: Data Science and AI meet Economics. No registration deadline published. Fee: 150 - 250 EUR."
   description: "Summer school on automated data science organised by the European Association for Data Science (EuADS)."
   location:
     latitude: 49.6116
@@ -1718,13 +1718,14 @@
   id: ltss26
   full_name: "Learning Theory Summer School 2026"
   link: "https://ltsscopenhagen.github.io/"
-  deadline: TBA
+  deadline: "2026-05-26 09:00:00"
   timezone: "Europe/Copenhagen"
   place: "Copenhagen, Denmark"
   date: "June 22 - June 25, 2026"
   start: 2026-06-22
   end: 2026-06-25
   sub: ['Theory', 'ML']
+  note: "Registration deadline 26 May 2026 at 09:00. Fee: 1000 DKK (summer school), 500 DKK (workshop)."
   description: "Summer school on learning theory organised by the University of Copenhagen."
   location:
     latitude: 55.6761
@@ -1775,11 +1776,11 @@
   deadline: TBA
   timezone: "Europe/Rome"
   place: "Rome, Italy"
-  date: "June 13 - June 29, 2026"
-  start: 2026-06-13
-  end: 2026-06-29
+  date: "June 15 - June 19, 2026"
+  start: 2026-06-15
+  end: 2026-06-19
   sub: ['Health', 'Bio']
-  note: "Fee: 600 EUR; reduced fee for students."
+  note: "Summer school 15 - 17 June, followed by the co-located Ital-IA 2026 conference on 18 - 19 June. No fixed registration deadline. Fee: 600 EUR; 180 EUR for UCBM and national PhD programme students."
   description: "Summer school on AI in health and life sciences organised by Università Campus Bio-Medico di Roma."
   location:
     latitude: 41.9028
@@ -1961,7 +1962,7 @@
   start: 2026-04-27
   end: 2026-04-30
   sub: ['ML']
-  note: "Fee: 500 EUR for academia, 700 EUR for industry."
+  note: "Registration open with no fixed deadline; poster abstracts due 12 April 2026. Fee: 500 EUR for academia, 700 EUR for industry."
   description: "Spring school on learning over time organised by the Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)."
   location:
     latitude: 41.3874
@@ -1972,14 +1973,14 @@
   id: aices26
   full_name: "1st International School on the Cognitive, Ethical, and Societal Dimensions of AI (AIces 2026)"
   link: "https://aices.irdta.eu/2026/"
-  deadline: TBA
+  deadline: "2025-12-13 23:59:59"
   timezone: "Europe/Lisbon"
   place: "Porto, Portugal"
-  date: "March 30 - April 3, 2026"
+  date: "March 30 - April 2, 2026"
   start: 2026-03-30
-  end: 2026-04-03
+  end: 2026-04-02
   sub: ['RAI', 'CogSci']
-  note: "Rolling registration deadlines from 25 November 2025. Fee: 340 - 670 EUR. A limited number of scholarships available."
+  note: "Staggered early-registration deadlines (4 October 2025, 13 December 2025, and later tiers). Fee: 340 - 670 EUR depending on registration date. A limited number of scholarships available."
   description: "First international school on the cognitive, ethical and societal dimensions of AI organised by IRDTA."
   location:
     latitude: 41.1579
