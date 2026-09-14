@@ -378,6 +378,7 @@
   location:
     latitude: 69.6492
     longitude: 18.9553
+  series: "Northern Lights Deep Learning Winter School"
 
 - title: "Annual Nepal AI School"
   year: 2025
@@ -2169,3 +2170,301 @@
     latitude: 22.5431
     longitude: 114.0579
   series: "IAPR/IEEE Winter School on Biometrics"
+
+- title: "Bumblekite Machine Learning Spring School in Health, Care and Biosciences"
+  year: 2027
+  id: bumblekite27
+  full_name: "Bumblekite 2027 – Machine Learning Spring School in Health, Care and Biosciences"
+  link: "https://www.bumblekite.com/bumblekite-27"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Cambridge, United Kingdom"
+  date: "April 11 - April 18, 2027"
+  start: 2027-04-11
+  end: 2027-04-18
+  sub: ['Health', 'Bio', 'ML']
+  note: "Application deadline not yet published; applying is free and a registration fee applies for accepted participants. Subscribe to the Bumblekite newsletter for updates."
+  email: "team@bumblekite.com"
+  description: "Bumblekite 2027 is a machine learning spring school on health, care and biosciences held at the Ray Dolby Centre, Cavendish Laboratory, University of Cambridge, with lectures, tutorials and a social programme for participants interested in real-world ML applications in these sectors."
+  image: "https://images.squarespace-cdn.com/content/v1/5e176b36a659cc3920d4038c/1598711702923-U9G274MDT9BPOXBH2Q2L/Bumblekite_logomark_.png"
+  location:
+    latitude: 52.2053
+    longitude: 0.1218
+  series: "Bumblekite Machine Learning Summer School in Health"
+
+- title: "Generative Modeling Spring School (GeMSS)"
+  year: 2027
+  id: gemss27
+  full_name: "Generative Modeling Spring School (GeMSS) 2027"
+  link: "https://gemss.ai/2027/"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Madrid, Spain"
+  date: "March 15 - March 19, 2027"
+  start: 2027-03-15
+  end: 2027-03-19
+  sub: ['GenAI', 'ML']
+  note: "Application deadline and fees to be announced (separate PhD student, academic and industry fee categories)."
+  description: "GeMSS 2027, hosted by Universidad Carlos III de Madrid with Inria and DTU, covers deep generative models including latent variable models, diffusion and flow-based models and autoregressive models, with three days of foundational lectures followed by invited talks on state-of-the-art research."
+  location:
+    latitude: 40.4168
+    longitude: -3.7038
+  series: "Generative Modeling Summer School"
+
+- title: "Northern Lights Deep Learning Winter School"
+  year: 2027
+  id: nldl27
+  full_name: "Northern Lights Deep Learning (NLDL) Winter School 2027"
+  link: "https://www.nldl.org/program/winter-school"
+  deadline: TBA
+  timezone: "Europe/Oslo"
+  place: "Tromsø, Norway"
+  date: "January 11 - January 15, 2027"
+  start: 2027-01-11
+  end: 2027-01-15
+  sub: ['ML', 'GenAI', 'CV', 'RAI']
+  note: "Registration opens later in 2026; programme under development. Co-located with the NLDL 2027 conference (12 - 14 January). 2.5 ECTS credits."
+  email: "puneet.sharma@uit.no"
+  description: "Five-day winter school at UiT The Arctic University of Norway with tutorials, keynotes and practical sessions. Announced 2027 topics include deep ordinal representations for trustworthy AI, evaluating large language models beyond accuracy, Arctic AI, and agentic AI and AI-assisted coding."
+  image: "https://cdn.prod.website-files.com/5fa571c043be8951f0c8d150/699d8c330bf6c38bdff570d0_nldl2027_banner.png"
+  location:
+    latitude: 69.6492
+    longitude: 18.9553
+  series: "Northern Lights Deep Learning Winter School"
+
+- title: "Winter School on Social Robotics, AI and Multimedia (SoRAIM)"
+  year: 2027
+  id: soraim27
+  full_name: "ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM'27)"
+  link: "https://project.inria.fr/soraim/"
+  deadline: TBA
+  timezone: "Europe/Paris"
+  place: "Autrans, France"
+  date: "February 1 - February 5, 2027"
+  start: 2027-02-01
+  end: 2027-02-05
+  sub: ['RO', 'HCI', 'CV']
+  note: "Rolling admissions: applications open 1 September 2026 and are processed in batches; selected applicants pay within 10 days of notification. Fee: 700 EUR (shared room) or 850 EUR (single room) including accommodation, most meals and transport from Grenoble."
+  description: "The ACM Europe Winter School on Social Robotics, AI and Multimedia brings together researchers from computer vision, speech processing and human-robot interaction with a shared interest in socially intelligent systems, through expert-led courses, hands-on sessions and networking in a mountain retreat near Grenoble."
+  image: "https://project.inria.fr/soraim/files/2026/05/cropped-header_whitebackground_2027.png"
+  location:
+    latitude: 45.1756
+    longitude: 5.545
+  series: "Winter School on Social Robotics, AI and Multimedia (SoRAIM)"
+
+- title: "IAPR/IEEE Winter School on Biometrics"
+  year: 2027
+  id: wsb27
+  full_name: "IAPR/IEEE Winter School on Biometrics 2027"
+  link: "https://www.comp.hkbu.edu.hk/wsb2027/"
+  deadline: "2026-11-29 23:59:59"
+  timezone: "Asia/Shanghai"
+  place: "Shenzhen, China"
+  date: "January 17 - January 21, 2027"
+  start: 2027-01-17
+  end: 2027-01-21
+  sub: ['CV', 'GenAI', 'RAI']
+  note: "Online application opens 16 September 2026; deadline 29 November 2026 (GMT+8). Early registration before 30 November: 4500 CNY students, 5500 CNY IAPR/IEEE members, 6000 CNY others; late registration 5500 / 6500 / 7000 CNY. Student grants via IAPR and the IEEE Biometrics Council."
+  email: "wsb2027@comp.hkbu.edu.hk"
+  description: "Winter school organised by Hong Kong Baptist University, the Institute of Automation of the Chinese Academy of Sciences and SUSTech on the theme of next-generation biometrics and behaviour science: multimodal foundation models, generative and agentic AI, presentation attack detection, template protection and fairness."
+  image: "https://www.comp.hkbu.edu.hk/wsb2027/images/banner.png"
+  location:
+    latitude: 22.5431
+    longitude: 114.0579
+  series: "IAPR/IEEE Winter School on Biometrics"
+
+- title: "GeMAIHc – International School on Generative & Multimodal AI for Healthcare"
+  year: 2027
+  id: gemaihc27
+  full_name: "GeMAIHc 2027 – 1st International School on Generative & Multimodal AI for Healthcare"
+  link: "https://gemaihc.irdta.eu/2027/"
+  deadline: "2027-01-28 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Milan, Italy"
+  date: "February 1 - February 5, 2027"
+  start: 2027-02-01
+  end: 2027-02-05
+  sub: ['GenAI', 'Health', 'ML']
+  note: "Ten staggered early-registration deadlines from 22 June 2026 (340 EUR) to 6 January 2027 (610 EUR); regular registration until 28 January 2027 (640 EUR); on-site 670 EUR. Reduced rate for Politecnico di Milano PhD students; free for Human Technopole PhD students."
+  email: "david@irdta.eu"
+  description: "School organised by IRDTA and Human Technopole on generative and multimodal AI for biomedical research, clinical decision-making and healthcare delivery, with three parallel courses, a research symposium and a team hackathon."
+  image: "https://gemaihc.irdta.eu/2027/wp-content/uploads/sites/2/2026/05/logo_web_gemaihc_outlined.svg"
+  location:
+    latitude: 45.4642
+    longitude: 9.19
+
+- title: "CV4Ecology Workshop"
+  year: 2027
+  id: cv4ecology27
+  full_name: "CV4Ecology 2027 – 5th Computer Vision for Ecology Workshop"
+  link: "https://cv4ecology.csail.mit.edu/call_for_applications.html"
+  deadline: "2026-06-13 23:59:59"
+  timezone: "America/New_York"
+  place: "Front Royal, Virginia, USA"
+  date: "January 13 - January 29, 2027"
+  start: 2027-01-13
+  end: 2027-01-29
+  sub: ['CV', 'ML4Science', 'ML']
+  note: "Applications closed 13 June 2026 (AoE). Hybrid: remote component 13 - 15 January, in person at the Smithsonian Conservation Biology Institute 18 - 29 January. Fee: 2823 USD covering accommodation, meals, compute and instruction."
+  email: "cv4ecology@csail.mit.edu"
+  description: "Two-and-a-half-week hands-on intensive course in computer vision for ecology and conservation, run jointly by Caltech and MIT CSAIL for graduate students, postdocs and early-career researchers in ecology."
+  location:
+    latitude: 38.9187
+    longitude: -78.1944
+  series: "CV4Ecology Workshop"
+
+- title: "Machine Learning Summer School (MLSS) Okinawa"
+  year: 2027
+  id: mlss27
+  full_name: "Machine Learning Summer School 2027 – Okinawa (MLSS 2027)"
+  link: "https://oist.github.io/mlss2027okinawa/"
+  deadline: "2026-10-10 23:59:59"
+  timezone: "Asia/Tokyo"
+  place: "Onna, Okinawa, Japan"
+  date: "March 1 - March 12, 2027"
+  start: 2027-03-01
+  end: 2027-03-12
+  sub: ['ML', 'Theory', 'NLP', 'GenAI']
+  note: "Applications open 1 August 2026; poster abstracts due 30 September; CV and references due 10 October 2026; acceptance notices 1 November; registration 10 - 30 November. Fee after acceptance: 60,000 JPY students, 120,000 JPY academics, 170,000 JPY professionals. On-site accommodation arranged by OIST."
+  email: "mlss2027@oist.jp"
+  description: "Two-week intensive school on fundamental and cutting-edge machine learning and statistical inference, co-organised by OIST, the Institute of Statistical Mathematics and RIKEN AIP for around 200 master's and PhD-level participants, following MLSS Okinawa 2024."
+  image: "https://groups.oist.jp/sites/default/files/eventimg/2508/OIST%20WORKSHOP%20LOGO_2_12.jpg"
+  location:
+    latitude: 26.4658
+    longitude: 127.8317
+  series: "Machine Learning Summer School (MLSS)"
+
+- title: "Prob_AI Hub Winter School on Probabilistic AI"
+  year: 2027
+  id: probaihub27
+  full_name: "Prob_AI Hub Winter School 2027 – Mathematical Foundations of Probabilistic AI"
+  link: "https://www.probai.ac.uk/events/event/?id=407a03e5-a96f-4e78-99a9-2bc6ed3ae5f0"
+  deadline: "2026-07-09 23:59:59"
+  timezone: "Europe/London"
+  place: "Bristol, United Kingdom"
+  date: "January 5 - January 8, 2027"
+  start: 2027-01-05
+  end: 2027-01-08
+  sub: ['Theory', 'ML', 'RL']
+  note: "Applications closed 9 July 2026. Free to attend; participants cover travel and accommodation. Access Fund available for UK-based applicants from under-represented communities or with access-related costs."
+  email: "probaihub@lancaster.ac.uk"
+  description: "Second Probabilistic AI Winter School of the Prob_AI Hub, held at the University of Bristol, with leading speakers on the mathematical foundations of AI including causality, computational optimal transport, operator learning, reinforcement learning, ML for PDEs and neural processes."
+  location:
+    latitude: 51.4545
+    longitude: -2.5879
+  series: "Prob_AI Hub Winter School"
+
+- title: "Khipu – Latin American Meeting in Artificial Intelligence"
+  year: 2027
+  id: khipu27
+  full_name: "KHIPU 2027 – Latin American Meeting in Artificial Intelligence"
+  link: "https://khipu.ai/"
+  deadline: "2026-09-07 23:59:59"
+  timezone: "America/Sao_Paulo"
+  place: "São Paulo, Brazil"
+  date: "April 5 - April 9, 2027"
+  start: 2027-04-05
+  end: 2027-04-09
+  sub: ['ML', 'RL', 'GenAI']
+  note: "Applications opened 20 July 2026 and were extended to 7 September 2026; selection results expected November 2026. Scholarships covering accommodation and travel available for selected participants."
+  email: "info@khipu.ai"
+  description: "Khipu is the largest gathering of students, researchers and innovators in AI and machine learning across Latin America, run by the Latin American AI Institute to advance regional ML talent, research and international collaboration. The 2027 edition follows Santiago 2025."
+  image: "https://khipu.ai/wp-content/uploads/2025/03/khipu_2023_logo_diapo.png"
+  location:
+    latitude: -23.5505
+    longitude: -46.6333
+  series: "Khipu Latin American Meeting in Artificial Intelligence"
+
+- title: "MenaML Winter School"
+  year: 2026
+  id: menaml26
+  full_name: "MenaML Winter School 2026 (2nd edition)"
+  link: "https://www.mena.ml/"
+  deadline: "2026-01-24 23:59:59"
+  timezone: "Asia/Riyadh"
+  place: "Thuwal, Saudi Arabia"
+  date: "January 24 - January 29, 2026"
+  start: 2026-01-24
+  end: 2026-01-29
+  sub: ['ML', 'GenAI', 'NLP', 'CV']
+  note: "Second edition, hosted in partnership with KAUST. No application deadline was published on the site."
+  description: "The Middle East and North Africa Machine Learning (MenaML) Winter School empowers the next generation of AI researchers from the region with lectures and practical sessions from leading researchers."
+  location:
+    latitude: 22.3095
+    longitude: 39.1047
+  series: "MenaML Winter School"
+
+- title: "ELLIS Winter School on Foundation Models"
+  year: 2026
+  id: fomo26
+  full_name: "ELLIS Winter School on Foundation Models (FoMo) 2026"
+  link: "https://ivi.fnwi.uva.nl/ellis/events/winter-school-on-foundation-models-fomo-2026-registration-opens-on-14-november-2025/"
+  deadline: "2025-12-14 23:59:59"
+  timezone: "Europe/Amsterdam"
+  place: "Amsterdam, Netherlands"
+  date: "March 24 - March 27, 2026"
+  start: 2026-03-24
+  end: 2026-03-27
+  sub: ['GenAI', 'ML', 'NLP', 'CV']
+  note: "Application deadline 14 December 2025; results in January 2026. Fee: 350 EUR for students and postdocs, 550 EUR for industry; fee waivers available."
+  email: "ellisinfo-science@uva.nl"
+  description: "Winter school on foundation models organised by the ELLIS Unit Amsterdam with support from ELIAS and ELLIOT, held at Tolhuistuin, Amsterdam."
+  location:
+    latitude: 52.3676
+    longitude: 4.9041
+  series: "ELLIS Winter School on Foundation Models (FoMo)"
+
+- title: "Umeå Winter School on Ethical, Legal and Societal Aspects of AI"
+  year: 2026
+  id: umeaws26
+  full_name: "Winter School on Ethical, Legal, and Societal (ELS) Aspects of Artificial Intelligence and Autonomous Systems 2026"
+  link: "https://mlwinterschoolumea.github.io/"
+  deadline: "2026-02-10 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Umeå, Sweden"
+  date: "March 11 - March 13, 2026"
+  start: 2026-03-11
+  end: 2026-03-13
+  sub: ['RAI', 'ML']
+  note: "Registration and poster-abstract deadline 10 February 2026. Fee: 1500 SEK students, 2500 SEK faculty, 4000 SEK others."
+  email: "monowar@cs.umu.se"
+  description: "Three-day winter school at Umeå University on the ethical, legal and societal aspects of AI and autonomous systems."
+  location:
+    latitude: 63.8258
+    longitude: 20.263
+  series: "Umeå Winter School on Responsible AI"
+
+- title: "Deep Learning for Medical Imaging School (DLMI)"
+  year: 2026
+  id: dlmi26
+  full_name: "7th Summer School on Deep Learning for Medical Imaging (DLMI) 2026"
+  link: "https://event.fourwaves.com/dlmi2026"
+  deadline: "2026-06-15 23:59:59"
+  timezone: "America/Montreal"
+  place: "Montreal, Canada"
+  date: "June 15 - June 19, 2026"
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: ['Health', 'CV', 'ML']
+  note: "Seventh edition, hosted at École de technologie supérieure (ÉTS). The school alternates between Lyon (CREATIS) and Montreal."
+  description: "Summer school on deep learning for medical imaging organised by ÉTS Montreal and Université de Sherbrooke together with CREATIS Lyon, covering foundations and recent advances in deep learning applied to medical image analysis."
+  location:
+    latitude: 45.4946
+    longitude: -73.5623
+  series: "Deep Learning for Medical Imaging School (DLMI)"
+
+- title: "Deep Learning for Natural Language Processing"
+  year: 2026
+  id: dlnlp2026
+  full_name: "Deep Learning for Natural Language Processing (IXA / HiTZ online course), June 2026"
+  link: "https://ixa2.si.ehu.eus/deep_learning_seminar/"
+  deadline: "2026-06-01 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Online"
+  date: "June 1 - June 5, 2026"
+  start: 2026-06-01
+  end: 2026-06-05
+  sub: ['NLP', 'ML', 'GenAI']
+  note: "Broadcast live online, 15:00 - 19:00 CET daily; 20-hour course, 60 places on a first-come first-served basis. Fee: 404 EUR (400 EUR for UPV/EHU members)."
+  description: "Online course on deep learning for natural language processing by the Ixa NLP group and the HiTZ research centre of the University of the Basque Country (UPV/EHU)."
+  series: "Deep Learning For Natural Language Processing"
