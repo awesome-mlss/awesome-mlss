@@ -514,6 +514,7 @@
   sub: ['RO', 'ML']
   note: "Free to attend."
   description: "Winter school on AI and robotics organised by Örebro University together with the AI-on-Demand (AIoD) initiative."
+  image: "https://lucia-doctoral-school.gitlab.io/2026/assets/oru.png"
   location:
     latitude: 59.2753
     longitude: 15.2134
@@ -532,6 +533,7 @@
   sub: ['ML4Science', 'RO']
   note: "Registration fee: 150 GBP for students, 300 GBP for others."
   description: "Winter school on robotics and AI for materials chemistry organised by the AIchemy hub at the University of Liverpool."
+  image: "https://aichemy.ac.uk/wp-content/uploads/2024/07/AIchemy-LOGO-scaled.png"
   location:
     latitude: 53.4084
     longitude: -2.9916
@@ -550,6 +552,7 @@
   sub: ['ML', 'RAI']
   note: "Registration fee: USD 900."
   description: "Fourth edition of the international summer school on federated machine learning, co-located with the FLTA conference and organised with OpenMined and partners."
+  image: "https://school.flta-conference.org/assets/images/logo/logo.png"
   location:
     latitude: 48.8566
     longitude: 2.3522
@@ -569,6 +572,7 @@
   sub: ['DS', 'ML']
   note: "Open to students from Africa; funding available for selected participants."
   description: "Sixth edition of the Big Data Africa School organised by the South African Radio Astronomy Observatory (SARAO), covering data science and machine learning for large scientific datasets."
+  image: "https://www.sarao.ac.za/wp-content/uploads/2026/03/6th-Big-Data-Africa-School-Logo-209x300.jpeg"
   location:
     latitude: -33.9249
     longitude: 18.4241
@@ -606,6 +610,7 @@
   sub: ['ML']
   note: "Hybrid; online participation is free."
   description: "Fall school on software engineering and AI organised by ACM SIGSOFT, ENSIAS and Mohammed V University."
+  image: "https://ensias.um5.ac.ma/sites/ensias.um5.ac.ma/files/logo%20ensias%20v5.jpg.jpeg"
   location:
     latitude: 34.0209
     longitude: -6.8416
@@ -624,6 +629,7 @@
   sub: ['RO']
   note: "Early registration: 30 June 2026; late registration: 16 August 2026. Fee: 250 - 420 EUR. Free for PhD and final-year MSc students of UniTN/UniBZ."
   description: "Summer school on legged robots organised by the University of Trento."
+  image: "https://eventi.unitn.it/sites/eventi/files/2026-03/W_027_26_logo_disi_0.png"
   location:
     latitude: 46.0748
     longitude: 11.1217
@@ -642,6 +648,7 @@
   sub: ['ML4Science', 'ML']
   note: "Fee: 400 EUR. Free for members of Heidelberg University / ELIZA."
   description: "School on AI for science organised by the Interdisciplinary Center for Scientific Computing (IWR) at Heidelberg University and the Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)."
+  image: "https://backend.iwr.uni-heidelberg.de/sites/default/files/site_logo/WEB-Kopfgrafik-IWR_Desktop_EN.svg"
   location:
     latitude: 49.3988
     longitude: 8.6724
@@ -660,6 +667,7 @@
   sub: ['CV', 'RO', 'ML']
   note: "Fee: 400 EUR for students, 600 EUR for others."
   description: "Summer school on autonomous driving organised by the Computer Vision Center (CVC), Valeo/Inria and the ELLIS Unit Barcelona."
+  image: "https://pages.cvc.uab.es/ssadriving/logos/ellis-logo_barcelona.png"
   location:
     latitude: 41.3874
     longitude: 2.1686
@@ -678,6 +686,7 @@
   end: 2026-09-18
   sub: ['ML']
   description: "Summer school organised by the ELLIS Unit Munich and the Technical University of Munich (TUM)."
+  image: "https://www.ellismunich.ai/fileadmin/_processed_/c/e/csm_ELLIS-Munich_logo_NEW_1280_transparent_d0bc2c04e7.png"
   location:
     latitude: 48.1351
     longitude: 11.582
@@ -697,6 +706,7 @@
   sub: ['ML4Science', 'ML']
   note: "Fee: 200 EUR for students, 500 EUR for faculty, 1000 EUR for others."
   description: "Summer school on machine learning for molecules and materials organised by the AIMat group at the Karlsruhe Institute of Technology (KIT) with the KIT centers MaTeLiS and KCIST."
+  image: "https://aimat.iar.kit.edu/img/CZS_summer_school_banner_2026_rdax_1240x263.png"
   location:
     latitude: 49.0069
     longitude: 8.4037
@@ -715,6 +725,7 @@
   sub: ['NLP', 'RAI']
   note: "Hybrid. Free to attend (NAWA-funded); scholarships covering travel, hotel and meals for 5 international PhD candidates."
   description: "International summer school on disinformation detection and debunking organised by PJAIT with the University of Koblenz and the Open University of Cyprus."
+  image: "https://pja.edu.pl/wp-content/themes/pjatk/img/logo.svg"
   location:
     latitude: 52.2297
     longitude: 21.0122
@@ -733,6 +744,7 @@
   sub: ['DS', 'ML4Science']
   note: "Fee: 75 GBP."
   description: "Summer school on data-intensive science organised by AIchemy and the University of Liverpool."
+  image: "https://aichemy.ac.uk/wp-content/uploads/2024/07/AIchemy-LOGO-scaled.png"
   location:
     latitude: 53.4084
     longitude: -2.9916
@@ -751,6 +763,7 @@
   sub: ['GenAI', 'ML4Science']
   note: "Free to attend."
   description: "Summer school on generative AI for extreme events organised by the Glasgow–Edinburgh Extremes Network (GLE2N)."
+  image: "https://gamex-network.github.io/assets/GAMEX-project.jpg"
   location:
     latitude: 55.9533
     longitude: -3.1883
@@ -769,6 +782,7 @@
   sub: ['Health', 'ML']
   note: "Delivered entirely online (UK time). Registration open with no fixed deadline."
   description: "Summer school on machine learning for healthcare organised by the Cambridge Centre for AI in Medicine (CCAIM)."
+  image: "https://www.vanderschaar-lab.com/wp-content/uploads/2020/04/transpLogo_long_plus.png"
   location:
     latitude: 52.2053
     longitude: 0.1218
@@ -788,6 +802,7 @@
   sub: ['CV', 'Health']
   note: "Fee: 850 EUR."
   description: "Third edition of the AI4Imaging summer school on AI for medical imaging, organised by the Department of Radiology and Nuclear Medicine at the Medical University of Vienna."
+  image: "https://radiologie-nuklearmedizin.meduniwien.ac.at/fileadmin/_processed_/4/3/csm_Web_2022_KL-AKH_EN_Department_of_Biomedical_Imaging_and_Image-guided_Therapy_064d6a9985.png"
   location:
     latitude: 48.2082
     longitude: 16.3738
@@ -807,6 +822,7 @@
   sub: ['DS']
   note: "Fee: 750 GBP. Two grants available to cover the fee."
   description: "Social data science school organised by Cambridge Digital Humanities (CDH) at the University of Cambridge."
+  image: "https://www.cdh.cam.ac.uk/wp-content/themes/cdhumanities/static/min/img/logo.png"
   location:
     latitude: 52.2053
     longitude: 0.1218
@@ -825,6 +841,7 @@
   sub: ['ML', 'Theory']
   note: "Fee: 500 - 700 EUR for students, 750 - 1000 EUR for postdocs."
   description: "The 2026 edition of the Machine Learning Summer School (MLSS) series, hosted by the Max Planck Institute for Intelligent Systems in Tübingen."
+  image: "https://mlss2026.is.tuebingen.mpg.de/static/images/mlss2026.f0e6a74c90ed.png"
   location:
     latitude: 48.5216
     longitude: 9.0576
@@ -844,6 +861,7 @@
   sub: ['ML4Science']
   note: "Fee: 550 - 1000 EUR. Free for students from French universities."
   description: "Summer school of the DIADEM Academy on AI for the accelerated design of materials."
+  image: "https://formation.pepr-diadem.fr/data/files/logoweb_1768227515.png"
   location:
     latitude: 45.1885
     longitude: 5.7245
@@ -881,6 +899,7 @@
   sub: ['ML']
   note: "Places allocated first come, first served; no fixed deadline. Fee: 350 EUR including accommodation. Travel grants available."
   description: "Summer school on evolutionary computation and related AI methods organised by the SPECIES Society and the University of Maribor."
+  image: "https://species-society.org/wp-content/uploads/2017/03/species-logo2-300x45.png"
   location:
     latitude: 38.688
     longitude: 0.135
@@ -900,6 +919,7 @@
   sub: ['ML4Science', 'ML']
   note: "Fee: 650 EUR."
   description: "School on machine learning for photonics organised by the Lake Como School of Advanced Studies."
+  image: "https://mlph2026.lakecomoschool.org/wp-content/uploads/sites/84/2023/05/logo-lake-como-school-blu.png"
   location:
     latitude: 45.8139
     longitude: 9.0834
@@ -918,6 +938,7 @@
   sub: ['ML', 'Theory']
   note: "Free for academics and students."
   description: "PhD summer course on tensor networks for machine learning at DTU Compute, supported by the Novo Nordisk Foundation and the Danish Data Science Academy."
+  image: "https://www2.compute.dtu.dk/courses/02901/cslogo65x65.jpg"
   location:
     latitude: 55.7704
     longitude: 12.5115
@@ -937,6 +958,7 @@
   sub: ['ML', 'ML4Science']
   note: "Fee: 350 EUR for students, 500 EUR for academics. Travel grants available."
   description: "Summer school on AI for research organised by ELLIS Finland and Aalto University."
+  image: "https://www.ellisinstitute.fi/themes/custom/aalto_ellis/images/logo_footer_vertical.png"
   location:
     latitude: 60.1699
     longitude: 24.9384
@@ -956,6 +978,7 @@
   sub: ['ML', 'RAI']
   note: "Free to attend. No registration deadline published."
   description: "Workshop and summer school on reliable and interpretable deep learning hosted by Hong Kong Metropolitan University."
+  image: "https://ws-ridl2026.hkmu.edu.hk/public/images/logos/hkmu-logo.png"
   location:
     latitude: 22.3193
     longitude: 114.1694
@@ -974,6 +997,7 @@
   sub: ['Log']
   note: "Fee: 1500 DKK for students, 2000 DKK for academics, 2500 DKK for others. A few grants available."
   description: "Summer school on logic organised by the Technical University of Denmark (DTU)."
+  image: "https://slss2026.compute.dtu.dk/wp-content/uploads/2026/01/sls_logo2021_symbol_color.png"
   location:
     latitude: 55.6761
     longitude: 12.5683
@@ -993,6 +1017,7 @@
   sub: ['AI4Games']
   note: "Fee: 550 EUR. Free for UEF students; reduced fee for partner institutions."
   description: "Summer school course on artificial intelligence for computer games at the University of Eastern Finland."
+  image: "https://www.uef.fi/themes/custom/uef/images/icons/src/LOGO_vaaka.svg"
   location:
     latitude: 62.601
     longitude: 29.7636
@@ -1011,6 +1036,7 @@
   sub: ['Neuro', 'ML']
   note: "In-person deadline 31 May 2026; online registration open after 1 July. Fee: 200 GBP in person, discounted 70 GBP for low-income participants."
   description: "Sixth edition of the CN3 summer school on computational neuroscience, neurotechnology and neuro-inspired AI, organised by the Intelligent Systems Research Centre at Ulster University."
+  image: "https://www.ulster.ac.uk/__data/assets/image/0011/1649522/varieties/width-800.jpg"
   location:
     latitude: 54.9966
     longitude: -7.3086
@@ -1048,6 +1074,7 @@
   sub: ['ML', 'Theory']
   note: "Deadline announced as late June 2026. Fee: 8400 DKK including accommodation."
   description: "PhD school on uncertainty in machine learning organised jointly by DIKU, DTU, ITU and AAU."
+  image: "https://uncertainty.compute.dtu.dk/wp-content/uploads/2025/11/LogoBanner-1.png"
   location:
     latitude: 55.0598
     longitude: 10.6068
@@ -1066,6 +1093,7 @@
   sub: ['EML', 'HW']
   note: "A few scholarships available."
   description: "Summer school on the MLIR compiler infrastructure for machine learning, organised by Inria, Deep Green and the University of A Coruña."
+  image: "https://mlir-school.github.io/summer-2026/images/acm_europe_council.png"
   location:
     latitude: 43.3623
     longitude: -8.4115
@@ -1102,6 +1130,7 @@
   sub: ['ML4Science', 'ML']
   note: "Fee: 550 EUR including accommodation. A few fee waivers available."
   description: "Petnica Summer Institute (PSI) school on scientific machine learning at the Petnica Science Center."
+  image: "https://petnica.rs/wp-content/uploads/2025/06/logo-petnica.png"
   location:
     latitude: 44.2719
     longitude: 19.8908
@@ -1157,6 +1186,7 @@
   sub: ['ML']
   note: "Two application rounds: 15 April 2026 and 30 May 2026. Fee: 350 EUR."
   description: "Sixth edition of the AutoML School on automated machine learning, organised by TU Dortmund, MCML and partners."
+  image: "https://automl.cs.tu-dortmund.de/storages/automl-cs/_processed_/4/7/csm_summer_school_logo_6d3bcc6b76.png"
   location:
     latitude: 51.5136
     longitude: 7.4653
@@ -1195,6 +1225,7 @@
   sub: ['DM', 'NLP']
   note: "Fee: 410 EUR for students, 510 EUR for others."
   description: "European Summer School on Information Retrieval hosted by the National University of Science and Technology Politehnica Bucharest with TU Wien and CEA LIST."
+  image: "https://essir2026.aimultimedialab.ro/img/essir-logo.png"
   location:
     latitude: 44.4268
     longitude: 26.1025
@@ -1214,6 +1245,7 @@
   sub: ['NLP', 'ML']
   note: "Fee: 400 EUR for students, 450 EUR for professors."
   description: "The Lisbon Machine Learning Summer School, organised by Instituto Superior Técnico (IST), focuses on machine learning for natural language processing."
+  image: "https://lxmls.github.io/2026/images/lxmls-logo.png"
   location:
     latitude: 38.7223
     longitude: -9.1393
@@ -1233,6 +1265,7 @@
   sub: ['ML', 'RAI']
   note: "Fee: 90 EUR for students, 150 EUR for others; online participation free."
   description: "Summer school on cybersecurity and AI organised by the ENFIELD network of excellence with TU Chemnitz and the University of the Aegean."
+  image: "https://enfield-project.eu/wp-content/uploads/2025/07/cropped-enfield_ainoe.png"
   location:
     latitude: 39.1
     longitude: 26.555
@@ -1251,6 +1284,7 @@
   sub: ['ML4Science']
   note: "Fee: 100 EUR. Travel grants available."
   description: "Summer school on AI for science organised by the Hellenic Institute of Advanced Studies."
+  image: "https://www.aiforscience.school/images/hias-logo.png"
   location:
     latitude: 37.9838
     longitude: 23.7275
@@ -1269,6 +1303,7 @@
   sub: ['ML', 'Theory']
   note: "Fee: 325 GBP for students, 400 GBP for postdocs, 500 GBP for others. A few scholarships available."
   description: "Summer school on geometry and machine learning organised by researchers from Imperial College London, UCL and partners."
+  image: "https://www.logml.ai/logo.png"
   location:
     latitude: 51.5072
     longitude: -0.1276
@@ -1288,6 +1323,7 @@
   sub: ['ML']
   note: "Free; accommodation and meals covered. Travel grants available for some participants."
   description: "Summer School of Machine Learning organised by the Skoltech AI Center and Nanjing University."
+  image: "https://static.tildacdn.com/tild3666-3166-4138-b661-346536663836/SKOLTECH_MACHINE-LEA.png"
   location:
     latitude: 31.2989
     longitude: 120.5853
@@ -1307,6 +1343,7 @@
   sub: ['DS']
   note: "Application period 1 - 30 September 2026; documents and payment due 16 October 2026. Held at the Osaka Ibaraki Campus. Fee: JPY 120,000 plus JPY 5,000 service fee."
   description: "Winter edition of the Ritsumeikan Data Science Program, a short-term data science programme for international students organised by Ritsumeikan University."
+  image: "https://rsjprwjp.com/wp-content/uploads/2021/08/cropped-cropped-university_horizontal_type1_red-e1630388770931.gif"
   location:
     latitude: 34.6937
     longitude: 135.5023
@@ -1325,6 +1362,7 @@
   sub: ['ML4Science']
   note: "Free, in person and online. No registration deadline published."
   description: "Winter school on AI and predictive agriculture organised by the ARC Centre of Excellence for Plant Success at the University of Queensland."
+  image: "https://www.plantsuccess.org/wp-content/uploads/2022/01/Web-logo.png"
   location:
     latitude: -27.4698
     longitude: 153.0251
@@ -1343,6 +1381,7 @@
   sub: ['EconAI', 'ML']
   note: "Fee: 300 EUR / 350 USD. A few scholarships available."
   description: "Summer school on applied AI for the digital economy organised by ADIA Lab and Tsinghua University."
+  image: "https://images.squarespace-cdn.com/content/v1/6310761b71fe69088fff310e/11d2a533-f904-4ff2-a796-a9db3e8c4cbb/Asset+1%404x.png?format=1500w"
   location:
     latitude: 22.5431
     longitude: 114.0579
@@ -1362,6 +1401,7 @@
   sub: ['RO']
   note: "Fee: 250 USD. A few grants available."
   description: "Summer school organised by the IEEE Systems, Man, and Cybernetics Society and the Rochester Institute of Technology."
+  image: "https://www.ieeesmc.org/telepresence/wp-content/uploads/sites/29/2026/02/ieee-telepresence-color-logo-1-1024x344.png"
   location:
     latitude: 43.0846
     longitude: -77.6743
@@ -1380,6 +1420,7 @@
   sub: ['ML4Science']
   note: "No registration fee. Registration open 24 May - 5 July 2026."
   description: "School on machine learning and AI methods for LHC physics organised by IBA Karachi, the MODE Collaboration and the University of Delaware."
+  image: "https://indico.global/event/18160/logo-767060574.png"
   location:
     latitude: 24.8607
     longitude: 67.0011
@@ -1416,6 +1457,7 @@
   sub: ['ML']
   note: "Fee: 550 - 700 EUR."
   description: "Summer school on metaheuristics and optimisation organised by the ANTs Research Laboratory and the University of Catania."
+  image: "https://www.ants-lab.it/mess2026/assets/img/logo/logo-testo-nosfondo.png"
   location:
     latitude: 37.5079
     longitude: 15.083
@@ -1435,6 +1477,7 @@
   sub: ['ML', 'CV']
   note: "Early registration by 10 June 2026 (210 EUR); late registration afterwards (300 EUR). Free for AERFAI members."
   description: "Machine learning school organised by the Institute of New Imaging Technologies (INIT) and the Spanish Association for Pattern Recognition and Image Analysis (AERFAI)."
+  image: "https://www.init.uji.es/school2026/images/logo1.jpg"
   location:
     latitude: 39.9864
     longitude: -0.0513
@@ -1452,6 +1495,7 @@
   end: 2026-07-10
   sub: ['ML']
   description: "Second international summer school on AI organised by Sorbonne University, CNRS and partners of the Franco-Moroccan research centre."
+  image: "https://scai.sorbonne-universite.fr/img/scai/logo.svg"
   location:
     latitude: 34.0209
     longitude: -6.8416
@@ -1488,6 +1532,7 @@
   sub: ['RO', 'HCI']
   note: "Fee: 540 EUR for students, 600 EUR for faculty, 900 EUR for industry."
   description: "Summer school on AI for human-robot interaction organised by the Human-Centered Robotics team at Inria/Loria."
+  image: "https://www.loria.fr/wp-content/themes/loria2016/medias/logo_loria_complet.jpg"
   location:
     latitude: 48.6921
     longitude: 6.1844
@@ -1506,6 +1551,7 @@
   sub: ['Log', 'KR']
   note: "Fee: 250 - 300 EUR. Grants available for EUSFLAT members."
   description: "Seventh EUSFLAT summer school on fuzzy logic and applications, organised by Warsaw University of Technology and the Polish Society for Fuzzy Sets."
+  image: "https://eusflat.org/wp-content/uploads/2025/10/cropped-eusflat-1.png"
   location:
     latitude: 52.2297
     longitude: 21.0122
@@ -1525,6 +1571,7 @@
   sub: ['Health', 'Bio', 'ML']
   note: "Fee: 150 EUR."
   description: "Summer school on machine learning for healthcare and biology organised by ELLIS and the University of Manchester."
+  image: "https://static.wixstatic.com/media/202e32_fb688d010a02480c873c4d904fa259b0~mv2.png"
   location:
     latitude: 53.4808
     longitude: -2.2426
@@ -1544,6 +1591,7 @@
   sub: ['ML', 'KR']
   note: "Early registration until 15 May 2026, late until 15 June 2026, last-minute from 16 June until capacity is reached. Student fee: 525 / 625 / 725 EUR. A limited number of scholarships available."
   description: "The 2026 edition of the European Summer School on Artificial Intelligence, hosted by TU Wien and WU Wien."
+  image: "https://essai2026.eu/images/essai-logo-new.png"
   location:
     latitude: 48.2082
     longitude: 16.3738
@@ -1581,6 +1629,7 @@
   sub: ['DS']
   note: "Theme: Data Science and AI meet Economics. No registration deadline published. Fee: 150 - 250 EUR."
   description: "Summer school on automated data science organised by the European Association for Data Science (EuADS)."
+  image: "https://www.euads.org/wp-content/themes/euads/dist/images/logo-euads.png"
   location:
     latitude: 49.6116
     longitude: 6.1319
@@ -1599,6 +1648,7 @@
   sub: ['Health', 'CV']
   note: "Fee: 250 - 350 GBP. Fee waivers for lower-income countries; reduced fee for online participation."
   description: "Summer school on medical image computing organised by the UCL Centre for Medical Image Computing (CMIC) and the Hawkes Institute."
+  image: "https://medicss.cs.ucl.ac.uk/wp-content/uploads/2017/03/cropped-cmic_logo-2.png"
   location:
     latitude: 51.5072
     longitude: -0.1276
@@ -1618,6 +1668,7 @@
   sub: ['ML', 'CogSci']
   note: "Fee: 400 USD for students, 700 USD for non-students."
   description: "International summer school on AI for cognitive technologies organised by Otto von Guericke University Magdeburg and NTU Singapore under the IEEE SMC Society."
+  image: "https://isact-org.github.io/assets/img/clients/client-1.png"
   location:
     latitude: 1.3521
     longitude: 103.8198
@@ -1636,6 +1687,7 @@
   sub: ['ML4Science']
   note: "Fee: 100 EUR."
   description: "Third edition of the summer school on advancing scientific discovery with AI, organised by ENSICAEN, CNRS and partners."
+  image: "https://ai4science2026.sciencesconf.org/data/pages/ENSICAEN_logotype_couleur_5.jpg"
   location:
     latitude: 49.1829
     longitude: -0.3707
@@ -1654,6 +1706,7 @@
   sub: ['DS', 'ML']
   note: "Fee: 50 EUR for students, 200 EUR for postdocs, 250 EUR for faculty."
   description: "Summer school on AI and data for science, business and society organised by Hi! Paris and HEC Paris."
+  image: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
   location:
     latitude: 48.8566
     longitude: 2.3522
@@ -1673,6 +1726,7 @@
   sub: ['ML']
   note: "Fee: 1250 GBP."
   description: "Machine learning summer school organised by the University of Exeter."
+  image: "https://www.exeter.ac.uk/v8media/recruitmentsites/images/homepage/uoe-logo.svg"
   location:
     latitude: 50.7184
     longitude: -3.5339
@@ -1691,6 +1745,7 @@
   sub: ['ML']
   note: "Fee: 90 EUR."
   description: "Two-day summer school organised by the Innovation Center for Artificial Intelligence (ICAI) at Lab42 Amsterdam."
+  image: "https://icai.ai/wp-content/uploads/2025/04/ICAI-Logo.svg"
   location:
     latitude: 52.3676
     longitude: 4.9041
@@ -1709,6 +1764,7 @@
   sub: ['Health', 'ML']
   note: "Full scholarships available for students."
   description: "Health AI summer camp organised by the Association for Health Learning and Inference (AHLI)."
+  image: "https://ahli.cc/wp-content/uploads/2025/04/AHLI-04-1.png"
   location:
     latitude: 38.9072
     longitude: -77.0369
@@ -1727,6 +1783,7 @@
   sub: ['Theory', 'ML']
   note: "Registration deadline 26 May 2026 at 09:00. Fee: 1000 DKK (summer school), 500 DKK (workshop)."
   description: "Summer school on learning theory organised by the University of Copenhagen."
+  image: "https://ltsscopenhagen.github.io/assets/img/copenhagen-mark.svg"
   location:
     latitude: 55.6761
     longitude: 12.5683
@@ -1745,6 +1802,7 @@
   sub: ['AI4Games']
   note: "Fee: 500 EUR for students, 850 EUR for professionals. A few scholarships available."
   description: "Summer school on AI and games organised by researchers from the University of Malta, NYU Tandon and partners."
+  image: "https://school.gameaibook.org/wp-content/uploads/2025/09/logo-leiden-1.png"
   location:
     latitude: 52.1601
     longitude: 4.497
@@ -1764,6 +1822,7 @@
   sub: ['ML4Science']
   note: "Fee: 1800 EUR including accommodation."
   description: "Course on AI and machine learning for Earth system modelling and prediction at the University Residential Center of Bertinoro (CE.U.B.)."
+  image: "https://fersschool.cmcc.it/wp-content/uploads/2020/03/Logo-Color-01.png"
   location:
     latitude: 44.149
     longitude: 12.1353
@@ -1782,6 +1841,7 @@
   sub: ['Health', 'Bio']
   note: "Summer school 15 - 17 June, followed by the co-located Ital-IA 2026 conference on 18 - 19 June. No fixed registration deadline. Fee: 600 EUR; 180 EUR for UCBM and national PhD programme students."
   description: "Summer school on AI in health and life sciences organised by Università Campus Bio-Medico di Roma."
+  image: "https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/wp-content/uploads/sites/2/2025/03/logo_UCBM_icon.svg"
   location:
     latitude: 41.9028
     longitude: 12.4964
@@ -1800,6 +1860,7 @@
   sub: ['ML']
   note: "Free; limited to 25 places."
   description: "Second edition of the VIA Madrid summer school organised by UC3M, CSIC, UAM and UPM."
+  image: "https://viamadrid.csic.es/wp-content/uploads/2025/05/viamadrid_v2.png"
   location:
     latitude: 40.4168
     longitude: -3.7038
@@ -1818,6 +1879,7 @@
   sub: ['Health', 'CV']
   note: "Fee: 150 - 250 EUR."
   description: "First summer school on computational pathology organised by the Medical University of Graz, MICCAI and the European Society of Digital and Integrative Pathology."
+  image: "https://www.ecdp2026.org/img/ecdp2026-logo-xl.png?v=2"
   location:
     latitude: 47.0707
     longitude: 15.4395
@@ -1854,6 +1916,7 @@
   sub: ['ML', 'Theory']
   note: "Early bird: 31 May 2026; regular: 30 June 2026. Fee: 300 EUR for students, 425 EUR for others."
   description: "Summer school on machine learning and advanced statistics organised by Universidad Politécnica de Madrid (UPM) and the ELLIS Unit Madrid."
+  image: "https://cig.fi.upm.es/wp-content/uploads/asdm_logo.png"
   location:
     latitude: 40.4168
     longitude: -3.7038
@@ -1891,6 +1954,7 @@
   sub: ['ML', 'GenAI']
   note: "Early-bird deadline 10 May 2026. Fee: 70 USD / 2000 INR."
   description: "School on computational intelligence in the age of large language models organised by the IEEE CIS Student Branch Chapter at IIT Patna."
+  image: "https://lh3.googleusercontent.com/sitesv/AG8ngQWXMTcfESFzgHbs1SiPZF1g2gkI-zktD3Edw_gdosOWIAq1dEU9H6_rP31inTLbK0w0LLKLbIwJAg59ocGLOLMmMdLGqGwfZveIkQBI6RJzETONbmZP-mMfpyuW48iqKGR1r1kAPXhrWO-osvpJj-xVGvOCxqNBSLL9Bwvz3CKAIxfUMkLfd5MCDliXxYk=w16383"
   location:
     latitude: 53.4084
     longitude: -2.9916
@@ -1909,6 +1973,7 @@
   sub: ['CV']
   note: "Fee: 1950 EUR for students, 2600 EUR otherwise."
   description: "International summer school on biometrics, behaviour and vision sponsored by IAPR, IEEE and EURASIP."
+  image: "https://biometrics.uniss.it/images/header_2027.jpg"
   location:
     latitude: 40.558
     longitude: 8.319
@@ -1945,6 +2010,7 @@
   sub: ['RAI', 'GenAI']
   note: "Fee: 250 EUR."
   description: "Summer school on responsible AI organised by ADIA Lab and the Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI) at the University of Granada."
+  image: "https://images.squarespace-cdn.com/content/v1/6310761b71fe69088fff310e/11d2a533-f904-4ff2-a796-a9db3e8c4cbb/Asset+1%404x.png?format=1500w"
   location:
     latitude: 37.1773
     longitude: -3.5986
@@ -1964,6 +2030,7 @@
   sub: ['ML']
   note: "Registration open with no fixed deadline; poster abstracts due 12 April 2026. Fee: 500 EUR for academia, 700 EUR for industry."
   description: "Spring school on learning over time organised by the Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)."
+  image: "https://lot2-spring-school.cttc.es/images/lot2-logo-ai.png"
   location:
     latitude: 41.3874
     longitude: 2.1686
@@ -1982,6 +2049,7 @@
   sub: ['RAI', 'CogSci']
   note: "Staggered early-registration deadlines (4 October 2025, 13 December 2025, and later tiers). Fee: 340 - 670 EUR depending on registration date. A limited number of scholarships available."
   description: "First international school on the cognitive, ethical and societal dimensions of AI organised by IRDTA."
+  image: "https://aices.irdta.eu/2026/wp-content/uploads/sites/2/2025/07/aices-logo-2026.png"
   location:
     latitude: 41.1579
     longitude: -8.6291
@@ -2019,6 +2087,7 @@
   sub: ['ML', 'RAI']
   note: "Free to attend."
   description: "Spring school on resilience and AI organised by Paderborn University within the SAIL project."
+  image: "https://indico.uni-paderborn.de/event/133/attachments/153/239/SAIL_Logo_rgb.png"
   location:
     latitude: 51.7189
     longitude: 8.7575
@@ -2037,6 +2106,7 @@
   sub: ['ML4Science']
   note: "Fee: 350 EUR. A few scholarships available."
   description: "Winter school on AI for Earth system science, hazards and climate extremes organised by the National Technical University of Athens and ELLIS."
+  image: "https://meditwin-project.eu/wp-content/uploads/2025/11/rslab_logo.png"
   location:
     latitude: 37.9838
     longitude: 23.7275
@@ -2056,6 +2126,7 @@
   sub: ['RO', 'HCI']
   note: "Fee: 700 EUR including accommodation."
   description: "Winter school on social robotics, AI and multimedia organised with NAVER LABS Europe and Inria."
+  image: "https://project.inria.fr/soraim/files/2026/05/cropped-header_whitebackground_2027.png"
   location:
     latitude: 45.1756
     longitude: 5.545
@@ -2093,6 +2164,7 @@
   sub: ['CV']
   note: "Fee: 5500 - 7000 CNY. Student grants available."
   description: "Winter school on biometrics organised by Hong Kong Baptist University with IAPR and IEEE."
+  image: "https://www.comp.hkbu.edu.hk/wsb2026/images/banner.png"
   location:
     latitude: 22.5431
     longitude: 114.0579
