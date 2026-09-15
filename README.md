@@ -40,9 +40,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-ELLIS Summer School Munich|Machine Learning|Munich, Germany|Jun 30, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ellismunich26)|Sep 14 - Sep 18, 2026|[Details](https://awesome-mlss.com/summerschool/ellismunich26)
-AIMat Summer School on Machine Learning for Molecules|ML for Science, Machine Learning|Karlsruhe, Germany|May 31, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ml4mol26)|Sep 14 - Sep 18, 2026|[Details](https://awesome-mlss.com/summerschool/ml4mol26)
-AIchemy Data-Intensive Science Summer School|Data Science, ML for Science|Liverpool, United Kingdom|Jul 03, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/aichemydis26)|Sep 14 - Sep 16, 2026|[Details](https://awesome-mlss.com/summerschool/aichemydis26)
 ELLIS Summer School on Autonomous Driving|Computer Vision, Robotics, Machine Learning|Barcelona, Spain|Jun 08, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ellisad26)|Sep 15 - Sep 18, 2026|[Details](https://awesome-mlss.com/summerschool/ellisad26)
 IAISS 2026 – International Artificial Intelligence Summer School|Machine Learning, Generative AI, Reinforcement Learning|Castiglione della Pescaia, Tuscany, Italy|Apr 23, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iaiss_2026)|Sep 20 - Sep 24, 2026|[Details](https://awesome-mlss.com/summerschool/iaiss_2026)
 WHERE – International Euregio Summer School on Legged Robots|Robotics|Trento, Italy|Aug 16, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/where26)|Sep 21 - Sep 27, 2026|[Details](https://awesome-mlss.com/summerschool/where26)
