@@ -33,14 +33,15 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+Ritsumeikan Data Science Program (Winter)|Data Science|Osaka, Japan|Sep 30, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rdsp26)|Dec 15 - Dec 21, 2026|[Details](https://awesome-mlss.com/summerschool/rdsp26)
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-ELLIS Summer School on Autonomous Driving|Computer Vision, Robotics, Machine Learning|Barcelona, Spain|Jun 08, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/ellisad26)|Sep 15 - Sep 18, 2026|[Details](https://awesome-mlss.com/summerschool/ellisad26)
 IAISS 2026 – International Artificial Intelligence Summer School|Machine Learning, Generative AI, Reinforcement Learning|Castiglione della Pescaia, Tuscany, Italy|Apr 23, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iaiss_2026)|Sep 20 - Sep 24, 2026|[Details](https://awesome-mlss.com/summerschool/iaiss_2026)
 WHERE – International Euregio Summer School on Legged Robots|Robotics|Trento, Italy|Aug 16, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/where26)|Sep 21 - Sep 27, 2026|[Details](https://awesome-mlss.com/summerschool/where26)
 IWR School AI for Science|ML for Science, Machine Learning|Heidelberg, Germany|Jun 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iwr26)|Sep 21 - Sep 25, 2026|[Details](https://awesome-mlss.com/summerschool/iwr26)
