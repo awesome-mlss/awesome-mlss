@@ -42,10 +42,9 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-WHERE – International Euregio Summer School on Legged Robots|Robotics|Trento, Italy|Aug 16, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/where26)|Sep 21 - Sep 27, 2026|[Details](https://awesome-mlss.com/summerschool/where26)
-IWR School AI for Science|ML for Science, Machine Learning|Heidelberg, Germany|Jun 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/iwr26)|Sep 21 - Sep 25, 2026|[Details](https://awesome-mlss.com/summerschool/iwr26)
 African Fall School on Software Engineering & AI|Machine Learning|Rabat, Morocco|Sep 10, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/aseai26)|Sep 28 - Sep 30, 2026|[Details](https://awesome-mlss.com/summerschool/aseai26)
 Big Data Africa School|Data Science, Machine Learning|Cape Town, South Africa|May 03, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/bdas26)|Oct 04 - Oct 10, 2026|[Details](https://awesome-mlss.com/summerschool/bdas26)
+AI for Environmental Data Short Course|ML for Science, Machine Learning|Gothenburg, Sweden|May 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/climesai26)|Oct 06 - Oct 07, 2026|[Details](https://awesome-mlss.com/summerschool/climesai26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
