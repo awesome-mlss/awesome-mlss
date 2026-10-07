@@ -42,7 +42,6 @@ Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-AI for Environmental Data Short Course|ML for Science, Machine Learning|Gothenburg, Sweden|May 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/climesai26)|Oct 06 - Oct 07, 2026|[Details](https://awesome-mlss.com/summerschool/climesai26)
 Federated Machine Learning International Summer School|Machine Learning, Responsible AI|Paris, France|Aug 01, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/flta26)|Oct 19 - Oct 27, 2026|[Details](https://awesome-mlss.com/summerschool/flta26)
 <!-- UPCOMING:END -->
 
