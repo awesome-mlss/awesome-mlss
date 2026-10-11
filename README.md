@@ -33,9 +33,7 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-Title|Topics|Place|Deadline|Dates|Details
------|------|-----|--------|-----|-------
-Machine Learning Summer School (MLSS) Okinawa|Machine Learning, ML Theory, Natural Language Proc, Generative AI|Onna, Okinawa, Japan|Oct 10, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlss27)|Mar 01 - Mar 12, 2027|[Details](https://awesome-mlss.com/summerschool/mlss27)
+*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
