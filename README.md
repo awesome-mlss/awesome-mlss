@@ -38,9 +38,7 @@ Schools with application deadlines in the next 2 weeks.
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-Title|Topics|Place|Deadline|Dates|Details
------|------|-----|--------|-----|-------
-Federated Machine Learning International Summer School|Machine Learning, Responsible AI|Paris, France|Aug 01, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/flta26)|Oct 19 - Oct 27, 2026|[Details](https://awesome-mlss.com/summerschool/flta26)
+*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
