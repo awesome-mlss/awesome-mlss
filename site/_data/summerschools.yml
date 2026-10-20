@@ -1,3 +1,23 @@
+- title: "Annual Nepal AI School (ANAIS)"
+  year: 2026
+  id: anais26
+  full_name: "7th Annual Nepal AI School (ANAIS 2026)"
+  link: "https://anais.naamii.org.np/"
+  deadline: "2026-11-15 23:59:59"
+  timezone: "Asia/Kathmandu"
+  place: "Kathmandu, Nepal"
+  date: "28 December 2026 - 7 January 2027"
+  start: 2026-12-28
+  end: 2027-01-07
+  sub: ['ML', 'GenAI', 'KR']
+  note: "Deadlines: October 10, 2026 (international scholarship applications), October 31, 2026 (scholarship applications from Nepal residents), November 15, 2026 (applications without scholarship). Limited full or partial registration fee waivers available. International scholarship decisions on a rolling basis from October 15, 2026. Follow updates on LinkedIn: https://www.linkedin.com/showcase/annual-nepal-ai-school-anais/"
+  email: "anais@naamii.org.np"
+  description: "The 7th Annual Nepal AI School (ANAIS) is organized by NAAMII (Nepal Applied Mathematics and Informatics Institute for Research) and held at Kathmandu World School, Suryabinayak, Bhaktapur. The 11-day in-person program includes 10 days of lectures, hands-on labs, poster presentations and project sessions, plus a day of hiking in the Kathmandu Valley, with over 200 participants and 20 experts from Nepal and around the world. Topics include foundational machine learning, geometric deep learning, neuro-symbolic AI, world models, generative modelling, and AI for society and industry."
+  image: "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tP_TZZ5Plsb5declDVusgHtbXMOMAa0e41FN4rmPZA3ZLa8jBSPzNjaiz0szg2OOMo0_NO-1BZph0dee6Ul29KGJzOCyMOKguN0Xj7Jsy1HbLNoiVUCtJ4W0TrZuF9TY2YRt0bFuj7lQsZg5ZKv480ITRuKdpg8gTjrbf8lf6JSjCo3cTssPBcbJVY6030YBkBtsTIAhqBMWE5PjY4w6ln8ZFTUctAXWOrP_IMxBQ=w1280"
+  location:
+    latitude: 27.6532
+    longitude: 85.4134
+  series: "Annual Nepal AI School (ANAIS)"
 - title: Summer School on AI and Big Data
   year: 2026
   id: ssaibd2026
