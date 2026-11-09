@@ -38,7 +38,9 @@ Schools with application deadlines in the next 2 weeks.
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+Robotics and AI for Materials Chemistry Winter School|ML for Science, Robotics|Liverpool, United Kingdom|Aug 24, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/aichemyws26)|Nov 23 - Nov 27, 2026|[Details](https://awesome-mlss.com/summerschool/aichemyws26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
