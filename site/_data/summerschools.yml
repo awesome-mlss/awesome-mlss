@@ -54,7 +54,7 @@
   id: iaiss_2026
   full_name: "International Artificial Intelligence Summer School – IAISS 2026"
   link: "https://2026.iaiss.cc/"
-  deadline: "2026-04-23 23:59:59"
+  deadline: "2026-05-23 23:59:59"
   timezone: "Europe/Rome"
   place: "Castiglione della Pescaia, Tuscany, Italy"
   date: "20 - 24 September, 2026"
@@ -2488,3 +2488,23 @@
   note: "Broadcast live online, 15:00 - 19:00 CET daily; 20-hour course, 60 places on a first-come first-served basis. Fee: 404 EUR (400 EUR for UPV/EHU members)."
   description: "Online course on deep learning for natural language processing by the Ixa NLP group and the HiTZ research centre of the University of the Basque Country (UPV/EHU)."
   series: "Deep Learning For Natural Language Processing"
+
+- title: "DeMythif.AI Winter School 2027"
+  year: 2027
+  id: dmws27
+  full_name: "DeMythif.AI Winter School 2027"
+  link: "https://www.dataia.eu/index.php/en/formations/demythifai-winter-school-2027"
+  deadline: TBA
+  timezone: "Europe/Paris"
+  place: "Paris-Saclay, France"
+  date: "March 1 - March 5, 2027"
+  start: 2027-03-01
+  end: 2027-03-05
+  sub: ['ML', 'ML4Science', 'Theory', 'EML']
+  email: "demythifai-contact@inria.fr"
+  note: "Registrations open on November 5th, 2026. Registration fees and application deadlines will be communicated during registration opening."
+  description: "Are you a doctoral student, postdoctoral researcher, engineer, or industry researcher working in the field of AI or applying it to your own field? Join the DeMythif.AI Winter School, which will be held March 1–5, 2027, at the Institut Pascal, Université Paris-Saclay. This winter school is organized by DeMythif.AI, a doctoral program at the DataIA Institute co-funded by the European Union under the Marie Skłodowska-Curie Actions. Applications will open on November 5, 2026."
+  image: "https://www.dataia.eu/sites/default/files/2026-09/1.jpg"
+  location:
+    latitude: 48.706615
+    longitude: 2.177096
