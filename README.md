@@ -33,7 +33,9 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
+Title|Topics|Place|Deadline|Dates|Details
+-----|------|-----|--------|-----|-------
+Annual Nepal AI School (ANAIS)|Machine Learning, Generative AI, Knowledge Representation|Kathmandu, Nepal|Nov 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/anais26)|Dec 28 - Jan 07, 2027|[Details](https://awesome-mlss.com/summerschool/anais26)
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
