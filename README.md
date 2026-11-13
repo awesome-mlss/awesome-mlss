@@ -33,18 +33,14 @@ For the full list of schools worldwide, visit [awesome-mlss.com](https://awesome
 ### Deadlines Soon
 Schools with application deadlines in the next 2 weeks.
 
-Title|Topics|Place|Deadline|Dates|Details
------|------|-----|--------|-----|-------
-Ritsumeikan Data Science Program (Winter)|Data Science|Osaka, Japan|Sep 30, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/rdsp26)|Dec 15 - Dec 21, 2026|[Details](https://awesome-mlss.com/summerschool/rdsp26)
-Machine Learning Summer School (MLSS) Okinawa|Machine Learning, ML Theory, Natural Language Proc, Generative AI|Onna, Okinawa, Japan|Oct 10, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/mlss27)|Mar 01 - Mar 12, 2027|[Details](https://awesome-mlss.com/summerschool/mlss27)
+*No schools currently match this window. See [awesome-mlss.com](https://awesome-mlss.com/) for upcoming schools.*
 
 ### Happening Soon
 Schools starting in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-Big Data Africa School|Data Science, Machine Learning|Cape Town, South Africa|May 03, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/bdas26)|Oct 04 - Oct 10, 2026|[Details](https://awesome-mlss.com/summerschool/bdas26)
-AI for Environmental Data Short Course|ML for Science, Machine Learning|Gothenburg, Sweden|May 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/climesai26)|Oct 06 - Oct 07, 2026|[Details](https://awesome-mlss.com/summerschool/climesai26)
+Robotics and AI for Materials Chemistry Winter School|ML for Science, Robotics|Liverpool, United Kingdom|Aug 24, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/aichemyws26)|Nov 23 - Nov 27, 2026|[Details](https://awesome-mlss.com/summerschool/aichemyws26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
