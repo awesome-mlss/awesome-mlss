@@ -10,7 +10,7 @@
   start: 2026-12-28
   end: 2027-01-07
   sub: ['ML', 'GenAI', 'KR']
-  note: "Deadlines: October 10, 2026 (international scholarship applications), October 31, 2026 (scholarship applications from Nepal residents), November 15, 2026 (applications without scholarship). Limited full or partial registration fee waivers available. International scholarship decisions on a rolling basis from October 15, 2026. Follow updates on LinkedIn: https://www.linkedin.com/showcase/annual-nepal-ai-school-anais/"
+  note: "Deadlines: October 10, 2026 (international scholarship applications), November 15, 2026 (international applications without scholarship), November 20, 2026 (applicants residing in Nepal, extended). Limited full or partial registration fee waivers available. International scholarship decisions on a rolling basis from October 15, 2026. Follow updates on LinkedIn: https://www.linkedin.com/showcase/annual-nepal-ai-school-anais/"
   email: "anais@naamii.org.np"
   description: "The 7th Annual Nepal AI School (ANAIS) is organized by NAAMII (Nepal Applied Mathematics and Informatics Institute for Research) and held at Kathmandu World School, Suryabinayak, Bhaktapur. The 11-day in-person program includes 10 days of lectures, hands-on labs, poster presentations and project sessions, plus a day of hiking in the Kathmandu Valley, with over 200 participants and 20 experts from Nepal and around the world. Topics include foundational machine learning, geometric deep learning, neuro-symbolic AI, world models, generative modelling, and AI for society and industry."
   image: "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tP_TZZ5Plsb5declDVusgHtbXMOMAa0e41FN4rmPZA3ZLa8jBSPzNjaiz0szg2OOMo0_NO-1BZph0dee6Ul29KGJzOCyMOKguN0Xj7Jsy1HbLNoiVUCtJ4W0TrZuF9TY2YRt0bFuj7lQsZg5ZKv480ITRuKdpg8gTjrbf8lf6JSjCo3cTssPBcbJVY6030YBkBtsTIAhqBMWE5PjY4w6ln8ZFTUctAXWOrP_IMxBQ=w1280"
@@ -542,7 +542,7 @@
   year: 2026
   id: luciaws26
   full_name: "Lucia Winter School on AI & Robotics 2026"
-  link: "https://mlscientist.com/lucia-winter-school-ai-robotics-sweden/"
+  link: "https://lucia-doctoral-school.gitlab.io/2026/"
   deadline: "2026-09-10 23:59:59"
   timezone: "Europe/Stockholm"
   place: "Örebro, Sweden"
@@ -2237,9 +2237,9 @@
   deadline: TBA
   timezone: "Europe/Madrid"
   place: "Madrid, Spain"
-  date: "March 15 - March 19, 2027"
-  start: 2027-03-15
-  end: 2027-03-19
+  date: "April 5 - April 9, 2027"
+  start: 2027-04-05
+  end: 2027-04-09
   sub: ['GenAI', 'ML']
   note: "Application deadline and fees to be announced (separate PhD student, academic and industry fee categories)."
   description: "GeMSS 2027, hosted by Universidad Carlos III de Madrid with Inria and DTU, covers deep generative models including latent variable models, diffusion and flow-based models and autoregressive models, with three days of foundational lectures followed by invited talks on state-of-the-art research."
@@ -2260,7 +2260,7 @@
   start: 2027-01-11
   end: 2027-01-15
   sub: ['ML', 'GenAI', 'CV', 'RAI']
-  note: "Registration opens later in 2026; programme under development. Co-located with the NLDL 2027 conference (12 - 14 January). 2.5 ECTS credits."
+  note: "Registration open; no closing date published. Fee for winter school plus conference: 2.9k NOK for students, 3.8k NOK for academia, 4.8k NOK for industry; late fee after Nov 10th. Co-located with the NLDL 2027 conference (Jan 12th - 14th). 2.5 ECTS credits."
   email: "puneet.sharma@uit.no"
   description: "Five-day winter school at UiT The Arctic University of Norway with tutorials, keynotes and practical sessions. Announced 2027 topics include deep ordinal representations for trustworthy AI, evaluating large language models beyond accuracy, Arctic AI, and agentic AI and AI-assisted coding."
   image: "https://cdn.prod.website-files.com/5fa571c043be8951f0c8d150/699d8c330bf6c38bdff570d0_nldl2027_banner.png"
@@ -2511,7 +2511,7 @@
   id: dmws27
   full_name: "DeMythif.AI Winter School 2027"
   link: "https://www.dataia.eu/index.php/en/formations/demythifai-winter-school-2027"
-  deadline: TBA
+  deadline: "2026-11-25 23:59:59"
   timezone: "Europe/Paris"
   place: "Paris-Saclay, France"
   date: "March 1 - March 5, 2027"
@@ -2519,9 +2519,1131 @@
   end: 2027-03-05
   sub: ['ML', 'ML4Science', 'Theory', 'EML']
   email: "demythifai-contact@inria.fr"
-  note: "Registrations open on November 5th, 2026. Registration fees and application deadlines will be communicated during registration opening."
-  description: "Are you a doctoral student, postdoctoral researcher, engineer, or industry researcher working in the field of AI or applying it to your own field? Join the DeMythif.AI Winter School, which will be held March 1–5, 2027, at the Institut Pascal, Université Paris-Saclay. This winter school is organized by DeMythif.AI, a doctoral program at the DataIA Institute co-funded by the European Union under the Marie Skłodowska-Curie Actions. Applications will open on November 5, 2026."
+  note: "Applications are open until November 25, 2026. An application fee applies to participants from outside Université Paris-Saclay; the amount depends on their status. About 50 to 60 places, shared between DeMythif.AI fellows and selected applicants."
+  description: "Are you a doctoral student, postdoctoral researcher, engineer, or industry researcher working in the field of AI or applying it to your own field? Join the DeMythif.AI Winter School, which will be held March 1–5, 2027, at the Institut Pascal, Université Paris-Saclay. This winter school is organized by DeMythif.AI, a doctoral program at the DataIA Institute co-funded by the European Union under the Marie Skłodowska-Curie Actions."
   image: "https://www.dataia.eu/sites/default/files/2026-09/1.jpg"
   location:
     latitude: 48.706615
     longitude: 2.177096
+
+- title: "MenaML School"
+  year: 2027
+  id: menaml27
+  full_name: "Middle East and North Africa Machine Learning School (MenaML School 2027)"
+  link: "https://www.mena.ml/"
+  deadline: TBA
+  timezone: "Europe/Istanbul"
+  place: "Istanbul, Turkey"
+  date: "June 29 - July 4, 2027"
+  start: 2027-06-29
+  end: 2027-07-04
+  sub: ['ML', 'GenAI', 'NLP', 'CV']
+  note: "Third edition, now in summer, hosted with Koç University. Application dates not yet published."
+  description: "Machine learning school for the Middle East and North Africa with keynotes, lectures and hands-on coding labs."
+  location:
+    latitude: 41.2055
+    longitude: 29.073
+  series: "MenaML Winter School"
+
+- title: "ELLIS Winter School on Foundation Models"
+  year: 2027
+  id: fomo27
+  full_name: "ELLIS Winter School on Foundation Models (FoMo 2027)"
+  link: "https://ivi.fnwi.uva.nl/ellis/events/winter-school-on-foundation-models-fomo-2027/"
+  deadline: "2026-12-01 23:59:59"
+  timezone: "Europe/Amsterdam"
+  place: "Amsterdam, Netherlands"
+  date: "March 9 - March 12, 2027"
+  start: 2027-03-09
+  end: 2027-03-12
+  sub: ['GenAI', 'ML', 'NLP', 'CV']
+  note: "Fee: 370 EUR for students, 650 EUR for professionals. Selected participants announced Dec 4th."
+  email: "ellisinfo-science@uva.nl"
+  description: "Four-day winter school on foundation models by the ELLIS Unit Amsterdam, with keynotes, a poster session, a panel and industry sessions."
+  location:
+    latitude: 52.3315
+    longitude: 4.891
+  series: "ELLIS Winter School on Foundation Models (FoMo)"
+
+- title: "International Summer School on Biometrics, Behavior, and Vision"
+  year: 2027
+  id: biometrics27
+  full_name: "24th International Summer School on Biometrics, Behavior and Vision (BSS 2027)"
+  link: "https://biometrics.uniss.it/"
+  deadline: "2027-02-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Alghero, Italy"
+  date: "May 31 - June 4, 2027"
+  start: 2027-05-31
+  end: 2027-06-04
+  sub: ['CV', 'ML']
+  note: "Acceptance by Feb 28th, registration by Mar 15th. Remote attendance possible at a lower fee."
+  description: "Summer school on biometrics, human behavior analysis and computer vision by the University of Sassari. The 2027 edition is about AI agents and vision foundation models."
+  location:
+    latitude: 40.558
+    longitude: 8.3193
+  series: "International Summer School on Biometrics, Behavior, and Vision"
+
+- title: "EuADS Summer School"
+  year: 2027
+  id: euads27
+  full_name: "7th EuADS Summer School on Data Science for Sports Analytics"
+  link: "https://www.euads.org/summer-school-2027/"
+  deadline: TBA
+  timezone: "Europe/Luxembourg"
+  place: "Luxembourg, Luxembourg"
+  date: "June 29 - July 2, 2027"
+  start: 2027-06-29
+  end: 2027-07-02
+  sub: ['DS', 'ML']
+  note: "Theme: data science for sports analytics. Application dates not yet published."
+  email: "contact@euads.org"
+  description: "Summer school of the European Association for Data Science with five half-day tutorials, for PhD students, postdocs and early-career researchers."
+  location:
+    latitude: 49.611
+    longitude: 6.111
+  series: "EuADS Summer School"
+
+- title: "Brains, Minds & Machines Summer Course"
+  year: 2027
+  id: bmm27
+  full_name: "Brains, Minds and Machines Summer Course 2027"
+  link: "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/brains-minds-and-machines"
+  deadline: "2027-03-29 23:59:59"
+  timezone: "America/New_York"
+  place: "Woods Hole, MA, USA"
+  date: "August 8 - August 29, 2027"
+  start: 2027-08-08
+  end: 2027-08-29
+  sub: ['ML', 'Neuro', 'CogSci', 'CV']
+  note: "Tuition, room and board are provided."
+  description: "Three-week course of the Center for Brains, Minds and Machines at the Marine Biological Laboratory on neuroscience, cognitive science and machine learning."
+  location:
+    latitude: 41.5265
+    longitude: -70.6729
+  series: "Brains, Minds & Machines Summer Course"
+
+- title: "CIFAR Neuroscience of Consciousness Winter School"
+  year: 2026
+  id: cifarneuro26
+  full_name: "CIFAR Neuroscience of Consciousness Winter School 2026"
+  link: "https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school/"
+  deadline: "2026-06-10 12:00:00"
+  timezone: "America/Toronto"
+  place: "Nairobi, Kenya"
+  date: "December 3 - December 5, 2026"
+  start: 2026-12-03
+  end: 2026-12-05
+  sub: ['Neuro', 'CogSci']
+  note: "Applications closed. CIFAR covers travel and accommodation for accepted participants."
+  description: "Three-day winter school of CIFAR's Brain, Mind and Consciousness program for senior PhD students and postdocs."
+  location:
+    latitude: -1.2921
+    longitude: 36.8219
+  series: "CIFAR Neuroscience of Consciousness Winter School"
+
+- title: "Umeå Winter School on Ethical, Legal and Societal Aspects of AI"
+  year: 2027
+  id: umeaws27
+  full_name: "Winter School on Ethical, Legal, and Societal Aspects of AI and Autonomous Systems 2027"
+  link: "https://mlwinterschoolumea.github.io/2027/"
+  deadline: "2027-02-28 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Umeå, Sweden"
+  date: "April 7 - April 9, 2027"
+  start: 2027-04-07
+  end: 2027-04-09
+  sub: ['RAI', 'ML']
+  note: "Registration opens Dec 1st. Fee: 1.5k SEK for students, 2.5k SEK for faculty, 4k SEK for others. Poster abstracts due Feb 28th."
+  description: "Three-day winter school of the Responsible AI group at Umeå University with lectures and hands-on training on the ethical, legal and societal aspects of AI."
+  location:
+    latitude: 63.8197
+    longitude: 20.307
+  series: "Umeå Winter School on Responsible AI"
+
+- title: "LMH Oxford: AI and Machine Learning - Theory and Practice"
+  year: 2027
+  id: lmh_aiml_tp27
+  full_name: "Artificial Intelligence and Machine Learning: Theory and Practice (LMH Oxford Summer Programmes 2027)"
+  link: "https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning-theory-and-practice"
+  deadline: "2027-05-03 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "June 28 - July 16, 2027"
+  start: 2027-06-28
+  end: 2027-07-16
+  sub: ['ML', 'CV', 'NLP']
+  note: "Also offered in Session 2 (Jul 19th - Aug 6th) and Session 3 (Aug 9th - 27th). Residential or online. Rolling admissions; 25% and 50% fee scholarships."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "Three-week course at Lady Margaret Hall, University of Oxford, covering Python, supervised learning, neural networks, CNNs and the basics of NLP."
+  location:
+    latitude: 51.7647
+    longitude: -1.2542
+
+- title: "European Winter School on MLIR"
+  year: 2027
+  id: mlir27
+  full_name: "European Winter School on MLIR 2027"
+  link: "https://mlir-school.github.io/winter-2027/"
+  deadline: "2026-11-22 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Chamonix-Mont-Blanc, France"
+  date: "January 4 - January 8, 2027"
+  start: 2027-01-04
+  end: 2027-01-08
+  sub: ['EML', 'HW']
+  note: "About 50 places. Pre-registration closes Nov 22nd; accepted applicants pay by Dec 15th. Full board: 1.2k EUR single room, 300 EUR subsidised twin room for students."
+  description: "School on the MLIR compiler infrastructure organized by Inria, with topic days on HPC, backends, front-ends and formal methods, and hands-on sessions."
+  location:
+    latitude: 45.9237
+    longitude: 6.8694
+  series: "MLIR School"
+
+- title: "IAISS 2027 – International Artificial Intelligence Summer School"
+  year: 2027
+  id: iaiss_2027
+  full_name: "8th International Artificial Intelligence Summer School (IAISS 2027)"
+  link: "https://2027.iaiss.cc/"
+  deadline: "2027-04-15 23:59:59"
+  timezone: "Etc/GMT+12"
+  place: "Castiglione della Pescaia, Tuscany, Italy"
+  date: "September 19 - September 23, 2027"
+  start: 2027-09-19
+  end: 2027-09-23
+  sub: ['ML', 'GenAI']
+  note: "Early registration and talk/poster submissions until Apr 15th AoE; late registration until Jul 31st. Participants must book the Riva del Sole Resort by Jun 23rd."
+  email: "iaiss@icas.cc"
+  description: "Five-day residential school on reasoning and foundation models, with lectures and participant talks and posters."
+  location:
+    latitude: 42.7637
+    longitude: 10.8753
+  series: "International Artificial Intelligence Summer School"
+
+- title: "UK Robotics Summer School"
+  year: 2027
+  id: uk_robotics_ss27
+  full_name: "UK Robotics Summer School 2027"
+  link: "https://ukrss.site.hw.ac.uk/"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Edinburgh, United Kingdom"
+  date: "June 21 - June 25, 2027"
+  start: 2027-06-21
+  end: 2027-06-25
+  sub: ['RO']
+  note: "Registration opens towards the end of 2026. For Master's students and above, and industry practitioners."
+  description: "Five days of lectures, tutorials and industry talks on robotics, organized by the Edinburgh Centre for Robotics and the National Robotarium."
+  location:
+    latitude: 55.9128
+    longitude: -3.325
+  series: "UK Robotics Summer School"
+
+- title: "Winter School on Emerging Technologies"
+  year: 2027
+  id: asuwinterschool27
+  full_name: "14th Annual Winter School on Emerging Technologies (2027)"
+  link: "https://sfis.asu.edu/events/winter-school/"
+  deadline: "2026-09-28 23:59:59"
+  timezone: "America/Phoenix"
+  place: "Mesa, AZ, USA"
+  date: "January 3 - January 10, 2027"
+  start: 2027-01-03
+  end: 2027-01-10
+  sub: ['RAI']
+  note: "Applications closed. For advanced graduate students and recent PhDs; program fees, lodging and meals covered for accepted participants."
+  description: "Week-long winter school of the School for the Future of Innovation in Society at Arizona State University on the social side of emerging technologies such as AI and robotics."
+  location:
+    latitude: 33.5617
+    longitude: -111.5359
+  series: "Winter School on Emerging Technologies"
+
+- title: "Oxford Machine Learning School (OxML): Biomedical AI"
+  year: 2027
+  id: oxml_biomed27
+  full_name: "Oxford Machine Learning School (OxML 2027): Biomedical AI"
+  link: "https://www.oxfordml.school/2027/biomedical-ai"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom & Online"
+  date: "August 10 - August 12, 2027"
+  start: 2027-08-10
+  end: 2027-08-12
+  sub: ['ML', 'Health', 'Bio']
+  note: "In Oxford with online access, or online only. Registration open, no deadline published."
+  description: "Three-day OxML programme on AI for clinical data, genomics, proteins and molecular design."
+  location:
+    latitude: 51.752
+    longitude: -1.2577
+  series: "Oxford Machine Learning Summer School"
+
+- title: "Oxford Machine Learning School (OxML): Frontier AI"
+  year: 2027
+  id: oxml_frontier27
+  full_name: "Oxford Machine Learning School (OxML 2027): Frontier AI"
+  link: "https://www.oxfordml.school/2027/frontier-ai"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom & Online"
+  date: "August 13 - August 15, 2027"
+  start: 2027-08-13
+  end: 2027-08-15
+  sub: ['ML', 'RL', 'GenAI']
+  note: "In Oxford with online access, or online only. Registration open, no deadline published."
+  description: "Three-day OxML programme on reasoning models, post-training and RL, agents and tool use, and continual learning."
+  location:
+    latitude: 51.752
+    longitude: -1.2577
+  series: "Oxford Machine Learning Summer School"
+
+- title: "SPECIES Summer School"
+  year: 2027
+  id: species27
+  full_name: "SPECIES Summer School 2027"
+  link: "https://species-society.org/summer-school-2027/"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Moraira, Spain"
+  date: "September 6 - September 12, 2027"
+  start: 2027-09-06
+  end: 2027-09-12
+  sub: ['ML']
+  note: "Places given first come, first served, up to 16 students; no fixed deadline. Fee 350 EUR including 6 nights and meals. Travel bursaries available."
+  email: "info@species-society.org"
+  description: "Week-long summer school of the SPECIES Society on evolutionary computation and research skills, with tutorials and team challenges."
+  location:
+    latitude: 38.688
+    longitude: 0.135
+  series: "SPECIES Summer School"
+
+- title: "Touch Sensing and Processing Summer School"
+  year: 2027
+  id: tspss27
+  full_name: "Touch Sensing and Processing Summer School 2027 (TSPSS 2027)"
+  link: "https://lasr.org/tspss2027"
+  deadline: "2027-03-05 23:59:59"
+  timezone: "Etc/GMT+12"
+  place: "Dresden, Germany"
+  date: "July 25 - July 30, 2027"
+  start: 2027-07-25
+  end: 2027-07-30
+  sub: ['ML', 'RO']
+  note: "Applications open in January; decisions by Mar 22nd. Venue near Dresden not yet announced."
+  email: "tspss@lasr.org"
+  description: "Summer school on touch sensing and machine learning for touch data, organized by Robot Learning e.V. with the LASR group at TU Dresden."
+  location:
+    latitude: 51.0504
+    longitude: 13.7373
+  series: "Touch Sensing and Processing Summer School"
+
+- title: "European Summer School in Logic, Language and Information (ESSLLI)"
+  year: 2027
+  id: esslli27
+  full_name: "38th European Summer School in Logic, Language and Information (ESSLLI 2027)"
+  link: "https://2027.esslli.eu/"
+  deadline: TBA
+  timezone: "Europe/Tallinn"
+  place: "Tartu, Estonia"
+  date: "August 2 - August 13, 2027"
+  start: 2027-08-02
+  end: 2027-08-13
+  sub: ['Log', 'NLP', 'Theory']
+  note: "Registration opens in spring 2027."
+  description: "Two-week summer school on logic, linguistics and computation at the University of Tartu."
+  location:
+    latitude: 58.3854
+    longitude: 26.7254
+  series: "European Summer School in Logic, Language and Information (ESSLLI)"
+
+- title: "LMH Oxford: Advanced AI - Computer Vision"
+  year: 2027
+  id: lmh_cv27
+  full_name: "Advanced Artificial Intelligence and Machine Learning: Computer Vision (LMH Oxford Summer Programmes 2027)"
+  link: "https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-computer-vision"
+  deadline: "2027-05-03 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "July 19 - August 6, 2027"
+  start: 2027-07-19
+  end: 2027-08-06
+  sub: ['ML', 'CV', 'GenAI']
+  note: "Residential or online. Rolling admissions; 25% and 50% fee scholarships."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "Three-week course at Lady Margaret Hall, University of Oxford, on computer vision with deep learning, GANs, diffusion models, vision transformers and 3D representations."
+  location:
+    latitude: 51.7647
+    longitude: -1.2542
+
+- title: "School on Analytical Connectionism"
+  year: 2027
+  id: ac27
+  full_name: "2027 School on Analytical Connectionism"
+  link: "https://www.analytical-connectionism.net/school/2027/"
+  deadline: "2027-04-01 23:59:59"
+  timezone: "Etc/GMT+12"
+  place: "Boston, USA"
+  date: "August 2 - August 13, 2027"
+  start: 2027-08-02
+  end: 2027-08-13
+  sub: ['Theory', 'CogSci', 'ML', 'Neuro']
+  note: "Applications open Feb 1st. Topic: interpretability in reasoning and mathematical cognition."
+  email: "analytical-connectionism@googlegroups.com"
+  description: "Two-week course on analytical methods from statistical physics and probability theory for neural network models of cognition."
+  location:
+    latitude: 42.3588
+    longitude: -71.0578
+  series: "School on Analytical Connectionism"
+
+- title: "BAI Summer School on AI Agents and Agentic Systems"
+  year: 2027
+  id: bai27
+  full_name: "BAI Summer School 2027: Agentic Systems in Banking & Finance"
+  link: "https://www.baieurope.com/summer-school-2027"
+  deadline: "2027-04-15 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Anglet, France"
+  date: "July 1 - July 10, 2027"
+  start: 2027-07-01
+  end: 2027-07-10
+  sub: ['ML', 'GenAI', 'EconAI']
+  note: "Fee about 1.8k EUR, accommodation and travel not included; early-bird discount before Feb 15th. 4 ECTS through ZHAW."
+  email: "info@baieurope.com"
+  description: "Ten-day program by the Business Analytics Institute with ZHAW School of Management and Law on agentic AI systems in banking and finance."
+  location:
+    latitude: 43.4853
+    longitude: -1.5161
+  series: "BAI Summer School on AI Agents and Agentic Systems"
+
+- title: "AICES – International School on Human-AI Collaboration in the Era of Agentic AI"
+  year: 2027
+  id: aices27
+  full_name: "2nd International School on Human-AI Collaboration in the Era of Agentic AI (AICES 2027)"
+  link: "https://aices.irdta.eu/2027/"
+  deadline: "2027-04-30 23:59:59"
+  timezone: "Europe/Madrid"
+  place: "Bilbao, Spain"
+  date: "May 3 - May 6, 2027"
+  start: 2027-05-03
+  end: 2027-05-06
+  sub: ['RAI', 'HCI', 'CogSci']
+  note: "Open registration, first come first served. Fees rise in steps from 370 EUR to 640 EUR (until Apr 30th); same fee for online participation."
+  description: "School by IRDTA and the University of Deusto on human-AI collaboration with agentic AI, covering trust, human oversight, ethics and regulation."
+  location:
+    latitude: 43.2714
+    longitude: -2.9387
+  series: "AIces – International School on the Cognitive, Ethical, and Societal Dimensions of AI"
+
+- title: "Advanced Course on Data Science & Machine Learning"
+  year: 2027
+  id: acdl27
+  full_name: "10th Advanced Course on Data Science & Machine Learning (ACDL 2027)"
+  link: "https://acdl2027.icas.events/"
+  deadline: "2027-02-23 23:59:59"
+  timezone: "Etc/GMT+12"
+  place: "Castiglione della Pescaia, Tuscany, Italy"
+  date: "June 7 - June 11, 2027"
+  start: 2027-06-07
+  end: 2027-06-11
+  sub: ['ML', 'DS', 'GenAI']
+  note: "Early registration closes Feb 23rd. Participants must book the venue hotel by Apr 23rd. Limited to 250 participants."
+  email: "acdl@icas.cc"
+  description: "Five-day residential course with lectures and tutorials on deep learning, generative and agentic AI, and data science."
+  location:
+    latitude: 42.7714
+    longitude: 10.8514
+  series: "Advanced Course on Data Science & Machine Learning (ACDL)"
+
+- title: "International Semantics and Knowledge School (ISWS)"
+  year: 2027
+  id: isws27
+  full_name: "International Semantics and Knowledge School (ISWS 2027)"
+  link: "https://semanticwebschool.org/2027/"
+  deadline: TBA
+  timezone: "Europe/Rome"
+  place: "Bertinoro, Italy"
+  date: "June 6 - June 12, 2027"
+  start: 2027-06-06
+  end: 2027-06-12
+  sub: ['KR', 'ML']
+  note: "Dates are tentative. Call for applications opens at the end of November 2026; applications expected to close at the end of February 2027."
+  description: "One-week school on semantics, knowledge graphs and knowledge engineering, formerly the International Semantic Web Research Summer School."
+  location:
+    latitude: 44.1475
+    longitude: 12.1331
+  series: "International Semantic Web Research Summer School (ISWS)"
+
+- title: "BMVA Computer Vision Summer School"
+  year: 2027
+  id: bmva-cvss27
+  full_name: "30th BMVA Computer Vision Summer School (CVSS 2027)"
+  link: "https://cvss.bmva.org/"
+  deadline: TBA
+  timezone: "Europe/London"
+  place: "Aberdeen, Scotland, UK"
+  date: "July 12 - July 16, 2027"
+  start: 2027-07-12
+  end: 2027-07-16
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Registration details not yet published."
+  description: "A week of lectures and lab sessions on computer vision by the British Machine Vision Association, at Robert Gordon University."
+  location:
+    latitude: 57.1188
+    longitude: -2.1393
+  series: "BMVA Computer Vision Summer School"
+
+- title: "Mediterranean Machine Learning (M2L) Summer School"
+  year: 2027
+  id: m2l27
+  full_name: "Mediterranean Machine Learning Summer School (M2L 2027)"
+  link: "https://www.m2lschool.org/"
+  deadline: TBA
+  timezone: "Europe/Madrid"
+  place: "Barcelona, Spain"
+  date: "August 30 - September 3, 2027"
+  start: 2027-08-30
+  end: 2027-09-03
+  sub: ['ML', 'NLP', 'CV', 'GenAI', 'RL']
+  note: "Call for applications not yet published."
+  description: "Five-day school with lectures and practical sessions on machine learning, mainly for PhD students from the Mediterranean area."
+  location:
+    latitude: 41.3826
+    longitude: 2.1771
+  series: "Mediterranean Machine Learning (M2L) Summer School"
+
+- title: "LMH Oxford: Advanced AI - NLP and Large Language Models"
+  year: 2027
+  id: lmh_nlp27
+  full_name: "Advanced Artificial Intelligence and Machine Learning: Large Language Models and Natural Language Processing (LMH Oxford Summer Programmes 2027)"
+  link: "https://www.lmh.ox.ac.uk/study-here/lmh-summer-programmes/courses-and-dates/advanced-artificial-intelligence-and-machine-learning-large-language-models-and-natural-language"
+  deadline: "2027-05-03 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, UK"
+  date: "August 9 - August 27, 2027"
+  start: 2027-08-09
+  end: 2027-08-27
+  sub: ['ML', 'NLP', 'GenAI']
+  note: "Residential or online. Rolling admissions; 25% and 50% fee scholarships."
+  email: "vacation.programmes@lmh.ox.ac.uk"
+  description: "Three-week course at Lady Margaret Hall, University of Oxford, on attention, transformers, large language models, prompting, RLHF and NLP applications."
+  location:
+    latitude: 51.7647
+    longitude: -1.2542
+
+- title: "ELIAS-ELLIS Winter School on Multimodal Learning"
+  year: 2027
+  id: eliasws27
+  full_name: "ELIAS-ELLIS Winter School 2027 on Multimodal Learning"
+  link: "https://elias-ai.eu/event/eliasws2027/"
+  deadline: "2027-01-04 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Brunico, Italy"
+  date: "January 25 - January 29, 2027"
+  start: 2027-01-25
+  end: 2027-01-29
+  sub: ['ML', 'CV', 'RO', 'GenAI']
+  note: "Early registration 550 EUR until Dec 15th, late registration 650 EUR until Jan 4th, online 200 EUR. Places mainly for ELLIS PhD students and postdocs."
+  description: "Week-long winter school of the ELLIS Unit Trento and the ELIAS project on multimodal learning, foundation models, embodied AI and sustainability."
+  location:
+    latitude: 46.7966
+    longitude: 11.9383
+  series: "ELLIS Winter and Summer Schools"
+
+- title: "Advanced Language Processing School (ALPS)"
+  year: 2027
+  id: alps27
+  full_name: "Advanced Language Processing Winter School (ALPS 2027)"
+  link: "https://lig-alps.imag.fr/"
+  deadline: "2026-10-11 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Aussois, France"
+  date: "March 28 - April 2, 2027"
+  start: 2027-03-28
+  end: 2027-04-02
+  sub: ['NLP', 'ML']
+  note: "Applications closed. About 50 attendees, mainly master's and PhD students. Fees include accommodation and full board."
+  description: "Week-long NLP winter school co-organized by LIG (Université Grenoble Alpes) and Naver Labs Europe, with lectures and poster sessions."
+  location:
+    latitude: 45.2275
+    longitude: 6.7419
+  series: "Advanced Language Processing School (ALPS)"
+
+- title: "GoEMMI Winter School on Learning and Computation in Brains and Machines"
+  year: 2027
+  id: goemmi27
+  full_name: "GoEMMI 2027 Winter School on Learning and Computation in Brains and Machines"
+  link: "https://goemmi-goettingen.de/"
+  deadline: "2026-10-01 23:59:59"
+  timezone: "Europe/Berlin"
+  place: "Göttingen, Germany"
+  date: "February 15 - March 6, 2027"
+  start: 2027-02-15
+  end: 2027-03-06
+  sub: ['Neuro', 'ML', 'CogSci', 'Theory']
+  note: "Applications closed. No fee; about 20 students; participants pay travel and accommodation."
+  email: "goemmi@ds.mpg.de"
+  description: "Three-week winter school at the Max Planck Institute for Dynamics and Self-Organization on learning and computation in brains and machines."
+  location:
+    latitude: 51.5224
+    longitude: 9.9663
+  series: "GoEMMI Winter School"
+
+- title: "Bern Winter School: Introduction to Modern Machine Learning"
+  year: 2027
+  id: bernws_ml27
+  full_name: "Bern Winter School 2027: Introduction to Modern Machine Learning"
+  link: "https://www.dsl.unibe.ch/training/winter_schools/introduction_to_modern_machine_learning/"
+  deadline: "2027-02-05 23:59:59"
+  timezone: "Europe/Zurich"
+  place: "Mürren, Switzerland"
+  date: "March 8 - March 12, 2027"
+  start: 2027-03-08
+  end: 2027-03-12
+  sub: ['ML']
+  note: "Course fee about 1.2k CHF (660 CHF for University of Bern members) plus 900 CHF for room and board. 2 ECTS."
+  email: "info.dsl@unibe.ch"
+  description: "Hands-on winter school of the University of Bern Data Science Lab on machine learning foundations, neural networks in PyTorch and transfer learning."
+  location:
+    latitude: 46.5589
+    longitude: 7.8925
+  series: "Bern Winter Schools on Machine Learning"
+
+- title: "Bern Winter School: Applied LLMs & Agents"
+  year: 2027
+  id: bernws_llm27
+  full_name: "Bern Winter School 2027: Applied LLMs & Agents"
+  link: "https://www.dsl.unibe.ch/training/winter_schools/applied_llms__agents/"
+  deadline: "2027-02-12 23:59:59"
+  timezone: "Europe/Zurich"
+  place: "Mürren, Switzerland"
+  date: "March 15 - March 19, 2027"
+  start: 2027-03-15
+  end: 2027-03-19
+  sub: ['NLP', 'GenAI', 'ML']
+  note: "Course fee about 1.2k CHF (660 CHF for University of Bern members) plus 900 CHF for room and board. 2 ECTS."
+  email: "info.dsl@unibe.ch"
+  description: "Hands-on winter school of the University of Bern Data Science Lab on LLMs, retrieval-augmented generation, agents and fine-tuning."
+  location:
+    latitude: 46.5589
+    longitude: 7.8925
+  series: "Bern Winter Schools on Machine Learning"
+
+- title: "Fribourg Winter School in Data Analytics and Machine Learning"
+  year: 2027
+  id: unifrws27
+  full_name: "Winter School 2027 in Data Analytics and Machine Learning (University of Fribourg)"
+  link: "https://www.unifr.ch/appecon/en/winterschool/"
+  deadline: "2027-01-25 23:59:59"
+  timezone: "Europe/Zurich"
+  place: "Fribourg, Switzerland"
+  date: "February 1 - February 12, 2027"
+  start: 2027-02-01
+  end: 2027-02-12
+  sub: ['ML', 'DS', 'EconAI']
+  note: "Hybrid (in class or online). Six courses of one to three days, bookable separately; up to 5 ECTS."
+  description: "Winter school of the University of Fribourg Chair of Applied Econometrics on predictive and causal machine learning, deep learning, text analysis and agentic AI."
+  location:
+    latitude: 46.7929
+    longitude: 7.1556
+  series: "Fribourg Winter School in Data Analytics and Machine Learning"
+
+- title: "Spring School of AI (Charles University)"
+  year: 2027
+  id: springai27
+  full_name: "Spring School of Artificial Intelligence 2027"
+  link: "https://springai.ktiml.mff.cuni.cz/"
+  deadline: "2027-01-31 23:59:59"
+  timezone: "Europe/Prague"
+  place: "Krkonoše Mountains, Czechia"
+  date: "April 13 - April 18, 2027"
+  start: 2027-04-13
+  end: 2027-04-18
+  sub: ['ML', 'KR', 'AP']
+  note: "Apply by email with a CV and a proposed presentation topic; notification by Feb 15th. Fee 500 CZK; accommodation, meals and a bus from Prague are covered."
+  description: "Week-long spring school of the Department of Theoretical Computer Science and Mathematical Logic at Charles University, where students present their research or AI papers."
+  location:
+    latitude: 50.7569
+    longitude: 15.5917
+  series: "Spring School of AI (Charles University)"
+
+- title: "Boulder School: Machine Learning and Condensed Matter"
+  year: 2027
+  id: boulder27
+  full_name: "Boulder School 2027: Machine Learning and Condensed Matter"
+  link: "https://www.colorado.edu/conference/bss/2027/boulder-school-2027"
+  deadline: "2027-01-15 23:59:59"
+  timezone: "America/Denver"
+  place: "Boulder, CO, USA"
+  date: "July 5 - July 30, 2027"
+  start: 2027-07-05
+  end: 2027-07-30
+  sub: ['ML', 'ML4Science', 'Theory', 'Quantum']
+  note: "Attendance of at least 3 weeks required."
+  description: "Four-week school at the University of Colorado Boulder on machine learning and its use in condensed matter and quantum many-body physics."
+  location:
+    latitude: 40.0076
+    longitude: -105.2659
+  series: "Boulder School for Condensed Matter and Materials Physics"
+
+- title: "DeployAI Winter School (IIT Ropar)"
+  year: 2026
+  id: deployaiws26
+  full_name: "DeployAI 2026 Winter School on Deployable AI"
+  link: "https://saide.iitrpr.ac.in/deployai"
+  deadline: "2026-11-20 23:59:59"
+  timezone: "Asia/Kolkata"
+  place: "Rupnagar, India"
+  date: "December 7 - December 22, 2026"
+  start: 2026-12-07
+  end: 2026-12-22
+  sub: ['ML', 'GenAI', 'EML']
+  note: "Hybrid (online or on campus). Late registration until Nov 20th; on-campus seats limited."
+  description: "Two-week winter school of the School of AI and Data Engineering at IIT Ropar on building and deploying AI systems, from deep learning and LLMs to MLOps."
+  location:
+    latitude: 30.9713
+    longitude: 76.4732
+  series: "DeployAI Winter School"
+
+- title: "European Summer School on Artificial Intelligence (ESSAI)"
+  year: 2027
+  id: essai27
+  full_name: "5th European Summer School on Artificial Intelligence (ESSAI 2027)"
+  link: "https://essai2027.unical.it/"
+  deadline: TBA
+  timezone: "Europe/Rome"
+  place: "Rende, Italy"
+  date: "August 31 - September 8, 2027"
+  start: 2027-08-31
+  end: 2027-09-08
+  sub: ['ML', 'KR']
+  note: "Dates from the school website; EurAI lists Sep 1st - 8th. Participant registration not yet open."
+  description: "Summer school of the European Association for AI, held in 2027 at the University of Calabria."
+  location:
+    latitude: 39.3626
+    longitude: 16.2257
+  series: "European Summer School on Artificial Intelligence (ESSAI)"
+
+- title: "IEEE Latin American School on Computational Intelligence and Robotics"
+  year: 2026
+  id: ieeelascir26
+  full_name: "2026 IEEE Latin American School on Computational Intelligence and Robotics"
+  link: "https://events.vtools.ieee.org/m/562025"
+  deadline: "2026-11-25 06:00:00"
+  timezone: "UTC"
+  place: "Cuernavaca, Mexico"
+  date: "November 25 - November 28, 2026"
+  start: 2026-11-25
+  end: 2026-11-28
+  sub: ['ML', 'RO']
+  note: "Free. Register through IEEE vTools by Nov 25th."
+  description: "IEEE school on computational intelligence and robotics, co-sponsored by CENIDET."
+  location:
+    latitude: 18.9242
+    longitude: -99.2216
+  series: "IEEE Latin American School on Computational Intelligence and Robotics"
+
+- title: "Hamlyn Winter School on Surgical Imaging and Vision"
+  year: 2026
+  id: hamlynws26
+  full_name: "Hamlyn Winter School on Surgical Imaging and Vision 2026"
+  link: "https://www.imperial.ac.uk/hamlyn-centre/events-and-global-engagement/hamlyn-winter-school-on-surgical-imaging-and-vision/"
+  deadline: "2026-09-11 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "November 30 - December 4, 2026"
+  start: 2026-11-30
+  end: 2026-12-04
+  sub: ['CV', 'RO', 'Health']
+  note: "Applications closed."
+  description: "Week-long course by the Hamlyn Centre at Imperial College London on vision for surgery: tracking, 3D reconstruction, navigation and vision-guided robots."
+  location:
+    latitude: 51.4988
+    longitude: -0.1749
+  series: "Hamlyn Winter School on Surgical Imaging and Vision"
+
+- title: "East-African School for Young Researchers on Advanced Machine Learning Techniques (EASY-ML)"
+  year: 2027
+  id: easyml27
+  full_name: "East-African School for Young Researchers on Advanced Machine Learning Techniques (EASY-ML 2027)"
+  link: "https://indico.in2p3.fr/event/40435/"
+  deadline: "2026-10-30 23:59:00"
+  timezone: "Africa/Nairobi"
+  place: "Nairobi, Kenya"
+  date: "January 13 - January 27, 2027"
+  start: 2027-01-13
+  end: 2027-01-27
+  sub: ['ML', 'ML4Science']
+  note: "Applications closed. 40 places for MSc and PhD students and early-career scientists from East Africa; training fee covered."
+  description: "Two-week residential school at the University of Nairobi on machine learning for scientific research, with PyTorch practice and projects."
+  location:
+    latitude: -1.2735
+    longitude: 36.8065
+  series: "EASY-ML"
+
+- title: "Winter School in Artificial Intelligence and Software Engineering"
+  year: 2027
+  id: udstaise27
+  full_name: "Winter School in Artificial Intelligence and Software Engineering 2027 (UDST)"
+  link: "https://www.udst.edu.qa/AiSeschool"
+  deadline: TBA
+  timezone: "Asia/Qatar"
+  place: "Doha, Qatar"
+  date: "January 24 - January 28, 2027"
+  start: 2027-01-24
+  end: 2027-01-28
+  sub: ['ML']
+  note: "Registration open through an online form."
+  description: "Winter school at the University of Doha for Science and Technology on topics where AI and software engineering overlap."
+  location:
+    latitude: 25.3724
+    longitude: 51.4886
+  series: "Winter School in Artificial Intelligence and Software Engineering"
+
+- title: "Duke ORBIT Winter School"
+  year: 2027
+  id: orbitws27
+  full_name: "ORBIT Winter School 2027: Real-World Data Analytics"
+  link: "https://orbit.duke.edu/winter-school/"
+  deadline: TBA
+  timezone: "America/New_York"
+  place: "Online"
+  date: "January 25 - January 28, 2027"
+  start: 2027-01-25
+  end: 2027-01-28
+  sub: ['Health', 'DS', 'ML']
+  note: "Free and online (Zoom). Registration opens soon."
+  description: "Four-day online winter school by the ORBIT hub at Duke University on real-world data analytics and AI in healthcare."
+  series: "Duke ORBIT Winter School"
+
+- title: "Winter School on Deep Learning (WSDL)"
+  year: 2027
+  id: wsdl27
+  full_name: "Winter School on Deep Learning (WSDL 2027)"
+  link: "https://sites.google.com/view/wsdl2027"
+  deadline: TBA
+  timezone: "Asia/Kolkata"
+  place: "Online"
+  date: "January 29 - March 7, 2027"
+  start: 2027-01-29
+  end: 2027-03-07
+  sub: ['ML', 'CV', 'NLP']
+  note: "Online only, classes on Fridays to Sundays. Registration fee; registration opens soon."
+  email: "wsdl@isical.ac.in"
+  description: "Online winter school by the Indian Statistical Institute, Kolkata, from machine learning basics to deep learning for vision and NLP."
+  series: "Winter School on Deep Learning (WSDL)"
+
+- title: "Robotic Vision Summer School (RVSS)"
+  year: 2027
+  id: rvss27
+  full_name: "Robotic Vision Summer School (RVSS 2027)"
+  link: "https://www.rvss.org.au/"
+  deadline: "2027-01-15 23:59:59"
+  timezone: "Australia/Sydney"
+  place: "Kioloa, Australia"
+  date: "January 31 - February 5, 2027"
+  start: 2027-01-31
+  end: 2027-02-05
+  sub: ['CV', 'RO']
+  note: "Student fee 990 AUD before Dec 1st, higher afterwards. For later-year Master's and new PhD students."
+  description: "Summer school on computer vision and robotics at the ANU Kioloa Coastal Campus, with talks and team workshops on real robots."
+  location:
+    latitude: -35.546
+    longitude: 150.381
+  series: "Robotic Vision Summer School (RVSS)"
+
+- title: "ViCBiostat Summer School: Causal Machine Learning"
+  year: 2027
+  id: vicbiostat_cml27
+  full_name: "ViCBiostat Summer School 2027: Causal Machine Learning: An Introduction"
+  link: "https://www.vicbiostat.org.au/event/causal-machine-learning"
+  deadline: "2027-02-03 23:59:59"
+  timezone: "Australia/Melbourne"
+  place: "Melbourne, Australia"
+  date: "February 10 - February 12, 2027"
+  start: 2027-02-10
+  end: 2027-02-12
+  sub: ['ML', 'Health']
+  note: "Paid course, lower fee for students. In person or via Zoom; may close earlier if sold out."
+  description: "Three-day course of the Victorian Centre for Biostatistics on causal inference with machine learning, with hands-on R sessions."
+  location:
+    latitude: -37.7964
+    longitude: 144.9612
+  series: "ViCBiostat Summer School"
+
+- title: "IHP School: Artificial Intelligence for Mathematicians and Theoretical Physicists"
+  year: 2027
+  id: ihp_ai27
+  full_name: "IHP School: Artificial Intelligence for Mathematicians and Theoretical Physicists (2027)"
+  link: "https://indico.math.cnrs.fr/event/17079/"
+  deadline: "2026-11-30 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "February 22 - February 26, 2027"
+  start: 2027-02-22
+  end: 2027-02-26
+  sub: ['ML', 'GenAI', 'ML4Science']
+  note: "Pre-registration reviewed by the organizers; for PhD students and postdocs in mathematics or theoretical physics."
+  email: "AIschool@ihp.fr"
+  description: "One-week school at the Institut Henri Poincaré for mathematicians and theoretical physicists with no AI background, covering deep learning, LLMs and AI-assisted research."
+  location:
+    latitude: 48.8441
+    longitude: 2.3446
+  series: "IHP School: Artificial Intelligence for Mathematicians and Theoretical Physicists"
+
+- title: "Chemistry and Materials Machine Learning School (CaMML)"
+  year: 2027
+  id: camml27
+  full_name: "Chemistry and Materials Machine Learning School (CaMML 2027)"
+  link: "https://spring2027.camml.ac.uk/"
+  deadline: "2026-11-26 23:59:59"
+  timezone: "Europe/London"
+  place: "Daresbury, United Kingdom"
+  date: "April 5 - April 9, 2027"
+  start: 2027-04-05
+  end: 2027-04-09
+  sub: ['ML', 'ML4Science']
+  note: "Fee 250 GBP including accommodation and meals. 40 places, mainly PhD students in materials and molecular simulation. Decisions by Dec 17th."
+  description: "Five-day course at STFC Daresbury Laboratory on machine learning interatomic potentials and graph neural networks for atomistic simulation."
+  location:
+    latitude: 53.3446
+    longitude: -2.6398
+  series: "Chemistry and Materials Machine Learning School (CaMML)"
+
+- title: "ROBOPHIL: Robo-Philosophy, Dimensions of Co-Agency"
+  year: 2027
+  id: robophil27
+  full_name: "ROBOPHIL 2027: Robo-Philosophy, Dimensions of Co-Agency (II edition)"
+  link: "https://www.santannapisa.it/it/formazione/seasonalschool/ROBOPHIL-26-27"
+  deadline: "2027-03-22 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Pisa, Italy"
+  date: "May 24 - May 28, 2027"
+  start: 2027-05-24
+  end: 2027-05-28
+  sub: ['RAI', 'RO']
+  note: "20 places, priority to PhD students."
+  description: "Seasonal school at Scuola Superiore Sant'Anna on the philosophical, social and technical sides of robotics and AI."
+  location:
+    latitude: 43.7194
+    longitude: 10.4029
+  series: "ROBOPHIL Seasonal School"
+
+- title: "Nengo Summer School"
+  year: 2027
+  id: nengo27
+  full_name: "Nengo Summer School 2027 (10th edition)"
+  link: "https://www.nengo.ai/summer-school/"
+  deadline: "2026-12-21 23:59:59"
+  timezone: "America/Toronto"
+  place: "Waterloo, Canada"
+  date: "May 30 - June 12, 2027"
+  start: 2027-05-30
+  end: 2027-06-12
+  sub: ['Neuro', 'HW', 'CogSci']
+  note: "Fee 800 CAD for academics, 1.6k CAD for industry; travel and lodging not included. Apply with a CV and a 2-page project proposal."
+  description: "Two-week school at the University of Waterloo on large-scale brain modelling and neuromorphic computing with Nengo."
+  location:
+    latitude: 43.4723
+    longitude: -80.5449
+  series: "Nengo Summer School"
+
+- title: "SUSSP Summer School in Artificial Intelligence for Photonics"
+  year: 2027
+  id: sussp_aiphotonics27
+  full_name: "SUSSP85 Summer School in Artificial Intelligence for Photonics"
+  link: "https://cdtphotonics.hw.ac.uk/event/sussp-summer-school-in-artificial-intelligence-for-photonics-5th-12th-june-2027/"
+  deadline: "2027-01-08 23:59:59"
+  timezone: "Europe/London"
+  place: "Stirling, United Kingdom"
+  date: "June 5 - June 12, 2027"
+  start: 2027-06-05
+  end: 2027-06-12
+  sub: ['ML', 'ML4Science']
+  note: "Fee 850 GBP including accommodation and meals. Poster required. Limited fee and travel bursaries."
+  description: "Scottish Universities Summer School in Physics on machine learning for photonics and neuromorphic computing, with a hackathon and posters."
+  location:
+    latitude: 56.1453
+    longitude: -3.9204
+  series: "Scottish Universities Summer School in Physics (SUSSP)"
+
+- title: "Introduction to Machine Learning and Deep Learning in Geosciences"
+  year: 2027
+  id: unipi_mlgeo27
+  full_name: "Introduction to Machine Learning and Deep Learning in Geosciences (University of Pisa Summer School 2027)"
+  link: "https://www.unipi.it/en/education/courses/summer-schools/introduction-to-machine-learning-in-geosciences/"
+  deadline: "2027-05-07 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Pisa, Italy"
+  date: "June 7 - June 11, 2027"
+  start: 2027-06-07
+  end: 2027-06-11
+  sub: ['ML', 'ML4Science']
+  note: "Tuition 500 EUR. 3 ECTS."
+  description: "University of Pisa summer school on machine learning and deep learning for geophysical, geological and environmental data."
+  location:
+    latitude: 43.7174
+    longitude: 10.3955
+  series: "Introduction to Machine Learning and Deep Learning in Geosciences"
+
+- title: "ATRIUM Summer School: Language Technology and AI for Digital Humanities"
+  year: 2027
+  id: atrium_lt_dh27
+  full_name: "ATRIUM Summer School 2027: Language Technology (LT) and Artificial Intelligence (AI) for Digital Humanities"
+  link: "https://atrium-research.eu/clarinel-greek-national-infrastructure-for-language-resources-technologies-hosted-by-institute-for-language-and-speech-processing-athena-rc-athens-greece-summerschool-2027"
+  deadline: "2026-11-30 23:59:59"
+  timezone: "Europe/Athens"
+  place: "Athens, Greece"
+  date: "June 14 - June 18, 2027"
+  start: 2027-06-14
+  end: 2027-06-18
+  sub: ['NLP']
+  note: "Funded places through the ATRIUM Transnational Access call."
+  description: "Five-day school by CLARIN:EL at the Athena Research Center on language technology and AI tools for digital humanities."
+  location:
+    latitude: 38.0436
+    longitude: 23.8016
+  series: "ATRIUM Summer School: Language Technology and AI for Digital Humanities"
+
+- title: "Mathematics and Machine Learning for Image Analysis PhD Summer School"
+  year: 2027
+  id: mmlia27
+  full_name: "ERASMUS+ International PhD Summer School: Mathematics and Machine Learning for Image Analysis (2027)"
+  link: "https://site.unibo.it/imaging-phd-school/en"
+  deadline: "2027-05-15 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Bologna, Italy"
+  date: "June 29 - July 7, 2027"
+  start: 2027-06-29
+  end: 2027-07-07
+  sub: ['ML', 'CV']
+  note: "Free, registration required; 70 places. 4 ECTS."
+  description: "PhD summer school at the University of Bologna on mathematical methods and machine learning for imaging, with lab sessions."
+  location:
+    latitude: 44.4965
+    longitude: 11.3605
+  series: "Mathematics and Machine Learning for Image Analysis PhD Summer School"
+
+- title: "Artificial Intelligence for Adaptive Assessment and Personalized Training"
+  year: 2027
+  id: unipd_aiassess27
+  full_name: "Artificial Intelligence for Adaptive Assessment and Personalized Training in Education, Psychology, and Neuropsychology (Summer School 2027)"
+  link: "https://www.unipd.it/en/artificial-intelligence-adaptive-assessment"
+  deadline: "2027-03-16 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Padua, Italy"
+  date: "July 5 - July 9, 2027"
+  start: 2027-07-05
+  end: 2027-07-09
+  sub: ['ML', 'CogSci']
+  note: "Blended, in person and online. Fee 500 EUR, with waivers for partner universities. Applications open Nov 16th."
+  description: "University of Padova summer school on AI methods for assessment and training in education and psychology."
+  location:
+    latitude: 45.4064
+    longitude: 11.8768
+  series: "Artificial Intelligence for Adaptive Assessment and Personalized Training"
+
+- title: "Neuromatch Academy: Deep Learning"
+  year: 2027
+  id: nma_dl27
+  full_name: "Neuromatch Academy Deep Learning Course 2027"
+  link: "https://neuromatch.io/deep-learning/"
+  deadline: "2027-03-17 23:59:59"
+  timezone: "UTC"
+  place: "Online"
+  date: "July 5 - July 23, 2027"
+  start: 2027-07-05
+  end: 2027-07-23
+  sub: ['ML']
+  note: "Online, live in five time zones. Applications open Feb 10th and close Mar 17th at midnight local time. Tuition adjusted by country, with waivers."
+  description: "Three-week online course by Neuromatch on deep learning for science, taught live in small groups with code-first tutorials and projects."
+  series: "Neuromatch Academy"
+
+- title: "Neuromatch Academy: NeuroAI"
+  year: 2027
+  id: nma_neuroai27
+  full_name: "Neuromatch Academy NeuroAI Course 2027"
+  link: "https://neuromatch.io/neuroai/"
+  deadline: "2027-03-17 23:59:59"
+  timezone: "UTC"
+  place: "Online"
+  date: "July 12 - July 23, 2027"
+  start: 2027-07-12
+  end: 2027-07-23
+  sub: ['ML', 'Neuro']
+  note: "Online. Needs the Neuromatch computational neuroscience and deep learning courses or equivalent. Applications open Feb 10th and close Mar 17th."
+  description: "Two-week online course by Neuromatch on shared principles of natural and artificial intelligence."
+  series: "Neuromatch Academy"
+
+- title: "ATRIUM Summer School: Artificial Intelligence for the Humanities"
+  year: 2027
+  id: atrium_aihum27
+  full_name: "ATRIUM Summer School 2027: Artificial Intelligence for the Humanities"
+  link: "https://ufal.mff.cuni.cz/events/atrium-summer-school-2027-artificial-intelligence-humanities"
+  deadline: "2026-11-30 23:59:59"
+  timezone: "Europe/Prague"
+  place: "Prague, Czechia"
+  date: "July 12 - July 23, 2027"
+  start: 2027-07-12
+  end: 2027-07-23
+  sub: ['NLP', 'ML', 'DS']
+  note: "Free. Funded places through the ATRIUM Transnational Access call. Basic R and data analysis needed."
+  description: "Two-week school at the Institute of Formal and Applied Linguistics, Charles University, teaching AI basics and text analysis to humanities researchers."
+  location:
+    latitude: 50.088
+    longitude: 14.4035
+  series: "ATRIUM Summer School: Artificial Intelligence for the Humanities"
+
+- title: "Summer School Data Science and AI in Health"
+  year: 2027
+  id: umcg_dsai27
+  full_name: "Summer School Data Science and AI in Health, Edition 2027"
+  link: "https://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/?lang=en"
+  deadline: TBA
+  timezone: "Europe/Amsterdam"
+  place: "Groningen, Netherlands"
+  date: "July 12 - July 16, 2027"
+  start: 2027-07-12
+  end: 2027-07-16
+  sub: ['Health', 'ML', 'DS']
+  note: "On site at UMCG. Registration not yet open."
+  description: "Summer school of the Graduate School of Medical Sciences at the University Medical Center Groningen on data science and AI for healthcare."
+  location:
+    latitude: 53.2221
+    longitude: 6.5755
+  series: "Summer School Data Science and AI in Health"
+
+- title: "Field Robotics Summer School"
+  year: 2027
+  id: unipi_fieldrob27
+  full_name: "Field Robotics Summer School 2027 (University of Pisa)"
+  link: "https://www.unipi.it/en/education/courses/summer-schools/field-robotics/"
+  deadline: "2027-07-12 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Pisa, Italy"
+  date: "September 6 - September 10, 2027"
+  start: 2027-09-06
+  end: 2027-09-10
+  sub: ['RO', 'CV']
+  note: "Tuition 750 EUR. 6 ECTS. Requires a Master's degree in Engineering."
+  description: "University of Pisa summer school on robots outdoors: perception, state estimation, SLAM, aerial and ground autonomy, with field sessions."
+  location:
+    latitude: 43.7228
+    longitude: 10.4017
+  series: "Field Robotics Summer School"
+
+- title: "Designing Human-Centered AI in an Evolving Society"
+  year: 2027
+  id: unipi_hcai27
+  full_name: "Designing Human-Centered AI in an Evolving Society (University of Pisa Summer School 2027)"
+  link: "https://www.unipi.it/en/education/courses/summer-schools/designing-human-centered-ai-in-evolving-society/"
+  deadline: "2027-06-26 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Pisa, Italy"
+  date: "September 13 - September 17, 2027"
+  start: 2027-09-13
+  end: 2027-09-17
+  sub: ['RAI', 'HCI']
+  note: "Tuition 250 EUR, waived for PhD students and postdocs from Circle U. universities. 6 ECTS."
+  description: "University of Pisa summer school on human-AI interaction, fairness, explainable AI and AI regulation."
+  location:
+    latitude: 43.7209
+    longitude: 10.3897
+  series: "Designing Human-Centered AI in an Evolving Society"
