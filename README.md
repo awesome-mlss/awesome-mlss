@@ -35,7 +35,6 @@ Schools with application deadlines in the next 2 weeks.
 
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
-Annual Nepal AI School (ANAIS)|Machine Learning, Generative AI, Knowledge Representation|Kathmandu, Nepal|Nov 15, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/anais26)|Dec 28 - Jan 07, 2027|[Details](https://awesome-mlss.com/summerschool/anais26)
 IAPR/IEEE Winter School on Biometrics|Computer Vision, Generative AI, Responsible AI|Shenzhen, China|Nov 29, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/wsb27)|Jan 17 - Jan 21, 2027|[Details](https://awesome-mlss.com/summerschool/wsb27)
 
 ### Happening Soon
