@@ -43,6 +43,7 @@ Schools starting in the next 2 weeks.
 Title|Topics|Place|Deadline|Dates|Details
 -----|------|-----|--------|-----|-------
 Robotics and AI for Materials Chemistry Winter School|ML for Science, Robotics|Liverpool, United Kingdom|Aug 24, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/aichemyws26)|Nov 23 - Nov 27, 2026|[Details](https://awesome-mlss.com/summerschool/aichemyws26)
+Lucia Winter School on AI & Robotics|Robotics, Machine Learning|Örebro, Sweden|Sep 10, 2026 <br>⏰ [Add to Calendar](https://awesome-mlss.com/summerschool/luciaws26)|Dec 07 - Dec 11, 2026|[Details](https://awesome-mlss.com/summerschool/luciaws26)
 <!-- UPCOMING:END -->
 
 ## Contributing Guide
